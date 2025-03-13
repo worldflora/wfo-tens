@@ -10,6 +10,8 @@ Each TEN will have a folder where their monthly names are placed. If there is no
 
 There are two monthly log files. One listing the groups with new names and one that records a null result.
 
+THe WFO and IPNI IDs plus basic nomenclautral data.
+
 - WFOID
 - IPNID
 - scientificName
@@ -18,3 +20,5 @@ There are two monthly log files. One listing the groups with new names and one t
 - nomenclaturalStatus
 - originalName
 - originalNameAuthor
+
+If you require more please get in touch.
