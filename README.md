@@ -10,11 +10,11 @@ Each TEN will have a folder where their monthly names are placed. If there is no
 
 There are two monthly log files. One listing the groups with new names and one that records a null result.
 
--WFOID
--IPNID
--scientificName
--authors_t
--namePublishedin
--nomenclaturalStatus
--originalName
--originalNameAuthor
+- WFOID
+- IPNID
+- scientificName
+- authors_t
+- namePublishedin
+- nomenclaturalStatus
+- originalName
+- originalNameAuthor
