@@ -1,0 +1,17 @@
+WFOID,IPNID,scientificName,authors_t,namePublishedin,nomenclaturalStatus,originalName,originalNameAuthor
+wfo-1000078353,urn:lsid:ipni.org:names:77356366-1,Corydalis sect. Potaninianae,"J.T.Chen, H.Sun, T.Deng & Lidén",J. Integr. Pl. Biol. 65(9): 2149. 2023 [29 Apr 2023] [epublished],,,
+wfo-1000078372,urn:lsid:ipni.org:names:77356393-1,Corydalis subgen. Bipapillatae,"Lidén, J.T.Chen, T.Deng & H.Sun",J. Integr. Pl. Biol. 65(9): 2149. 2023 [29 Apr 2023] [epublished],,,
+wfo-1000078373,urn:lsid:ipni.org:names:77356394-1,Corydalis sect. Acuminatae,"J.T.Chen, T.Deng, Lidén & H.Sun",J. Integr. Pl. Biol. 65(9): 2149. 2023 [29 Apr 2023] [epublished],,,
+wfo-1000078375,urn:lsid:ipni.org:names:77356396-1,Corydalis sect. Bimaculatae,"J.T.Chen, Lidén, T.Deng & H.Sun",J. Integr. Pl. Biol. 65(9): 2149. 2023 [29 Apr 2023] [epublished],,,
+wfo-1200110617,urn:lsid:ipni.org:names:77356398-1,Corydalis sect. Lupinoides,"J.T.Chen, T.Deng, Lidén & H.Sun",J. Integr. Pl. Biol. 65(9): 2149. 2023 [29 Apr 2023] [epublished],,,
+wfo-1000078377,urn:lsid:ipni.org:names:77356399-1,Corydalis sect. Inopinatae,"J.T.Chen, T.Deng, Lidén & H.Sun",J. Integr. Pl. Biol. 65(9): 2151. 2023 [29 Apr 2023] [epublished],,,
+wfo-1200110618,urn:lsid:ipni.org:names:77356400-1,Corydalis sect. Flexuosae,"(C.Y.Wu & H.Chuang) Lidén, J.T.Chen, T.Deng & H.Sun",J. Integr. Pl. Biol. 65(9): 2152. 2023 [29 Apr 2023] [epublished],,Papaveraceae Corydalis ser. Flexuosae C.Y.Wu & H.Chuang,(C.Y.Wu & H.Chuang)
+wfo-1200110634,urn:lsid:ipni.org:names:77356980-1,Stylophorum simplicifolium,(D.Don) G.Don,Gen. Hist. 1: 135. 1831 [early Aug 1831] ,isonym,Papaveraceae Papaver simplicifolium D.Don,(D.Don)
+wfo-1200110636,urn:lsid:ipni.org:names:77357110-1,subfam. Papaveroideae,Eaton,"Bot. Dict. ed. 4: 38. 1836 [Apr-May 1836] , as 'Papaveraceae'",,,
+wfo-4100000002,urn:lsid:ipni.org:names:77357111-1,trib. Papavereae,Dumort.,Fl. Belg. (Dumortier) 130. 1827 ,,,
+wfo-4100000003,urn:lsid:ipni.org:names:77357114-1,trib. Chelidonieae,Dumort.,Fl. Belg. (Dumortier) 130. 1827 ,,,
+wfo-4100000004,urn:lsid:ipni.org:names:77357115-1,trib. Eschscholtzieae,Baill.,"Hist. Pl. (Baillon) 3: 130, 142. 1871 ",,,
+wfo-6500000968,urn:lsid:ipni.org:names:77357116-1,subfam. Pteridophylloideae,Murb.,"Kungl. Svenska Vetenskapsakad. Handl. n.s., 50(1): 114. 1912 ",,,
+wfo-4100005020,urn:lsid:ipni.org:names:77357117-1,subfam. Hypecooideae,Prantl & Kündig,"Nat. Pflanzenfam. [Engler & Prantl] 3(2): 137. 1889 [Mar 1889] , as 'Hypecoideae'",,,
+wfo-4100000008,urn:lsid:ipni.org:names:77357118-1,trib. Hypecoeae,Dumort.,Fl. Belg. (Dumortier) 130. 1827 ,,,
+wfo-4100000006,urn:lsid:ipni.org:names:77357119-1,subfam. Fumarioideae,Eaton,"Bot. Dict. ed. 4: 46. 1836 [Apr-May 1836] , as 'Fumariaceae'",,,

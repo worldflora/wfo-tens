@@ -1,0 +1,31 @@
+Records returned from the Caryophyllales query executed at: 2025-03-13 16:18:02.343368
+Records returned from the PPGFamilies query executed at: 2025-03-13 16:18:02.346805
+Records returned from the Haloragaceae and sister Families query executed at: 2025-03-13 16:18:02.354455
+Records returned from the Legume Families query executed at: 2025-03-13 16:18:02.358070
+Records returned from the Legume Families query executed at: 2025-03-13 16:18:02.360360
+Records returned from the Commelinales Families query executed at: 2025-03-13 16:18:02.364910
+Records returned from the Acanthaceae query executed at: 2025-03-13 16:18:02.368008
+Records returned from the Annonaceae query executed at: 2025-03-13 16:18:02.370677
+Records returned from the Apocynaceae query executed at: 2025-03-13 16:18:02.373134
+Records returned from the Asteraceae query executed at: 2025-03-13 16:18:02.382607
+Records returned from the Arecaceae query executed at: 2025-03-13 16:18:02.386244
+Records returned from the Begoniaceae query executed at: 2025-03-13 16:18:02.388659
+Records returned from the Brassicaceae query executed at: 2025-03-13 16:18:02.391304
+Records returned from the Clusiaceae query executed at: 2025-03-13 16:18:02.396765
+Records returned from the Convolvulaceae query executed at: 2025-03-13 16:18:02.399933
+Records returned from the Cyperaceae query executed at: 2025-03-13 16:18:02.402235
+Records returned from the Ericaceae query executed at: 2025-03-13 16:18:02.407327
+Records returned from the Fagaceae query executed at: 2025-03-13 16:18:02.415109
+Records returned from the Gesneriaceae query executed at: 2025-03-13 16:18:02.417847
+Records returned from the Malvaceae query executed at: 2025-03-13 16:18:02.424036
+Records returned from the Melastomataceae query executed at: 2025-03-13 16:18:02.427834
+Records returned from the Musaceae query executed at: 2025-03-13 16:18:02.432076
+Records returned from the Myrtaceae query executed at: 2025-03-13 16:18:02.434480
+Records returned from the Papaveraceae query executed at: 2025-03-13 16:18:02.438833
+Records returned from the Poaceae query executed at: 2025-03-13 16:18:02.444066
+Records returned from the Salicaceae query executed at: 2025-03-13 16:18:02.449321
+Records returned from the Sapotaceae query executed at: 2025-03-13 16:18:02.452226
+Records returned from the Solanaceae query executed at: 2025-03-13 16:18:02.454614
+Records returned from the Urticaceae query executed at: 2025-03-13 16:18:02.460118
+Records returned from the Vitaceae query executed at: 2025-03-13 16:18:02.464325
+Records returned from the Zingiberaceae query executed at: 2025-03-13 16:18:02.467333
