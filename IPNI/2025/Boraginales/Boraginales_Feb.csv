@@ -1,4 +1,4 @@
-WFOID,IPNID,scientificName,authors_t,namePublishedin,Family,nomenclaturalStatus,originalName,originalNameAuthor
+WFOID,IPNID,scientificName,authorship,namePublishedin,Family,nomenclaturalStatus,originalName,originalNameAuthor
 wfo-4100005012,urn:lsid:ipni.org:names:77356962-1,subfam. Wellstedioideae,Pilg.,Bot. Jahrb. Syst. 46: 558. 1912 [26 Mar 1912] ,Boraginaceae,,,
 wfo-4100005013,urn:lsid:ipni.org:names:77356967-1,subfam. Boraginoideae,Arn.,"Botany [Arnott] 122. 1832 [9 Mar 1832] , as 'Borageae'",Boraginaceae,,,
 wfo-4100005014,urn:lsid:ipni.org:names:77356973-1,subfam. Cordioideae,Beilschm.,"Flora 16(Beibl. 7): 69. 1833 [14 Jun 1833] , as 'Cordiaceae'",Boraginaceae,,,

@@ -1,4 +1,4 @@
-WFOID,IPNID,scientificName,authors_t,namePublishedin,nomenclaturalStatus,originalName,originalNameAuthor
+WFOID,IPNID,scientificName,authorship,namePublishedin,nomenclaturalStatus,originalName,originalNameAuthor
 wfo-1000078354,urn:lsid:ipni.org:names:77356369-1,Syagrus harenae,B.F.Sant'Anna-Santos,Pl. Ecol. Evol. 158(1): 67. 2025 [12 Feb 2025] [epublished],,,
 wfo-0001250196,urn:lsid:ipni.org:names:77357344-1,Kunthia xalapensis,Hort. Berol. ex Otto & A.Dietr.,Allg. Gartenzeitung 1: 1. 1833 ,,,
 wfo-1000078640,urn:lsid:ipni.org:names:77357542-1,Iguanura australis,(Becc.) A.J.Hend.,Phytotaxa 690(2): 146. 2025 [28 Feb 2025] [epublished],,Arecaceae Iguanura borneensis Scheff. var. australis Becc.,(Becc.)

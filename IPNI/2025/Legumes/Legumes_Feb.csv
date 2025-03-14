@@ -1,4 +1,4 @@
-WFOID,IPNID,scientificName,authors_t,namePublishedin,Family,nomenclaturalStatus,originalName,originalNameAuthor
+WFOID,IPNID,scientificName,authorship,namePublishedin,Family,nomenclaturalStatus,originalName,originalNameAuthor
 wfo-1200110595,urn:lsid:ipni.org:names:77356295-1,Colutea media,Rössig,Handb. Liebhaber Engl. Pflanzungen 73. 1790 ,Leguminosae,,,
 wfo-1000078313,urn:lsid:ipni.org:names:77356311-1,Sophora phulangkaensis,"Mattapha, K.Khamm. & Suddee",Blumea 69(2): 134. 2024 [9 Oct 2024] [epublished],Fabaceae,,,
 wfo-1200110609,urn:lsid:ipni.org:names:77356344-1,Gleditsia horrida,Rössig,Handb. Liebhaber Engl. Pflanzungen 1: 132. 1790 ,Caesalpiniaceae,,,

@@ -1,4 +1,4 @@
-WFOID,IPNID,scientificName,authors_t,namePublishedin,nomenclaturalStatus,originalName,originalNameAuthor
+WFOID,IPNID,scientificName,authorship,namePublishedin,nomenclaturalStatus,originalName,originalNameAuthor
 wfo-1200110600,urn:lsid:ipni.org:names:77356316-1,Scopolina viridiflora,Freyer,Fl. German. Exsicc. [Reichenbach] n. 2056. 1842 [before 1842] ,,,
 wfo-1000078318,urn:lsid:ipni.org:names:77356318-1,Cestrum amithii,M.Nee ex Mont.-Castro,Bot. Sci. 102(4): 1365. 2024 [21 Sep 2024] [epublished],,,
 wfo-1200110623,urn:lsid:ipni.org:names:77356636-1,Brunfelsia magnifica,G.Carter,"About Trees, Shrubs, Cl. Pl. for S. Africa ed. 2: 70. 1919 ",,,

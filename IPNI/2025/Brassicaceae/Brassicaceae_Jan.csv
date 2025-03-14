@@ -1,4 +1,4 @@
-WFOID,IPNID,scientificName,authors_t,namePublishedin,nomenclaturalStatus,originalName,originalNameAuthor
+WFOID,IPNID,scientificName,authorship,namePublishedin,nomenclaturalStatus,originalName,originalNameAuthor
 wfo-1000077867,urn:lsid:ipni.org:names:77355074-1,Rorippa pygmaea,(Dusén) Al-Shehbaz & Marhold,Harvard Pap. Bot. 29(2): 199. 2024 [31 Dec 2024] [epublished],,Brassicaceae Cardamine pygmaea Dusén,(Dusén)
 wfo-1000077905,urn:lsid:ipni.org:names:77355241-1,Cardamine hintonii,Marhold & Al-Shehbaz,Harvard Pap. Bot. 29(2): 202. 2024 [31 Dec 2024] [epublished],,,
 wfo-0001216823,urn:lsid:ipni.org:names:77355275-1,Thelypodiopsis vaseyi,(S.Watson ex B.L.Rob.) Rollins,Contr. Gray Herb. 206: 12. 1976 ,,Brassicaceae Sisymbrium vaseyi S.Watson ex B.L.Rob.,(S.Watson ex B.L.Rob.)

@@ -1,4 +1,4 @@
-WFOID,IPNID,scientificName,authors_t,namePublishedin,nomenclaturalStatus,originalName,originalNameAuthor
+WFOID,IPNID,scientificName,authorship,namePublishedin,nomenclaturalStatus,originalName,originalNameAuthor
 wfo-1000078307,urn:lsid:ipni.org:names:77356299-1,Centaurea lalica,Negaresh,Ann. Bot. Fenn. 61(1): 213. 2024 [7 Aug 2024] [epublished],,,
 wfo-1200110545,urn:lsid:ipni.org:names:77356646-1,Gerbera ambigua var. typica,Thell.,Vierteljahrsschr. Naturf. Ges. Zürich 68: 452. 1923 [28 Nov 1923] ,"nom. inval.    Contrary to Art. 24.3., ICN (2018).",,
 wfo-0000106946,urn:lsid:ipni.org:names:77356647-1,Gerbera ambigua var. kraussii,(Sch.Bip.) Thell.,Vierteljahrsschr. Naturf. Ges. Zürich 68: 452. 1923 [28 Nov 1923] ,,Asteraceae Gerbera kraussii Sch.Bip.,(Sch.Bip.)

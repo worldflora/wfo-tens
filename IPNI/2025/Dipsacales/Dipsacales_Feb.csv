@@ -1,4 +1,4 @@
-WFOID,IPNID,scientificName,authors_t,namePublishedin,Family,nomenclaturalStatus,originalName,originalNameAuthor
+WFOID,IPNID,scientificName,authorship,namePublishedin,Family,nomenclaturalStatus,originalName,originalNameAuthor
 wfo-4100005010,urn:lsid:ipni.org:names:77356958-1,subfam. Dipsacoideae,Eaton,"Bot. Dict. ed. 4: 36. 1836 [Apr - May 1836] , as 'Dipsaceae'",Caprifoliaceae,,,
 wfo-4100005011,urn:lsid:ipni.org:names:77356959-1,subfam. Valerianoideae,Raf.,"Ann. Gén. Sci. Phys. 6: 88. 1820 , as 'Valerianea'",Caprifoliaceae,,,
 wfo-4100005017,urn:lsid:ipni.org:names:77357089-1,subfam. Caprifolioideae,Eaton,"Bot. Dict. ed. 4: 36. 1836 [Apr - May 1836] , as 'Caprifoliaceae'",Caprifoliaceae,,,

@@ -1,4 +1,4 @@
-WFOID,IPNID,scientificName,authors_t,namePublishedin,nomenclaturalStatus,originalName,originalNameAuthor
+WFOID,IPNID,scientificName,authorship,namePublishedin,nomenclaturalStatus,originalName,originalNameAuthor
 wfo-0001315632,urn:lsid:ipni.org:names:77356937-1,Rhinacanthus nasutus var. longiflorus,Benoist,Bull. Soc. Bot. France 113: 534. 1966 ,"nom. inval.    Contrary to Art. 40.2., ICN (2018), two types indicated.",,
 wfo-0001315633,urn:lsid:ipni.org:names:77356938-1,Rhinacanthus osmospermus var. grandiflorus,Benoist,Bull. Soc. Bot. France 113: 534. 1966 ,,,
 wfo-1200110565,urn:lsid:ipni.org:names:77357248-1,Justicia quadrifaria var. salicifolia,(T.Anderson) J.B.Imlay,Bull. Misc. Inform. Kew 1939(3): 138. [24 May 1939] ,,Acanthaceae Justicia salicifolia T.Anderson,(T.Anderson)

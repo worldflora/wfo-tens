@@ -1,4 +1,4 @@
-WFOID,IPNID,scientificName,authors_t,namePublishedin,nomenclaturalStatus,originalName,originalNameAuthor
+WFOID,IPNID,scientificName,authorship,namePublishedin,nomenclaturalStatus,originalName,originalNameAuthor
 wfo-1200110176,urn:lsid:ipni.org:names:77354849-1,Pinanga malaiana subsp. johorensis,(C.K.Lim & Saw) Saw,Palms (1999+) 68(4): 178. 2024 [16 Dec 2024] ,,Arecaceae Pinanga johorensis C.K.Lim & Saw,(C.K.Lim & Saw)
 wfo-1200110366,urn:lsid:ipni.org:names:77355277-1,Acrocomia aculeata,(Jacq.) B.E.,Miller's Dict. Gard. pt. 1: 63. 1834 [Oct 1834] ,isonym,Arecaceae Cocos aculeata Jacq.,(Jacq.)
 wfo-1200110367,urn:lsid:ipni.org:names:77355278-1,Acrocomia aculeata,Lodd. ex Mart.,Hist. Nat. Palm. 2(pt. 3): 66-67. 1824 ,"nom. inval.    On p. 66, the genus name Acrocomia is published; on p. 67, Cocos aculeata Jacq. is assigned to Acrocomia, but the new combination 'A. aculeata' is not made",,

@@ -1,4 +1,4 @@
-WFOID,IPNID,scientificName,authors_t,namePublishedin,nomenclaturalStatus,originalName,originalNameAuthor
+WFOID,IPNID,scientificName,authorship,namePublishedin,nomenclaturalStatus,originalName,originalNameAuthor
 wfo-1000077672,urn:lsid:ipni.org:names:77354867-1,Begonia butuanensis,"Bucay, Tandang & K.F.Chung",Phytotaxa 681(1): 103. 2025 [8 Jan 2025] [epublished],,,
 wfo-1200110305,urn:lsid:ipni.org:names:77355096-1,Begonia hooveriana var. rubescens,Alvit.,Reinwardtia 23(2): 60. 2024 [30 Dec 2024] ,,,
 wfo-1200110306,urn:lsid:ipni.org:names:77355097-1,Begonia hooveriana var. sepangensis,Alvit.,Reinwardtia 23(2): 61. 2024 [30 Dec 2024] ,,,

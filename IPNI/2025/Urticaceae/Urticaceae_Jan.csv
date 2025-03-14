@@ -1,4 +1,4 @@
-WFOID,IPNID,scientificName,authors_t,namePublishedin,nomenclaturalStatus,originalName,originalNameAuthor
+WFOID,IPNID,scientificName,authorship,namePublishedin,nomenclaturalStatus,originalName,originalNameAuthor
 wfo-1200110337,urn:lsid:ipni.org:names:77355305-1,Boehmeria nivea var. strigosa,Z.Y.Wu & Ying Zhao,Guihaia 44(9): 1618. 2024 [Sep 2024] [epublished],,,
 wfo-4100002069,urn:lsid:ipni.org:names:77355922-1,Aspicarpon,Bosc,"Nouv. Dict. Hist. Nat. [Déterville], ed. 2. 3: 14. 1816 [14 Sep 1816] ",nom. inval.    orth. var.,,
 wfo-4100004932,urn:lsid:ipni.org:names:77355927-1,Macuerus,Rumph. ex Bosc,Nouv. Dict. Hist. Nat. [Déterville] 13: 492. 1803 [12 Aug 1803] ,,,

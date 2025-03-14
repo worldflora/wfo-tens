@@ -1,4 +1,4 @@
-WFOID,IPNID,scientificName,authors_t,namePublishedin,nomenclaturalStatus,originalName,originalNameAuthor
+WFOID,IPNID,scientificName,authorship,namePublishedin,nomenclaturalStatus,originalName,originalNameAuthor
 wfo-1000078589,urn:lsid:ipni.org:names:77357366-1,Carex via-montana,A.Mor.Alonso & Jim.Mejías,Bot. J. Linn. Soc. [s.n.]: [38 of 41]. 2024 [3 Aug 2024] [epublished],nom. inval.    Contrary to Art. 40.1. ICN (2018). Two types cited.,,
 wfo-1000078590,urn:lsid:ipni.org:names:77357367-1,Carex melliza,"A.Mor.Alonso, Donadío & Jim.Mejías",Bot. J. Linn. Soc. [s.n.]: [36 of 41]. 2024 [3 Aug 2024] [epublished],,,
 wfo-1200110585,urn:lsid:ipni.org:names:77357690-1,Carex tomentosa f. grassmaniana,(Rabenh.) O.Lang,Linnaea 24: 587. 1851 ,,Cyperaceae Carex grassmanniana Rabenh.,(Rabenh.)

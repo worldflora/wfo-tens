@@ -1,4 +1,4 @@
-WFOID,IPNID,scientificName,authors_t,namePublishedin,nomenclaturalStatus,originalName,originalNameAuthor
+WFOID,IPNID,scientificName,authorship,namePublishedin,nomenclaturalStatus,originalName,originalNameAuthor
 wfo-1000077879,urn:lsid:ipni.org:names:77355086-1,Eugenia saparensis,"Á.J.Pérez, M.L.Kawas. & B.Holst",Harvard Pap. Bot. 29(2): 296. 2024 [31 Dec 2024] [epublished],,,
 wfo-1000078016,urn:lsid:ipni.org:names:77355902-1,Myrcianthes aemula,R.Kr.Singh & Sanjeet Kumar,J. Biodivers. Conservation 9(1): 34. 2025 [22 Jan 2025] [epublished],,,
 wfo-1000078017,urn:lsid:ipni.org:names:77355903-1,Syzygium amboinense,R.Kr.Singh & Sanjeet Kumar,J. Biodivers. Conservation 9(1): 34. 2025 [22 Jan 2025] [epublished],,,

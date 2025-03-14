@@ -1,4 +1,4 @@
-WFOID,IPNID,scientificName,authors_t,namePublishedin,Family,nomenclaturalStatus,originalName,originalNameAuthor
+WFOID,IPNID,scientificName,authorship,namePublishedin,Family,nomenclaturalStatus,originalName,originalNameAuthor
 wfo-1200110532,urn:lsid:ipni.org:names:77356373-1,Arrojadoa bahiensis subsp. minutiflora,Gonzaga & Oliveira-Pereira,Phytotaxa 684(1): 130. 2025 [5 Feb 2025] [epublished],Cactaceae,,,
 wfo-0000530448,urn:lsid:ipni.org:names:77356404-1,Amaranthus retroflexus var. delilei,(Richt. & Loret) Thell.,Vierteljahrsschr. Naturf. Ges. Zürich 52: 442. 1907 ,Amaranthaceae,,Amaranthaceae Amaranthus delilei Richt. & Loret,(Richt. & Loret)
 wfo-1200110619,urn:lsid:ipni.org:names:77356405-1,Amaranthus tricolor var. melancholicus,(L.) Thell.,Fl. Advent. Montpellier 209. 1912 ,Amaranthaceae,,Amaranthaceae Amaranthus melancholicus L.,(L.)

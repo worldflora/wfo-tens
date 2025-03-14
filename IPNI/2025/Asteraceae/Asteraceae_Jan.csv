@@ -1,4 +1,4 @@
-WFOID,IPNID,scientificName,authors_t,namePublishedin,nomenclaturalStatus,originalName,originalNameAuthor
+WFOID,IPNID,scientificName,authorship,namePublishedin,nomenclaturalStatus,originalName,originalNameAuthor
 wfo-1000077551,urn:lsid:ipni.org:names:77354503-1,Leucheria sect. Cassiopea,(D.Don) Hook.,Compan. Bot. Mag. 1(2): 36. 1835 [1 Sep 1835] ,,Asteraceae Leucheria [infragen.unranked] Cassiopea D.Don,(D.Don)
 wfo-1000077587,urn:lsid:ipni.org:names:77354653-1,Cirsium fissibracteum,Peterm.,Deutschl. Fl. (Petermann) 312. 1849 ,,,
 wfo-1000077609,urn:lsid:ipni.org:names:77354791-1,Pterothrix grisea,(Koek.) N.G.Bergh,S. African J. Bot. 171: 302. 2024 [20 Jun 2024] [epublished],,Asteraceae Amphiglossa grisea Koek.,(Koek.)

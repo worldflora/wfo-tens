@@ -1,4 +1,4 @@
-WFOID,IPNID,scientificName,authors_t,namePublishedin,nomenclaturalStatus,originalName,originalNameAuthor
+WFOID,IPNID,scientificName,authorship,namePublishedin,nomenclaturalStatus,originalName,originalNameAuthor
 wfo-1000078322,urn:lsid:ipni.org:names:77356325-1,Sclerochloa biflora,(Steud.) D.L.Fu,Amer. J. Agric. Forest. 12(4): 255. 2024 [4 Jul 2024] [epublished],,Poaceae Festuca biflora Steud.,(Steud.)
 wfo-1000078345,urn:lsid:ipni.org:names:77356358-1,Dactylis himalayensis,(Domin) P.P.Ferrer & Rosselló,Fl. Montiber. 90: 104. 2024 [Dec 2024] [epublished],,Poaceae Dactylis glomerata L. subsp. himalayensis Domin,(Domin)
 wfo-1000078346,urn:lsid:ipni.org:names:77356359-1,Dactylis judaica,(Stebbins & D.Zohary) P.P.Ferrer & Rosselló,Fl. Montiber. 90: 104. 2024 [Dec 2024] [epublished],,Poaceae Dactylis glomerata L. subsp. judaica Stebbins & D.Zohary,(Stebbins & D.Zohary)

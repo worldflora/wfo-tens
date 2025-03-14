@@ -1,4 +1,4 @@
-WFOID,IPNID,scientificName,authors_t,namePublishedin,Family,nomenclaturalStatus,originalName,originalNameAuthor
+WFOID,IPNID,scientificName,authorship,namePublishedin,Family,nomenclaturalStatus,originalName,originalNameAuthor
 wfo-1000077584,urn:lsid:ipni.org:names:77354545-1,Parablechnum regnellianum,(Kunze) G.M.O.Machado & Gasper,Acta Bot. Brasil. 38-e20230240: 17. 2024 [2 Dec 2024] [epublished],Blechnaceae,,Blechnaceae Lomaria regnelliana Kunze,(Kunze)
 wfo-1000078069,urn:lsid:ipni.org:names:77355273-1,Selaginella radiata,(Aubl.) Spring,Bull. Acad. Roy. Sci. Bruxelles 10: 143. 1843 ,Selaginellaceae,,Lycopodiaceae Lycopodium radiatum Aubl.,(Aubl.)
 wfo-1000077961,urn:lsid:ipni.org:names:77355602-1,Platycerium × siamense,Phuangkaeo,Acta Horticulturae 1245: 167. 2019 [31 Jul 2019] ,Polypodiaceae,,,
