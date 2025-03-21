@@ -1,56 +1,29 @@
-Records returned from the Acanthaceae query executed at: 2025-03-14 15:44:11.323587
-Records returned from the Annonaceae query executed at: 2025-03-14 15:44:11.326631
-Records returned from the Apocynaceae query executed at: 2025-03-14 15:44:11.328233
-Records returned from the Asteraceae query executed at: 2025-03-14 15:44:11.332513
-Records returned from the Arecaceae query executed at: 2025-03-14 15:44:11.335688
-Records returned from the Brassicaceae query executed at: 2025-03-14 15:44:11.338565
-Records returned from the Cyperaceae query executed at: 2025-03-14 15:44:11.344690
-Records returned from the Dipterocarpaceae query executed at: 2025-03-14 15:44:11.347756
-Records returned from the Ericaceae query executed at: 2025-03-14 15:44:11.350927
-Records returned from the Fagaceae query executed at: 2025-03-14 15:44:11.353531
-Records returned from the Gesneriaceae query executed at: 2025-03-14 15:44:11.355635
-Records returned from the Loasaceae query executed at: 2025-03-14 15:44:11.359061
-Records returned from the Melastomataceae query executed at: 2025-03-14 15:44:11.365187
-Records returned from the Meliaceae query executed at: 2025-03-14 15:44:11.367832
-Records returned from the Ochnaceae query executed at: 2025-03-14 15:44:11.371488
-Records returned from the Papaveraceae query executed at: 2025-03-14 15:44:11.373534
-Records returned from the Poaceae query executed at: 2025-03-14 15:44:11.377152
-Records returned from the Salicaceae query executed at: 2025-03-14 15:44:11.380860
-Records returned from the Sapindaceae query executed at: 2025-03-14 15:44:11.383690
-Records returned from the Sapotaceae query executed at: 2025-03-14 15:44:11.385598
-Records returned from the Solanaceae query executed at: 2025-03-14 15:44:11.387649
-Records returned from the Zingiberaceae query executed at: 2025-03-14 15:44:11.392241
-Records returned from the Conifers query executed at: 2025-03-14 15:44:11.396768
-Records returned from the Legumes query executed at: 2025-03-14 15:44:11.400937
-Records returned from the Dipsacales query executed at: 2025-03-14 15:44:11.405131
-Records returned from the Boraginales query executed at: 2025-03-14 15:44:11.407246
-Records returned from the Carophyllales query executed at: 2025-03-14 15:44:11.410730
-Records returned from the PPG query executed at: 2025-03-14 15:44:11.412731
-Records returned from the Acanthaceae query executed at: 2025-03-14 15:46:38.956378
-Records returned from the Annonaceae query executed at: 2025-03-14 15:46:38.958304
-Records returned from the Apocynaceae query executed at: 2025-03-14 15:46:38.959888
-Records returned from the Asteraceae query executed at: 2025-03-14 15:46:38.963700
-Records returned from the Arecaceae query executed at: 2025-03-14 15:46:38.966214
-Records returned from the Brassicaceae query executed at: 2025-03-14 15:46:38.969479
-Records returned from the Cyperaceae query executed at: 2025-03-14 15:46:38.976246
-Records returned from the Dipterocarpaceae query executed at: 2025-03-14 15:46:38.978418
-Records returned from the Ericaceae query executed at: 2025-03-14 15:46:38.981117
-Records returned from the Fagaceae query executed at: 2025-03-14 15:46:38.983601
-Records returned from the Gesneriaceae query executed at: 2025-03-14 15:46:38.985297
-Records returned from the Loasaceae query executed at: 2025-03-14 15:46:38.987922
-Records returned from the Melastomataceae query executed at: 2025-03-14 15:46:38.991553
-Records returned from the Meliaceae query executed at: 2025-03-14 15:46:38.992974
-Records returned from the Ochnaceae query executed at: 2025-03-14 15:46:38.995530
-Records returned from the Papaveraceae query executed at: 2025-03-14 15:46:38.996958
-Records returned from the Poaceae query executed at: 2025-03-14 15:46:39.000687
-Records returned from the Salicaceae query executed at: 2025-03-14 15:46:39.003269
-Records returned from the Sapindaceae query executed at: 2025-03-14 15:46:39.004695
-Records returned from the Sapotaceae query executed at: 2025-03-14 15:46:39.006054
-Records returned from the Solanaceae query executed at: 2025-03-14 15:46:39.007415
-Records returned from the Zingiberaceae query executed at: 2025-03-14 15:46:39.010945
-Records returned from the Conifers query executed at: 2025-03-14 15:46:39.014944
-Records returned from the Legumes query executed at: 2025-03-14 15:46:39.019046
-Records returned from the Dipsacales query executed at: 2025-03-14 15:46:39.021382
-Records returned from the Boraginales query executed at: 2025-03-14 15:46:39.023123
-Records returned from the PPG query executed at: 2025-03-14 15:46:39.025015
-Records returned from the Caryophyllales query executed at: 2025-03-14 15:46:39.026995
+Records returned from the Acanthaceae query executed at: 2025-03-21 16:47:03.302930 - Count: 4
+Records returned from the Annonaceae query executed at: 2025-03-21 16:47:03.305378 - Count: 2
+Records returned from the Apocynaceae query executed at: 2025-03-21 16:47:03.307204 - Count: 7
+Records returned from the Asteraceae query executed at: 2025-03-21 16:47:03.311572 - Count: 46
+Records returned from the Arecaceae query executed at: 2025-03-21 16:47:03.314310 - Count: 13
+Records returned from the Brassicaceae query executed at: 2025-03-21 16:47:03.317208 - Count: 18
+Records returned from the Cyperaceae query executed at: 2025-03-21 16:47:03.322332 - Count: 3
+Records returned from the Dipterocarpaceae query executed at: 2025-03-21 16:47:03.324647 - Count: 1
+Records returned from the Ericaceae query executed at: 2025-03-21 16:47:03.327269 - Count: 9
+Records returned from the Fagaceae query executed at: 2025-03-21 16:47:03.329154 - Count: 3
+Records returned from the Gesneriaceae query executed at: 2025-03-21 16:47:03.330603 - Count: 5
+Records returned from the Loasaceae query executed at: 2025-03-21 16:47:03.333184 - Count: 2
+Records returned from the Melastomataceae query executed at: 2025-03-21 16:47:03.337237 - Count: 16
+Records returned from the Meliaceae query executed at: 2025-03-21 16:47:03.338356 - Count: 2
+Records returned from the Ochnaceae query executed at: 2025-03-21 16:47:03.341331 - Count: 1
+Records returned from the Papaveraceae query executed at: 2025-03-21 16:47:03.343205 - Count: 16
+Records returned from the Poaceae query executed at: 2025-03-21 16:47:03.346236 - Count: 94
+Records returned from the Salicaceae query executed at: 2025-03-21 16:47:03.348712 - Count: 1
+Records returned from the Sapindaceae query executed at: 2025-03-21 16:47:03.350170 - Count: 1
+Records returned from the Sapotaceae query executed at: 2025-03-21 16:47:03.352004 - Count: 1
+Records returned from the Solanaceae query executed at: 2025-03-21 16:47:03.353459 - Count: 3
+Records returned from the Zingiberaceae query executed at: 2025-03-21 16:47:03.356220 - Count: 5
+Records returned from the Conifers query executed at: 2025-03-21 16:47:03.395332 - Count: 2
+Records returned from the Legumes query executed at: 2025-03-21 16:47:03.400184 - Count: 35
+Records returned from the Dipsacales query executed at: 2025-03-21 16:47:03.405041 - Count: 8
+Records returned from the PPG query executed at: 2025-03-21 16:47:03.408769 - Count: 14
+Records returned from the Caryophyllales query executed at: 2025-03-21 16:47:03.411934 - Count: 25
+Records returned from the Cichorieae query executed at: 2025-03-21 16:47:03.414517 - Count: 2
+Records returned from the Boraginales query executed at: 2025-03-21 16:47:03.417098 - Count: 6
