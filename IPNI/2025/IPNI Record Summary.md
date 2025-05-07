@@ -1,4 +1,4 @@
-## Number of name record from IPNI for TENs - 2025.
+## Number of name records for TENs via IPNI - 2025.
 
 
 | TEN | Jan    | Feb    | Mar    | Apr    |
