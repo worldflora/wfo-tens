@@ -1,0 +1,66 @@
+WFOID,IPNID,scientificName,authorship,namePublishedin,Family,nomenclaturalStatus,originalName,originalNameAuthor
+wfo-0000734092,urn:lsid:ipni.org:names:77360936-1,Acetosa pratensis subsp. alpestris,(Scop.) Á.Löve & D.Löve,Bot. Not. 114(1): 51. 1961 ,Polygonaceae,,Polygonaceae Lapathum alpestre Scop.,(Scop.)
+wfo-1200113072,urn:lsid:ipni.org:names:77360937-1,Acetosa pratensis var. islandica,(Á.Löve) Á.Löve & D.Löve,Bot. Not. 114(1): 51. 1961 ,Polygonaceae,,Polygonaceae Acetosa alpestris (Scop.) Á.Löve subsp. islandica Á.Löve,(Á.Löve)
+wfo-0001101446,urn:lsid:ipni.org:names:77360938-1,Acetosa pratensis var. lapponica,(Hiitonen) Á.Löve & D.Löve,Bot. Not. 114(1): 51. 1961 ,Polygonaceae,,Polygonaceae Rumex acetosa L. subsp. lapponicus Hiitonen,(Hiitonen)
+wfo-1200113073,urn:lsid:ipni.org:names:77360939-1,Acetosa pratensis subsp. nivalis,(Hegetschw.) Á.Löve & D.Löve,Bot. Not. 114(1): 51. 1961 ,Polygonaceae,,Polygonaceae Rumex nivalis Hegetschw.,(Hegetschw.)
+wfo-1200113074,urn:lsid:ipni.org:names:77360940-1,Persicaria lapathifolia subsp. danubialis,(A.Kern.) Á.Löve & D.Löve,Bot. Not. 114(1): 51. 1961 ,Polygonaceae,,Polygonaceae Polygonum danubiale A.Kern.,(A.Kern.)
+wfo-0001294875,urn:lsid:ipni.org:names:77360941-1,Atriplex longipes subsp. lapponica,(Pojark.) Á.Löve & D.Löve,Bot. Not. 114(1): 51. 1961 ,Chenopodiaceae,,Chenopodiaceae Atriplex lapponica Pojark.,(Pojark.)
+wfo-1200113126,urn:lsid:ipni.org:names:77360949-1,Cerastium arcticum subsp. nigrescens,(Edmondston) Á.Löve & D.Löve,Bot. Not. 114(1): 51. 1961 ,Caryophyllaceae,nom. inval.    Contrary to Art. 41.5. ICN (2018). Basionym not validly published.,Caryophyllaceae Cerastium nigrescens Edmondston,(Edmondston)
+wfo-1200113131,urn:lsid:ipni.org:names:77361094-1,Cerastium nigrescens,Edmondston,Fl. Shetland 29. 1845 ,Caryophyllaceae,nom. inval.    pro syn.,,
+wfo-1200113075,urn:lsid:ipni.org:names:77361210-1,Arenaria ciliata var. norvegica,(Gunnerus) Fr.,Novit. Fl. Suec. Mant. 2: 34. 1839 ,Caryophyllaceae,,Caryophyllaceae Arenaria norvegica Gunnerus,(Gunnerus)
+wfo-1200113136,urn:lsid:ipni.org:names:77361211-1,Arenaria ciliata subsp. norvegica,(Gunnerus) Fr. ex Ostenf. & O.C.Dahl,Nyt Mag. Naturvidensk. 55: 219. 1918 ,Caryophyllaceae,,Caryophyllaceae Arenaria norvegica Gunnerus,(Gunnerus)
+wfo-0000545688,urn:lsid:ipni.org:names:77361212-1,Arenaria ciliata subsp. hibernica,Ostenf. & O.C.Dahl,Nyt Mag. Naturvidensk. 55: 216. 1918 ,Caryophyllaceae,,,
+wfo-0001291960,urn:lsid:ipni.org:names:77361213-1,Arenaria multicaulis subsp. pseudofrigida,(Ostenf. & O.C.Dahl) Á.Löve & D.Löve,Bot. Not. 114(1): 51. 1961 [30 Mar 1961] ,Caryophyllaceae,,Caryophyllaceae Arenaria ciliata L. subsp. pseudofrigida Ostenf. & O.C.Dahl,(Ostenf. & O.C.Dahl)
+wfo-0000734663,urn:lsid:ipni.org:names:77361214-1,Silene maritima subsp. islandica,Á.Löve & D.Löve,Bot. Not. 1950(1): 40. [31 Mar 1950] ,Caryophyllaceae,,,
+wfo-1200112802,urn:lsid:ipni.org:names:77361331-1,Silene vulgaris var. islandica,(Á.Löve & D.Löve) Á.Löve & D.Löve,Bot. Not. 114(1): 52. 1961 [30 Mar 1961] ,Caryophyllaceae,,Caryophyllaceae Silene maritima With. subsp. islandica Á.Löve & D.Löve,(Á.Löve & D.Löve)
+wfo-0001292214,urn:lsid:ipni.org:names:77361340-1,Silene gallica subsp. anglica,(L.) Á.Löve & D.Löve,Bot. Not. 114(1): 52. 1961 [30 Mar 1961] ,Caryophyllaceae,,Caryophyllaceae Silene anglica L.,(L.)
+wfo-1200113140,urn:lsid:ipni.org:names:77361341-1,Silene gallica subsp. quinquevulnera,(L.) Á.Löve & D.Löve,Bot. Not. 114(1): 52. 1961 [30 Mar 1961] ,Caryophyllaceae,,Caryophyllaceae Silene quinquevulnera L.,(L.)
+wfo-0001292238,urn:lsid:ipni.org:names:77361342-1,Silene otites subsp. polaris,(Kleopow) Á.Löve & D.Löve,Bot. Not. 114(1): 52. 1961 [30 Mar 1961] ,Caryophyllaceae,,Caryophyllaceae Silene polaris Kleopow,(Kleopow)
+wfo-1000081471,urn:lsid:ipni.org:names:77361397-1,Dysphania incisa,(Poir.) Sand.-Ort. & Zumaya,Ukrain. Bot. J. 82(2): 82. 2025 [14 Apr 2025] [epublished],Chenopodiaceae,,Chenopodiaceae Chenopodium incisum Poir.,(Poir.)
+wfo-0000410318,urn:lsid:ipni.org:names:77361669-1,Trianthema obcordatum,Roxb.,Fl. Ind. (Roxburgh) 2: 445. 1832 (as 'obcordata'),Aizoaceae,,,
+wfo-1000064159,urn:lsid:ipni.org:names:77361682-1,Trianthema triquetrum,Willd. ex Spreng.,"Syst. Veg., ed. 15[bis]. 2: 381. 1825 ",Aizoaceae,,,
+wfo-4100005786,urn:lsid:ipni.org:names:77361711-1,Curvoacanthocactus,Guiggi,Coll. Cact. Savona 14. 2025 [3 May 2025] ,Cactaceae,,,
+wfo-1000081522,urn:lsid:ipni.org:names:77361712-1,Curvoacanthocactus rhodotrichus,(K.Schum.) Guiggi,"Coll. Cact. Savona 14. 2025 [3 May 2025] , as 'rhodotrichum'",Cactaceae,,Cactaceae Echinopsis rhodotricha K.Schum.,(K.Schum.)
+wfo-1000081524,urn:lsid:ipni.org:names:77361714-1,Curvoacanthocactus leucanthus,(Gillies ex Salm-Dyck) Guiggi,Coll. Cact. Savona 28. 2025 [3 May 2025] ,Cactaceae,,Cactaceae Echinocactus leucanthus Gillies ex Salm-Dyck,(Gillies ex Salm-Dyck)
+wfo-1200113099,urn:lsid:ipni.org:names:77361715-1,Curvoacanthocactus rhodotrichus subsp. chacoanus,(Schütz) Guiggi,"Coll. Cact. Savona 28. 2025 [3 May 2025] , as 'rhodotrichum subsp. chacoanum'",Cactaceae,,Cactaceae Echinopsis chacoana Schütz,(Schütz)
+wfo-1200113100,urn:lsid:ipni.org:names:77361716-1,Lobivia ancistrophora subsp. subdenudata,(Cárdenas) Guiggi,Coll. Cact. Savona 19. 2025 [3 May 2025] ,Cactaceae,,Cactaceae Echinopsis subdenudata Cárdenas,(Cárdenas)
+wfo-1000081527,urn:lsid:ipni.org:names:77361722-1,Gomphrena vallegrandensis,T.Ortuño & Lozada-Gobilard,Int. J. Pl. Biol. 16(2)-51: 5. 2025 [13 May 2025] [epublished],Amaranthaceae,,,
+wfo-1000081528,urn:lsid:ipni.org:names:77361724-1,Gomphrena palmariensis,"T.Ortuño, Gut.Romero & Montesin.",Int. J. Pl. Biol. 16(2)-51: 8. 2025 [13 May 2025] [epublished],Amaranthaceae,,,
+wfo-0000549305,urn:lsid:ipni.org:names:77361748-1,Armeria vulgaris var. planifolia,Syme,"Engl. Bot., ed. 3B. 7: 157. 1867 ",Plumbaginaceae,,,
+wfo-0001303280,urn:lsid:ipni.org:names:77361895-1,Armeria maritima subsp. planifolia,(Syme) Á.Löve & D.Löve,Bot. Not. 114(1): 54. 1961 ,Plumbaginaceae,,Plumbaginaceae Armeria vulgaris Willd. var. planifolia Syme,(Syme)
+wfo-1000081704,urn:lsid:ipni.org:names:77362335-1,Coccoloba burgeri,"J.J.Ancona, P.Hern.-Led. & J.J.Ortiz-Diaz",Acta Bot. Mex. 132-e2435: 3. 2025 [20 May 2025] [epublished],Polygonaceae,,,
+wfo-1000081705,urn:lsid:ipni.org:names:77362336-1,Coccoloba carnevalii,"J.J.Ancona, P.Hern.-Led. & J.J.Ortiz-Diaz",Acta Bot. Mex. 132-e2435: 5. 2025 [20 May 2025] [epublished],Polygonaceae,,,
+wfo-1000081706,urn:lsid:ipni.org:names:77362337-1,Coccoloba costaricensis,"J.J.Ancona, P.Hern.-Led. & J.J.Ortiz-Diaz",Acta Bot. Mex. 132-e2435: 7. 2025 [20 May 2025] [epublished],Polygonaceae,,,
+wfo-1000081707,urn:lsid:ipni.org:names:77362338-1,Coccoloba glandulosa,"J.J.Ancona, P.Hern.-Led. & J.J.Ortiz-Diaz",Acta Bot. Mex. 132-e2435: 9. 2025 [20 May 2025] [epublished],Polygonaceae,,,
+wfo-1000081708,urn:lsid:ipni.org:names:77362339-1,Coccoloba rodriguezii,"J.J.Ancona, P.Hern.-Led. & J.J.Ortiz-Diaz",Acta Bot. Mex. 132-e2435: 11. 2025 [20 May 2025] [epublished],Polygonaceae,,,
+wfo-1000081709,urn:lsid:ipni.org:names:77362340-1,Coccoloba ulloae,"J.J.Ancona, P.Hern.-Led. & J.J.Ortiz-Diaz",Acta Bot. Mex. 132-e2435: 13. 2025 [20 May 2025] [epublished],Polygonaceae,,,
+wfo-1000081710,urn:lsid:ipni.org:names:77362341-1,Coccoloba veracrucensis,"J.J.Ancona, P.Hern.-Led. & J.J.Ortiz-Diaz",Acta Bot. Mex. 132-e2435: 15. 2025 [20 May 2025] [epublished],Polygonaceae,,,
+wfo-1000081711,urn:lsid:ipni.org:names:77362342-1,Coccoloba victoriasosae,"J.J.Ancona, P.Hern.-Led. & J.J.Ortiz-Diaz",Acta Bot. Mex. 132-e2435: 15. 2025 [20 May 2025] [epublished],Polygonaceae,,,
+wfo-1200113119,urn:lsid:ipni.org:names:77362347-1,Lithops gracilidelineata var. waldroniae,de Boer,"Succulenta (Netherlands) 1963(2): 20. [Feb 1963] , as 'waldronae'",Aizoaceae,,,
+wfo-0001431076,urn:lsid:ipni.org:names:77362467-1,Gymnocalycium mihanovichii var. piraretaense,Pažout,Kaktusář. Listy 16: 195. 1951 ,Cactaceae,,,
+wfo-1200113122,urn:lsid:ipni.org:names:77362468-1,Gymnocalycium friedrichii var. pazoutianum,G.Moser & Valníček,Fričiana 44: 4. 1967 ,Cactaceae,,,
+wfo-4100005802,urn:lsid:ipni.org:names:77362534-1,trib. Notocacteae,Buxb.,Madroño 14: 191. 1958 [2 May 1958] ,Cactaceae,,,
+wfo-4100005803,urn:lsid:ipni.org:names:77362535-1,trib. Rhipsalideae,DC.,Prodr. [A. P. de Candolle] 3: 475. 1828 [mid-Mar 1828] ,Cactaceae,,,
+wfo-4100005804,urn:lsid:ipni.org:names:77362536-1,trib. Hylocereeae,Buxb.,"Madroño 14: 179. 1958 [2 May 1958] , as 'Hylocereae'",Cactaceae,,,
+wfo-4100005805,urn:lsid:ipni.org:names:77362538-1,trib. Echinocereeae,Buxb.,"Madroño 14: 193. 1958 [2 May 1958] , as 'Echinocereae'",Cactaceae,,,
+wfo-1200113233,urn:lsid:ipni.org:names:31926-1,Mancoa,Raf.,Fl. Tellur. 3: 56. 1837 [1836 publ. Nov-Dec 1837] ,Phytolaccaceae,nom. rej.,,
+wfo-0001293553,urn:lsid:ipni.org:names:362485-1,Lithops ruschiorum,(Dinter & Schwantes) N.E.Br.,"Gard. Chron. ser. 3, 79: 194. 1926 ",Aizoaceae,,Aizoaceae Mesembryanthemum ruschiorum Dinter & Schwantes,(Dinter & Schwantes)
+wfo-0000660405,urn:lsid:ipni.org:names:87348-2,Echinocactus famatinensis,Speg.,"Anales Soc. Ci. Argent. 92: 118, fig. 9. 1921 (as 'famatimensis')",Cactaceae,,,
+wfo-0000619802,urn:lsid:ipni.org:names:131153-1,Copiapoa serenana,Voldan,Kakteen And. Sukk. 27(8): 185. 1976 ,Cactaceae,,,
+wfo-1000081800,urn:lsid:ipni.org:names:128865-1,Ariocarpus intermedius,(Backeb. & Kilian) Voldan,"in Friciana, Rada 5: 9 (1965). ",Cactaceae,,,(Backeb. & Kilian)
+wfo-1200113247,urn:lsid:ipni.org:names:133388-1,Gymnocalycium paraguayense,(Mundt) Schütz & Moser,"Fričiana VIII, no. 47: 3- 15. 1972 ; cf. G.D.Rowley in Repert. Pl. Succ. (I.O.S.), 23: 7 [1972 publ. 1974]",Cactaceae,,,(Mundt)
+wfo-0000660356,urn:lsid:ipni.org:names:87317-2,Echinocactus denudatus var. wieditzianus,F.Haage,"Monatsschr. Kakteenk. 8: 36. 1898 , as 'wieditziana'",Cactaceae,,,
+wfo-1200113202,urn:lsid:ipni.org:names:1206456-2,Gymnocalycium paraguayense var. wieditzianum,(F.Haage) Schütz,Fričiana 40: 10. 1967 ,Cactaceae,,Cactaceae Echinocactus denudatus Link & Otto var. wieditzianus F.Haage,(F.Haage)
+wfo-1200113203,urn:lsid:ipni.org:names:1057772-2,Gymnocalycium paraguayense var. wagnerianum,(F.Haage) Schütz,Fričiana 40: 10. 1967 ,Cactaceae,,Cactaceae Echinocactus denudatus Link & Otto var. wagnerianus F.Haage,(F.Haage)
+wfo-1200113204,urn:lsid:ipni.org:names:1197713-2,Gymnocalycium paraguayense var. scheidelianum,(F.Haage) Schütz,Fričiana 40: 11. 1967 ,Cactaceae,,Cactaceae Echinocactus denudatus Link & Otto var. scheidelianus F.Haage,(F.Haage)
+wfo-1200113205,urn:lsid:ipni.org:names:1015278-2,Gymnocalycium paraguayense var. roseiflorum,(Hildm. ex K.Schum.) Schütz,Fričiana 40: 11. 1967 ,Cactaceae,,Cactaceae Echinocactus denudatus Link & Otto var. roseiflorus Hildm. ex K.Schum.,(Hildm. ex K.Schum.)
+wfo-0000660337,urn:lsid:ipni.org:names:87301-2,Echinocactus denudatus var. delaetianus,F.Haage,Monatsschr. Kakteenk. 8: 36. 1898 ,Cactaceae,,,
+wfo-1200113206,urn:lsid:ipni.org:names:1014107-2,Gymnocalycium megalothelon var. delaetianum,(F.Haage) Schütz,Fričiana 40: 11. 1967 ,Cactaceae,,Cactaceae Echinocactus denudatus Link & Otto var. delaetianus F.Haage,(F.Haage)
+wfo-1200113207,urn:lsid:ipni.org:names:1086967-2,Gymnocalycium fleischerianum var. andersohnianum,(F.Haage) Schütz,Fričiana 40: 11. 1967 ,Cactaceae,,Cactaceae Echinocactus denudatus Link & Otto var. andersohnianus F.Haage,(F.Haage)
+wfo-1200113208,urn:lsid:ipni.org:names:1103673-2,Gymnocalycium fleischerianum var. heuschkelianum,(F.Haage) Schütz,Fričiana 40: 11. 1967 ,Cactaceae,,Cactaceae Echinocactus denudatus Link & Otto var. heuschkelianus F.Haage,(F.Haage)
+wfo-1200113209,urn:lsid:ipni.org:names:1086968-2,Gymnocalycium fleischerianum var. meiklejohnianum,(F.Haage) Schütz,Fričiana 40: 11. 1967 ,Cactaceae,,Cactaceae Echinocactus denudatus Link & Otto var. meiklejohnianus F.Haage,(F.Haage)
+wfo-0001288272,urn:lsid:ipni.org:names:300093-2,Sclerocactus whipplei var. heilii,"Castetter, P.Pierce & K.H.Schwer.",Cact. Succ. J. (Los Angeles) 48: 79. 1976 ,Cactaceae,,,
+wfo-0001434076,urn:lsid:ipni.org:names:77071404-1,Sclerocactus whipplei subsp. heilii,"(Castetter, P.Pierce & K.H.Schwer.) D.R.Hunt",Cactaceae Syst. Init. 20: 23. 2005 [Nov 2005] ,Cactaceae,,"Cactaceae Sclerocactus whipplei (Engelm. & J.M.Bigelow) Britton & Rose var. heilii Castetter, P.Pierce & K.H.Schwer.","(Castetter, P.Pierce & K.H.Schwer.)"
+wfo-0001246606,urn:lsid:ipni.org:names:979768-1,Sclerocactus cloverae,K.D.Heil & J.M.Porter,"Haseltonia 2: 31, as 'cloveriae':. 1994 ",Cactaceae,,,
+wfo-0001288273,urn:lsid:ipni.org:names:307966-2,Sclerocactus whipplei var. reevesii,"Castetter, P.Pierce & K.H.Schwer.",Cact. Succ. J. (Los Angeles) 48: 80. 1976 ,Cactaceae,,,
+wfo-0001430532,urn:lsid:ipni.org:names:326614-2,Coryphantha recurvata subsp. canatlanensis,Dicht & A.Lüthy,Kakteen And. Sukk. 54(3): 57 (-61; photogrs. 1-9). 2003 [Mar 2003] ,Cactaceae,,,
