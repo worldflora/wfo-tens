@@ -1,0 +1,99 @@
+WFOID,IPNID,scientificName,authorship,namePublishedin,Family,nomenclaturalStatus,originalName,originalNameAuthor
+wfo-1000082788,urn:lsid:ipni.org:names:77362655-1,Angiopteris cadierei,(C.Chr. & Tardieu) R.Kr.Singh,J. Biodivers. Conservation 9(2): 68. 2025 [5 May 2025] [epublished],Marattiaceae,,Marattiaceae Archangiopteris cadierei C.Chr. & Tardieu,(C.Chr. & Tardieu)
+wfo-1000082800,urn:lsid:ipni.org:names:77362656-1,Leptochilus heterophyllus,(S.K.Wu & L.K.Phan) R.Kr.Singh & V.K.Rawat,J. Biodivers. Conservation 9(2): 74. 2025 [5 May 2025] [epublished],Polypodiaceae,,Dryopteridaceae Kontumia heterophylla S.K.Wu & L.K.Phan,(S.K.Wu & L.K.Phan)
+wfo-1000075055,urn:lsid:ipni.org:names:77362657-1,Selliguea tamdaoensis,(V.N.Tu) R.Kr.Singh & V.K.Rawat,J. Biodivers. Conservation 9(2): 74. 2025 [5 May 2025] [epublished],Polypodiaceae,,Polypodiaceae Crypsinus tamdaoensis V.N.Tu,(V.N.Tu)
+wfo-1000075013,urn:lsid:ipni.org:names:77362658-1,Diplazium stolzei,"(Pacheco & R.C.Moran) R.Kr.Singh, V.K.Rawat & Sanjeet Kumar",J. Biodivers. Conservation 9(2): 77. 2025 [5 May 2025] [epublished],Woodsiaceae,,Woodsiaceae Callipteris stolzei Pacheco & R.C.Moran,(Pacheco & R.C.Moran)
+wfo-1000073737,urn:lsid:ipni.org:names:77362764-1,Equisetum × kochianum,Böckel,Aufz. Oldenb. Crypt. Gefässpfl. 30. 1853 ,Equisetaceae,,,
+wfo-1000082046,urn:lsid:ipni.org:names:77362947-1,Polystichum ensiforme,H.Shang & R.H.Jiang,Phytotaxa 704(2): 181. 2025 [6 Jun 2025] [epublished],Dryopteridaceae,,,
+wfo-1000082236,urn:lsid:ipni.org:names:77363454-1,Didiclis chiangdaoensis,"X.M.Zhou, Y.P.Hu & Chantanaorr.",Phytotaxa 705(2): 221. 2025 [13 Jun 2025] [epublished],Selaginellaceae,,,
+wfo-1000082239,urn:lsid:ipni.org:names:77363460-1,Dictymia mettenii,(Copel.) Copel.,Univ. Calif. Publ. Bot. 16(2). 114. 1929 [4 Sep 1929] ,Polypodiaceae,,Polypodiaceae Polypodium mettenii Copel.,(Copel.)
+wfo-1000072198,urn:lsid:ipni.org:names:77363607-1,Selaginella bryoides,(Kaulf.) Spring,"Voy. Bonite, Bot. 1: 327. 1846 ",Selaginellaceae,,Lycopodiaceae Lycopodium bryoides Kaulf.,(Kaulf.)
+wfo-1000082344,urn:lsid:ipni.org:names:77363728-1,Dryopteris dibangensis,C.Chanda & Fraser-Jenk.,Indian J. Forest. 47(1): 58. 2024 [1 Jul 2024] ,Dryopteridaceae,,,
+wfo-1000082360,urn:lsid:ipni.org:names:77363750-1,Lomariopsis dimorphophylla,(A.Gepp) Christenh.,"Ann. Bot. (Oxford) n.s., 113(4): 590. 2014 [Mar 2014] ",Lomariopsidaceae,,Lomariopsidaceae Thysanosoria dimorphophylla A.Gepp,(A.Gepp)
+wfo-0001423232,urn:lsid:ipni.org:names:77363751-1,Lomariopsis pteridiformis,(Ces.) Christenh.,"Ann. Bot. (Oxford) n.s., 113(4): 590. 2014 [Mar 2014] ",Lomariopsidaceae,,Adiantaceae Gymnogramma pteridiformis Ces.,(Ces.)
+wfo-1000075027,urn:lsid:ipni.org:names:77363752-1,Leptochilus heterophyllus,(S.K.Wu & L.K.Phan) Christenh.,"Ann. Bot. (Oxford) n.s., 113(4): 590. 2014 [Mar 2014] ",Polypodiaceae,,Dryopteridaceae Kontumia heterophylla S.K.Wu & L.K.Phan,(S.K.Wu & L.K.Phan)
+wfo-4100005910,urn:lsid:ipni.org:names:77363863-1,subfam. Lygodioideae,Christenh.,"Ann. Bot. (Oxford) n.s., 113(4): 588. 2014 [13 Feb 2014] ",Schizaeaceae,,,
+wfo-4100005911,urn:lsid:ipni.org:names:77363864-1,subfam. Loxsomatoideae,(C.Presl) Christenh.,"Ann. Bot. (Oxford) n.s., 113(4): 588. 2014 [13 Feb 2014] ",Cyatheaceae,,Loxsomataceae C.Presl,(C.Presl)
+wfo-4100005912,urn:lsid:ipni.org:names:77363865-1,subfam. Culcitoideae,(Pic.Serm.) Christenh.,"Ann. Bot. (Oxford) n.s., 113(4): 588. 2014 [13 Feb 2014] [epublished]",Cyatheaceae,,Culcitaceae Pic.Serm.,(Pic.Serm.)
+wfo-4100005913,urn:lsid:ipni.org:names:77363866-1,subfam. Plagiogyrioideae,Christenh.,"Ann. Bot. (Oxford) n.s., 113(4): 588. 2014 [13 Feb 2014] [epublished]",Cyatheaceae,,,
+wfo-4100005914,urn:lsid:ipni.org:names:77363867-1,subfam. Diplaziopsidoideae,(X.C.Zhang & Christenh.) Christenh.,"Ann. Bot. (Oxford) n.s., 113(4): 589. 2014 [13 Feb 2014] [epublished]",Aspleniaceae,"nom. inval.    , lacking full and direct basionym ref",Diplaziopsidaceae X.C.Zhang & Christenh.,(X.C.Zhang & Christenh.)
+wfo-4100005915,urn:lsid:ipni.org:names:77363868-1,subfam. Didymochlaenoideae,Christenh.,"Ann. Bot. (Oxford) n.s., 113(4): 590. 2014 [13 Feb 2014] [epublished]",Polypodiaceae,,,
+wfo-1200113534,urn:lsid:ipni.org:names:77363869-1,subfam. Hypodematioideae,(Ching) Christenh.,"Ann. Bot. (Oxford) n.s., 113(4): 590. 2014 [13 Feb 2014] [epublished]",Polypodiaceae,,Hypodematiaceae Ching,(Ching)
+wfo-4100005921,urn:lsid:ipni.org:names:77363882-1,trib. Platycerieae,(B.K.Nayar) Christenh.,"Ann. Bot. (Oxford) n.s., 113(4): 590. 2014 [13 Feb 2014] [epublished]",Polypodiaceae,,Polypodiaceae subfam. Platycerioideae B.K.Nayar,(B.K.Nayar)
+wfo-1000082373,urn:lsid:ipni.org:names:77364020-1,Arachniodes mira,H.J.Wei,Phytotaxa 706(2): 150. 2025 [24 Jun 2025] [epublished],Dryopteridaceae,,,
+wfo-1200113485,urn:lsid:ipni.org:names:77364024-1,Asplenium cuneifolium subsp. serpentini,(Tausch) Soó,Feddes Repert. 83(3): 141. 1972 ,Aspleniaceae,,Aspleniaceae Asplenium serpentini Tausch,(Tausch)
+wfo-1200104498,urn:lsid:ipni.org:names:77364081-1,Rumohra amabilis var. yakusimensis,H.Ito,J. Jap. Bot. 11: 574. 1935 [25 Aug 1935] ,Davalliaceae,,,
+wfo-1000082436,urn:lsid:ipni.org:names:77364095-1,Cornopteris bipinnata,(K.Hori) Z.H.Feng,Plant 13(2): 92. 2025 [20 Jun 2025] [epublished],Woodsiaceae,,Woodsiaceae Athyrium bipinnatum K.Hori,(K.Hori)
+wfo-1000082442,urn:lsid:ipni.org:names:77364107-1,Cornopteris × decurrentiserrata,(K.Hori) Z.H.Feng,Plant 13(2): 92. 2025 [20 Jun 2025] [epublished],Woodsiaceae,,Woodsiaceae Athyrium × decurrentiserratum K.Hori,(K.Hori)
+wfo-1000082487,urn:lsid:ipni.org:names:77364172-1,Athyrium nothosect. Bistichoides,Z.H.Feng,Plant 13(2): 80. 2025 [20 Jun 2025] [epublished],Woodsiaceae,,,
+wfo-1000082488,urn:lsid:ipni.org:names:77364173-1,Athyrium nothosect. Otoniana,Z.H.Feng,Plant 13(2): 80. 2025 [20 Jun 2025] [epublished],Woodsiaceae,,,
+wfo-1000082489,urn:lsid:ipni.org:names:77364174-1,Athyrium nothosect. Otoscentia,Z.H.Feng,Plant 13(2): 80. 2025 [20 Jun 2025] [epublished],Woodsiaceae,,,
+wfo-1000082490,urn:lsid:ipni.org:names:77364175-1,Athyrium nothosect. Polyphora,Z.H.Feng,Plant 13(2): 80. 2025 [20 Jun 2025] [epublished],Woodsiaceae,,,
+wfo-1000082491,urn:lsid:ipni.org:names:77364176-1,Athyrium nothosect. Yokoniana,Z.H.Feng,Plant 13(2): 80. 2025 [20 Jun 2025] [epublished],Woodsiaceae,,,
+wfo-1000082492,urn:lsid:ipni.org:names:77364177-1,Deparia nothosect. Lunoathyrium,Z.H.Feng,Plant 13(2): 80. 2025 [20 Jun 2025] [epublished],Woodsiaceae,,,
+wfo-1200113558,urn:lsid:ipni.org:names:77364178-1,Deparia nothosubsect. Depopsis,Z.H.Feng,Plant 13(2): 80. 2025 [20 Jun 2025] [epublished],Woodsiaceae,,,
+wfo-1200113559,urn:lsid:ipni.org:names:77364179-1,Deparia nothosubsect. Lunathyriopsis,Z.H.Feng,Plant 13(2): 81. 2025 [20 Jun 2025] [epublished],Woodsiaceae,,,
+wfo-1000082493,urn:lsid:ipni.org:names:77364180-1,Diplazium nothosect. Anisostegia,Z.H.Feng,Plant 13(2): 81. 2025 [20 Jun 2025] [epublished],Woodsiaceae,,,
+wfo-1000082494,urn:lsid:ipni.org:names:77364181-1,Diplazium nothosect. Anisotodia,Z.H.Feng,Plant 13(2): 81. 2025 [20 Jun 2025] [epublished],Woodsiaceae,,,
+wfo-1000082495,urn:lsid:ipni.org:names:77364182-1,Diplazium nothosect. Dolichomatum,Z.H.Feng,Plant 13(2): 81. 2025 [20 Jun 2025] [epublished],Woodsiaceae,,,
+wfo-1000082496,urn:lsid:ipni.org:names:77364183-1,Diplazium nothosect. Sibistegia,Z.H.Feng,Plant 13(2): 81. 2025 [20 Jun 2025] [epublished],Woodsiaceae,,,
+wfo-1200113560,urn:lsid:ipni.org:names:77364184-1,Diplazium nothosubgen. Sibipteris,Z.H.Feng,Plant 13(2): 81. 2025 [20 Jun 2025] [epublished],Woodsiaceae,,,
+wfo-1000082500,urn:lsid:ipni.org:names:77364198-1,Dryopteris nothosect. Aedium,Z.H.Feng,Plant 13(2): 81. 2025 [20 Jun 2025] [epublished],Dryopteridaceae,,,
+wfo-1000082501,urn:lsid:ipni.org:names:77364199-1,Dryopteris nothosect. Aemotae,Z.H.Feng,Plant 13(2): 81. 2025 [20 Jun 2025] [epublished],Dryopteridaceae,,,
+wfo-1000082502,urn:lsid:ipni.org:names:77364200-1,Dryopteris nothosect. Aepteris,Z.H.Feng,Plant 13(2): 81. 2025 [20 Jun 2025] [epublished],Dryopteridaceae,,,
+wfo-1000082503,urn:lsid:ipni.org:names:77364201-1,Dryopteris nothosect. Aevariae,Z.H.Feng,Plant 13(2): 81. 2025 [20 Jun 2025] [epublished],Dryopteridaceae,,,
+wfo-1000082504,urn:lsid:ipni.org:names:77364202-1,Dryopteris nothosect. Drillodium,Z.H.Feng,Plant 13(2): 81. 2025 [20 Jun 2025] [epublished],Dryopteridaceae,,,
+wfo-1000082509,urn:lsid:ipni.org:names:77364208-1,Dryopteris nothosect. Dryllidae,Z.H.Feng,Plant 13(2): 82. 2025 [20 Jun 2025] [epublished],Dryopteridaceae,,,
+wfo-1200113572,urn:lsid:ipni.org:names:77364210-1,Dryopteris nothosubgen. Dryphodium,Z.H.Feng,Plant 13(2): 82. 2025 [20 Jun 2025] [epublished],Dryopteridaceae,,,
+wfo-1200113573,urn:lsid:ipni.org:names:77364211-1,Dryopteris nothosubgen. Erythteris,Z.H.Feng,Plant 13(2): 82. 2025 [20 Jun 2025] [epublished],Dryopteridaceae,,,
+wfo-1200113574,urn:lsid:ipni.org:names:77364212-1,Dryopteris nothosubgen. Lophema,Z.H.Feng,Plant 13(2): 82. 2025 [20 Jun 2025] [epublished],Dryopteridaceae,,,
+wfo-1200113575,urn:lsid:ipni.org:names:77364213-1,Dryopteris nothosubgen. Notheris,Z.H.Feng,Plant 13(2): 82. 2025 [20 Jun 2025] [epublished],Dryopteridaceae,,,
+wfo-1200113576,urn:lsid:ipni.org:names:77364214-1,Dryopteris nothosubgen. Nothovariae,Z.H.Feng,Plant 13(2): 82. 2025 [20 Jun 2025] [epublished],Dryopteridaceae,,,
+wfo-1200113577,urn:lsid:ipni.org:names:77364215-1,Dryopteris nothosubgen. Pycyopteris,Z.H.Feng,Plant 13(2): 82. 2025 [20 Jun 2025] [epublished],Dryopteridaceae,,,
+wfo-1000082510,urn:lsid:ipni.org:names:77364216-1,Dryopteris nothosect. Dryphodium,(Z.H.Feng) Z.H.Feng,Plant 13(2): 82. 2025 [20 Jun 2025] [epublished],Dryopteridaceae,,Dryopteridaceae Dryopteris nothosubgen. Dryphodium Z.H.Feng,(Z.H.Feng)
+wfo-1000082511,urn:lsid:ipni.org:names:77364217-1,Dryopteris nothosect. Erypallidae,Z.H.Feng,Plant 13(2): 82. 2025 [20 Jun 2025] [epublished],Dryopteridaceae,,,
+wfo-1000082512,urn:lsid:ipni.org:names:77364218-1,Dryopteris nothosect. Erypandae,Z.H.Feng,Plant 13(2): 82. 2025 [20 Jun 2025] [epublished],Dryopteridaceae,,,
+wfo-1000082513,urn:lsid:ipni.org:names:77364219-1,Dryopteris nothosect. Fidae,Z.H.Feng,Plant 13(2): 82. 2025 [20 Jun 2025] [epublished],Dryopteridaceae,,,
+wfo-1000082514,urn:lsid:ipni.org:names:77364220-1,Dryopteris nothosect. Fiphodium,Z.H.Feng,Plant 13(2): 82. 2025 [20 Jun 2025] [epublished],Dryopteridaceae,,,
+wfo-1000082515,urn:lsid:ipni.org:names:77364221-1,Dryopteris nothosect. Hiropteris,Z.H.Feng,Plant 13(2): 82. 2025 [20 Jun 2025] [epublished],Dryopteridaceae,,,
+wfo-1000082516,urn:lsid:ipni.org:names:77364222-1,Dryopteris nothosect. Hirtidae,Z.H.Feng,Plant 13(2): 82. 2025 [20 Jun 2025] [epublished],Dryopteridaceae,,,
+wfo-1000082517,urn:lsid:ipni.org:names:77364223-1,Dryopteris nothosect. Hirtodon,Z.H.Feng,Plant 13(2): 82. 2025 [20 Jun 2025] [epublished],Dryopteridaceae,,,
+wfo-1000082518,urn:lsid:ipni.org:names:77364224-1,Dryopteris nothosect. Hirtosae,Z.H.Feng,Plant 13(2): 82. 2025 [20 Jun 2025] [epublished],Dryopteridaceae,,,
+wfo-1000082519,urn:lsid:ipni.org:names:77364225-1,Dryopteris nothosect. Lolidae,Z.H.Feng,Plant 13(2): 82. 2025 [20 Jun 2025] [epublished],Dryopteridaceae,,,
+wfo-1000082520,urn:lsid:ipni.org:names:77364226-1,Dryopteris nothosect. Lophatae,Z.H.Feng,Plant 13(2): 82. 2025 [20 Jun 2025] [epublished],Dryopteridaceae,,,
+wfo-1000082521,urn:lsid:ipni.org:names:77364227-1,Dryopteris nothosect. Margisodon,Z.H.Feng,Plant 13(2): 82. 2025 [20 Jun 2025] ,Dryopteridaceae,,,
+wfo-1000082522,urn:lsid:ipni.org:names:77364228-1,Dryopteris nothosect. Pallindae,Z.H.Feng,Plant 13(2): 82. 2025 [20 Jun 2025] [epublished],Dryopteridaceae,,,
+wfo-1000082523,urn:lsid:ipni.org:names:77364229-1,Dryopteris nothosect. Palopteris,Z.H.Feng,Plant 13(2): 82. 2025 [20 Jun 2025] [epublished],Dryopteridaceae,,,
+wfo-1000082524,urn:lsid:ipni.org:names:77364230-1,Dryopteris nothosect. Panphodium,Z.H.Feng,Plant 13(2): 82. 2025 [20 Jun 2025] [epublished],Dryopteridaceae,,,
+wfo-1000082525,urn:lsid:ipni.org:names:77364231-1,Dryopteris nothosect. Panpteris,Z.H.Feng,Plant 13(2): 82. 2025 [20 Jun 2025] [epublished],Dryopteridaceae,,,
+wfo-1000082526,urn:lsid:ipni.org:names:77364232-1,Dryopteris nothosect. Remolosae,Z.H.Feng,Plant 13(2): 82. 2025 [20 Jun 2025] [epublished],Dryopteridaceae,,,
+wfo-1000082527,urn:lsid:ipni.org:names:77364233-1,Dryopteris nothosect. Remophodium,Z.H.Feng,Plant 13(2): 82. 2025 [20 Jun 2025] [epublished],Dryopteridaceae,,,
+wfo-1000082528,urn:lsid:ipni.org:names:77364234-1,Dryopteris nothosect. Remopteris,Z.H.Feng,Plant 13(2): 82. 2025 [20 Jun 2025] [epublished],Dryopteridaceae,,,
+wfo-1000082529,urn:lsid:ipni.org:names:77364235-1,Dryopteris nothosect. Shiopsis,Z.H.Feng,Plant 13(2): 82. 2025 [20 Jun 2025] [epublished],Dryopteridaceae,,,
+wfo-1000082530,urn:lsid:ipni.org:names:77364236-1,Dryopteris nothosect. Vavariae,Z.H.Feng,Plant 13(2): 82. 2025 [20 Jun 2025] [epublished],Dryopteridaceae,,,
+wfo-1200113580,urn:lsid:ipni.org:names:77364249-1,Danaea nothosubgen. Dalodanaea,Z.H.Feng,Plant 13(2): 84. 2025 [20 Jun 2025] [epublished],Marattiaceae,,,
+wfo-1200113581,urn:lsid:ipni.org:names:77364250-1,Danaea nothosubgen. Darodanaea,Z.H.Feng,Plant 13(2): 84. 2025 [20 Jun 2025] [epublished],Marattiaceae,,,
+wfo-1200113601,urn:lsid:ipni.org:names:77364365-1,Asplenium adiantum-nigrum var. cuneifolium,(Viv.) Pollini,Fl. Veron. 3: 288. 1824 ,Aspleniaceae,,Aspleniaceae Asplenium cuneifolium Viv.,(Viv.)
+wfo-1200101955,urn:lsid:ipni.org:names:77364367-1,Asplenium adiantum-nigrum subsp. cuneifolium,(Viv.) Asch.,Syn. Mitteleur. Fl. 1: 71. 1896 ,Aspleniaceae,,Aspleniaceae Asplenium cuneifolium Viv.,(Viv.)
+wfo-1000082657,urn:lsid:ipni.org:names:77364400-1,Dryopteris sect. Fibrillosae,Ching,Bull. Fan Mem. Inst. Biol. Bot. 8: 366. 1938 ,Dryopteridaceae,,,
+wfo-1000082658,urn:lsid:ipni.org:names:77364401-1,Dryopteris nothosect. Dryollosae,Z.H.Feng,Plant 13(2): 82. 2025 [20 Jun 2025] [epublished],Dryopteridaceae,,,
+wfo-1000082688,urn:lsid:ipni.org:names:77364459-1,Cornopteris × pseudobipinnata,(K.Hori) Z.H.Feng,Plant 13(2): 92. 2025 [20 Jun 2025] [epublished],Woodsiaceae,,Woodsiaceae Athyrium × pseudobipinnatum K.Hori,(K.Hori)
+wfo-1000082689,urn:lsid:ipni.org:names:77364460-1,Cornopteris × subchristenseniana,(K.Hori) Z.H.Feng,Plant 13(2): 92. 2025 [20 Jun 2025] [epublished],Woodsiaceae,,Woodsiaceae Athyrium × subchristensenianum K.Hori,(K.Hori)
+wfo-1000082714,urn:lsid:ipni.org:names:77364593-1,× Abacopterella jerdonii,(Ching) Z.H.Feng,Plant 13(2): 93. 2025 [20 Jun 2025] [epublished],Thelypteridaceae,,Thelypteridaceae Cyclosorus jerdonii Ching,(Ching)
+wfo-4100005931,urn:lsid:ipni.org:names:77364594-1,× Chririx,Z.H.Feng,Plant 13(2): 93. 2025 [20 Jun 2025] [epublished],Thelypteridaceae,,,
+wfo-1000082715,urn:lsid:ipni.org:names:77364595-1,× Chririx gogoii,(Fraser-Jenk.) Z.H.Feng,Plant 13(2): 93. 2025 [20 Jun 2025] [epublished],Thelypteridaceae,,Thelypteridaceae Thelypteris × gogoii Fraser-Jenk.,(Fraser-Jenk.)
+wfo-1000082716,urn:lsid:ipni.org:names:77364596-1,× Chririx thwaitesii,(Hook.) Z.H.Feng,Plant 13(2): 93. 2025 [20 Jun 2025] [epublished],Thelypteridaceae,,Thelypteridaceae Meniscium thwaitesii Hook.,(Hook.)
+wfo-1000082717,urn:lsid:ipni.org:names:77364597-1,× Chrismatopteris varievenulosa,(Viane) Z.H.Feng,Plant 13(2): 93. 2025 [20 Jun 2025] [epublished],Thelypteridaceae,,Thelypteridaceae Thelypteris × varievenulosa Viane,(Viane)
+wfo-1000082718,urn:lsid:ipni.org:names:77364598-1,× Christelliopsis nepalensis,(Fraser-Jenk.) Z.H.Feng,Plant 13(2): 94. 2025 [20 Jun 2025] [epublished],Thelypteridaceae,,Thelypteridaceae Thelypteris × nepalensis Fraser-Jenk.,(Fraser-Jenk.)
+wfo-1200102456,urn:lsid:ipni.org:names:77364599-1,Ceterach aureum var. parvifolium,Benl & G.Kunkel,Ber. Schweiz. Bot. Ges. 77: 262. 1967 ,Aspleniaceae,,,
+wfo-4100005932,urn:lsid:ipni.org:names:77364600-1,× Glaphyronisciopsis,Z.H.Feng,Plant 13(2): 94. 2025 [20 Jun 2025] [epublished],Thelypteridaceae,,,
+wfo-1000082719,urn:lsid:ipni.org:names:77364601-1,× Glaphyronisciopsis occulta,(C.Hope) Z.H.Feng,Plant 13(2): 94. 2025 [20 Jun 2025] [epublished],Thelypteridaceae,,Dryopteridaceae Nephrodium occultum C.Hope,(C.Hope)
+wfo-1200113632,urn:lsid:ipni.org:names:77364602-1,Grypothrix × pseudoliukiuensis,(Seriz.) Z.H.Feng,Plant 13(2): 94. 2025 [20 Jun 2025] [epublished],Thelypteridaceae,,Thelypteridaceae Thelypteris × pseudoliukiuensis Seriz.,(Seriz.)
+wfo-1200113493,urn:lsid:ipni.org:names:77364865-1,Equisetum mackayi nothosubsp. jesupii,(A.A.Eaton) A.Bizot & Pétrement,Adoxa (Brussels) 61: 18. 2009 [May 2009] ,Equisetaceae,,Equisetaceae Equisetum variegatum Schleich. ex F.Weber & D.Mohr var. jesupii A.A.Eaton in Gilbert,(A.A.Eaton)
+wfo-1000082786,urn:lsid:ipni.org:names:77364868-1,Triplophyllum juruenense,M.G.Nunes & Labiak,Phytotaxa 706(3): 290. 2025 [27 Jun 2025] [epublished],Dryopteridaceae,,,
+wfo-1200113707,urn:lsid:ipni.org:names:77364875-1,Pteris scalaris,Mett.,Abh. Senckenberg. Naturf. Ges. 2(2): 282. 1858 [10 Aug 1858] ,Pteridaceae,,,
+,17035390-1,Aspidium rotundatum,Vahl ex Hornem.,"De Indole Pl. Guin. 8. 1819 , nomen, as 'rotundato'",Dryopteridaceae,,,
+,17045850-1,Asplenium lanceolatum,Huds.,Fl. Angl. (Hudson) (ed. 2) 2: 454. 1778 ,Aspleniaceae,nom. illeg. later homonym,,
+,17303530-1,Asplenium lanceolatum,Peter,Repert. Spec. Nov. Regni Veg. Beih. 40(1): 72. 1929 ,Aspleniaceae,nom. illeg. later homonym,,
+,17574100-1,Asplenium dulongjiangense,Viane,Biol. Jaarb. 59: 160. 1992 [1991 publ. 25 Jun 1992] ,Aspleniaceae,nom. illeg. nom. superfl.,,
+,34307-2,Bolbitis stuebelii,(Hieron.) C.Chr.,"Index Filic., Suppl. Tert. 50. 1934 ",Lomariopsidaceae,,Dryopteridaceae Hypoderris stuebelii Hieron.,(Hieron.)
