@@ -1,0 +1,44 @@
+WFOID,IPNID,scientificName,authorship,namePublishedin,Family,nomenclaturalStatus,originalName,originalNameAuthor
+wfo-1000085022,urn:lsid:ipni.org:names:77368639-1,Cheilanthes borsigiana,Veitch ex R.Hogg & T.Moore,Florist & Pomol. 1863: 86. [early Jun 1863] ,Adiantaceae,,,
+wfo-1000085024,urn:lsid:ipni.org:names:77368641-1,Adiantum ghiesbreghtii,Backh. ex R.Hogg & T.Moore,Florist & Pomol. 1863: 164. [early Nov 1863] ,Adiantaceae,,,
+wfo-1000085027,urn:lsid:ipni.org:names:77368643-1,Adiantum tinctum,Veitch,Proc. Roy. Hort. Soc. London 2: 543. 1862 [after 1 Aug 1862] ,Adiantaceae,,,
+wfo-1000084707,urn:lsid:ipni.org:names:77368793-1,Pteris maclurei,Ching,Bull. Dept. Biol. Sun Yatsen Univ. 6. 28. 1933 ,Pteridaceae,,,
+wfo-1000085044,urn:lsid:ipni.org:names:77368933-1,Trichomanes anceps,W.Bull,Proc. Roy. Hort. Soc. London 3: 106. 1863 [after 1 Apr 1863] ,Hymenophyllaceae,,,
+wfo-1200114871,urn:lsid:ipni.org:names:77369008-1,Huperzia selago var. patens,(P.Beauv.) Soó,Acta Bot. Acad. Sci. Hung. 10: 369. 1964 ,Lycopodiaceae,"nom. inval.    , lacking full and direct basionym ref",Lycopodiaceae Plananthus patens P.Beauv.,(P.Beauv.)
+wfo-1200114801,urn:lsid:ipni.org:names:77369009-1,Huperzia selago var. laxa,(Desv.) Soó,Acta Bot. Acad. Sci. Hung. 10: 369. 1964 ,Lycopodiaceae,"nom. inval.    , basionym not valid",Lycopodiaceae Lycopodium selago L. var. laxum Desv.,(Desv.)
+wfo-1200103769,urn:lsid:ipni.org:names:77369010-1,Lycopodium selago var. laxum,Desv.,Mém. Soc. Linn. Paris 6(2): 180. 1827 ,Lycopodiaceae,"nom. inval.    , includes the type of L. selago L.",,
+wfo-1200114872,urn:lsid:ipni.org:names:77369011-1,Huperzia selago f. recurva,(Kit. ex Willd.) Soó,Acta Bot. Acad. Sci. Hung. 10: 369. 1964 ,Lycopodiaceae,,Lycopodiaceae Lycopodium recurvum Kit. ex Willd.,(Kit. ex Willd.)
+,urn:lsid:ipni.org:names:77369130-1,Equisetum arvense monstr. polystachyum,Milde,Nov. Actorum Acad. Caes. Leop.-Carol. Nat. Cur. 26(2): 424. 1858 ,Equisetaceae,,,
+wfo-1200114808,urn:lsid:ipni.org:names:77369135-1,Equisetum arvense lus. polystachyum,Asch. & Graebn.,Syn. Mitteleur. Fl. 1: 129. 1896 ,Equisetaceae,nom. illeg. later homonym,,
+wfo-1200114806,urn:lsid:ipni.org:names:77369136-1,Dryopteris austriaca f. leiophylla,Domin,"Věstn. Ceské Společn. Nauk, Tř. Mat.-Přír. 1941(21): 11. 1942 ",Dryopteridaceae,,,
+wfo-1200114807,urn:lsid:ipni.org:names:77369137-1,Dryopteris austriaca f. glanduligera,Domin,"Věstn. Ceské Společn. Nauk, Tř. Mat.-Přír. 1941(21): 11. 1942 ",Dryopteridaceae,,,
+wfo-1200114809,urn:lsid:ipni.org:names:77369142-1,Aspidium dilatatum f. latisectum,Waisb.,Oesterr. Bot. Z. 51: 127. 1901 [Apr 1901] ,Dryopteridaceae,,,
+wfo-1200114810,urn:lsid:ipni.org:names:77369143-1,Aspidium dilatatum f. angustisectum,Waisb.,Oesterr. Bot. Z. 51: 127. 1901 [Apr 1901] ,Dryopteridaceae,,,
+wfo-1200114811,urn:lsid:ipni.org:names:77369144-1,Aspidium dilatatum f. angustum,Waisb.,Magyar Bot. Lapok 3: 94. 1904 ,Dryopteridaceae,,,
+wfo-1200114812,urn:lsid:ipni.org:names:77369145-1,Aspidium dilatatum f. submuticum,Waisb.,Magyar Bot. Lapok 3: 94. 1904 ,Dryopteridaceae,,,
+wfo-1200114813,urn:lsid:ipni.org:names:77369146-1,Aspidium dilatatum f. nanum,Waisb.,Magyar Bot. Lapok 3: 94. 1904 ,Dryopteridaceae,,,
+wfo-1200114814,urn:lsid:ipni.org:names:77369148-1,Lastrea dilatata f. pumila,T.Moore,Brit. Ferns [T. Moore] 1: 232. 1859 ,Thelypteridaceae,,,
+wfo-1200114815,urn:lsid:ipni.org:names:77369149-1,Lastrea dilatata var. dumetorum,(Sm.) T.Moore,"Handb. Brit. Ferns, ed. 2 124. 1853 ",Thelypteridaceae,,Dryopteridaceae Aspidium dumetorum Sm.,(Sm.)
+wfo-1200114816,urn:lsid:ipni.org:names:77369150-1,Dryopteris dilatata var. dumetorum,(Sm.) Soó,Acta Bot. Acad. Sci. Hung. 10: 369. 1964 ,Dryopteridaceae,"nom. inval.    Contrary to Art. 41.5., ICN (2025), no full and direct reference to the basionym.",Dryopteridaceae Aspidium dumetorum Sm.,(Sm.)
+wfo-1000084794,urn:lsid:ipni.org:names:77369252-1,Dryopteris pycnolepis,Z.Y.Zuo & S.Y.Dong,PhytoKeys 263: 8. 2025 [15 Sep 2025] [epublished],Dryopteridaceae,,,
+wfo-1200114819,urn:lsid:ipni.org:names:77369267-1,Lastrea multiflora var. collina,Newman,"Hist. Brit. Ferns, ed. 2 144. 1844 ",Thelypteridaceae,,,
+wfo-1200103579,urn:lsid:ipni.org:names:77369278-1,Lastrea dilatata var. chanteriae,T.Moore,Ferns Gr. Brit. (Moore) sub t. XXIV. 1855 ,Thelypteridaceae,,,
+wfo-1200114824,urn:lsid:ipni.org:names:77369331-1,Equisetum arvense f. multispicatum,Soó,Acta Bot. Acad. Sci. Hung. 10: 369. 1964 ,Equisetaceae,,,
+wfo-1200114826,urn:lsid:ipni.org:names:77369332-1,Dryopteris dilatata f. glanduligera,(Domin) Soó,Acta Bot. Acad. Sci. Hung. 10: 369. 1964 ,Dryopteridaceae,,Dryopteridaceae Dryopteris austriaca (Jacq.) Woyn. ex Schinz & Thell. f. glanduligera Domin,(Domin)
+wfo-1200114827,urn:lsid:ipni.org:names:77369333-1,Dryopteris dilatata f. leiophylla,(Domin) Soó,Acta Bot. Acad. Sci. Hung. 10: 369. 1964 ,Dryopteridaceae,,Dryopteridaceae Dryopteris austriaca (Jacq.) Woyn. ex Schinz & Thell. f. leiophylla Domin,(Domin)
+wfo-1200114825,urn:lsid:ipni.org:names:77369334-1,Dryopteris dilatata f. angustisecta,(Waisb.) Soó,Acta Bot. Acad. Sci. Hung. 10: 369. 1964 ,Dryopteridaceae,,Dryopteridaceae Aspidium dilatatum (Hoffm.) Sm. f. angustisectum Waisb.,(Waisb.)
+wfo-1200114828,urn:lsid:ipni.org:names:77369335-1,Dryopteris dilatata f. latisecta,(Waisb.) Soó,Acta Bot. Acad. Sci. Hung. 10: 369. 1964 ,Dryopteridaceae,,Dryopteridaceae Aspidium dilatatum (Hoffm.) Sm. f. latisectum Waisb.,(Waisb.)
+wfo-1200114829,urn:lsid:ipni.org:names:77369342-1,Dryopteris dilatata f. angusta,(Waisb.) Soó,Acta Bot. Acad. Sci. Hung. 10: 369. 1964 ,Dryopteridaceae,,Dryopteridaceae Aspidium dilatatum (Hoffm.) Sm. f. angustum Waisb.,(Waisb.)
+wfo-1200114830,urn:lsid:ipni.org:names:77369344-1,Dryopteris dilatata f. nana,(Waisb.) Soó,Acta Bot. Acad. Sci. Hung. 10: 369. 1964 ,Dryopteridaceae,,Dryopteridaceae Aspidium dilatatum (Hoffm.) Sm. f. nanum Waisb.,(Waisb.)
+wfo-1200114831,urn:lsid:ipni.org:names:77369345-1,Dryopteris dilatata f. submutica,(Waisb.) Soó,Acta Bot. Acad. Sci. Hung. 10: 369. 1964 ,Dryopteridaceae,,Dryopteridaceae Aspidium dilatatum (Hoffm.) Sm. f. submuticum Waisb.,(Waisb.)
+wfo-1200114832,urn:lsid:ipni.org:names:77369346-1,Dryopteris dilatata f. pumila,(T.Moore) Soó,Acta Bot. Acad. Sci. Hung. 10: 369. 1964 ,Dryopteridaceae,,Thelypteridaceae Lastrea dilatata (Hoffm.) C.Presl f. pumila T.Moore,(T.Moore)
+wfo-1200114833,urn:lsid:ipni.org:names:77369347-1,Dryopteris dilatata var. chanteriae,(T.Moore) Soó,Acta Bot. Acad. Sci. Hung. 10: 369. 1964 ,Dryopteridaceae,"nom. inval.    Contrary to Art. 41.5. ICN (2025), no full and direct reference to the basionym",Thelypteridaceae Lastrea dilatata (Hoffm.) C.Presl var. chanteriae T.Moore,(T.Moore)
+wfo-1200114834,urn:lsid:ipni.org:names:77369348-1,Dryopteris dilatata var. collina,(Newman) Soó,Acta Bot. Acad. Sci. Hung. 10: 369. 1964 ,Dryopteridaceae,"nom. inval.    Contrary to Art. 41.5., ICN (2025): no full and direct reference to the basionym",Thelypteridaceae Lastrea multiflora Newman var. collina Newman,(Newman)
+wfo-1200114892,urn:lsid:ipni.org:names:77369349-1,Lastrea dilatata var. collina,(Newman) T.Moore,Handb. Brit. Ferns 59. 1848 ,Thelypteridaceae,,Thelypteridaceae Lastrea multiflora Newman var. collina Newman,(Newman)
+wfo-1000084928,urn:lsid:ipni.org:names:77369676-1,Microsorum katuae,(Brownlie) Sykes ex Heenan,New Zealand J. Bot. 63(5): 1350. 2025 [2 Feb 2025] [epublished],Polypodiaceae,,Dipteridaceae Phymatodes katuae Brownlie,(Brownlie)
+wfo-1000084948,urn:lsid:ipni.org:names:77369700-1,Cibotium × palmeri,Miles K.Thomas,Bishop Mus. Occas. Pap. 163: 238. 2025 [23 Sep 2025] [epublished],Dicksoniaceae,,,
+,urn:lsid:ipni.org:names:77369130-1,Equisetum arvense monstr. polystachyum,Milde,Nov. Actorum Acad. Caes. Leop.-Carol. Nat. Cur. 26(2): 424. 1858 ,Equisetaceae,,,
+wfo-1000072518,urn:lsid:ipni.org:names:17005070-1,Acrostichum norrisii,Ces.,Atti Reale Accad. Sci. Fis. 7(8): 31. 1876 ,Pteridaceae,,,
+wfo-1000071688,urn:lsid:ipni.org:names:17190070-1,Polypodium gramineum,Ces.,Atti Reale Accad. Sci. Fis. 7(8): 24. 1876 ,Polypodiaceae,,,
+wfo-1000073166,urn:lsid:ipni.org:names:17054030-1,Asplenium zeylanicum,Ces.,Atti Reale Accad. Sci. Fis. 7(8): 21. 1876 ,Aspleniaceae,,,
+wfo-1200101627,urn:lsid:ipni.org:names:77186683-1,Selaginella flabellata var. latifrons,A.Braun,"Ann. Sci. Nat., Bot. ser. 5, 3: 278. 1865 ",Selaginellaceae,,,
