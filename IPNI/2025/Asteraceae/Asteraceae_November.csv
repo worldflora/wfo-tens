@@ -1,0 +1,119 @@
+WFOID,IPNID,scientificName,authorship,namePublishedin,nomenclaturalStatus,originalName,originalNameAuthor
+wfo-4100001302,urn:lsid:ipni.org:names:77369925-1,subtrib. Ecliptinae,Less.,Linnaea 6: 153. 1831 ,,,
+wfo-1000085162,urn:lsid:ipni.org:names:77369927-1,Taraxacum diluculorum,"Vik.Kumar, Kirschner & Štěpánek",Phytotaxa 720(3): 268. 2025 [2 Oct 2025] [epublished],,,
+wfo-1000085151,urn:lsid:ipni.org:names:77369931-1,Dysodia sect. Boebera,DC.,Prodr. [A. P. de Candolle] 5: 640. 1836 ,,,
+wfo-1000085152,urn:lsid:ipni.org:names:77369932-1,Dysodia sect. Boeberoides,DC.,Prodr. [A. P. de Candolle] 5: 640. 1836 ,,,
+wfo-0000086369,urn:lsid:ipni.org:names:77369933-1,Boebera grandiflora,DC.,Prodr. [A. P. de Candolle] 5: 640. 1836 ,pro syn.    of Dysodia grandiflora DC. [Protologue shows 'Boebera grandiflora ic. fl. mex. ined. t. 635'],,
+wfo-1000085153,urn:lsid:ipni.org:names:77369934-1,Dysodia sect. Gymnolaena,DC.,Prodr. [A. P. de Candolle] 5: 641. 1836 ,,,
+wfo-1000085154,urn:lsid:ipni.org:names:77369935-1,Dysodia sect. Aciphyllaea,DC.,Prodr. [A. P. de Candolle] 5: 641. 1836 ,,,
+wfo-1000085155,urn:lsid:ipni.org:names:77369936-1,Dysodia porophylla,DC.,Prodr. [A. P. de Candolle] 5: 639. 1836 ,,,
+wfo-1200114922,urn:lsid:ipni.org:names:77369937-1,Dysodia porophylla var. radiata,DC.,Prodr. [A. P. de Candolle] 5: 639. 1836 ,,,
+wfo-1200114923,urn:lsid:ipni.org:names:77369938-1,Dysodia porophylla var. doscoidea,DC.,Prodr. [A. P. de Candolle] 5: 639. 1836 ,,,
+wfo-4100001286,urn:lsid:ipni.org:names:77369939-1,subtrib. Helianthinae,Dumort.,"Fl. Belg. (Dumortier) 71. 1827 , as 'Heliantheae'",,,
+wfo-1000085181,urn:lsid:ipni.org:names:77370199-1,Saussurea aksuensis,Tian Li & Y.S.Chen,Phytotaxa 721(2): 191. 2025 [7 Oct 2025] [epublished],,,
+wfo-1000085182,urn:lsid:ipni.org:names:77370202-1,Saussurea tianshanensis,Tian Li & Y.S.Chen,Phytotaxa 721(2): 193. 2025 [7 Oct 2025] [epublished],,,
+wfo-1000085183,urn:lsid:ipni.org:names:77370219-1,Shawia coriacea,(Kirk) Saldivia & Nicol,Phytoneuron 2025-49: 14. [11 Sep 2025] [epublished],,Asteraceae Olearia coriacea Kirk,(Kirk)
+wfo-0000078821,urn:lsid:ipni.org:names:77370220-1,Olearia nummulariifolia var. cymbifolia,Hook.f.,Handb. N. Zeal. Fl. 2: 732. 1867 [23 Feb 1867] ,,,
+wfo-1000085184,urn:lsid:ipni.org:names:77370221-1,Shawia cymbifolia,(Hook.f.) Saldivia & Nicol,Phytoneuron 2025-49: 14. [11 Sep 2025] ,,Asteraceae Olearia nummulariifolia Hook.f. var. cymbifolia Hook.f.,(Hook.f.)
+wfo-1000085185,urn:lsid:ipni.org:names:77370222-1,Shawia moschata,(Hook.f.) Saldivia & Nicol,Phytoneuron 2025-49: 14. [11 Sep 2025] ,,Asteraceae Olearia moschata Hook.f.,(Hook.f.)
+wfo-1000085186,urn:lsid:ipni.org:names:77370223-1,Shawia angulata,(Kirk) Saldivia & Nicol,Phytoneuron 2025-49: 15. [11 Sep 2025] ,,Asteraceae Olearia angulata Kirk,(Kirk)
+wfo-1000085187,urn:lsid:ipni.org:names:77370224-1,Shawia haastii,(Hook.f.) Saldivia & Nicol,Phytoneuron 2025-49: 15. [11 Sep 2025] ,,Asteraceae Olearia haastii Hook.f.,(Hook.f.)
+wfo-1000085188,urn:lsid:ipni.org:names:77370225-1,Shawia oleifolia,(Kirk) Saldivia & Nicol,Phytoneuron 2025-49: 15. [11 Sep 2025] ,,Asteraceae Olearia oleifolia Kirk,(Kirk)
+wfo-1000085189,urn:lsid:ipni.org:names:77370226-1,Shawia matthewsii,(P.Heenan) Saldivia & Nicol,Phytoneuron 2025-49: 15. [11 Sep 2025] ,,Asteraceae Olearia × matthewsii P.Heenan,(P.Heenan)
+wfo-1000085190,urn:lsid:ipni.org:names:77370227-1,Shawia sect. Kosteria,Saldivia & Nicol,Phytoneuron 2025-49: 15. [11 Sep 2025] ,,,
+wfo-1000085191,urn:lsid:ipni.org:names:77370229-1,Shawia dibrachiata,(D.J.N.Hind & R.J.Johns) Saldivia & Nicol,Phytoneuron 2025-49: 17. [11 Sep 2025] ,,Asteraceae Olearia dibrachiata D.J.N.Hind & R.J.Johns,(D.J.N.Hind & R.J.Johns)
+wfo-1000085192,urn:lsid:ipni.org:names:77370230-1,Shawia durifolia,(J.Kost.) Saldivia & Nicol,Phytoneuron 2025-49: 17. [11 Sep 2025] ,,Asteraceae Olearia durifolia J.Kost.,(J.Kost.)
+wfo-1000085193,urn:lsid:ipni.org:names:77370232-1,Shawia exilis,(S.Moore) Saldivia & Nicol,Phytoneuron 2025-49: 17. [11 Sep 2025] ,,Asteraceae Olearia exilis S.Moore,(S.Moore)
+wfo-1000085194,urn:lsid:ipni.org:names:77370233-1,Shawia floccosa,(J.Kost.) Saldivia & Nicol,Phytoneuron 2025-49: 17. [11 Sep 2025] ,,Asteraceae Olearia floccosa J.Kost.,(J.Kost.)
+wfo-1000085195,urn:lsid:ipni.org:names:77370234-1,Shawia heterolepis,(Mattf) Saldivia & Nicol,Phytoneuron 2025-49: 17. [11 Sep 2025] ,,Asteraceae Olearia heterolepis Mattf,(Mattf)
+wfo-1000085196,urn:lsid:ipni.org:names:77370236-1,Shawia heterotricha,(Mattf.) Saldivia & Nicol,Phytoneuron 2025-49: 18. [11 Sep 2025] ,,Asteraceae Olearia heterotricha Mattf.,(Mattf.)
+wfo-1000085197,urn:lsid:ipni.org:names:77370237-1,Shawia hooglandii,(J.Kost.) Saldivia & Nicol,Phytoneuron 2025-49: 18. [11 Sep 2025] ,,Asteraceae Olearia hooglandii J.Kost.,(J.Kost.)
+wfo-1000085198,urn:lsid:ipni.org:names:77370238-1,Shawia kernotii,(F.Muell.) Saldivia & Nicol,Phytoneuron 2025-49: 18. [11 Sep 2025] ,,Asteraceae Aster kernotii F.Muell.,(F.Muell.)
+wfo-1000085199,urn:lsid:ipni.org:names:77370239-1,Shawia lanata,(J.Kost.) Saldivia & Nicol,Phytoneuron 2025-49: 18. [11 Sep 2025] ,,Asteraceae Olearia lanata J.Kost.,(J.Kost.)
+wfo-1000085200,urn:lsid:ipni.org:names:77370240-1,Shawia lepidota,(Mattf.) Saldivia & Nicol,Phytoneuron 2025-49: 18. [11 Sep 2025] ,,Asteraceae Olearia lepidota Mattf.,(Mattf.)
+wfo-1200114942,urn:lsid:ipni.org:names:77370242-1,Shawia lepidota var. sarawaketensis,(Mattf.) Saldivia & Nicol,Phytoneuron 2025-49: 18. [11 Sep 2025] ,,Asteraceae Olearia sarawaketensis Mattf.,(Mattf.)
+wfo-1200068422,urn:lsid:ipni.org:names:77370243-1,Olearia lepidota var. opaca,J.Kost.,"Nova Guinea, Bot. 24: 552. 1966 ",,,
+wfo-1200114943,urn:lsid:ipni.org:names:77370244-1,Shawia lepidota var. opaca,(J.Kost.) Saldivia & Nicol,Phytoneuron 2025-49: 18. [11 Sep 2025] ,,Asteraceae Olearia lepidota Mattf. var. opaca J.Kost.,(J.Kost.)
+wfo-1000085201,urn:lsid:ipni.org:names:77370245-1,Shawia leptocephala,(J.Kost.) Saldivia & Nicol,Phytoneuron 2025-49: 18. [11 Sep 2025] ,,Asteraceae Olearia leptocephala J.Kost.,(J.Kost.)
+wfo-1000085215,urn:lsid:ipni.org:names:77370259-1,Shawia monticola,(F.M.Bailey) Saldivia & Nicol,Phytoneuron 2025-49: 18. [11 Sep 2025] [epublished],,Asteraceae Olearia monticola F.M.Bailey,(F.M.Bailey)
+wfo-1200068455,urn:lsid:ipni.org:names:77370260-1,Olearia monticola var. grandifolia,J.Kost.,"Nova Guinea, Bot. 24: 532. 1966 ",,,
+wfo-1200114951,urn:lsid:ipni.org:names:77370261-1,Shawia monticola var. grandifolia,(J.Kost.) Saldivia & Nicol,Phytoneuron 2025-49: 18. [11 Sep 2025] [epublished],,Asteraceae Olearia monticola F.M.Bailey var. grandifolia J.Kost.,(J.Kost.)
+wfo-1200068500,urn:lsid:ipni.org:names:77370264-1,Olearia monticola var. cuneata,J.Kost.,"Nova Guinea, Bot. 24: 532. 1966 ",,,
+wfo-1200114952,urn:lsid:ipni.org:names:77370265-1,Shawia monticola var. cuneata,(J.Kost.) Saldivia & Nicol,Phytoneuron 2025-49: 18. [11 Sep 2025] [epublished],,Asteraceae Olearia monticola F.M.Bailey var. cuneata J.Kost.,(J.Kost.)
+wfo-1000085217,urn:lsid:ipni.org:names:77370268-1,Shawia pachycephala,(J.Kost.) Saldivia & Nicol,Phytoneuron 2025-49: 19. [11 Sep 2025] [epublished],,Asteraceae Olearia pachycephala J.Kost.,(J.Kost.)
+wfo-1000085218,urn:lsid:ipni.org:names:77370269-1,Shawia pallida,(J.Kost.) Saldivia & Nicol,Phytoneuron 2025-49: 19. [11 Sep 2025] [epublished],,Asteraceae Olearia pallida J.Kost.,(J.Kost.)
+wfo-1000085219,urn:lsid:ipni.org:names:77370270-1,Shawia platyphylla,(Mattf.) Saldivia & Nicol,Phytoneuron 2025-49: 19. [11 Sep 2025] [epublished],,Asteraceae Olearia platyphylla Mattf.,(Mattf.)
+wfo-1200114953,urn:lsid:ipni.org:names:77370271-1,Shawia platyphylla var. cinerea,(Mattf.) Saldivia & Nicol,Phytoneuron 2025-49: 19. [11 Sep 2025] [epublished],,Asteraceae Olearia cinerea Mattf.,(Mattf.)
+wfo-1200068262,urn:lsid:ipni.org:names:77370272-1,Olearia platyphylla var. microcephala,J.Kost.,"Nova Guinea, Bot. 24: 555. 1966 ",,,
+wfo-1200114954,urn:lsid:ipni.org:names:77370273-1,Shawia platyphylla var. microcephala,(J.Kost.) Saldivia & Nicol,Phytoneuron 2025-49: 19. [11 Sep 2025] [epublished],,Asteraceae Olearia platyphylla Mattf. var. microcephala J.Kost.,(J.Kost.)
+wfo-1000085220,urn:lsid:ipni.org:names:77370274-1,Shawia rufa,(J.Kost.) Saldivia & Nicol,Phytoneuron 2025-49: 19. [11 Sep 2025] [epublished],,Asteraceae Olearia rufa J.Kost.,(J.Kost.)
+wfo-1000085221,urn:lsid:ipni.org:names:77370276-1,Shawia spectabilis,(J.Kost.) Saldivia & Nicol,Phytoneuron 2025-49: 19. [11 Sep 2025] [epublished],,Asteraceae Olearia spectabilis J.Kost.,(J.Kost.)
+wfo-1000085222,urn:lsid:ipni.org:names:77370277-1,Shawia velutina,(J.Kost.) Saldivia & Nicol,Phytoneuron 2025-49: 19. [11 Sep 2025] [epublished],,Asteraceae Olearia velutina J.Kost.,(J.Kost.)
+wfo-1000085223,urn:lsid:ipni.org:names:77370278-1,Shawia vernonioides,(C.T.White & W.D.Francis) Saldivia & Nicol,Phytoneuron 2025-49: 19. [11 Sep 2025] [epublished],,Asteraceae Olearia vernonioides C.T.White & W.D.Francis,(C.T.White & W.D.Francis)
+wfo-1000085225,urn:lsid:ipni.org:names:77370280-1,Eurybia sect. Cardiostigma,F.Muell.,"Veg. Chatham-Isl. 19, 21. 1864 ",,,
+wfo-1000085226,urn:lsid:ipni.org:names:77370281-1,Shawia sect. Cardiostigma,Saldivia & Nicol,Phytoneuron 2025-49: 20. [11 Sep 2025] ,,Asteraceae Eurybia sect. Cardiostigma F.Muell.,
+wfo-1000085224,urn:lsid:ipni.org:names:77370282-1,Shawia traversiorum,(F.Muell.) Saldivia & Nicol,Phytoneuron 2025-49: 21. [11 Sep 2025] [epublished],,Asteraceae Eurybia traversiorum F.Muell.,(F.Muell.)
+wfo-1000085227,urn:lsid:ipni.org:names:77370283-1,Shawia telmatica,(Heenan & de Lange) Saldivia & Nicol,Phytoneuron 2025-49: 21. [11 Sep 2025] [epublished],,Asteraceae Olearia telmatica Heenan & de Lange,(Heenan & de Lange)
+wfo-1000085228,urn:lsid:ipni.org:names:77370284-1,Shawia fragrantissima,(Petrie) Saldivia & Nicol,Phytoneuron 2025-49: 23. [11 Sep 2025] [epublished],,Asteraceae Olearia fragrantissima Petrie,(Petrie)
+wfo-1000085229,urn:lsid:ipni.org:names:77370285-1,Shawia adenocarpa,(Molloy & Heenan) Saldivia & Nicol,Phytoneuron 2025-49: 23. [11 Sep 2025] [epublished],,Asteraceae Olearia adenocarpa Molloy & Heenan,(Molloy & Heenan)
+wfo-1000085230,urn:lsid:ipni.org:names:77370286-1,Shawia bullata,(H.D.Wilson & Garn.-Jones) Saldivia & Nicol,Phytoneuron 2025-49: 23. [11 Sep 2025] [epublished],,Asteraceae Olearia bullata H.D.Wilson & Garn.-Jones,(H.D.Wilson & Garn.-Jones)
+wfo-1000085231,urn:lsid:ipni.org:names:77370287-1,Shawia fimbriata,(Heads) Saldivia & Nicol,Phytoneuron 2025-49: 23. [11 Sep 2025] [epublished],,Asteraceae Olearia fimbriata Heads,(Heads)
+wfo-1000085232,urn:lsid:ipni.org:names:77370288-1,Shawia gardneri,(Heads) Saldivia & Nicol,Phytoneuron 2025-49: 24. [11 Sep 2025] [epublished],,Asteraceae Olearia gardneri Heads,(Heads)
+wfo-1000085233,urn:lsid:ipni.org:names:77370289-1,Shawia hectorii,(Hook.f.) Saldivia & Nicol,Phytoneuron 2025-49: 24. [11 Sep 2025] [epublished],,Asteraceae Olearia hectorii Hook.f.,(Hook.f.)
+wfo-1000085234,urn:lsid:ipni.org:names:77370290-1,Shawia laxiflora,(Kirk) Saldivia & Nicol,Phytoneuron 2025-49: 24. [11 Sep 2025] [epublished],,Asteraceae Olearia laxiflora Kirk,(Kirk)
+wfo-0000108199,urn:lsid:ipni.org:names:77370291-1,Olearia virgata var. lineata,Kirk,Stud. Fl. New Zealand 276. 1899 ,,,
+wfo-1000085235,urn:lsid:ipni.org:names:77370292-1,Shawia lineata,(Kirk) Saldivia & Nicol,Phytoneuron 2025-49: 24. [11 Sep 2025] [epublished],,Asteraceae Olearia virgata Hook.f. var. lineata Kirk,(Kirk)
+wfo-1000085237,urn:lsid:ipni.org:names:77370293-1,Shawia odorata,(Petrie) Saldivia & Nicol,Phytoneuron 2025-49: 24. [11 Sep 2025] [epublished],,Asteraceae Olearia odorata Petrie,(Petrie)
+wfo-1000085238,urn:lsid:ipni.org:names:77370294-1,Shawia polita,(H.D.Wilson & Garn.-Jones) Saldivia & Nicol,Phytoneuron 2025-49: 24. [11 Sep 2025] [epublished],,Asteraceae Olearia polita H.D.Wilson & Garn.-Jones,(H.D.Wilson & Garn.-Jones)
+wfo-1000085239,urn:lsid:ipni.org:names:77370295-1,Shawia sect. Pachystegia,(Cheeseman) Saldivia & Nicol,Phytoneuron 2025-49: 25. [11 Sep 2025] [epublished],,Asteraceae Pachystegia Cheeseman,(Cheeseman)
+wfo-1000085240,urn:lsid:ipni.org:names:77370296-1,Shawia insignis,(Hook.f.) Saldivia & Nicol,Phytoneuron 2025-49: 27. [11 Sep 2025] [epublished],,Asteraceae Olearia insignis Hook.f.,(Hook.f.)
+wfo-1000085241,urn:lsid:ipni.org:names:77370297-1,Shawia minor,Saldivia & Nicol,Phytoneuron 2025-49: 27. [11 Sep 2025] [epublished],,Asteraceae Olearia insignis Hook.f. var. minor Cheeseman,
+wfo-1000085242,urn:lsid:ipni.org:names:77370298-1,Shawia rufescens,Saldivia & Nicol,Phytoneuron 2025-49: 27. [11 Sep 2025] [epublished],,,
+wfo-1000085243,urn:lsid:ipni.org:names:77370299-1,Shawia sect. Adenolaria,Saldivia & Nicol,Phytoneuron 2025-49: 27. [11 Sep 2025] [epublished],,,
+wfo-1000085244,urn:lsid:ipni.org:names:77370300-1,Shawia sect. Neozelandica,Saldivia & Nicol,Phytoneuron 2025-49: 28. [11 Sep 2025] [epublished],,,
+wfo-1000085249,urn:lsid:ipni.org:names:77370301-1,Shawia cheesemanii,(Cockayne & Allan) Saldivia & Nicol,Phytoneuron 2025-49: 29. [11 Sep 2025] [epublished],,Asteraceae Olearia cheesemanii Cockayne & Allan,(Cockayne & Allan)
+wfo-1000085245,urn:lsid:ipni.org:names:77370302-1,Shawia crebra,(E.K.Cameron & Heenan) Saldivia & Nicol,Phytoneuron 2025-49: 29. [11 Sep 2025] [epublished],,Asteraceae Olearia crebra E.K.Cameron & Heenan,(E.K.Cameron & Heenan)
+wfo-1000085246,urn:lsid:ipni.org:names:77370303-1,Shawia crosbysmithiana,(Petrie) Saldivia & Nicol,Phytoneuron 2025-49: 29. [11 Sep 2025] [epublished],,Asteraceae Olearia crosby-smithiana Petrie,(Petrie)
+wfo-1000085250,urn:lsid:ipni.org:names:77370313-1,Shawia ilicifolia,(Hook.f.) Saldivia & Nicol,Phytoneuron 2025-49: 30. [11 Sep 2025] [epublished],,Asteraceae Olearia ilicifolia Hook.f.,(Hook.f.)
+wfo-1000085251,urn:lsid:ipni.org:names:77370314-1,Shawia lacunosa,(Hook.f.) Saldivia & Nicol,Phytoneuron 2025-49: 30. [11 Sep 2025] [epublished],,Asteraceae Olearia lacunosa Hook.f.,(Hook.f.)
+wfo-1000085252,urn:lsid:ipni.org:names:77370315-1,Shawia quinquevulnera,(Heenan) Saldivia & Nicol,Phytoneuron 2025-49: 30. [11 Sep 2025] [epublished],,Asteraceae Olearia quinquevulnera Heenan,(Heenan)
+wfo-1000085253,urn:lsid:ipni.org:names:77370316-1,Shawia rani,(A.Cunn.) Saldivia & Nicol,Phytoneuron 2025-49: 30. [11 Sep 2025] [epublished],,Asteraceae Brachyglottis rani A.Cunn.,(A.Cunn.)
+wfo-1000085254,urn:lsid:ipni.org:names:77370317-1,Shawia capillaris,(Buchanan) Saldivia & Nicol,Phytoneuron 2025-49: 30. [11 Sep 2025] [epublished],,Asteraceae Olearia capillaris Buchanan,(Buchanan)
+wfo-1000085255,urn:lsid:ipni.org:names:77370319-1,Shawia excorticata,(Buchanan) Saldivia & Nicol,Phytoneuron 2025-49: 31. [11 Sep 2025] [epublished],,Asteraceae Olearia excorticata Buchanan,(Buchanan)
+wfo-1000085256,urn:lsid:ipni.org:names:77370320-1,Shawia macrodonta,(Baker) Saldivia & Nicol,Phytoneuron 2025-49: 31. [11 Sep 2025] [epublished],,Asteraceae Olearia macrodonta Baker,(Baker)
+wfo-0000104503,urn:lsid:ipni.org:names:77370321-1,Olearia ilicifolia var. mollis,Kirk,Stud. Fl. New Zealand 269. 1899 ,,,
+wfo-1000085257,urn:lsid:ipni.org:names:77370322-1,Shawia mollis,(Kirk) Saldivia & Nicol,Phytoneuron 2025-49: 31. [11 Sep 2025] [epublished],,Asteraceae Olearia ilicifolia Hook.f. var. mollis Kirk,(Kirk)
+wfo-1000085258,urn:lsid:ipni.org:names:77370323-1,Shawia suavis,(Cheeseman) Saldivia & Nicol,Phytoneuron 2025-49: 31. [11 Sep 2025] [epublished],,Asteraceae Olearia suavis Cheeseman,(Cheeseman)
+wfo-1000085259,urn:lsid:ipni.org:names:77370324-1,Shawia sect. Australiaster,Saldivia & Nicol,Phytoneuron 2025-49: 31. [11 Sep 2025] [epublished],,,
+wfo-1000085260,urn:lsid:ipni.org:names:77370325-1,Shawia aglossa,(Maiden & Betche) Saldivia & Nicol,Phytoneuron 2025-49: 32. [11 Sep 2025] [epublished],,Asteraceae Olearia alpicola (F.Muell.) Benth. var. aglossa Maiden & Betche,(Maiden & Betche)
+wfo-1000085261,urn:lsid:ipni.org:names:77370326-1,Shawia alpicola,(F.Muell.) Saldivia & Nicol,Phytoneuron 2025-49: 32. [11 Sep 2025] [epublished],,Asteraceae Eurybia alpicola F.Muell.,(F.Muell.)
+wfo-1000085262,urn:lsid:ipni.org:names:77370327-1,Shawia archeri,(Lander) Saldivia & Nicol,Phytoneuron 2025-49: 32. [11 Sep 2025] [epublished],,Asteraceae Olearia archeri Lander,(Lander)
+wfo-1000085263,urn:lsid:ipni.org:names:77370328-1,Shawia covenyi,(Lander) Saldivia & Nicol,Phytoneuron 2025-49: 32. [11 Sep 2025] [epublished],,Asteraceae Olearia covenyi Lander,(Lander)
+wfo-1000085265,urn:lsid:ipni.org:names:77370329-1,Shawia grandiflora,(Hook.) Saldivia & Nicol,Phytoneuron 2025-49: 33. [11 Sep 2025] [epublished],,Asteraceae Olearia grandiflora Hook.,(Hook.)
+wfo-1000085264,urn:lsid:ipni.org:names:77370330-1,Shawia megalophylla,(F.Muell.) Saldivia & Nicol,Phytoneuron 2025-49: 33. [11 Sep 2025] [epublished],,Asteraceae Eurybia megalophylla F.Muell.,(F.Muell.)
+wfo-1000085266,urn:lsid:ipni.org:names:77370331-1,Shawia mooneyi,(F.Muell.) Saldivia & Nicol,Phytoneuron 2025-49: 33. [11 Sep 2025] [epublished],,Asteraceae Aster mooneyi F.Muell.,(F.Muell.)
+wfo-1000085267,urn:lsid:ipni.org:names:77370332-1,Shawia oliganthema,(F.Muell. ex Benth.) Saldivia & Nicol,Phytoneuron 2025-49: 33. [11 Sep 2025] [epublished],,Asteraceae Olearia oliganthema F.Muell. ex Benth.,(F.Muell. ex Benth.)
+wfo-1000085268,urn:lsid:ipni.org:names:77370333-1,Shawia oppositifolia,(F.Muell.) Saldivia & Nicol,Phytoneuron 2025-49: 34. [11 Sep 2025] [epublished],,Asteraceae Eurybia oppositifolia F.Muell.,(F.Muell.)
+wfo-1000085269,urn:lsid:ipni.org:names:77370334-1,Shawia pannosa,(Hook.) Saldivia & Nicol,Phytoneuron 2025-49: 34. [11 Sep 2025] [epublished],,Asteraceae Olearia pannosa Hook.,(Hook.)
+wfo-1200114955,urn:lsid:ipni.org:names:77370335-1,Shawia pannosa subsp. cardiophylla,(F.Muell.) Saldivia & Nicol,Phytoneuron 2025-49: 34. [11 Sep 2025] [epublished],,Asteraceae Eurybia cardiophylla F.Muell.,(F.Muell.)
+wfo-1000085270,urn:lsid:ipni.org:names:77370336-1,Shawia speciosa,(Hutch.) Saldivia & Nicol,Phytoneuron 2025-49: 34. [11 Sep 2025] [epublished],,Asteraceae Olearia speciosa Hutch.,(Hutch.)
+wfo-1000085271,urn:lsid:ipni.org:names:77370337-1,Shawia stilwelliae,(Blakely) Saldivia & Nicol,Phytoneuron 2025-49: 34. [11 Sep 2025] [epublished],,Asteraceae Olearia stilwelliae Blakely,(Blakely)
+wfo-1000085281,urn:lsid:ipni.org:names:77370501-1,Wedelia riopardensis,V.R.Bueno & Zavatin,Phytotaxa 722(1): 5. 2025 [10 Oct 2025] [epublished],,,
+wfo-1000085282,urn:lsid:ipni.org:names:77370502-1,Wedelia egleri,(J.U.Santos) V.R.Bueno,Phytotaxa 722(1): 9. 2025 [10 Oct 2025] [epublished],,Asteraceae Aspilia egleri J.U.Santos,(J.U.Santos)
+wfo-1200115158,urn:lsid:ipni.org:names:77370540-1,Leontodon hispidus var. pseudincanus,Hayek,"Denkschr. Kaiserl. Akad. Wiss., Wien. Math.-Naturwiss. Kl. 94: 199. 1918 ",,,
+wfo-1200115019,urn:lsid:ipni.org:names:77370541-1,Podospermum jacquinianum var. tenuissimum,Borbás,Ertek. Természettud. Köréb. Magyar Tud. Akad. 11(18): 71. 1881 ,,,
+wfo-1000085430,urn:lsid:ipni.org:names:77370763-1,Pyrrocoma catenaria,G.L.Nesom,Phytoneuron 2025-51: 15. [7 Oct 2025] [epublished],,,
+wfo-0000080120,urn:lsid:ipni.org:names:77370796-1,Leontodon hispidus subsp. pseudoincanus,(Hayek) Soó,Acta Bot. Acad. Sci. Hung. 10: 375. 1964 ,"nom. inval.    , basionym ref. lacking year",Asteraceae Leontodon hispidus L. var. pseudincanus Hayek,(Hayek)
+wfo-1200115168,urn:lsid:ipni.org:names:77370797-1,Podospermum canum var. tenuissimum,(Borbás) Soó,Acta Bot. Acad. Sci. Hung. 10: 375. 1964 ,,Asteraceae Podospermum jacquinianum W.D.J.Koch var. tenuissimum Borbás,(Borbás)
+wfo-1200115163,urn:lsid:ipni.org:names:77370827-1,Gyptis oblongifolia,(Spreng.) Rebouças & Grossi,Phytotaxa 722(2): 192. 2025 [14 Oct 2025] [epublished],,Asteraceae Conyza oblongifolia Spreng.,(Spreng.)
+wfo-1000085469,urn:lsid:ipni.org:names:77370831-1,Ayapana sprucei,(B.L.Rob.) X.M.Wei,Phytotaxa 722(3): 299. 2025 [15 Oct 2025] [epublished],,Asteraceae Eupatorium sprucei B.L.Rob.,(B.L.Rob.)
+wfo-1000085472,urn:lsid:ipni.org:names:77370832-1,Leontodon montecristensis,"Foggi, N.Kilian, Landi & Zoccola",Pl. Biosystems 159(5): 990. 2025 [02 Jun 2025] [epublished],,,
+wfo-1000085473,urn:lsid:ipni.org:names:77370833-1,Leontodon sect. Montecristenses,N.Kilian & Foggi,Pl. Biosystems 159(5): 992. 2025 [02 Jun 2025] [epublished],,,
+wfo-0000109254,urn:lsid:ipni.org:names:77370849-1,Saussurea taraxacifolia var. depressa,Hook.f.,Fl. Brit. India 3(Fasc. 8): 369. 1881 [Mar 1881] ,,,
+wfo-1000085506,urn:lsid:ipni.org:names:77370963-1,Cosmos harkerae,Art.Castro & Aarón Rodr.,Phytotaxa 725(1): 92. 2025 [21 Oct 2025] [epublished],,,
+wfo-1000085550,urn:lsid:ipni.org:names:77371018-1,Sinosenecio ranunculoides,"Z.H.Chen, Yue Liang Xu & X.F.Jin",Phytotaxa 725(2): 177. 2025 [23 Oct 2025] [epublished],,,
+wfo-1000085553,urn:lsid:ipni.org:names:77371020-1,Inula erzurumica,Yapar,Phytotaxa 725(2): 197. 2025 [23 Oct 2025] [epublished],,,
+wfo-1000085559,urn:lsid:ipni.org:names:77371033-1,Jungia alba,Revilla & Quip.,Nordic J. Bot. 2025(10)-e04806: 2. [05 Aug 2025] [epublished],,,
+wfo-1000085562,urn:lsid:ipni.org:names:77371037-1,Blumea calcicola,Xiong Li & K.W.Luo,Nordic J. Bot. 2025(10)-e04833: 2. [11 Aug 2025] [epublished],,,
+wfo-1000085616,urn:lsid:ipni.org:names:77371259-1,Dorobaea linearifolia,Montesin. & Pruski,PhytoKeys 265: 149. 2025 [30 Oct 2025] [epublished],,,
+wfo-4100006301,urn:lsid:ipni.org:names:77371269-1,subtrib. Artemisiinae,Less.,"Linnaea 5: 163. 1830 , as 'Artemisieae'",,,
