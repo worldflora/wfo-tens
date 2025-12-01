@@ -1,7 +1,4 @@
 WFOID,IPNID,scientificName,authorship,namePublishedin,nomenclaturalStatus,originalName,originalNameAuthor
-wfo-0001077575,urn:lsid:ipni.org:names:77370807-1,Hibiscus ovatus var. angustifolius,Eckl. & Zeyh.,Enum. Pl. Afric. Austral. [Ecklon & Zeyher] 38. 1835 ,,,
-wfo-1200097825,urn:lsid:ipni.org:names:77370808-1,Hibiscus aethiopicus var. diversifolius,Harv.,Fl. Cap. (Harvey) 1: 174. 1860 ,nom. illeg. nom. superfl.,,
-wfo-1000085495,urn:lsid:ipni.org:names:77370848-1,Hibiscus vivicans,W.Bull,"Gard. Chron. n.s., 3(no. 72): 619, column 1. 1875 [15 Mai 1875] ",,,
-wfo-1200115174,urn:lsid:ipni.org:names:77370969-1,Hibiscus rosa-sinensis var. vivicans,(W.Bull) W.Bull,Cat. (Bull) 199: 52. 1884 ,,Malvaceae Hibiscus vivicans W.Bull,(W.Bull)
-wfo-1200115181,urn:lsid:ipni.org:names:77371011-1,Malva zebrina,hort. ex Heer & Regel,Schweiz. Z. Gartenbau 4(11): 161. 1846 [Nov 1846] ,,,
-wfo-1200115197,urn:lsid:ipni.org:names:77371293-1,Malva lateritia,hort. ex Regel,Schweiz. Z. Gartenbau 9(9): 164. 1851 [Sep 1851] ,nom. illeg. later homonym,,
+wfo-1200115663,urn:lsid:ipni.org:names:77371634-1,Althaea officinalis var. pseudarmeniaca,Polg.,Bot. Közlem. 38: 291. 1941 ,,,
+wfo-1200115854,urn:lsid:ipni.org:names:77372485-1,Urena lobata var. scabriuscula,(DC.) A.Gray,"U.S. Expl. Exped., Phan. 169. 1854 ; alt. publ.: Bot. Wilkes U.S. Expl. Exp. 169. 1854",,Malvaceae Urena scabriuscula DC.,(DC.)
+wfo-1200115855,urn:lsid:ipni.org:names:77372486-1,Urena lobata var. tomentosa,Walp.,Nov. Actorum Acad. Caes. Leop.-Carol. Nat. Cur. 19(Suppl. 1): 304. 1843 ,,,

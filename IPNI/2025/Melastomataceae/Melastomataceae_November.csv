@@ -1,4 +1,21 @@
 WFOID,IPNID,scientificName,authorship,namePublishedin,nomenclaturalStatus,originalName,originalNameAuthor
-wfo-1000085503,urn:lsid:ipni.org:names:77370059-1,Marcetia insignis,D.Nunes & P.J.F.Guim.,Bot. Lett. 172: [6 of 12]. 2025 [16 Oct 2025] [epublished],,,
-wfo-1000085504,urn:lsid:ipni.org:names:77370060-1,Fritzschia orientimontana,D.Nunes & P.J.F.Guim.,Bot. Lett. 172: [3 of 12]. 2025 [16 Oct 2025] [epublished],,,
-wfo-1000085275,urn:lsid:ipni.org:names:77370387-1,Gravesia gautieri,Almeda & R.B.Pacifico,Phytotaxa 721(3): 289. 2025 [8 Oct 2025] [epublished],,,
+wfo-1000083389,urn:lsid:ipni.org:names:77366067-1,Allodissotis splendens,(A.Chev. & Jacq.-Fél.) Ver.-Lib. & Burgt,Taxon 74(4): 868. 2025 [26 Apr 2025] [epublished],,Melastomataceae Dissotis splendens A.Chev. & Jacq.-Fél.,(A.Chev. & Jacq.-Fél.)
+wfo-1000083390,urn:lsid:ipni.org:names:77366069-1,Paleodissotis leonensis,(Hutch. & Dalziel) Ver.-Lib. & Burgt,Taxon 74(4): 868. 2025 [26 Apr 2025] [epublished],,Melastomataceae Dissotis leonensis Hutch. & Dalziel,(Hutch. & Dalziel)
+wfo-1000086117,urn:lsid:ipni.org:names:77371612-1,Bredia jiuwanshanensis,J.H.Dai & Ying Liu,PhytoKeys 266: 15. 2025 [6 Nov 2025] [epublished],,,
+wfo-1000086119,urn:lsid:ipni.org:names:77371613-1,Bredia macrophylla,J.H.Dai & Ying Liu,PhytoKeys 266: 18. 2025 [6 Nov 2025] [epublished],,,
+wfo-1000086120,urn:lsid:ipni.org:names:77371615-1,Bredia micrantha,(C.Chen) J.H.Dai & Ying Liu,PhytoKeys 266: 21. 2025 [6 Nov 2025] [epublished],,Melastomataceae Phyllagathis fordii (Hance) C.Chen var. micrantha C.Chen,(C.Chen)
+wfo-1000086121,urn:lsid:ipni.org:names:77371616-1,Bredia pingshanensis,J.H.Dai & Ying Liu,PhytoKeys 266: 23. 2025 [6 Nov 2025] [epublished],,,
+wfo-1000086193,urn:lsid:ipni.org:names:77371882-1,Lijndenia phyllanthifolia,(Thwaites ex Bedd.) R.D.Stone,Phytotaxa 728(1): 34. 2025 [11 Nov 2025] [epublished],,Melastomataceae Memecylon phyllanthifolium Thwaites ex Bedd.,(Thwaites ex Bedd.)
+wfo-1000086278,urn:lsid:ipni.org:names:77372150-1,Blakea viridis,R.-Regalado & Michelang.,Phytotaxa 730(1): 104. 2025 [18 Nov 2025] [epublished],,,
+wfo-1000086299,urn:lsid:ipni.org:names:77372187-1,Pleroma × venosum,F.S.Mey. & M.A.Yamam.,Phytotaxa 730(2): 165. 2025 [19 Nov 2025] [epublished],,,
+wfo-1000086300,urn:lsid:ipni.org:names:77372188-1,Allomaieta melidae,"J.S.Murillo, Posada-Herrera, Orozco-A & Sierra-Gir.",Phytotaxa 730(2): 178. 2025 [19 Nov 2025] [epublished],,,
+wfo-1000086301,urn:lsid:ipni.org:names:77372189-1,Allomaieta peltata,"J.S.Murillo, Posada-Herrera, Orozco-A & Sierra-Gir.",Phytotaxa 730(2): 182. 2025 [19 Nov 2025] [epublished],,,
+wfo-1000086310,urn:lsid:ipni.org:names:77372162-1,Microlicia integra,"R.B.Pacifico, Almeda & R.Goldenb.",PhytoKeys 266: 254. 2025 [19 Nov 2025] [epublished],,,
+wfo-1000086311,urn:lsid:ipni.org:names:77372163-1,Microlicia flavistyla,"R.B.Pacifico, Almeda & R.Goldenb.",PhytoKeys 266: 259. 2025 [19 Nov 2025] [epublished],,,
+wfo-1000086346,urn:lsid:ipni.org:names:77365683-1,Microlicia inconspicua,R.B.Pacifico & Almeda,Kew Bull. 80(4): [3 of 7]. 2025 [21 Nov 2025] [epublished],,,
+wfo-1200115671,urn:lsid:ipni.org:names:77371611-1,Bredia esquirolii var. rubra,J.H.Dai & Ying Liu,PhytoKeys 266: 9. 2025 [6 Nov 2025] [epublished],,,
+wfo-1200115672,urn:lsid:ipni.org:names:77371614-1,Bredia macrophylla var. pulchella,(C.Chen) J.H.Dai & Ying Liu,PhytoKeys 266: 21. 2025 [6 Nov 2025] [epublished],,Melastomataceae Phyllagathis longiradiosa C.Chen var. pulchella C.Chen,(C.Chen)
+wfo-1200115805,urn:lsid:ipni.org:names:77371879-1,Memecylon phyllanthifolium,Thwaites ex Trimen,Handb. Fl. Ceylon 2: 219. 1894 ,,,
+wfo-1200115814,urn:lsid:ipni.org:names:77371881-1,Memecylon phyllanthifolium,Thwaites ex Bedd.,Fl. Sylv. S. India Forester's Man. Bot.: cxvi. 1872 [Jun 1872] ,,,
+wfo-4100005948,urn:lsid:ipni.org:names:77366066-1,Allodissotis,Ver.-Lib. & Burgt,Taxon 74(4): 868. 2025 [26 Apr 2025] [epublished],,,
+wfo-4100005949,urn:lsid:ipni.org:names:77366068-1,Paleodissotis,(Jacq.-Fél.) Ver.-Lib. & Burgt,Taxon 74(4): 868. 2025 [26 Apr 2025] [epublished],,Melastomataceae Dissotis subgen. Paleodissotis Jacq.-Fél.,(Jacq.-Fél.)

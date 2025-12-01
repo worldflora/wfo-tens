@@ -1,4 +1,15 @@
 WFOID,IPNID,scientificName,authorship,namePublishedin,nomenclaturalStatus,originalName,originalNameAuthor
-wfo-1000085165,urn:lsid:ipni.org:names:77370052-1,Vaccinium kilangense,Pelser & Barcelona,"Phytotaxa 721(1): 76. 2025 [3 Oct 2025] [epublished], as 'kilangensis'",Termination of specific epithet amended as per Art. 23.5. ICN (2025).,,
-wfo-1000085519,urn:lsid:ipni.org:names:77370976-1,Agarista eugeniifolia,Dalastra & G.Heiden,Nordic J. Bot. 2025(9)-e04769: 2. [27 May 2025] [epublished],,,
-wfo-1000085593,urn:lsid:ipni.org:names:77371287-1,Erica × boeckmannii,Regel,"Schweiz. Z. Gartenbau 9(7): 132. 1851 [Jul 1851] , as 'Boeckmanni'",,,
+wfo-1000086067,urn:lsid:ipni.org:names:77371617-1,Ceratostema ingridportillae,"A.Doucette, H.Medina & J.Portilla",Andreettana 1(2): 5. 2025 [15 Apr 2025] [epublished],,,
+wfo-1000086068,urn:lsid:ipni.org:names:77371618-1,Ceratostema pepeportillae,A.Doucette & H.Medina,Andreettana 1(2): 8. 2025 [15 Apr 2025] [epublished],,,
+wfo-1000086069,urn:lsid:ipni.org:names:77371619-1,Ceratostema alexportillae,"A.Doucette, H.Medina & J.Portilla",Andreettana 1(2): 11. 2025 [15 Apr 2025] [epublished],,,
+wfo-1000086075,urn:lsid:ipni.org:names:77371627-1,Plutarchia portillae,A.Doucette & H.Medina,Andreettana 1(2): 35. 2025 [15 Apr 2025] [epublished],,,
+wfo-1000086076,urn:lsid:ipni.org:names:77371628-1,Sphyrospermum kakabadseae,"A.Doucette, H.Medina & J.Portilla",Andreettana 1(2): 41. 2025 [15 Apr 2025] [epublished],,,
+wfo-1000086077,urn:lsid:ipni.org:names:77371629-1,Sphyrospermum juanpabloi,"A.Doucette, H.Medina & J.Portilla",Andreettana 1(2): 44. 2025 [15 Apr 2025] [epublished],,,
+wfo-1000086079,urn:lsid:ipni.org:names:77360339-1,Sphyrospermum croatii,"A.Doucette, H.Medina & J.Portilla",Andreettana 1(2): 38. 2025 [15 Apr 2025] [epublished],,,
+wfo-1000086095,urn:lsid:ipni.org:names:77371656-1,Ceratostema josecaamanoi,"A.Doucette, H.Medina & J.Portilla",Andreettana 1(4): 56. 2025 [15 Oct 2025] [epublished],,,
+wfo-1000086096,urn:lsid:ipni.org:names:77371654-1,Macleania gigiportillae,"A.Doucette, H.Medina & J.Portilla",Andreettana 1(4): 59. 2025 [15 Oct 2025] [epublished],,,
+wfo-1000086150,urn:lsid:ipni.org:names:77371640-1,Vaccinium bidoupense,"Smitinand ex Y.H.Tong, N.T.T.Huong & Tagane",PhytoKeys 266: 80. 2025 [7 Nov 2025] [epublished],,,
+wfo-1000086260,urn:lsid:ipni.org:names:77372091-1,Agapetes wenpeiana,B.Yang bis & Y.H.Tan,Taiwania 70(4): 710. 2025 [7 Nov 2025] [epublished],,,
+wfo-1000086261,urn:lsid:ipni.org:names:77372092-1,Agapetes mingyuaniana,"H.B.Ding, B.Yang bis & Y.H.Tan",Taiwania 70(4): 713. 2025 [7 Nov 2025] [epublished],,,
+wfo-1200115666,urn:lsid:ipni.org:names:77371658-1,Cavendishia isernii var. ecuagenera,"A.Doucette, H.Medina & J.Portilla",Andreettana 1(4): 62. 2025 [15 Oct 2025] [epublished],,,
+wfo-1200115713,urn:lsid:ipni.org:names:77372510-1,Ceratostema gualaquizensis var. lucida,(Cornejo & Luteyn) Cornejo & Luteyn,J. Bot. Res. Inst. Texas 19(1): 35. 2025 [10 Mar 2025] [epublished],"nom. inval.    Contrary to Art. 41.5., ICN (2025): basionym cited in text of article, but only a page range is given for the basionym reference.",Ericaceae Ceratostema portillae Cornejo & Luteyn var. lucida Cornejo & Luteyn,(Cornejo & Luteyn)

@@ -1,22 +1,62 @@
 WFOID,IPNID,scientificName,authorship,namePublishedin,Family,nomenclaturalStatus,originalName,originalNameAuthor
-wfo-1200114928,urn:lsid:ipni.org:names:77370062-1,Oxytropis pilosa var. hungarica,Borbás,Oesterr. Bot. Z. 43: 362. 1893 [Oct 1893] ,Leguminosae,,,
-wfo-1200115049,urn:lsid:ipni.org:names:77370063-1,Glycyrrhiza glabra subsp. glandulifera,(Waldst. & Kit.) Soó,Acta Bot. Acad. Sci. Hung. 10: 370. 1964 ,Leguminosae,,Leguminosae Glycyrrhiza glandulifera Waldst. & Kit.,(Waldst. & Kit.)
-wfo-1200114957,urn:lsid:ipni.org:names:77370064-1,Vicia cracca var. transiens,Soó,Bot. Közlem. 36: 309. 1939 ,Leguminosae,,,
-wfo-0001061788,urn:lsid:ipni.org:names:77370174-1,Lathyrus transsylvanicus,(Spreng.) Rchb.f.,"Icon. Fl. Germ. Helv. (H.G.L. Reichenbach) 22: t. 220, f. IV. 1886 ",Fabaceae,,Fabaceae Orobus transsylvanicus Spreng.,(Spreng.)
-wfo-1200114934,urn:lsid:ipni.org:names:77370185-1,Lotus tenuis var. microphyllus,(Hausskn. ex Asch. & Graebn.) Soó,Acta Bot. Acad. Sci. Hung. 11: 251. 1965 ,Leguminosae,,Fabaceae Lotus corniculatus L. var. microphyllus Hausskn. ex Asch. & Graebn.,(Hausskn. ex Asch. & Graebn.)
-wfo-1200114941,urn:lsid:ipni.org:names:77370200-1,Anthyllis macrocephala f. sanguinea,Soó,Acta Bot. Acad. Sci. Hung. 10: 370. 1964 ,Leguminosae,,,
-wfo-1200114940,urn:lsid:ipni.org:names:77370201-1,Anthyllis macrocephala var. leiotricha,(Borbás) Soó,Acta Bot. Acad. Sci. Hung. 10: 370. 1964 ,Leguminosae,,Caryophyllaceae Anthyllis leiotricha Borbás,(Borbás)
-wfo-1200114936,urn:lsid:ipni.org:names:77370206-1,Tetragonolobus maritimus f. salinus,(Schur) Soó,Acta Bot. Acad. Sci. Hung. 10: 370. 1964 ,Leguminosae,,Leguminosae Tetragonolobus siliquosus Roth var. salinus Schur,(Schur)
-wfo-1200115059,urn:lsid:ipni.org:names:77370207-1,Lotus pedunculatus var. villosus,(Lamotte) Soó,Acta Bot. Acad. Sci. Hung. 10: 370. 1964 ,Leguminosae,,Leguminosae Lotus uliginosus Schkuhr var. villosus Lamotte,(Lamotte)
-wfo-1200115063,urn:lsid:ipni.org:names:77370304-1,Oxytropis pilosa subsp. hungarica,(Borbás) Soó,Acta Bot. Acad. Sci. Hung. 10: 370. 1964 ,Leguminosae,,Leguminosae Oxytropis pilosa DC. var. hungarica Borbás,(Borbás)
-wfo-1200114956,urn:lsid:ipni.org:names:77370305-1,Vicia tenuifolia var. transiens,(Soó) Soó,Acta Bot. Acad. Sci. Hung. 10: 371. 1964 ,Leguminosae,,Leguminosae Vicia cracca L. var. transiens Soó,(Soó)
-wfo-0000209550,urn:lsid:ipni.org:names:77370306-1,Lathyrus laevigatus subsp. transsylvanicus,(Spreng.) Soó,Acta Bot. Acad. Sci. Hung. 10: 371. 1964 ,Fabaceae,,Fabaceae Orobus transsylvanicus Spreng.,(Spreng.)
-wfo-1200115208,urn:lsid:ipni.org:names:77370339-1,Lotus tenuis var. microphyllus,(Hausskn. ex Asch. & Graebn.) Soó,Acta Bot. Acad. Sci. Hung. 10: 370. 1964 ,Leguminosae,,Fabaceae Lotus corniculatus L. var. microphyllus Hausskn. ex Asch. & Graebn.,(Hausskn. ex Asch. & Graebn.)
-wfo-1000002773,urn:lsid:ipni.org:names:77370347-1,Lathyrus laevigatus,(Waldst. & Kit.) Gren.,"Mém. Soc. Émul. Doubs sér. 3, 10: 193. 1865 ",Fabaceae,,Leguminosae Orobus laevigatus Waldst. & Kit.,(Waldst. & Kit.)
-wfo-1200115207,urn:lsid:ipni.org:names:77370672-1,Mimosa bicolor,Laun.,Bon Jard. 481. 1806 ,Leguminosae,,,
-wfo-1000085496,urn:lsid:ipni.org:names:77370842-1,Astragalus dalahuensis,"Avazzadeh, Bagheri & Maassoumi",Pl. Biosystems 159(5): 1255. 2025 [20 Jul 2025] [epublished],Leguminosae,,,
-wfo-1000085515,urn:lsid:ipni.org:names:77370973-1,Acacia yinnetharra,Maslin & A.J.G.Wilson,Nuytsia 36: 61. 2025 [8 Jul 2025] [epublished],Mimosaceae,,,
-wfo-1000085533,urn:lsid:ipni.org:names:77370992-1,Oxytropis oyunmaae,Munkht. & Baasanm.,Nordic J. Bot. 2025(10)-e04853: 3. [12 Jul 2025] [epublished],Leguminosae,,,
-wfo-1000085554,urn:lsid:ipni.org:names:77371021-1,Apios brevis,K.W.Jiang & B.Pan bis,Phytotaxa 725(2): 207. 2025 [23 Oct 2025] [epublished],Fabaceae,,,
-wfo-1000085676,urn:lsid:ipni.org:names:77371286-1,Aotus wuerthii,Regel,Schweiz. Z. Gartenbau 9(7): 129. 1851 [Jul 1851] ,Leguminosae,,,
-wfo-1200115198,urn:lsid:ipni.org:names:77371294-1,Lupinus moritzianus,hort. ex Regel,Schweiz. Z. Gartenbau 9(9): 167. 1851 [Sep 1851] ,Leguminosae,,,
+wfo-0000191155,urn:lsid:ipni.org:names:77371888-1,Medicago obscura subsp. helix,(Willd.) Urb.,Verh. Bot. Vereins Prov. Brandenburg 15: 66. 1873 ,Leguminosae,,Leguminosae Medicago helix Willd.,(Willd.)
+wfo-0000191158,urn:lsid:ipni.org:names:77371904-1,Medicago obscura subsp. tornata,Willd. & Urb.,Verh. Bot. Vereins Prov. Brandenburg 15: 66. 1873 ,Leguminosae,nom. superfl.,,
+wfo-0001062290,urn:lsid:ipni.org:names:77371641-1,Lathyrus platyphyllos,(Retz.) W.D.J.Koch,"Syn. Fl. Germ. Helv., ed. 2 443. 1843 ",Fabaceae,,Leguminosae Lathyrus sylvestris L. var. platyphyllos Retz.,(Retz.)
+wfo-0001446878,urn:lsid:ipni.org:names:77371896-1,Medicago helix var. inermis,Lowe,Man. Fl. Madeira 164. 1862 ,Leguminosae,,,
+wfo-0001447070,urn:lsid:ipni.org:names:77371887-1,Medicago obscura f. sinistrorsa,Urb.,Verh. Bot. Vereins Prov. Brandenburg 15: 66. 1873 ,Leguminosae,,,
+wfo-0001447071,urn:lsid:ipni.org:names:77371899-1,Medicago obscura f. sinistrorsa,Urb.,Verh. Bot. Vereins Prov. Brandenburg 15: 66. 1873 ,Leguminosae,,,
+wfo-0001447077,urn:lsid:ipni.org:names:77371916-1,Medicago obscura var. inermis,(Lowe) Urb.,Verh. Bot. Vereins Prov. Brandenburg 15: 66. 1873 ,Leguminosae,,Leguminosae Medicago helix Willd. var. inermis Lowe,(Lowe)
+wfo-0001447078,urn:lsid:ipni.org:names:77371885-1,Medicago obscura var. inermis,Urb.,Verh. Bot. Vereins Prov. Brandenburg 15: 66. 1873 ,Leguminosae,,,
+wfo-0001447079,urn:lsid:ipni.org:names:77371905-1,Medicago obscura var. inermis,Urb.,Verh. Bot. Vereins Prov. Brandenburg 15: 66. 1873 ,Leguminosae,,,
+wfo-0001447080,urn:lsid:ipni.org:names:77371884-1,Medicago obscura subsp. lenticularis,(Desr.) Urb.,Verh. Bot. Vereins Prov. Brandenburg 15: 66. 1873 ,Leguminosae,,Leguminosae Medicago lenticularis Desr.,(Desr.)
+wfo-0001447082,urn:lsid:ipni.org:names:77371909-1,Medicago obscura var. muricata,Urb.,Verh. Bot. Vereins Prov. Brandenburg 15: 67. 1873 ,Leguminosae,,,
+wfo-1000080957,urn:lsid:ipni.org:names:77360860-1,Colutea alepica,Sepp,Bloemk. Woordenb. 96. 1821 ,Leguminosae,nom. illeg. nom. superfl.,,
+wfo-1000083558,urn:lsid:ipni.org:names:77366781-1,Senna rionegrensis,A.G.Lima & V.C.Souza,Brittonia 77(3): 325. 2025 [7 Jul 2025] [epublished],Caesalpiniaceae,,,
+wfo-1000083572,urn:lsid:ipni.org:names:77366805-1,Swartzia neglecta,"Torke, L.K.Ruíz, Idarraga & Mansano",Brittonia 77(3): 351. 2025 [25 Jun 2025] [epublished],Fabaceae,,,
+wfo-1000084933,urn:lsid:ipni.org:names:77369682-1,Caragana sericophylla,"Subh.Bhattach., Sameer Patil & Sushil K.Singh",Phytotaxa 718(4): 298. 2025 [24 Sep 2025] [epublished],Leguminosae,,,
+wfo-1000085964,urn:lsid:ipni.org:names:77371491-1,Macropsychanthus echidna,Fonseca-Cortés & L.P.Queiroz,Syst. Bot. 50(2): 122. 2025 [21 Aug 2025] [epublished],Leguminosae,,,
+wfo-1000086022,urn:lsid:ipni.org:names:77371532-1,Chamaecrista speluncae,(H.S.Irwin & Barneby) K.Miranda & Rando,Phytotaxa 725(2): 138. 2025 [23 Oct 2025] [epublished],Caesalpiniaceae,,Leguminosae Cassia ochnacea Vogel var. speluncae H.S.Irwin & Barneby,(H.S.Irwin & Barneby)
+wfo-1000086023,urn:lsid:ipni.org:names:77371531-1,Chamaecrista craspedoneura,(Harms) K.Miranda & Rando,Phytotaxa 725(2): 135. 2025 [23 Oct 2025] [epublished],Caesalpiniaceae,,Leguminosae Cassia craspedoneura Harms,(Harms)
+wfo-1000086029,urn:lsid:ipni.org:names:77371567-1,Apios calcicola,Z.C.Lu & B.Pan bis,Phytotaxa 726(3): 195. 2025 [04 Nov 2025] [epublished],Fabaceae,,,
+wfo-1000086065,urn:lsid:ipni.org:names:77371484-1,Oxytropis jamsranii,Munkht. & Baasanm.,PhytoKeys 265: 258. 2025 [4 Nov 2025] [epublished],Leguminosae,,,
+wfo-1000086101,urn:lsid:ipni.org:names:77371665-1,Ancistrotropis pulchra,"F.S.Santos, Snak & L.P.Queiroz",Phytotaxa 726(4): 273. 2025 [06 Nov 2025] [epublished],Fabaceae,,,
+wfo-1000086123,urn:lsid:ipni.org:names:77371686-1,Spirotropis fusca,"C.H.Stirt., Gregório & D.B.O.S.Cardoso",Taxon 74(3): 582. 2025 [28 Feb 2025] [epublished],Leguminosae,,,
+wfo-1000086124,urn:lsid:ipni.org:names:77371687-1,Spirotropis nitida,(Benth.) Gregório & D.B.O.S.Cardoso,Taxon 74(3): 588. 2025 [28 Feb 2025] [epublished],Leguminosae,,Leguminosae Diplotropis nitida Benth.,(Benth.)
+wfo-1000086125,urn:lsid:ipni.org:names:77371688-1,Spirotropis paradoxa,(Sandwith) Gregório & D.B.O.S.Cardoso,Taxon 74(3): 592. 2025 [28 Feb 2025] [epublished],Leguminosae,,Fabaceae Clathrotropis paradoxa Sandwith,(Sandwith)
+wfo-1000086127,urn:lsid:ipni.org:names:77371690-1,Spirotropis rosea,(M.Yu.Gontsch. & Povydysh) Gregório & D.B.O.S.Cardoso,Taxon 74(3): 594. 2025 [28 Feb 2025] [epublished],Leguminosae,,Leguminosae Clathrotropis rosea M.Yu.Gontsch. & Povydysh,(M.Yu.Gontsch. & Povydysh)
+wfo-1000086130,urn:lsid:ipni.org:names:77371701-1,Indigofera sect. Nudicaules,du Preez & Schrire,Taxon 74(4): 834. 2025 [9 May 2025] [epublished],Leguminosae,,,
+wfo-1000086131,urn:lsid:ipni.org:names:77371702-1,Indigofera subsect. Stipulatae,du Preez & Schrire,Taxon 74(4): 839. 2025 [9 May 2025] [epublished],Leguminosae,,,
+wfo-1000086132,urn:lsid:ipni.org:names:77371703-1,Indigofera subsect. Graciles,du Preez & Schrire,Taxon 74(4): 839. 2025 [9 May 2025] [epublished],Leguminosae,,,
+wfo-1000086133,urn:lsid:ipni.org:names:77371704-1,Indigofera subsect. Barkeranae,du Preez & Schrire,Taxon 74(4): 841. 2025 [9 May 2025] [epublished],Leguminosae,,,
+wfo-1000086134,urn:lsid:ipni.org:names:77371706-1,Indigofera subsect. Brachystachyae,du Preez & Schrire,Taxon 74(4): 847. 2025 [9 May 2025] [epublished],Leguminosae,,,
+wfo-1000086135,urn:lsid:ipni.org:names:77371707-1,Indigofera subsect. Filicaules,du Preez & Schrire,Taxon 74(4): 847. 2025 [9 May 2025] [epublished],Leguminosae,,,
+wfo-1000086136,urn:lsid:ipni.org:names:77371708-1,Indigofera subsect. Alopecuroideae,du Preez & Schrire,Taxon 74(4): 848. 2025 [9 May 2025] [epublished],Leguminosae,,,
+wfo-1000086137,urn:lsid:ipni.org:names:77371709-1,Indigofera sect. Cytisoidae,du Preez & Schrire,Taxon 74(4): 851. 2025 [9 May 2025] [epublished],Leguminosae,,,
+wfo-1000086138,urn:lsid:ipni.org:names:77371705-1,Indigofera sect. Merxmuelleranae,du Preez & Schrire,Taxon 74(4): 842. 2025 [9 May 2025] [epublished],Leguminosae,,,
+wfo-1000086148,urn:lsid:ipni.org:names:77371725-1,Colutea aethiopica,Laun.,Bon Jard. 1804: 498 ('496'). ,Leguminosae,nom. illeg. nom. superfl.,,
+wfo-1000086195,urn:lsid:ipni.org:names:77371890-1,Caragana tomentosa,(Blatt. & Hallb.) X.Y.Cui & Z.X.Zhang,Phytotaxa 728(1): 77. 2025 [11 Nov 2025] [epublished],Leguminosae,,Leguminosae Calophaca tomentosa Blatt. & Hallb.,(Blatt. & Hallb.)
+wfo-1000086196,urn:lsid:ipni.org:names:77371891-1,Caragana wolgarica,(L.f.) X.Y.Cui & Z.X.Zhang,Phytotaxa 728(1): 77. 2025 [11 Nov 2025] [epublished],Leguminosae,,Leguminosae Cytisus wolgaricus L.f.,(L.f.)
+wfo-1000086197,urn:lsid:ipni.org:names:77371892-1,Caragana hebecarpa,X.Y.Cui & Z.X.Zhang,Phytotaxa 728(1): 77. 2025 [11 Nov 2025] [epublished],Leguminosae,,,
+wfo-1000086198,urn:lsid:ipni.org:names:77371893-1,Caragana magniflora,X.Y.Cui & Z.X.Zhang,Phytotaxa 728(1): 77. 2025 [11 Nov 2025] [epublished],Leguminosae,,,
+wfo-1000086199,urn:lsid:ipni.org:names:77371894-1,Caragana reticosa,X.Y.Cui & Z.X.Zhang,Phytotaxa 728(1): 77. 2025 [11 Nov 2025] [epublished],Leguminosae,,,
+wfo-1000086200,urn:lsid:ipni.org:names:77371895-1,Caragana sericifera,X.Y.Cui & Z.X.Zhang,Phytotaxa 728(1): 82. 2025 [11 Nov 2025] [epublished],Leguminosae,,,
+wfo-1000086201,urn:lsid:ipni.org:names:77371898-1,Caragana junggarica,X.Y.Cui & Z.X.Zhang,Phytotaxa 728(1): 82. 2025 [11 Nov 2025] [epublished],Leguminosae,,,
+wfo-1000086207,urn:lsid:ipni.org:names:77371923-1,Ancistrotropis obliquifolia,"(Mart. ex Benth.) F.S.Santos, Snak & A.Delgado",Phytotaxa 728(2): 206. 2025 [12 Nov 2025] [epublished],Fabaceae,,Leguminosae Phaseolus obliquifolius Mart. ex Benth.,(Mart. ex Benth.)
+wfo-1000086312,urn:lsid:ipni.org:names:77372165-1,Astragalus zibaishanensis,P.L.Liu & Xun,PhytoKeys 266: 270. 2025 [19 Nov 2025] [epublished],Leguminosae,,,
+wfo-1000086360,urn:lsid:ipni.org:names:77372497-1,Kennedia volubilis,Lally,Austrobaileya 15: 35. 2025 [3 Sep 2025] [epublished],Fabaceae,,,
+wfo-1200041926,urn:lsid:ipni.org:names:77371902-1,Medicago obscura f. sinistrorsa,Urb.,Verh. Bot. Vereins Prov. Brandenburg 15: 66. 1873 ,Leguminosae,,,
+wfo-1200041927,urn:lsid:ipni.org:names:77371907-1,Medicago obscura f. sinistrorsa,Urb.,Verh. Bot. Vereins Prov. Brandenburg 15: 67. 1873 ,Leguminosae,,,
+wfo-1200041928,urn:lsid:ipni.org:names:77371911-1,Medicago obscura f. sinistrorsa,Urb.,Verh. Bot. Vereins Prov. Brandenburg 15: 67. 1873 ,Leguminosae,,,
+wfo-1200115661,urn:lsid:ipni.org:names:77371603-1,Vicia freyniana subsp. gigantea,Behçet & Gülbasan,KSÜ Tarim Doğa Derg. 27(2): 326. 2023 [31 Oct 2023] ,Leguminosae,nom. inval.    Contrary to Art. 40.3. ICN (2025). Two gatherings cited.,,
+wfo-1200115676,urn:lsid:ipni.org:names:77371886-1,Medicago obscura f. dextrorsa,Urb.,Verh. Bot. Vereins Prov. Brandenburg 15: 66. 1873 ,Leguminosae,,,
+wfo-1200115895,urn:lsid:ipni.org:names:77371910-1,Medicago obscura f. dextrorsa,Urb.,Verh. Bot. Vereins Prov. Brandenburg 15: 67. 1873 ,Leguminosae,,,
+wfo-1200115893,urn:lsid:ipni.org:names:77371901-1,Medicago obscura f. dextrorsa,Urb.,Verh. Bot. Vereins Prov. Brandenburg 15: 66. 1873 ,Leguminosae,,,
+wfo-1200115892,urn:lsid:ipni.org:names:77371897-1,Medicago obscura f. dextrorsa,Urb.,Verh. Bot. Vereins Prov. Brandenburg 15: 66. 1873 ,Leguminosae,,,
+wfo-1200115894,urn:lsid:ipni.org:names:77371906-1,Medicago obscura f. dextrorsa,Urb.,Verh. Bot. Vereins Prov. Brandenburg 15: 67. 1873 ,Leguminosae,,,
+wfo-1200115784,urn:lsid:ipni.org:names:77371660-1,Chamaecrista sect. Adenophyllum,"(H.S.Irwin & Barneby) M.Cota, Rando & L.P.Queiroz",Bot. J. Linn. Soc. 209(2): 157. 2025 [5 Mar 2025] [epublished],Caesalpiniaceae,,Leguminosae Cassia subsect. Adenophyllum H.S.Irwin & Barneby,(H.S.Irwin & Barneby)
+wfo-1200115785,urn:lsid:ipni.org:names:77371662-1,Chamaecrista sect. Otophyllum,"(H.S.Irwin & Barneby) M.Cota, Rando & L.P.Queiroz",Bot. J. Linn. Soc. 209(2): 160. 2025 [5 Mar 2025] [epublished],Caesalpiniaceae,,Leguminosae Cassia subsect. Otophyllum H.S.Irwin & Barneby,(H.S.Irwin & Barneby)
+wfo-1200115791,urn:lsid:ipni.org:names:77371724-1,Colutea alepica,Laun.,Bon Jard. 1804: 497. ,Leguminosae,,,
+wfo-1200115807,urn:lsid:ipni.org:names:77371903-1,Medicago tornata,Willd.,"Sp. Pl., ed. 4. 3(2): 1409. 1802 [1-10 Nov 1802] ",Leguminosae,,,
+wfo-1200115808,urn:lsid:ipni.org:names:77371908-1,Medicago muricata,Willd.,"Sp. Pl., ed. 4. 3(2): 1414. 1802 [1-10 Nov 1802] ",Leguminosae,,,
+wfo-1200115809,urn:lsid:ipni.org:names:77371889-1,Medicago obscura var. aculeata,Guss.,Verh. Bot. Vereins Prov. Brandenburg 15: 66. 1873 ,Leguminosae,,,
+wfo-1200115810,urn:lsid:ipni.org:names:77371900-1,Medicago obscura var. aculeata,Guss. & Urb.,Verh. Bot. Vereins Prov. Brandenburg 15: 66. 1873 ,Leguminosae,,,

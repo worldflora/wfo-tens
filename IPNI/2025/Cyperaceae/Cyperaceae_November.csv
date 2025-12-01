@@ -1,5 +1,45 @@
 WFOID,IPNID,scientificName,authorship,namePublishedin,nomenclaturalStatus,originalName,originalNameAuthor
-wfo-1200114920,urn:lsid:ipni.org:names:77369913-1,Eleocharis geniculata var. kundalica,Wad.Khan & Sardesai,Bioinfolet 8(1): 9. 2011 [Mar 2011] ,,,
-wfo-1000085178,urn:lsid:ipni.org:names:77369915-1,Eleocharis zatei,Wad.Khan & Lakshmin.,Bioinfolet 8(1): 5. 2011 [Mar 2011] ,,,
-wfo-1200114921,urn:lsid:ipni.org:names:77369916-1,Eleocharis atropurpurea var. vengurlaensis,R.I.Shaikh & R.D.Taur,Bioinfolet 8(1): 7. 2011 [Mar 2011] ,,,
-wfo-1200115017,urn:lsid:ipni.org:names:77370695-1,Carex humida var. orhonensis,L.Q.Zhao & Y.Xin,Adansonia 47(10): 158. 2025 [30 Jun 2025] [epublished],,,
+wfo-0000368915,urn:lsid:ipni.org:names:77372360-1,Cyperus brevifolius f. vaginatus,Valck.Sur.,"Cyperus Mal. Arch. 47. 1898 [24 Jun 1898] , as 'vaginata'",,,
+wfo-0000369373,urn:lsid:ipni.org:names:77372580-1,Cyperus cartilagineus var. laevissimus,(Cherm.) Kük.,"Pflanzenr. (Engler) IV, 20(Heft 101): 609. 1936 ",,Cyperaceae Kyllinga alba Nees var. laevissima Cherm.,(Cherm.)
+wfo-0000369592,urn:lsid:ipni.org:names:77372167-1,Cyperus ciliatopilosus var. longifolius,(Kük.) Kük.,"Pflanzenr. (Engler) IV, 20(Heft 101): 571. 1936 [24 Nov 1936] ",,Cyperaceae Kyllinga platyphylla K.Schum. var. longifolia Kük.,(Kük.)
+wfo-0000370206,urn:lsid:ipni.org:names:77372592-1,Cyperus controversus var. subexalatus,(C.B.Clarke) Kük.,"Pflanzenr. (Engler) IV, 20(Heft 101): 612. 1936 ",,Cyperaceae Kyllinga controversa Steud. var. subexalata C.B.Clarke,(C.B.Clarke)
+wfo-0000372862,urn:lsid:ipni.org:names:77372357-1,Cyperus erectus f. minor,Kük.,"Pflanzenr. (Engler) IV, 20(Heft 101): 590. 1936 [24 Nov 1936] ",,,
+wfo-0000372879,urn:lsid:ipni.org:names:77372358-1,Cyperus erectus var. pleiocarpus,(Kük.) Kük.,"Pflanzenr. (Engler) IV, 20(Heft 101): 589. 1936 [24 Nov 1936] ",,Cyperaceae Kyllinga erecta Schumach. var. pleiocarpa Kük.,(Kük.)
+wfo-0000373122,urn:lsid:ipni.org:names:77372168-1,Cyperus eximius var. kelleri,(C.B.Clarke) Kük.,"Pflanzenr. (Engler) IV, 20(Heft 101): 568. 1936 [24 Nov 1936] ",,Cyperaceae Kyllinga eximia C.B.Clarke var. kelleri C.B.Clarke,(C.B.Clarke)
+wfo-0000376037,urn:lsid:ipni.org:names:77372568-1,Cyperus kyllingia f. humilis,(Boeckeler) Kük.,"Pflanzenr. (Engler) IV, 20(Heft 101): 608. 1936 ",,Cyperaceae Kyllinga monocephala Sieber ex Steud. var. humilis Boeckeler,(Boeckeler)
+wfo-0000376066,urn:lsid:ipni.org:names:77372593-1,Cyperus kyllingia f. tenuis,(Boeckeler) Kük.,"Pflanzenr. (Engler) IV, 20(Heft 101): 608. 1936 ",,Cyperaceae Kyllinga monocephala Sieber ex Steud. var. tenuis Boeckeler,(Boeckeler)
+wfo-0000377634,urn:lsid:ipni.org:names:77372361-1,Cyperus melanospermus var. plurifoliatus,(Kük.) Kük.,"Pflanzenr. (Engler) IV, 20(Heft 101): 585. 1936 [24 Nov 1936] ",,Cyperaceae Kyllinga melanosperma Nees var. plurifoliata Kük.,(Kük.)
+wfo-0000381359,urn:lsid:ipni.org:names:77365301-1,Cyperus richardii var. angustior,Kük.,Pflanzenr. (Engler) Heft 101(4): 570. 1936 ,,,
+wfo-0000382535,urn:lsid:ipni.org:names:77372583-1,Cyperus sesquiflorus var. cylindricus,(Nees) Kük.,"Pflanzenr. (Engler) IV, 20(Heft 101): 593. 1936 ",,Cyperaceae Kyllinga cylindrica Nees,(Nees)
+wfo-0000382537,urn:lsid:ipni.org:names:77372569-1,Cyperus sesquiflorus f. denticulatus,Kük.,"Pflanzenr. (Engler) IV, 20(Heft 101): 595. 1936 ",,,
+wfo-0000382554,urn:lsid:ipni.org:names:77372564-1,Cyperus sesquiflorus f. globosus,Kük.,"Pflanzenr. (Engler) IV, 20(Heft 101): 594. 1936 ",,,
+wfo-0000384141,urn:lsid:ipni.org:names:77372591-1,Cyperus triceps var. obtusiflorus,(Boeckeler) Kük.,"Pflanzenr. (Engler) IV, 20(Heft 101): 579. 1936 ",,Cyperaceae Kyllinga triceps Rottb. var. obtusiflora Boeckeler,(Boeckeler)
+wfo-1200115887,urn:lsid:ipni.org:names:77372571-1,Kyllinga macrocephala var. angustior,C.B.Clarke,Consp. Fl. Afr. [T.A. Durand & H. Schinz] 5: 529. 1894 [Dec 1894] ,nom. inval. nom. nud.,,
+wfo-0000454723,urn:lsid:ipni.org:names:77372161-1,Kyllinga monocephala var. leiolepis,Franch. & Sav.,Enum. Pl. Jap. 2: 108. 1877 ,,,
+wfo-0000454881,urn:lsid:ipni.org:names:77372594-1,Kyllinga odorata var. cylindrica,(Nees) Kük.,J. Straits Branch Roy. Asiat. Soc. 76: 80. 1917 [Aug 1917] ,,Cyperaceae Kyllinga cylindrica Nees,(Nees)
+wfo-0000455051,urn:lsid:ipni.org:names:77372359-1,Kyllinga polyphylla var. elata,(Steud.) Cherm.,Fl. Madagasc. fam. 29: 300. 1937 ,,Cyperaceae Kyllinga elata Steud.,(Steud.)
+wfo-0000455066,urn:lsid:ipni.org:names:77372560-1,Kyllinga pulchella f. robustior,Kük.,Repert. Spec. Nov. Regni Veg. 12: 92. 1913 ,,,
+wfo-1000085635,urn:lsid:ipni.org:names:77369003-1,Carex huancabambica,Gonz.-Gallego & Jim.Mejías,PhytoKeys 265: 169. 2025 [31 Oct 2025] [epublished],,,
+wfo-1000085969,urn:lsid:ipni.org:names:77371494-1,Carex himalayensis,"P.Bhandari, Larridon & S.R.Zhang",Nordic J. Bot. 2025(11)-e04898: 3. [03 Sep 2025] [epublished],,,
+wfo-1000086224,urn:lsid:ipni.org:names:77371922-1,Eleocharis albalinsiae,C.S.Nunes,"Phytotaxa 728(2): 196. 2025 [12 Nov 2025] , as 'albalinsae' [epublished]",Termination of specific epithet amended as per Art. 60.8. ICN (2025).,,
+wfo-1000086279,urn:lsid:ipni.org:names:77371966-1,Cyperus mtotomwema,(Beentje) R.Kr.Singh,"J. Biodivers. Conservation 9(4): 59. 2025 [8 Nov 2025] , as 'mtotomwemae' [epublished]",,Cyperaceae Kyllinga mtotomwema Beentje,(Beentje)
+wfo-1000086280,urn:lsid:ipni.org:names:77371965-1,Cyperus mayottensis,(Cherm.) R.Kr.Singh,J. Biodivers. Conservation 9(4): 58. 2025 [8 Nov 2025] [epublished],,Cyperaceae Mariscus mayottensis Cherm.,(Cherm.)
+wfo-1000086281,urn:lsid:ipni.org:names:77371967-1,Cyperus richardsiae,(Vollesen) R.Kr.Singh,J. Biodivers. Conservation 9(4): 59. 2025 [8 Nov 2025] [epublished],,Cyperaceae Pycreus richardsiae Vollesen,(Vollesen)
+wfo-1000086282,urn:lsid:ipni.org:names:77371968-1,Cyperus vollesenii,R.Kr.Singh,J. Biodivers. Conservation 9(4): 59. 2025 [8 Nov 2025] [epublished],,,
+wfo-1200034346,urn:lsid:ipni.org:names:77372565-1,Kyllinga monocephala var. latifolia,Boeckeler,Linnaea 35: 429. 1868 ,,,
+wfo-1200034675,urn:lsid:ipni.org:names:77372166-1,Cyperus brevifolius var. leiolepis,(Franch. & Sav.) T.Koyama,J. Jap. Bot. 30(4): 126. 1955 [Apr 1955] ,,Cyperaceae Kyllinga monocephala L.f. var. leiolepis Franch. & Sav.,(Franch. & Sav.)
+wfo-1200115698,urn:lsid:ipni.org:names:77372159-1,Kyllinga brevifolia f. macrocephala,Boeckeler,Linnaea 35: 425. 1868 [Mar 1868] ,,,
+wfo-1200115699,urn:lsid:ipni.org:names:77372160-1,Cyperus brevifolius f. macrocephalus,(Boeckeler) Kük.,"Pflanzenr. (Engler) IV, 20(Heft 101): 603. 1936 [24 Nov 1936] ",,Cyperaceae Kyllinga brevifolia Rottb. f. macrocephala Boeckeler,(Boeckeler)
+wfo-1200115700,urn:lsid:ipni.org:names:77372169-1,Kyllinga caespitosa var. robusta,Kük.,Linnaea 35: 413. 1868 [Mar 1868] ,,,
+wfo-1200115701,urn:lsid:ipni.org:names:77372170-1,Kyllinga pumila var. polystachya,Cherm.,Bull. Soc. Bot. France 83(6-7): 492. 1936 [Jan 1936] ,,,
+wfo-1200115753,urn:lsid:ipni.org:names:77372562-1,Kyllinga sphaerocephala var. brunnescens,C.B.Clarke,Consp. Fl. Afr. [T.A. Durand & H. Schinz] 5: 532. 1894 [Dec 1894] ,,,
+wfo-1200115754,urn:lsid:ipni.org:names:77372566-1,Kyllinga triceps var. biflora,Boeckeler,Linnaea 35: 414. 1868 ,,,
+wfo-1200115755,urn:lsid:ipni.org:names:77372567-1,Kyllinga caespitosa var. angustifolia,Ridl.,"Trans. Linn. Soc. London, Bot. 2(7): 145. 1884 ",,,
+wfo-1200115756,urn:lsid:ipni.org:names:77372561-1,Kyllinga sphaerocephala var. glandulosa,C.B.Clarke,Fl. Trop. Afr. 8: 275. 1901 ,,,
+wfo-1200115757,urn:lsid:ipni.org:names:77372559-1,Cyperus cristatus var. exalatus,Merxm.,Proc. & Trans. Rhodesia Sci. Assoc. 43: 80. 1951 ,,,
+wfo-1200115759,urn:lsid:ipni.org:names:77372579-1,Cyperus aromaticus f. aphyllus,(Cherm.) Kük.,"Pflanzenr. (Engler) IV, 20(Heft 101): 583. 1936 ",,Cyperaceae Kyllinga teres C.B.Clarke var. aphylla Cherm.,(Cherm.)
+wfo-1200115760,urn:lsid:ipni.org:names:77372563-1,Kyllinga monocephala var. mindorensis,Boeckeler,Linnaea 35: 428. 1868 ,,,
+wfo-1200115761,urn:lsid:ipni.org:names:77372581-1,Kyllinga monocephala var. cylindrica,(Nees) Baker,Fl. Mauritius [J.G.Baker] 414. 1877 [2 Aug 1877] ,,Cyperaceae Kyllinga cylindrica Nees,(Nees)
+wfo-1200115762,urn:lsid:ipni.org:names:77372576-1,Kyllinga alata var. alba,(Nees) Kuntze,Revis. Gen. Pl. 3(2): 335. 1898 [28 Sep 1898] ,,Cyperaceae Kyllinga alba Nees,(Nees)
+wfo-1200115842,urn:lsid:ipni.org:names:77372362-1,Cyperus squamulatus,(Vahl) Valck.Sur.,Cyperus Mal. Arch. 46. 1898 [24 Jun 1898] ,nom. illeg. later homonym,Cyperaceae Kyllinga squamulata Vahl,(Vahl)
+wfo-1200115880,urn:lsid:ipni.org:names:77372573-1,Kyllinga alba var. nigritana,(C.B.Clarke) Podlech,Mitt. Bot. Staatssamml. München 3: 525. 1960 [30 Nov 1960] ,,Cyperaceae Kyllinga nigritana C.B.Clarke,(C.B.Clarke)
