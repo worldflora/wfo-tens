@@ -1,0 +1,8 @@
+WFOID,IPNID,scientificName,authorship,namePublishedin,Family,nomenclaturalStatus,originalName,originalNameAuthor
+wfo-1000086788,urn:lsid:ipni.org:names:77373224-1,Lomelosia japonica,"(Miq.) H.F.Wang, X.Y.Dong & K.P.Ma",Checkl. Vasc. Pl. E. Asia 2: 2205. 2025 [Aug 2025] ,Dipsacaceae,,Dipsacaceae Scabiosa japonica Miq.,(Miq.)
+wfo-1200116413,urn:lsid:ipni.org:names:77373240-1,Lomelosia comosa,"(Fisch. ex Roem. & Schult.) H.F.Wang, X.Y.Dong & K.P.Ma",Checkl. Vasc. Pl. E. Asia 2: 2305. 2025 [Aug 2025] ,Dipsacaceae,"nom. inval.    , lacking basionym ref",Dipsacaceae Scabiosa comosa Fisch. ex Roem. & Schult.,(Fisch. ex Roem. & Schult.)
+wfo-1000086797,urn:lsid:ipni.org:names:77373252-1,Knautia serpentinicola,"Smejkal ex Kolář, Z.Kaplan, J.Suda & Štech",Preslia 87(4): 376. 2015 [13 Dec 2015] ,Dipsacaceae,,,
+wfo-1200116445,urn:lsid:ipni.org:names:77373797-1,Scabiosa fleischmannii,Hladnik ex Rchb.,"Icon. Fl. Germ. Helv. (H.G.L. Reichenbach) 12: 18. 1850 , as 'Fleischmanni'",Dipsacaceae,,,
+wfo-1200116446,urn:lsid:ipni.org:names:77373802-1,Knautia fleischmannii,(Hladnik ex Rchb.) Pacher,"Jahrb. Naturhist. Landesmus. Kärnten 22: 73. 1893 , as 'Fleischmanni'",Dipsacaceae,,Dipsacaceae Scabiosa fleischmannii Hladnik ex Rchb.,(Hladnik ex Rchb.)
+wfo-0000745426,urn:lsid:ipni.org:names:77373809-1,Knautia sylvatica var. ressmannii,Pacher,Fl. Kärnten 2: 63. 1884 ,Dipsacaceae,,,
+wfo-1000080084,urn:lsid:ipni.org:names:77373810-1,Knautia ressmannii,(Pacher) Briq.,"Annuaire Conserv. Jard. Bot. Genève 6: 130. 1902 , as 'Ressmanni'",Dipsacaceae,,Dipsacaceae Knautia sylvatica Duby var. ressmannii Pacher,(Pacher)
