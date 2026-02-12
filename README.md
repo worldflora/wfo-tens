@@ -21,4 +21,15 @@ THe WFO and IPNI IDs plus basic nomenclautral data.
 - originalName
 - originalNameAuthor
 
+We have extended this workflow for Euro+Med. 
+- WFOID
+- IPNID
+- scientificName
+- authors_t
+- namePublishedin
+- nomenclaturalStatus
+- originalName
+- originalNameAuthor
+- distribution
+
 If you require more please get in touch.

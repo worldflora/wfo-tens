@@ -1,35 +1,36 @@
-Records returned from the Acanthaceae query executed at: 2026-02-04 13:20:17.403652 - Count: 17
-Records returned from the Annonaceae query executed at: 2026-02-04 13:20:17.407884 - Count: 1
-Records returned from the Apocynaceae query executed at: 2026-02-04 13:20:17.412079 - Count: 7
-Records returned from the Aquifoliaceae query executed at: 2026-02-04 13:20:17.414649 - Count: 1
-Records returned from the Asteraceae query executed at: 2026-02-04 13:20:17.420041 - Count: 43
-Records returned from the Arecaceae query executed at: 2026-02-04 13:20:17.422613 - Count: 1
-Records returned from the Begoniaceae query executed at: 2026-02-04 13:20:17.425486 - Count: 1
-Records returned from the Brassicaceae query executed at: 2026-02-04 13:20:17.428651 - Count: 3
-Records returned from the Buxaceae query executed at: 2026-02-04 13:20:17.432142 - Count: 1
-Records returned from the Clusiaceae query executed at: 2026-02-04 13:20:17.436815 - Count: 2
-Records returned from the Convolvulaceae query executed at: 2026-02-04 13:20:17.440975 - Count: 1
-Records returned from the Cyperaceae query executed at: 2026-02-04 13:20:17.444468 - Count: 22
-Records returned from the Ericaceae query executed at: 2026-02-04 13:20:17.448901 - Count: 59
-Records returned from the Fagaceae query executed at: 2026-02-04 13:20:17.451448 - Count: 1
-Records returned from the Gesneriaceae query executed at: 2026-02-04 13:20:17.454154 - Count: 11
-Records returned from the Malvaceae query executed at: 2026-02-04 13:20:17.463647 - Count: 8
-Records returned from the Melastomataceae query executed at: 2026-02-04 13:20:17.467091 - Count: 7
-Records returned from the Meliaceae query executed at: 2026-02-04 13:20:17.469986 - Count: 2
-Records returned from the Musaceae query executed at: 2026-02-04 13:20:17.473496 - Count: 1
-Records returned from the Myrtaceae query executed at: 2026-02-04 13:20:17.477031 - Count: 2
-Records returned from the Papaveraceae query executed at: 2026-02-04 13:20:17.479859 - Count: 1
-Records returned from the Poaceae query executed at: 2026-02-04 13:20:17.484853 - Count: 98
-Records returned from the Salicaceae query executed at: 2026-02-04 13:20:17.491564 - Count: 1
-Records returned from the Sapotaceae query executed at: 2026-02-04 13:20:17.499228 - Count: 1
-Records returned from the Solanaceae query executed at: 2026-02-04 13:20:17.504735 - Count: 6
-Records returned from the Vitaceae query executed at: 2026-02-04 13:20:17.511802 - Count: 3
-Records returned from the Zingiberaceae query executed at: 2026-02-04 13:20:17.514250 - Count: 6
-Records returned from the Conifers query executed at: 2026-02-04 13:20:17.529123 - Count: 1
-Records returned from the Legumes query executed at: 2026-02-04 13:20:17.581190 - Count: 34
-Records returned from the Commelinales query executed at: 2026-02-04 13:20:17.620147 - Count: 2
-Records returned from the Dipsacales query executed at: 2026-02-04 13:20:17.625463 - Count: 2
-Records returned from the PPG query executed at: 2026-02-04 13:20:17.630729 - Count: 10
-Records returned from the Caryophyllales query executed at: 2026-02-04 13:20:17.638587 - Count: 28
-Records returned from the Cichorieae query executed at: 2026-02-04 13:20:17.647191 - Count: 7
-Records returned from the Boraginales query executed at: 2026-02-04 13:20:17.651897 - Count: 16
+EuroPlusMed match executed at: 2026-02-12 14:40:58.973904 - Count: 26
+Acanthaceae executed at: 2026-02-12 14:40:58.976361 - Count: 17
+Annonaceae executed at: 2026-02-12 14:40:58.977893 - Count: 1
+Apocynaceae executed at: 2026-02-12 14:40:58.980082 - Count: 7
+Aquifoliaceae executed at: 2026-02-12 14:40:58.982335 - Count: 1
+Asteraceae executed at: 2026-02-12 14:40:58.988614 - Count: 43
+Arecaceae executed at: 2026-02-12 14:40:58.991126 - Count: 1
+Begoniaceae executed at: 2026-02-12 14:40:58.994987 - Count: 1
+Brassicaceae executed at: 2026-02-12 14:40:58.997305 - Count: 3
+Buxaceae executed at: 2026-02-12 14:40:59.000184 - Count: 1
+Clusiaceae executed at: 2026-02-12 14:40:59.003612 - Count: 2
+Convolvulaceae executed at: 2026-02-12 14:40:59.007685 - Count: 1
+Cyperaceae executed at: 2026-02-12 14:40:59.009551 - Count: 22
+Ericaceae executed at: 2026-02-12 14:40:59.015192 - Count: 59
+Fagaceae executed at: 2026-02-12 14:40:59.017280 - Count: 1
+Gesneriaceae executed at: 2026-02-12 14:40:59.019436 - Count: 11
+Malvaceae executed at: 2026-02-12 14:40:59.028892 - Count: 8
+Melastomataceae executed at: 2026-02-12 14:40:59.032705 - Count: 7
+Meliaceae executed at: 2026-02-12 14:40:59.034484 - Count: 2
+Musaceae executed at: 2026-02-12 14:40:59.036437 - Count: 1
+Myrtaceae executed at: 2026-02-12 14:40:59.038509 - Count: 2
+Papaveraceae executed at: 2026-02-12 14:40:59.042826 - Count: 1
+Poaceae executed at: 2026-02-12 14:40:59.046019 - Count: 98
+Salicaceae executed at: 2026-02-12 14:40:59.050858 - Count: 1
+Sapotaceae executed at: 2026-02-12 14:40:59.053614 - Count: 1
+Solanaceae executed at: 2026-02-12 14:40:59.056467 - Count: 6
+Vitaceae executed at: 2026-02-12 14:40:59.064135 - Count: 3
+Zingiberaceae executed at: 2026-02-12 14:40:59.068212 - Count: 6
+Conifers executed at: 2026-02-12 14:40:59.081100 - Count: 1
+Legumes executed at: 2026-02-12 14:40:59.089645 - Count: 34
+Commelinales executed at: 2026-02-12 14:40:59.094247 - Count: 2
+Dipsacales executed at: 2026-02-12 14:40:59.097787 - Count: 2
+PPG executed at: 2026-02-12 14:40:59.101273 - Count: 10
+Caryophyllales executed at: 2026-02-12 14:40:59.105255 - Count: 28
+Cichorieae executed at: 2026-02-12 14:40:59.110809 - Count: 7
+Boraginales executed at: 2026-02-12 14:40:59.114944 - Count: 16
