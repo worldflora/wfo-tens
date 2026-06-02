@@ -1,0 +1,55 @@
+WFOID,IPNID,scientificName,authorship,namePublishedin,nomenclaturalStatus,originalName,originalNameAuthor
+wfo-0000743424,urn:lsid:ipni.org:names:77379594-1,Brassica rapa f. amplexicaulis,Yo.Tanaka & Ono,"Somoku Dzusetsu, ed. 2 12: fols. 32v–33r. 1874 , as 'AMPLEXICAUIHS'",,,
+wfo-0000570942,urn:lsid:ipni.org:names:77379595-1,Brassica campestris var. amplexicaulis,(Yo.Tanaka & Ono) Makino,"Somoku Dzusetsu, ed. 3. 3: 901. 1912 ",,Brassicaceae Brassica rapa L. f. amplexicaulis Yo.Tanaka & Ono,(Yo.Tanaka & Ono)
+wfo-1200118559,urn:lsid:ipni.org:names:77379596-1,Brassica chinensis var. amplexicaulis,(Yo.Tanaka & Ono) Makino,"Fl. Japan (Nippon-Shokubutsu-Sōran), ed. 2. 393. 1931 ",,Brassicaceae Brassica rapa L. f. amplexicaulis Yo.Tanaka & Ono,(Yo.Tanaka & Ono)
+wfo-1200118560,urn:lsid:ipni.org:names:77379597-1,Brassica rapa subsp. esculenta,Höfle,Grundr. Angew. Bot. 29. 1851 ,,,
+wfo-1200118561,urn:lsid:ipni.org:names:77379598-1,Brassica rapa var. rotunda,(Mill.) Steud.,Nomencl. Bot. [Steudel] 1: 117. 1821 ,,Brassicaceae Rapa rotunda Mill.,(Mill.)
+wfo-0000571569,urn:lsid:ipni.org:names:77379599-1,Brassica rapa [infrasp.unranked] globosa,Peterm.,Fl. Lips. Excurs. 491. 1838 ,,,
+wfo-0000571561,urn:lsid:ipni.org:names:77379600-1,Brassica rapa [infrasp.unranked] depressa,DC.,Syst. Nat. 2: 590. 1821 ,,,
+wfo-1200118695,urn:lsid:ipni.org:names:77379601-1,Brassica rapa [infrasp.unranked] oblonga,(Mill.) DC.,Syst. Nat. 2: 591. 1821 ,,Brassicaceae Rapa oblonga Mill.,(Mill.)
+wfo-1200118627,urn:lsid:ipni.org:names:77379602-1,Brassica rapa var. depressa,(DC.) Lej. & Courtois,Comp. Fl. Belg. 2: 294. 1831 ,,Brassicaceae Brassica rapa L. [infrasp.unranked] depressa DC.,(DC.)
+wfo-1200118628,urn:lsid:ipni.org:names:77379603-1,Brassica rapa var. oblonga,(Mill.) Lej. & Courtois,Comp. Fl. Belg. 2: 295. 1831 ,,Brassicaceae Rapa oblonga Mill.,(Mill.)
+wfo-1200118562,urn:lsid:ipni.org:names:77379604-1,Brassica campestris var. dissoluta,C.Wen Li,Chinese Cabbage 5. 1981 ,nom. inval.    Contrary to Art. 39.1. ICN (2025). No Latin description; Contrary to Art. 40.1. ICN (2025). Type not indicated.,,
+wfo-1200118563,urn:lsid:ipni.org:names:77379605-1,Brassica campestris var. infarcta,C.Wen Li,Chinese Cabbage 5. 1981 ,nom. inval.    Contrary to Art. 39.1. ICN (2025). No Latin description; Contrary to Art. 40.1. ICN (2025). Type not indicated.,,
+wfo-0001261029,urn:lsid:ipni.org:names:77379957-1,Brassica campestris subsp. chinensis,(L.) Makino,"Somoku Dzusetsu, ed. 3. 3(12): XXVII. 1912 ",,Brassicaceae Brassica chinensis L.,(L.)
+wfo-1000080105,urn:lsid:ipni.org:names:77379960-1,Parolinia aridanae,A.Santos,Rev. Acad. Canar. Ci. 33: 124. 2021 [Dec 2021] ,,,
+wfo-0000570974,urn:lsid:ipni.org:names:77379987-1,Brassica campestris subvar. praecox,DC.,Syst. Nat. 2: 589. 1821 [May 1821] ,,,
+wfo-0000570946,urn:lsid:ipni.org:names:77379988-1,Brassica campestris subvar. autumnalis,DC.,Syst. Nat. 2: 589. 1821 [May 1821] ,,,
+wfo-1200118633,urn:lsid:ipni.org:names:77380022-1,Brassica campestris proles oleifera,DC.,Trans. Hort. Soc. London 5(1): 21. 1822 [6 Aug 1822] ,,,
+wfo-0000735602,urn:lsid:ipni.org:names:77380071-1,Ptilotrichum halimifolium,Boiss.,Voy. Bot. Espagne 2: 45. 1839 ,,,
+wfo-1200118642,urn:lsid:ipni.org:names:77380155-1,Brassica japonica,Makino,"Somoku Dzusetsu, ed. 3. 3: 903. 1913 [1912 publ. 1 Jan 1913] ",nom. illeg. later homonym,,
+wfo-1200118696,urn:lsid:ipni.org:names:77380159-1,Brassica rapa [infrasp.unranked] pygmaea,Alef.,Landw. Fl. 249. 1866 ,,,
+wfo-1200118646,urn:lsid:ipni.org:names:77380417-1,Biscutella laxa subsp. glacialis,(Boiss. & Reut.) Mateo,Fl. Montiber. 92: 7. 2025 [Aug 2025] ,,Brassicaceae Biscutella laxa Boiss. & Reut. var. glacialis Boiss. & Reut.,(Boiss. & Reut.)
+wfo-1200118648,urn:lsid:ipni.org:names:77380427-1,Biscutella lusitanica subsp. macrocarpa,(Samp. ex Guinea) Mateo,Fl. Montiber. 92: 7. 2025 [Aug 2025] ,nom. inval.    Basionym not validly published; not valid under Art. 41.8(d) (ICN 2025) as type not indicated,Brassicaceae Biscutella macrocarpa Samp. ex Guinea,(Samp. ex Guinea)
+wfo-1200118599,urn:lsid:ipni.org:names:77380439-1,Biscutella mediterranea subsp. calduchii,(O.Bolòs & Masclans) Mateo,Fl. Montiber. 92: 8. 2025 [Aug 2025] ,,Brassicaceae Biscutella laevigata L. var. calduchii O.Bolòs & Masclans,(O.Bolòs & Masclans)
+wfo-1000090474,urn:lsid:ipni.org:names:77380441-1,Biscutella × almeriensis,Mateo,Fl. Montiber. 92: 10. 2025 [Aug 2025] ,,,
+wfo-1000090475,urn:lsid:ipni.org:names:77380442-1,Biscutella × cardonica,(O.Bolòs & Masclans) Mateo,Fl. Montiber. 92: 11. 2025 [Aug 2025] ,,Brassicaceae Biscutella laevigata L. var. cardonica O.Bolòs & Masclans,(O.Bolòs & Masclans)
+wfo-1000090476,urn:lsid:ipni.org:names:77380443-1,Biscutella × altoiberica,Mateo,Fl. Montiber. 92: 10. 2025 [Aug 2025] ,nom. inval.    Contrary to Art. 39.2. ICN (2025). No Latin or English description.,,
+wfo-1200118656,urn:lsid:ipni.org:names:77380517-1,Draba lasiocarpa,Rochel,Exsicc. (Pl. Hung.) 1810: ?. ,,,
+wfo-1200118602,urn:lsid:ipni.org:names:77380539-1,Napus rapa var. esculenta,K.F.Schimp. & Spenn.,Fl. Friburg. 3: 941. 1829 ,,,
+wfo-1200118603,urn:lsid:ipni.org:names:77380540-1,Napus rapa var. oleifera,(DC.) K.F.Schimp. & Spenn.,Fl. Friburg. 3: 941. 1829 ,,Brassicaceae Brassica rapa L. [infrasp.unranked] oleifera DC.,(DC.)
+wfo-1200118613,urn:lsid:ipni.org:names:77380576-1,Brassica sphaerorhiza var. oblonga,(Mill.) Gray,Nat. Arr. Brit. Pl. 2: 683. 1821 ,,Brassicaceae Rapa oblonga Mill.,(Mill.)
+wfo-0000571181,urn:lsid:ipni.org:names:77380577-1,Brassica japonica var. indivisa,Makino,J. Jap. Bot. 1(2): 7. 1916 [25 Apr 1916] ,,,
+wfo-1200118668,urn:lsid:ipni.org:names:77380585-1,Brassica campestris var. autumnalis,(DC.) DC.,Trans. Hort. Soc. London 5(1): 23. 1822 [6 Aug 1822] ,,Brassicaceae Brassica campestris L. subvar. autumnalis DC.,(DC.)
+wfo-1200118669,urn:lsid:ipni.org:names:77380586-1,Brassica campestris var. praecox,(DC.) DC.,Trans. Hort. Soc. London 5(1): 23. 1822 [6 Aug 1822] ,,Brassicaceae Brassica campestris L. subvar. praecox DC.,(DC.)
+wfo-1200118614,urn:lsid:ipni.org:names:77380587-1,Brassica campestris var. kabulica,Sinskaya,Trudy Prikl. Bot. 19(3): 81. 1928 ,,,
+wfo-1200118698,urn:lsid:ipni.org:names:77380588-1,Brassica campestris var. kabulica,Sinskaya,"Trudy Prikl. Bot. 19(3): 147, 195, 204. 1928 ",,,
+wfo-1200118671,urn:lsid:ipni.org:names:77380593-1,Brassica campestris var. vulgaris,Sinskaya,Trudy Prikl. Bot. 19(3): 65. 1928 ,,,
+wfo-1200118615,urn:lsid:ipni.org:names:77380594-1,Brassica campestris var. prostrata,Sinskaya,Trudy Prikl. Bot. 19(3): 67. 1928 ,,,
+wfo-1200118616,urn:lsid:ipni.org:names:77380595-1,Brassica campestris var. altaica,Sinskaya,Trudy Prikl. Bot. 19(3): 67. 1928 ,,,
+wfo-1200118617,urn:lsid:ipni.org:names:77380596-1,Brassica campestris var. caucasica,Sinskaya,Trudy Prikl. Bot. 19(3): 70. 1928 ,,,
+wfo-1200118618,urn:lsid:ipni.org:names:77380597-1,Brassica campestris var. aserbeidjanica,Sinskaya,Trudy Prikl. Bot. 19(3): 73. 1928 ,,,
+wfo-1200118619,urn:lsid:ipni.org:names:77380598-1,Brassica campestris var. pamirica,Sinskaya,Trudy Prikl. Bot. 19(3): 75. 1928 ,,,
+wfo-0000570938,urn:lsid:ipni.org:names:77380599-1,Brassica campestris var. afghanica,Sinskaya,Trudy Prikl. Bot. 19(3): 77. 1928 ,,,
+wfo-1200118697,urn:lsid:ipni.org:names:77380600-1,Brassica campestris var. afghanica,Sinskaya,"Trudy Prikl. Bot. 19(3): 147, 194, 204. 1928 ",,,
+wfo-1200118672,urn:lsid:ipni.org:names:77380601-1,Brassica campestris var. chinensis,Sinskaya,"Trudy Prikl. Bot. 19(3): 145, 201, 202. 1928 ",,,
+wfo-0001217696,urn:lsid:ipni.org:names:77380603-1,Hedinia mongolica,(Kom.) Velichkin,"Nauchnye Dokl. Vysshei Shkoly Biol. Nauki 6(126): 64, fig. 5. 1974 ",,Brassicaceae Smelowskia mongolica Kom.,(Kom.)
+wfo-1200118620,urn:lsid:ipni.org:names:77380710-1,Raphanus sativus var. rapa,(L.) Vis.,Introd. Studio Vegetabili Jacquin 2. 1824 ,,Brassicaceae Brassica rapa L.,(L.)
+wfo-1200118621,urn:lsid:ipni.org:names:77380711-1,Brassica asperifolia var. rapa,(L.) DC.,"Fl. Franç. [de Candolle & Lamarck], ed. 3. 4: 649. 1805 [17 Sep 1805] ",,Brassicaceae Brassica rapa L.,(L.)
+wfo-1200118675,urn:lsid:ipni.org:names:77380730-1,Brassica rapa var. esculenta,(K.F.Schimp. & Spenn.) Kunth,"Fl. Berol. (Kunth, 1838) 1: 60. 1838 [[21-27 Oct 1838]] ",nom. superfl.,Brassicaceae Napus rapa K.F.Schimp. & Spenn. var. esculenta K.F.Schimp. & Spenn.,(K.F.Schimp. & Spenn.)
+wfo-1200118690,urn:lsid:ipni.org:names:77380776-1,Brassica campestris subsp. rapa,(L.) Bab.,Man. Brit. Bot. [Babington] 24. 1843 [May-Jul 1843] ,,Brassicaceae Brassica rapa L.,(L.)
+wfo-1200118691,urn:lsid:ipni.org:names:77380792-1,Brassica rapa f. campestris,(L.) Thell.,Ill. Fl. Mitt.-Eur. 4(1): 259. 1918 [Mar 1918] ,,Brassicaceae Brassica campestris L.,(L.)
+wfo-1200118625,urn:lsid:ipni.org:names:77380793-1,Brassica rapa var. hyemalis,G.Martens,"Fl. Würtemberg, ed. 2. 37. 1865 [Jan 1865] ",,,
+wfo-1000090627,urn:lsid:ipni.org:names:77380797-1,Draba baskilensis,Behçet,"Phytotaxa 759(2): 177. 2026 [28 May 2026] , as 'baskilense'.",,,
+wfo-1200118693,urn:lsid:ipni.org:names:77380914-1,Brassica rapa var. campestris,(L.) Kitt.,"Taschenb. Fl. Deutschl., ed. 1 239. 1837 [Jan-Mar 1837] ",,Brassicaceae Brassica campestris L.,(L.)
+wfo-1200118694,urn:lsid:ipni.org:names:77380915-1,Brassica rapa var. briggsii,H.C.Watson ex Syme,Rep. Bot. Exch. Club 1872-74: 8. 1875 [post 3 Jul 1875] ,,,
