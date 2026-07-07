@@ -21,7 +21,7 @@ THe WFO and IPNI IDs plus basic nomenclautral data.
 - originalName
 - originalNameAuthor
 
-We have extended this workflow for Euro+Med. 
+We have extended this workflow for Euro+Med, and CMEP's Arabian Checklist. 
 - WFOID
 - IPNID
 - scientificName

@@ -1,0 +1,51 @@
+WFOID,IPNID,scientificName,authorship,namePublishedin,Family,nomenclaturalStatus,originalName,originalNameAuthor
+wfo-4000024907,urn:lsid:ipni.org:names:77380970-1,Mossia,N.E.Br.,"Gard. Chron. ser. 3, 87: 71. 1930 ",Aizoaceae,nom. rej.,,
+wfo-4100006667,urn:lsid:ipni.org:names:77380990-1,Tunica,Mert. & W.D.J.Koch,"Deutschl. Fl., ed. 3. 3: 79. 1831 , nom. illeg. homonym. post.",Caryophyllaceae,,,
+wfo-1000090738,urn:lsid:ipni.org:names:77381054-1,Neolloydia leccinumii,Vázquez-Sánchez & D.Aquino,Bot. Sci. 103(3): 767. 2025 [1 Jul 2025] ,Cactaceae,,,
+wfo-1200119178,urn:lsid:ipni.org:names:77381055-1,Cerastium vulgatum [infrasp.unranked] angustifolium,Regel & Tiling,Fl. Ajan. 75. 1858 ,Caryophyllaceae,,,
+wfo-1200119179,urn:lsid:ipni.org:names:77381056-1,Cerastium vulgatum [infrasp.unranked] vulgare,Regel & Tiling,Fl. Ajan. 75. 1858 ,Caryophyllaceae,,,
+wfo-0000496490,urn:lsid:ipni.org:names:77381057-1,Cerastium vulgatum var. angustifolium,Franch.,Pl. Delavay. 101. 1889 ,Caryophyllaceae,nom. illeg. later homonym    non  Cerastium vulgatum [infrasp.unranked] angustifolium Regel & Tiling (1858),,
+wfo-0000496484,urn:lsid:ipni.org:names:77381058-1,Cerastium holosteoides var. angustifolium,M.Mizush.,J. Jap. Bot. 43: 54. 1968 ,Caryophyllaceae,,,
+wfo-1000090742,urn:lsid:ipni.org:names:77381063-1,Neolloydia terrazasiae,Vázquez-Sánchez & D.Aquino,Bot. Sci. 103(3): 770. 2025 [1 Jul 2025] ,Cactaceae,,,
+wfo-1000090743,urn:lsid:ipni.org:names:77381064-1,Neolloydia guzmanii,Vázquez-Sánchez & D.Aquino,Bot. Sci. 103(3): 764. 2025 [1 Jul 2025] ,Cactaceae,,,
+wfo-1000090772,urn:lsid:ipni.org:names:77381266-1,Quiabentia pelodaserra,J.A.Siqueira & Zappi,Bradleya 44: 83. 2026 [11 May 2026] ,Cactaceae,,,
+wfo-0000513560,urn:lsid:ipni.org:names:77381283-1,Acantholimon tschimganicum,Korovin,"Trudy Turkestansk. Nauchn. Obshch. 1: 79. 1923 , nom. nud.",Plumbaginaceae,,,
+wfo-1200119111,urn:lsid:ipni.org:names:77381294-1,Acantholimon echinus,Boiss.,"Fl. Orient. 4: 840. 1879 , nom. illeg. homonym. post.",Plumbaginaceae,,,
+wfo-0000513167,urn:lsid:ipni.org:names:77381297-1,Acantholimon anatolicum,Doan & Akaydn,"Bot. J. Linn. Soc. 140: 445. 2002 , contrary to Art. 37.3 ICBN (2000) .",Plumbaginaceae,,,
+wfo-0000513271,urn:lsid:ipni.org:names:77381305-1,Acantholimon echinus,(L.) Boiss.,Prodr. 12: 627. 1848 ,Plumbaginaceae,,Plumbaginaceae Statice echinus L.,(L.)
+wfo-1200119113,urn:lsid:ipni.org:names:77381328-1,Acanthophyllum khuzistanicum,Schiman-Czeika,Fl. Iranica 163: 273. 1988 ,Caryophyllaceae,,,
+wfo-0000513423,urn:lsid:ipni.org:names:77381339-1,Acantholimon murorum,Korovin,Bot. Mater. Gerb. Glavn. Bot. Sada R.S.F.S.R. 3: 191. 1922 ,Plumbaginaceae,,,
+wfo-1000090777,urn:lsid:ipni.org:names:77381362-1,Acantholimon histrix,(Jaub. & Spach) Boiss.,Diagn. Pl. Orient. 7: 75. 1846 ,Plumbaginaceae,,Plumbaginaceae Statice histrix Jaub. & Spach,(Jaub. & Spach)
+wfo-1000090787,urn:lsid:ipni.org:names:77381382-1,Rhipsalis boanova,Zappi & N.P.Taylor,Bradleya 44: 41. 2026 [11 May 2026] ,Cactaceae,,,
+wfo-1000090788,urn:lsid:ipni.org:names:77381383-1,Coleocephalocereus insigniflorus,(Diers & Esteves) N.P.Taylor,Bradleya 44: 116. 2026 [11 May 2026] ,Cactaceae,,Cactaceae Austrocephalocereus estevesii Buining & Brederoo subsp. insigniflorus Diers & Esteves,(Diers & Esteves)
+wfo-1200119025,urn:lsid:ipni.org:names:77381391-1,Melocactus zehntneri subsp. saxicola,(Diers & Esteves) N.P.Taylor,Bradleya 44: 120. 2026 [11 May 2026] ,Cactaceae,,Cactaceae Melocactus saxicola Diers & Esteves,(Diers & Esteves)
+wfo-1200119028,urn:lsid:ipni.org:names:77381394-1,Melocactus zehntneri subsp. capivara,N.P.Taylor & Zappi,Bradleya 44: 126. 2026 [11 May 2026] ,Cactaceae,,,
+wfo-1000090795,urn:lsid:ipni.org:names:77381398-1,Dianthus bocchoriana,(L.Llorens & Gradaille) Rivas Mart. & L.Llorens,Itinera Geobot. 18(2): 484. 2011 [16 Jul 2011] ,Caryophyllaceae,,Caryophyllaceae Dianthus rupicola  subsp. bocchoriana L.Llorens & Gradaille,(L.Llorens & Gradaille)
+wfo-1200119031,urn:lsid:ipni.org:names:77381399-1,Dianthus hispanicus subsp. absconditus,(Fern.Casas) Rivas Mart.,Itinera Geobot. 18(2): 484. 2011 [16 Jul 2011] ,Caryophyllaceae,,Caryophyllaceae Dianthus absconditus Fern.Casas,(Fern.Casas)
+wfo-1200119115,urn:lsid:ipni.org:names:77381400-1,Dianthus lusitanus subsp. legionensis,(Willk.) Rivas Mart.,Itinera Geobot. 18(2): 484. 2011 [16 Jul 2011] ,Caryophyllaceae,,Caryophyllaceae Dianthus lusitanus Brot. var. legionensis Willk.,(Willk.)
+wfo-1000090796,urn:lsid:ipni.org:names:77381401-1,Eberlanzia crassuloides,(L.Bolus) Klak,Bradleya 44: 178. 2026 [11 May 2026] ,Aizoaceae,,Aizoaceae Ruschia crassuloides L.Bolus,(L.Bolus)
+wfo-1000090797,urn:lsid:ipni.org:names:77381403-1,Eberlanzia namaquana,(L.Bolus) Klak,Bradleya 44: 183. 2026 [11 May 2026] ,Aizoaceae,,Aizoaceae Ruschia namaquana L.Bolus,(L.Bolus)
+wfo-1000090798,urn:lsid:ipni.org:names:77381404-1,Eberlanzia namibensis,Klak,Bradleya 44: 189. 2026 [11 May 2026] ,Aizoaceae,,,
+wfo-1200119057,urn:lsid:ipni.org:names:77381632-1,Polygonum pulchrum subsp. hallieri,Danser,"Bull. Jard. Bot. Buitenzorg sér. 3, 8: 158. 1927 ",Polygonaceae,,,
+wfo-1200119059,urn:lsid:ipni.org:names:77381665-1,Echinopsis ancistrophora subsp. subdenudata,(Cárdenas) M.Lowry & N.P.Taylor,CactusWorld 44(2): 139. 2026 [12 Jun 2026] ,Cactaceae,,Cactaceae Echinopsis subdenudata Cárdenas,(Cárdenas)
+wfo-1200119063,urn:lsid:ipni.org:names:77381680-1,Moehringia muscosa var. catalaunica,Sennen & Pau,Bol. Real Soc. Esp. Hist. Nat. 11: 231. 1911 ,Caryophyllaceae,,,
+wfo-1200119140,urn:lsid:ipni.org:names:77381682-1,Moehringia muscosa subsp. catalaunica,(Sennen & Pau) Rivas Mart.,Itinera Geobot. 18(2): 487. 2011 [16 Jul 2011] ,Caryophyllaceae,,Caryophyllaceae Moehringia muscosa L. var. catalaunica Sennen & Pau,(Sennen & Pau)
+wfo-1200119144,urn:lsid:ipni.org:names:77381726-1,Achyranthes acuminata,Hovey,Nursery Cat. (Hovey & co.) 1882: 15. ,Amaranthaceae,,,
+wfo-1000090933,urn:lsid:ipni.org:names:77381733-1,Achyranthes emersonii,Hovey,Nursery Cat. (Hovey & co.) 1882: 15. ,Amaranthaceae,,,
+wfo-1000090937,urn:lsid:ipni.org:names:77381739-1,Achyranthes aureus-reticulatus,Hovey,Nursery Cat. (Hovey & co.) 1882: 15. ,Amaranthaceae,,,
+wfo-1000090938,urn:lsid:ipni.org:names:77381740-1,Achyranthes gilsonii,Hovey,Nursery Cat. (Hovey & co.) 1882: 15. ,Amaranthaceae,,,
+wfo-1200119149,urn:lsid:ipni.org:names:77381745-1,Achyranthes thonningii,Schumach.,Beskr. Guin. Pl. 137. 1827 ,Amaranthaceae,,,
+wfo-1000090942,urn:lsid:ipni.org:names:77381749-1,Achyranthes hoveyi,Hovey,Nursery Cat. (Hovey & co.) 1882: 15. ,Amaranthaceae,,,
+wfo-1200119151,urn:lsid:ipni.org:names:77381750-1,Achyranthes radicans,Roth,"Syst. Veg., ed. 15[bis]. 5: 547. 1819 , nom. illeg. homonym. post.",Amaranthaceae,,,
+wfo-1200119152,urn:lsid:ipni.org:names:77381769-1,Achyranthes persica,(Burm.f.) Merr.,Philipp. J. Sci. 19: 348. 1921 ,Amaranthaceae,,Amaranthaceae Iresine persica Burm.f.,(Burm.f.)
+wfo-1000090959,urn:lsid:ipni.org:names:77381791-1,Achyranthes wallisii,Van Geert,Nursery Cat. (Auguste Van Geert) 76: 2. 1878 ,Amaranthaceae,,,
+wfo-1000090960,urn:lsid:ipni.org:names:77381792-1,Achyranthes colinsii,Hovey,Nursery Cat. (Hovey & co.) 1883: 1. ,Amaranthaceae,,,
+wfo-0000496373,urn:lsid:ipni.org:names:77381797-1,Achyranthes daito-insularis,Tawada,Biol. Mag. 5: 32. 1968 ,Amaranthaceae,,,
+wfo-1200119159,urn:lsid:ipni.org:names:77381802-1,Achyranthes acuminata,E.Mey. ex Cooke & Wright,"Fl. Cap. 5(1): 429. 1910 , nom. illeg. homonym. post.",Amaranthaceae,,,
+wfo-0001101725,urn:lsid:ipni.org:names:77381819-1,Rumex tuberosus var. turcomanicus,Rech.f.,Repert. Spec. Nov. Regni Veg. 49: 1. 1940 ,Polygonaceae,,,
+wfo-0001304662,urn:lsid:ipni.org:names:77381820-1,Nepenthes singalana var. alba,Ridl.,J. Fed. Malay States Mus. 6: 169. 1915 ,Nepenthaceae,,,
+wfo-1000090976,urn:lsid:ipni.org:names:77381821-1,Fagopyrum grandiflorum,(M.L.Zhou & Yu Tang) A.Hu Wang & L.Tan,PhytoKeys 276: 270. 2026 [18 Jun 2026] ,Polygonaceae,,Polygonaceae Fagopyrum caudatum (Sam.) A.J.Li var. grandiflorum M.L.Zhou & Yu Tang,(M.L.Zhou & Yu Tang)
+wfo-1000091026,urn:lsid:ipni.org:names:77381882-1,Guapira leucophylla,Zavatin & E.F.S.Rossetto,Nordic J. Bot. [early view]-e05224: [2 of 9]. 2026 [16 Jun 2026] ,Nyctaginaceae,,,
+wfo-1200119068,urn:lsid:ipni.org:names:77382017-1,Persicaria attenuata subsp. hallieri,(Danser) I.M.Turner,Gard. Bull. Singapore 78: 19. 2026 [1 Jul 2026] ,Polygonaceae,,Polygonaceae Polygonum pulchrum Blume subsp. hallieri Danser,(Danser)
+wfo-0001095223,urn:lsid:ipni.org:names:77382047-1,Goniolimon orae-syvashicae,Klokov,"Index Seminum (KHAR, Charkowiensis) 8. 1927 , as 'orae syvashicae'",Plumbaginaceae,,,
+wfo-0000487115,urn:lsid:ipni.org:names:77382088-1,Portulaca oleracea var. sativa,(Haw.) DC.,Prodr. 3: 353. 1828 [mid Mar 1828] ,Portulacaceae,,Portulacaceae Portulaca sativa Haw.,(Haw.)
