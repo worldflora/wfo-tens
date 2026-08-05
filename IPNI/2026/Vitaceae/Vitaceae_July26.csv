@@ -1,0 +1,40 @@
+WFOID,IPNID,scientificName,authorship,namePublishedin,nomenclaturalStatus,originalName,originalNameAuthor
+wfo-1200063015,urn:lsid:ipni.org:names:77382835-1,Ampelopsis lowii,H.Low ex H.P.,"Garden (London, 1871-1927) 71: 516. 1907 ",,,
+wfo-1200063016,urn:lsid:ipni.org:names:77383377-1,Ampelopsis veitchii,Laurentius,Nursery Cat. (Laurentius'schen Gärtnerei) 40: 6. 1868 ,,,
+wfo-1200063028,urn:lsid:ipni.org:names:77383851-1,Cissus livingstoniana,Welw. ex De Wild.,"Ann. Mus. Congo Belge, Bot. sér. 5, 1: 52. 1903 ",,,
+wfo-1200063024,urn:lsid:ipni.org:names:77383871-1,Cissus bodiniana,Brouss.,"Elench. Horti Bot. Monspel. 16. 1805 , nom. nud.",,,
+wfo-1200063023,urn:lsid:ipni.org:names:77383954-1,Cissus bignonioides,Schweinf. ex Gilg & M.Brandt,Bot. Jahrb. Syst. 46: 464. 1911 ,,,
+wfo-1200063029,urn:lsid:ipni.org:names:77384006-1,Cissus mollis,(Baker) Steud. ex Planch.,Monogr. Phan. 1: 581. 1887 ,,,(Baker)
+wfo-1200063051,urn:lsid:ipni.org:names:77384129-1,Cissus muricata,Thwaites,"Enum. Pl. Zeyl. 63. 1858 , nom. illeg. superfl.",,,
+wfo-1200063031,urn:lsid:ipni.org:names:77384182-1,Cissus rhomboidea,E.Mey. ex Harv.,Fl. Cap. 1: 252. 1860 ,,,
+wfo-0000606407,urn:lsid:ipni.org:names:77384201-1,Cissus incisa,Des Moul. ex S.Watson,Bibl. Index N. Amer. Bot. 178. 1878 ,,,
+wfo-1200063027,urn:lsid:ipni.org:names:77384482-1,Cissus indivisa,Des Moul. ex S.Watson,Bibl. Index N. Amer. Bot. 173. 1878 ,,,
+wfo-1200063052,urn:lsid:ipni.org:names:77391985-1,Tetrastigma lawsonii,Burkill ex Suess.,"Nat. Pflanzenfam., ed. 2. 20d: 325. 1953 , without a Latin descr.",,,
+wfo-1000051769,urn:lsid:ipni.org:names:77392684-1,Vitis araneosa,(Dalzell) M.A.Lawson,"Fl. Brit. India 1: 657. 1875 , nom. illeg. homonym. post.",,Vitaceae Cissus araneosa Dalzell,(Dalzell)
+wfo-1000051767,urn:lsid:ipni.org:names:77392815-1,Vitis obtecta,Wall. ex M.A.Lawson,Fl. Brit. India 1: 657. 1875 ,,,
+wfo-1200063005,urn:lsid:ipni.org:names:77392898-1,Vitis bourquiniana,(L.H.Bailey) Munson ex G.Nicholson,Hand-List Trees Shrubs ed. 2: 113. 1902 ,,Vitaceae Vitis aestivalis  var. bourquiniana L.H.Bailey in A.Gray,(L.H.Bailey)
+wfo-1000051779,urn:lsid:ipni.org:names:77392955-1,Vitis heyneana,Wall. ex Wight & Arn.,"Prodr. Fl. Ind. Orient. 1: 125. 1834 , nom. illeg. homonym. post.",,,
+wfo-1000051757,urn:lsid:ipni.org:names:77392978-1,Vitis peduncularis,Wall. ex M.A.Lawson,Fl. Brit. India 1: 655. 1875 ,,,
+wfo-1200063043,urn:lsid:ipni.org:names:77393021-1,Vitis pagnuccii,Rom.Caill. ex Planch.,Monogr. Phan. 5: 364. 1887 ,,,
+wfo-0000531486,urn:lsid:ipni.org:names:77383512-1,Ampelocissus cirrhata,Voss,"Vilm. Blumengärtn., ed. 3. 1: 182. 1894 ",,,
+wfo-0000531543,urn:lsid:ipni.org:names:77383067-1,Ampelocissus major,Voss,"Vilm. Blumengärtn., ed. 3. 1: 182. 1894 ",,,
+wfo-0000531588,urn:lsid:ipni.org:names:77382832-1,Ampelocissus serrata,Voss,"Vilm. Blumengärtn., ed. 3. 1: 182. 1894 ",,,
+wfo-0000531598,urn:lsid:ipni.org:names:77382930-1,Ampelocissus tricolor,Voss,"Vilm. Blumengärtn., ed. 3. 1: 183. 1894 ",,,
+wfo-0000531649,urn:lsid:ipni.org:names:77382990-1,Ampelopsis chinensis,Raf.,"Sylva Tellur. 33. 1838 , nom. illeg. superfl.",,,
+wfo-0000606159,urn:lsid:ipni.org:names:77384359-1,Cissus corniculata,(Benth.) Planch.,Monogr. Phan. 5(2): 563. 1887 ,,Vitaceae Vitis corniculata Benth.,(Benth.)
+wfo-0000606271,urn:lsid:ipni.org:names:77383892-1,Cissus esaso,Gilg,Westafr. Kautschuk-Exped. 298. 1900 ,,,
+wfo-0000606340,urn:lsid:ipni.org:names:77383848-1,Cissus goyazensis,(Taub.) Suess.,"Nat. Pflanzenfam., ed. 2. 20d: 274. 1953 ",,Vitaceae Vitis goyazensis Taub.,(Taub.)
+wfo-0001145616,urn:lsid:ipni.org:names:77383915-1,Cissus mayombensis,Gilg ex T.Durand & Schinz,"Mém. Acad. Roy. Sci. Belgique, Cl. Sci. (8vo) 53(4): 95. 1896 ",,,
+wfo-0001145931,urn:lsid:ipni.org:names:77393010-1,Vitis formosana,Hemsl.,Ann. Bot. (Oxford) 9: 151. 1895 ,,,
+wfo-0001246056,urn:lsid:ipni.org:names:77392936-1,Vitis pteroclada,(Hayata) Hayata,Gen. Ind. Fl. Formos. 15. 1916 ,,Vitaceae Cissus pteroclada Hayata,(Hayata)
+wfo-0001281562,urn:lsid:ipni.org:names:77392606-1,Tetrastigma bioritsense,(Hayata) T.W.Hsu & C.S.Kuoh,Endemic Sp. Res. 1(1): 104. 1999 ,,Vitaceae Vitis bioritsensis Hayata,(Hayata)
+wfo-1000051708,urn:lsid:ipni.org:names:77392889-1,Vitis serjaniifolia,(Bunge) K.Koch,Dendrologie 1: 558. 1869 ,,Vitaceae Ampelopsis serianaefolia Bunge,(Bunge)
+wfo-1000051711,urn:lsid:ipni.org:names:77384159-1,Cayratia yoshimurae,(Makino) Honda,"Nom. Pl. Japonic. 210, 505. 1939 ",,Vitaceae Cissus yoshimurai Makino,(Makino)
+wfo-1000051713,urn:lsid:ipni.org:names:77384707-1,Cissus erdvendbergiana,(Planch.) Planch.,Monogr. Phan. 5: 405. 1887 ,,Vitaceae Ampelocissus erdvendbergianus Planch.,(Planch.)
+wfo-1000051719,urn:lsid:ipni.org:names:77392807-1,Vitis subacerifolia,Vassilcz.,Sovetsk. Bot. 6: 341. 1947 ,,,
+wfo-1000051720,urn:lsid:ipni.org:names:77393129-1,Vitis trichophylla,Vassilcz.,Sovetsk. Bot. 6: 342. 1947 ,,,
+wfo-1000051721,urn:lsid:ipni.org:names:77393026-1,Vitis zongylioides,D.Thomson,Gardener (Edinburgh) 8: 102. 1874 ,,,
+wfo-1000051723,urn:lsid:ipni.org:names:77383881-1,Cissus rhombia,Hovey,Nursery Cat. (Hovey & co.) 1882: 5. ,,,
+wfo-1000051725,urn:lsid:ipni.org:names:77383827-1,Cissus grossedentata,(Büttner) Gilg ex De Wild.,"Ann. Mus. Congo Belge, Bot. sér. 5, 3: 225. 1910 ",,Vitaceae Vitis grossedentata Büttner,(Büttner)
+wfo-1000051726,urn:lsid:ipni.org:names:77392914-1,Vitis citrulloides,(Lebas) Dippel,Handb. Laubholzk. 2: 565. 1891 ,,Vitaceae Ampelopsis citrulloides Lebas,(Lebas)
+wfo-1000051733,urn:lsid:ipni.org:names:77384448-1,Cissus gmelinii,F.Dietr.,"Neu. Nachtr. Vollst. Lex. Gärtn. 2: 575. 1826 , nom. illeg. superfl.",,,
