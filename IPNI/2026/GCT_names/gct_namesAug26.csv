@@ -1,0 +1,739 @@
+WFOID,IPNID,scientificName,authorship,namePublishedin,Genus,nomenclaturalStatus,originalName,originalNameAuthor
+wfo-4100006824,urn:lsid:ipni.org:names:77393477-1,Hyacinthaceae,Stellifloris,"Minnaar, Cron & Steenhuisen",Taxon 75(4)-e70196: 12. 2026 [28 Jul 2026] ,Stellifloris,,,
+wfo-4100006825,urn:lsid:ipni.org:names:77393478-1,Thymelaeaceae,Zacharia,Olaniyan & Boatwr.,Taxon 75(4)-e70202: 17. 2026 [21 Jul 2026] ,Zacharia,,,
+wfo-1200126236,urn:lsid:ipni.org:names:77393479-1,Thymelaeaceae,Epichroxantha,Eckl. & Zeyh. ex Olaniyan & Magee,Taxon 75(4)-e70202: 18. 2026 [21 Jul 2026] ,Epichroxantha,,,
+wfo-4100006826,urn:lsid:ipni.org:names:77393480-1,Apiaceae,Callibractia,"Zi Xuan Li, C.Peng & X.J.He",Molec. Phylogen. Evol. 224-108699: 13. 2026 [26 Jul 2026] ,Callibractia,,,
+wfo-1000094155,urn:lsid:ipni.org:names:77393585-1,Scrophulariaceae,Linaria corrugata,Karjagin,Izv. Azerbaidzhansk. Fil. 1944(10): 51. ,Linaria,,,
+wfo-1000094157,urn:lsid:ipni.org:names:77393587-1,Apiaceae,Callibractia amabilis,(Craib & W.W.Sm.) Zi Xuan Li & X.J.He,Molec. Phylogen. Evol. 224-108699: 13. 2026 [26 Jul 2026] ,Callibractia,,Apiaceae Pleurospermum amabile Craib & W.W.Sm.,(Craib & W.W.Sm.)
+wfo-1000094158,urn:lsid:ipni.org:names:77393588-1,Apiaceae,Callibractia balangshanensis,C.Peng & X.J.He,Molec. Phylogen. Evol. 224-108699: 14. 2026 [26 Jul 2026] ,Callibractia,,,
+wfo-1000094159,urn:lsid:ipni.org:names:77393589-1,Apiaceae,Callibractia nana,(Ost.-Sack. & Rupr.) W.Yan Tan & S.D.Zhou,Molec. Phylogen. Evol. 224-108699: 14. 2026 [26 Jul 2026] ,Callibractia,,Apiaceae Hymenolaena nana Osten-Sacken & Rupr.,(Ost.-Sack. & Rupr.)
+wfo-1000094160,urn:lsid:ipni.org:names:77393590-1,Apiaceae,Callibractia nubigena,(H.Wolff) C.Peng & X.J.He,Molec. Phylogen. Evol. 224-108699: 15. 2026 [26 Jul 2026] ,Callibractia,,Apiaceae Pleurospermum nubigenum H.Wolff,(H.Wolff)
+wfo-1000094161,urn:lsid:ipni.org:names:77393591-1,Apiaceae,Callibractia pachycaulis,(Pimenov & Kljuykov) Zi Xuan Li & X.J.He,Molec. Phylogen. Evol. 224-108699: 15. 2026 [26 Jul 2026] ,Callibractia,,Apiaceae Hymenidium pachycaule Pimenov & Kljuykov,(Pimenov & Kljuykov)
+wfo-1000094162,urn:lsid:ipni.org:names:77393592-1,Apiaceae,Callibractia pulszkyi,(Kanitz) Zi Xuan Li & S.D.Zhou,Molec. Phylogen. Evol. 224-108699: 15. 2026 [26 Jul 2026] ,Callibractia,,Apiaceae Pleurospermum pulszkyi Kanitz,(Kanitz)
+wfo-1000094163,urn:lsid:ipni.org:names:77393593-1,Apiaceae,Callibractia tsekuensis,(R.H.Shan) C.Peng & X.J.He,Molec. Phylogen. Evol. 224-108699: 15. 2026 [26 Jul 2026] ,Callibractia,,Apiaceae Pleurospermum tsekuense R.H.Shan,(R.H.Shan)
+wfo-1000094164,urn:lsid:ipni.org:names:77393594-1,Apiaceae,Callibractia pseudonubigena,"Zi Xuan Li, Y.L.Xiao & S.D.Zhou",Molec. Phylogen. Evol. 224-108699: 15. 2026 [26 Jul 2026] ,Callibractia,,,
+wfo-1000094165,urn:lsid:ipni.org:names:77393595-1,Hyacinthaceae,Stellifloris saundersiae,"(Baker) Minnaar, Cron & Steenhuisen",Taxon 75(4)-e70196: 12. 2026 [28 Jul 2026] ,Stellifloris,,Hyacinthaceae Ornithogalum saundersiae Baker,(Baker)
+wfo-1000094166,urn:lsid:ipni.org:names:77393597-1,Asclepiadaceae,Orthosia campanulata,W.D.Stevens,Novon 34: 40. 2026 [7 Apr 2026] ,Orthosia,,,
+wfo-1000094167,urn:lsid:ipni.org:names:77393598-1,Asclepiadaceae,Orthosia tubularis,W.D.Stevens,Novon 34: 42. 2026 [7 Apr 2026] ,Orthosia,,,
+wfo-1000094169,urn:lsid:ipni.org:names:77393606-1,Euphorbiaceae,Phyllanthus nitmiluk,(I.Telford & J.J.Bruhl) Govaerts & Christenh.,Nelumbo 68(1): 143. 2026 [15 Jul 2026] ,Phyllanthus,,Euphorbiaceae Synostemon nitmiluk I.Telford & J.J.Bruhl,(I.Telford & J.J.Bruhl)
+wfo-1000094170,urn:lsid:ipni.org:names:77393607-1,Euphorbiaceae,Phyllanthus nothofageticus,(Airy Shaw) Govaerts & Christenh.,Nelumbo 68(1): 143. 2026 [15 Jul 2026] ,Phyllanthus,,Euphorbiaceae Glochidion nothofageticum Airy Shaw,(Airy Shaw)
+wfo-1000094171,urn:lsid:ipni.org:names:77393608-1,Euphorbiaceae,Phyllanthus novae-georgiae,(Airy Shaw) Govaerts & Christenh.,Nelumbo 68(1): 143. 2026 [15 Jul 2026] ,Phyllanthus,,Euphorbiaceae Glochidion novae-georgiae Airy Shaw,(Airy Shaw)
+wfo-1000094172,urn:lsid:ipni.org:names:77393609-1,Euphorbiaceae,Phyllanthus novoguineensis,(K.Schum.) Govaerts & Christenh.,Nelumbo 68(1): 143. 2026 [15 Jul 2026] ,Phyllanthus,,Euphorbiaceae Glochidion novoguineense K.Schum.,(K.Schum.)
+wfo-1200126179,urn:lsid:ipni.org:names:77393610-1,Euphorbiaceae,Phyllanthus obliquus var. paucicarpus,(Chakrab. & N.P.Balakr.) Govaerts & Christenh.,Nelumbo 68(1): 143. 2026 [15 Jul 2026] ,Phyllanthus,,Euphorbiaceae Glochidion zeylanicum (Gaertn.) A.Juss. var. paucicarpum Chakrab. & N.P.Balakr.,(Chakrab. & N.P.Balakr.)
+wfo-1200126180,urn:lsid:ipni.org:names:77393611-1,Euphorbiaceae,Phyllanthus obliquus var. tomentosus,(Dalzell) Govaerts & Christenh.,Nelumbo 68(1): 143. 2026 [15 Jul 2026] ,Phyllanthus,,Euphorbiaceae Glochidion tomentosum Dalzell,(Dalzell)
+wfo-1200126237,urn:lsid:ipni.org:names:77393612-1,Euphorbiaceae,Phyllanthus oblongifolius,(Airy Shaw) Govaerts & Christenh.,Nelumbo 68(1): 143. 2026 [15 Jul 2026] ,Phyllanthus,nom. illeg. later homonym,Euphorbiaceae Glochidion oblongifolium Airy Shaw,(Airy Shaw)
+wfo-1000094174,urn:lsid:ipni.org:names:77393614-1,Euphorbiaceae,Phyllanthus officinalis,(Hemsl.) Govaerts & Christenh.,Nelumbo 68(1): 143. 2026 [15 Jul 2026] ,Phyllanthus,,Euphorbiaceae Breynia officinalis Hemsl.,(Hemsl.)
+wfo-1000094175,urn:lsid:ipni.org:names:77393615-1,Euphorbiaceae,Phyllanthus oogynus,(Airy Shaw) Govaerts & Christenh.,Nelumbo 68(1): 143. 2026 [15 Jul 2026] ,Phyllanthus,,Euphorbiaceae Glochidion oogynum Airy Shaw,(Airy Shaw)
+wfo-1000094176,urn:lsid:ipni.org:names:77393616-1,Euphorbiaceae,Phyllanthus oxygonus,(Airy Shaw) Govaerts & Christenh.,Nelumbo 68(1): 143. 2026 [15 Jul 2026] ,Phyllanthus,,Euphorbiaceae Glochidion oxygonum Airy Shaw,(Airy Shaw)
+wfo-1000094177,urn:lsid:ipni.org:names:77393617-1,Euphorbiaceae,Phyllanthus pachyconus,(Airy Shaw) Govaerts & Christenh.,Nelumbo 68(1): 143. 2026 [15 Jul 2026] ,Phyllanthus,,Euphorbiaceae Glochidion pachyconum Airy Shaw,(Airy Shaw)
+wfo-1000094178,urn:lsid:ipni.org:names:77393618-1,Euphorbiaceae,Phyllanthus palawanensis,(Elmer) Govaerts & Christenh.,Nelumbo 68(1): 144. 2026 [15 Jul 2026] ,Phyllanthus,,Euphorbiaceae Glochidion palawanense Elmer,(Elmer)
+wfo-1000094179,urn:lsid:ipni.org:names:77393619-1,Euphorbiaceae,Phyllanthus paludicola,(Airy Shaw) Govaerts & Christenh.,Nelumbo 68(1): 144. 2026 [15 Jul 2026] ,Phyllanthus,,Euphorbiaceae Glochidion mindorense C.B.Rob. subsp. paludicola Airy Shaw,(Airy Shaw)
+wfo-1000094180,urn:lsid:ipni.org:names:77393620-1,Euphorbiaceae,Phyllanthus papillosus,(Esser & Stuppy) Govaerts & Christenh.,Nelumbo 68(1): 144. 2026 [15 Jul 2026] ,Phyllanthus,,Euphorbiaceae Breynia papillosa Esser & Stuppy,(Esser & Stuppy)
+wfo-1000094181,urn:lsid:ipni.org:names:77393621-1,Euphorbiaceae,Phyllanthus paucifolius,(J.T.Hunter & J.J.Bruhl) Govaerts & Christenh.,Nelumbo 68(1): 144. 2026 [15 Jul 2026] ,Phyllanthus,,Euphorbiaceae Sauropus paucifolius J.T.Hunter & J.J.Bruhl,(J.T.Hunter & J.J.Bruhl)
+wfo-1000094182,urn:lsid:ipni.org:names:77393622-1,Euphorbiaceae,Phyllanthus peltiferus,(S.Moore) Govaerts & Christenh.,"Nelumbo 68(1): 144. 2026 [15 Jul 2026] , as 'peltiferum'",Phyllanthus,,Euphorbiaceae Glochidion peltiferum S.Moore,(S.Moore)
+wfo-1000094183,urn:lsid:ipni.org:names:77393624-1,Euphorbiaceae,Phyllanthus phellocarpus,(Airy Shaw) Govaerts & Christenh.,Nelumbo 68(1): 144. 2026 [15 Jul 2026] ,Phyllanthus,,Euphorbiaceae Glochidion phellocarpum Airy Shaw,(Airy Shaw)
+wfo-1000094185,urn:lsid:ipni.org:names:77393626-1,Euphorbiaceae,Phyllanthus philippicus,(Cav.) Govaerts & Christenh.,"Nelumbo 68(1): 144. 2026 [15 Jul 2026] , as 'philippica'",Phyllanthus,,Euphorbiaceae Bradleia philippica Cav.,(Cav.)
+wfo-1000094187,urn:lsid:ipni.org:names:77393628-1,Euphorbiaceae,Phyllanthus phyllanthoides,(Merr.) Govaerts & Christenh.,Nelumbo 68(1): 144. 2026 [15 Jul 2026] ,Phyllanthus,,Euphorbiaceae Glochidion phyllanthoides Merr.,(Merr.)
+wfo-1000094188,urn:lsid:ipni.org:names:77393629-1,Euphorbiaceae,Phyllanthus phyllochlamys,(Airy Shaw) Govaerts & Christenh.,Nelumbo 68(1): 144. 2026 [15 Jul 2026] ,Phyllanthus,,Euphorbiaceae Glochidion phyllochlamys Airy Shaw,(Airy Shaw)
+wfo-1000094189,urn:lsid:ipni.org:names:77393630-1,Euphorbiaceae,Phyllanthus pierrei,(Beille) Govaerts & Christenh.,Nelumbo 68(1): 144. 2026 [15 Jul 2026] ,Phyllanthus,,Euphorbiaceae Breyniopsis pierrei Beille,(Beille)
+wfo-1200126238,urn:lsid:ipni.org:names:77393631-1,Euphorbiaceae,Phyllanthus pinifolius,(J.T.Hunter & J.J.Bruhl) Govaerts & Christenh.,Nelumbo 68(1): 144. 2026 [15 Jul 2026] ,Phyllanthus,nom. illeg. later homonym,Euphorbiaceae Sauropus stenocladus (Müll.Arg.) J.T.Hunter & J.J.Bruhl subsp. pinifolius J.T.Hunter & J.J.Bruhl,(J.T.Hunter & J.J.Bruhl)
+wfo-1000094192,urn:lsid:ipni.org:names:77393634-1,Euphorbiaceae,Phyllanthus plagiophyllus,(Airy Shaw) Govaerts & Christenh.,Nelumbo 68(1): 144. 2026 [15 Jul 2026] ,Phyllanthus,,Euphorbiaceae Glochidion plagiophyllum Airy Shaw,(Airy Shaw)
+wfo-1000094193,urn:lsid:ipni.org:names:77393635-1,Euphorbiaceae,Phyllanthus pleiosepalus,(Airy Shaw) Govaerts & Christenh.,Nelumbo 68(1): 144. 2026 [15 Jul 2026] ,Phyllanthus,,Euphorbiaceae Glochidion pleiosepalum Airy Shaw,(Airy Shaw)
+wfo-1000094195,urn:lsid:ipni.org:names:77393637-1,Euphorbiaceae,Phyllanthus pono,Govaerts & Christenh.,Nelumbo 68(1): 144. 2026 [15 Jul 2026] ,Phyllanthus,,,
+wfo-1000094196,urn:lsid:ipni.org:names:77393638-1,Euphorbiaceae,Phyllanthus poomae,(Welzen & Chayam.) Govaerts & Christenh.,Nelumbo 68(1): 144. 2026 [15 Jul 2026] ,Phyllanthus,,Euphorbiaceae Sauropus poomae Welzen & Chayam.,(Welzen & Chayam.)
+wfo-1000094197,urn:lsid:ipni.org:names:77393639-1,Euphorbiaceae,Phyllanthus praeclarus,(Airy Shaw) Govaerts & Christenh.,Nelumbo 68(1): 144. 2026 [15 Jul 2026] ,Phyllanthus,,Euphorbiaceae Glochidion praeclarum Airy Shaw,(Airy Shaw)
+wfo-1000094198,urn:lsid:ipni.org:names:77393640-1,Euphorbiaceae,Phyllanthus prinoides,(S.Moore) Govaerts & Christenh.,Nelumbo 68(1): 144. 2026 [15 Jul 2026] ,Phyllanthus,,Euphorbiaceae Glochidion prinoides S.Moore,(S.Moore)
+wfo-1000094200,urn:lsid:ipni.org:names:77393642-1,Euphorbiaceae,Phyllanthus pruesapanae,Govaerts & Christenh.,Nelumbo 68(1): 144. 2026 [15 Jul 2026] ,Phyllanthus,,,
+wfo-1000094201,urn:lsid:ipni.org:names:77393643-1,Euphorbiaceae,Phyllanthus pseudorostratus,(Huan C.Wang & Feng Yang) Govaerts & Christenh.,Nelumbo 68(1): 144. 2026 [15 Jul 2026] ,Phyllanthus,,Euphorbiaceae Breynia pseudorostrata Huan C.Wang & Feng Yang,(Huan C.Wang & Feng Yang)
+wfo-1000094202,urn:lsid:ipni.org:names:77393644-1,Euphorbiaceae,Phyllanthus psidioides,(C.B.Rob.) Govaerts & Christenh.,Nelumbo 68(1): 144. 2026 [15 Jul 2026] ,Phyllanthus,,Euphorbiaceae Glochidion psidioides C.B.Rob.,(C.B.Rob.)
+wfo-1000094203,urn:lsid:ipni.org:names:77393645-1,Euphorbiaceae,Phyllanthus pubicapsa,(Airy Shaw) Govaerts & Christenh.,Nelumbo 68(1): 144. 2026 [15 Jul 2026] ,Phyllanthus,,Euphorbiaceae Glochidion pubicapsa Airy Shaw,(Airy Shaw)
+wfo-1200126181,urn:lsid:ipni.org:names:77393646-1,Euphorbiaceae,Phyllanthus pubicapsa var. brunneiformis,(Airy Shaw) Govaerts & Christenh.,Nelumbo 68(1): 144. 2026 [15 Jul 2026] ,Phyllanthus,,Euphorbiaceae Glochidion pubicapsa Airy Shaw var. brunneiforme Airy Shaw,(Airy Shaw)
+wfo-1000094204,urn:lsid:ipni.org:names:77393647-1,Euphorbiaceae,Phyllanthus pulgarensis,(Elmer) Govaerts & Christenh.,Nelumbo 68(1): 144. 2026 [15 Jul 2026] ,Phyllanthus,,Euphorbiaceae Glochidion pulgarense Elmer,(Elmer)
+wfo-1000094206,urn:lsid:ipni.org:names:77393653-1,Euphorbiaceae,Phyllanthus punctatus,(Pax & K.Hoffm.) Govaerts & Christenh.,Nelumbo 68(1): 145. 2026 [15 Jul 2026] ,Phyllanthus,,Euphorbiaceae Glochidion punctatum Pax & K.Hoffm.,(Pax & K.Hoffm.)
+wfo-1000094207,urn:lsid:ipni.org:names:77393654-1,Euphorbiaceae,Phyllanthus pungens,(Airy Shaw) Govaerts & Christenh.,Nelumbo 68(1): 145. 2026 [15 Jul 2026] ,Phyllanthus,,Euphorbiaceae Glochidion pungens Airy Shaw,(Airy Shaw)
+wfo-1000094208,urn:lsid:ipni.org:names:77393655-1,Euphorbiaceae,Phyllanthus pyriformis,(Airy Shaw) Govaerts & Christenh.,Nelumbo 68(1): 145. 2026 [15 Jul 2026] ,Phyllanthus,,Euphorbiaceae Glochidion pyriforme Airy Shaw,(Airy Shaw)
+wfo-1200126239,urn:lsid:ipni.org:names:77393656-1,Euphorbiaceae,Phyllanthus pyriformis,Govaerts & Christenh.,Nelumbo 68(1): 145. 2026 [15 Jul 2026] ,Phyllanthus,,,
+wfo-1000094209,urn:lsid:ipni.org:names:77393657-1,Euphorbiaceae,Phyllanthus repens,(Welzen & Pruesapan) Govaerts & Christenh.,Nelumbo 68(1): 145. 2026 [15 Jul 2026] ,Phyllanthus,,Euphorbiaceae Breynia repens Welzen & Pruesapan,(Welzen & Pruesapan)
+wfo-1000094210,urn:lsid:ipni.org:names:77393658-1,Euphorbiaceae,Phyllanthus reticulatovenosus,Govaerts & Christenh.,Nelumbo 68(1): 145. 2026 [15 Jul 2026] ,Phyllanthus,,,
+wfo-1000094211,urn:lsid:ipni.org:names:77393659-1,Euphorbiaceae,Phyllanthus rimophilus,(J.T.Hunter & J.J.Bruhl) Govaerts & Christenh.,Nelumbo 68(1): 145. 2026 [15 Jul 2026] ,Phyllanthus,,Euphorbiaceae Sauropus rimophilus J.T.Hunter & J.J.Bruhl,(J.T.Hunter & J.J.Bruhl)
+wfo-1000094212,urn:lsid:ipni.org:names:77393660-1,Euphorbiaceae,Phyllanthus rostratus,(Merr.) Govaerts & Christenh.,Nelumbo 68(1): 145. 2026 [15 Jul 2026] ,Phyllanthus,,Euphorbiaceae Breynia rostrata Merr.,(Merr.)
+wfo-1000094213,urn:lsid:ipni.org:names:77393661-1,Euphorbiaceae,Phyllanthus rugulosus,(Airy Shaw) Govaerts & Christenh.,"Nelumbo 68(1): 145. 2026 [15 Jul 2026] , as 'rugulosum'",Phyllanthus,,Euphorbiaceae Glochidion rugulosum Airy Shaw,(Airy Shaw)
+wfo-1000094214,urn:lsid:ipni.org:names:77393662-1,Euphorbiaceae,Phyllanthus runikerae,(Airy Shaw) Govaerts & Christenh.,Nelumbo 68(1): 145. 2026 [15 Jul 2026] ,Phyllanthus,,Euphorbiaceae Glochidion runikerae Airy Shaw,(Airy Shaw)
+wfo-1000094218,urn:lsid:ipni.org:names:77393671-1,Euphorbiaceae,Phyllanthus sablanensis,(Elmer) Govaerts & Christenh.,"Nelumbo 68(1): 145. 2026 [15 Jul 2026] , as 'sablanense'",Phyllanthus,,Euphorbiaceae Glochidion sablanense Elmer,(Elmer)
+wfo-1000094219,urn:lsid:ipni.org:names:77393672-1,Euphorbiaceae,Phyllanthus saccocarpus,(Airy Shaw) Govaerts & Christenh.,Nelumbo 68(1): 145. 2026 [15 Jul 2026] ,Phyllanthus,,Euphorbiaceae Glochidion saccocarpum Airy Shaw,(Airy Shaw)
+wfo-1000094220,urn:lsid:ipni.org:names:77393673-1,Euphorbiaceae,Phyllanthus salignus,(J.T.Hunter & J.J.Bruhl) Govaerts & Christenh.,Nelumbo 68(1): 145. 2026 [15 Jul 2026] ,Phyllanthus,,Euphorbiaceae Sauropus salignus J.T.Hunter & J.J.Bruhl,(J.T.Hunter & J.J.Bruhl)
+wfo-1000094221,urn:lsid:ipni.org:names:77393674-1,Euphorbiaceae,Phyllanthus sanohin,Govaerts & Christenh.,Nelumbo 68(1): 145. 2026 [15 Jul 2026] ,Phyllanthus,,,
+wfo-1000094222,urn:lsid:ipni.org:names:77393675-1,Euphorbiaceae,Phyllanthus santisukii,(Airy Shaw) Govaerts & Christenh.,Nelumbo 68(1): 145. 2026 [15 Jul 2026] ,Phyllanthus,,Euphorbiaceae Glochidion santisukii Airy Shaw,(Airy Shaw)
+wfo-1000094223,urn:lsid:ipni.org:names:77393676-1,Euphorbiaceae,Phyllanthus sauropus,Govaerts & Christenh.,Nelumbo 68(1): 145. 2026 [15 Jul 2026] ,Phyllanthus,,,
+wfo-1000094224,urn:lsid:ipni.org:names:77393677-1,Euphorbiaceae,Phyllanthus saxeus,Govaerts & Christenh.,Nelumbo 68(1): 145. 2026 [15 Jul 2026] ,Phyllanthus,,,
+wfo-1000094225,urn:lsid:ipni.org:names:77393678-1,Euphorbiaceae,Phyllanthus septatus,(Beille) Govaerts & Christenh.,Nelumbo 68(1): 145. 2026 [15 Jul 2026] ,Phyllanthus,,Euphorbiaceae Breynia septata Beille,(Beille)
+wfo-1000094226,urn:lsid:ipni.org:names:77393679-1,Euphorbiaceae,Phyllanthus sessiliflorus,(Airy Shaw) Govaerts & Christenh.,Nelumbo 68(1): 145. 2026 [15 Jul 2026] ,Phyllanthus,,Euphorbiaceae Glochidion sessiliflorum Airy Shaw,(Airy Shaw)
+wfo-1000094227,urn:lsid:ipni.org:names:77393680-1,Euphorbiaceae,Phyllanthus shawii,(Welzen) Govaerts & Christenh.,Nelumbo 68(1): 145. 2026 [15 Jul 2026] ,Phyllanthus,,Euphorbiaceae Sauropus shawii Welzen,(Welzen)
+wfo-1000094228,urn:lsid:ipni.org:names:77393681-1,Euphorbiaceae,Phyllanthus siamensis,(Chakrab. & M.Gangop.) Govaerts & Christenh.,Nelumbo 68(1): 145. 2026 [15 Jul 2026] ,Phyllanthus,,Euphorbiaceae Sauropus siamensis Chakrab. & M.Gangop.,(Chakrab. & M.Gangop.)
+wfo-1000094229,urn:lsid:ipni.org:names:77393682-1,Balsaminaceae,Impatiens lisuana,R.P.Kuang & Z.Shun Chen,Phytotaxa 768(4): 208. 2026 [5 Aug 2026] ,Impatiens,,,
+wfo-1200126182,urn:lsid:ipni.org:names:77393684-1,Euphorbiaceae,Phyllanthus singampattianus var. rangachariarii,"(Murugan, Kabeer & G.V.S.Murthy) Govaerts & Christenh.",Nelumbo 68(1): 146. 2026 [15 Jul 2026] ,Phyllanthus,,"Euphorbiaceae Phyllanthus rangachariarii Murugan, Kabeer & G.V.S.Murthy","(Murugan, Kabeer & G.V.S.Murthy)"
+wfo-1000094231,urn:lsid:ipni.org:names:77393685-1,Euphorbiaceae,Phyllanthus solomonanthus,Govaerts & Christenh.,Nelumbo 68(1): 146. 2026 [15 Jul 2026] ,Phyllanthus,,,
+wfo-1000094232,urn:lsid:ipni.org:names:77393686-1,Euphorbiaceae,Phyllanthus sorsogonensis,(Elmer ex Merr.) Govaerts & Christenh.,Nelumbo 68(1): 146. 2026 [15 Jul 2026] ,Phyllanthus,,Euphorbiaceae Glochidion sorsogonense Elmer ex Merr.,(Elmer ex Merr.)
+wfo-1200126240,urn:lsid:ipni.org:names:77393687-1,Euphorbiaceae,Phyllanthus spectabilis,(Miq.) Govaerts & Christenh.,Nelumbo 68(1): 146. 2026 [15 Jul 2026] ,Phyllanthus,,Euphorbiaceae Sauropus spectabilis Miq.,(Miq.)
+wfo-1000094233,urn:lsid:ipni.org:names:77393688-1,Euphorbiaceae,Phyllanthus sphenophyllus,(Airy Shaw) Govaerts & Christenh.,Nelumbo 68(1): 146. 2026 [15 Jul 2026] ,Phyllanthus,,Euphorbiaceae Synostemon sphenophyllus Airy Shaw,(Airy Shaw)
+wfo-1000094234,urn:lsid:ipni.org:names:77393689-1,Euphorbiaceae,Phyllanthus stellanthus,Govaerts & Christenh.,Nelumbo 68(1): 146. 2026 [15 Jul 2026] ,Phyllanthus,,,
+wfo-1000094235,urn:lsid:ipni.org:names:77393690-1,Euphorbiaceae,Phyllanthus stilpnophyllus,(Govaerts & Radcl.-Sm.) Govaerts & Christenh.,Nelumbo 68(1): 146. 2026 [15 Jul 2026] ,Phyllanthus,,Euphorbiaceae Glochidion stilpnophyllum Govaerts & Radcl.-Sm.,(Govaerts & Radcl.-Sm.)
+wfo-1000094236,urn:lsid:ipni.org:names:77393691-1,Euphorbiaceae,Phyllanthus striatus,(J.J.Sm.) Govaerts & Christenh.,Nelumbo 68(1): 146. 2026 [15 Jul 2026] ,Phyllanthus,,Euphorbiaceae Glochidion striatum J.J.Sm.,(J.J.Sm.)
+wfo-1000094238,urn:lsid:ipni.org:names:77393693-1,Euphorbiaceae,Phyllanthus styliferus,(J.J.Sm.) Govaerts & Christenh.,Nelumbo 68(1): 146. 2026 [15 Jul 2026] ,Phyllanthus,,Euphorbiaceae Glochidion styliferum J.J.Sm.,(J.J.Sm.)
+wfo-1000094239,urn:lsid:ipni.org:names:77393694-1,Euphorbiaceae,Phyllanthus subangustifolius,(Thin) Govaerts & Christenh.,Nelumbo 68(1): 146. 2026 [15 Jul 2026] ,Phyllanthus,,Euphorbiaceae Breynia subangustifolia Thin,(Thin)
+wfo-1000094240,urn:lsid:ipni.org:names:77393695-1,Euphorbiaceae,Phyllanthus subfalcatus,(Elmer) Govaerts & Christenh.,Nelumbo 68(1): 146. 2026 [15 Jul 2026] ,Phyllanthus,,Euphorbiaceae Glochidion subfalcatum Elmer,(Elmer)
+wfo-1000094241,urn:lsid:ipni.org:names:77393696-1,Euphorbiaceae,Phyllanthus subindochinensis,(Thin) Govaerts & Christenh.,Nelumbo 68(1): 146. 2026 [15 Jul 2026] ,Phyllanthus,,Euphorbiaceae Breynia subindochinensis Thin,(Thin)
+wfo-1000094243,urn:lsid:ipni.org:names:77393698-1,Euphorbiaceae,Phyllanthus suborbicularis,(Esser & Stuppy) Govaerts & Christenh.,Nelumbo 68(1): 146. 2026 [15 Jul 2026] ,Phyllanthus,,Euphorbiaceae Breynia suborbicularis Esser & Stuppy,(Esser & Stuppy)
+wfo-1200126241,urn:lsid:ipni.org:names:77393699-1,Euphorbiaceae,Phyllanthus suborbicularis,(Airy Shaw) Govaerts & Christenh.,Nelumbo 68(1): 146. 2026 [15 Jul 2026] ,Phyllanthus,,Euphorbiaceae Breynia oblongifolia Müll.Arg. var. suborbicularis Airy Shaw,(Airy Shaw)
+wfo-1200126184,urn:lsid:ipni.org:names:77393702-1,Euphorbiaceae,Phyllanthus suborbicularis var. oblongifolius,(Müll.Arg.) Govaerts & Christenh.,Nelumbo 68(1): 146. 2026 [15 Jul 2026] ,Phyllanthus,,Euphorbiaceae Melanthesa rhamnoides  var. oblongifolia Mull.Arg.,(Müll.Arg.)
+wfo-1200126185,urn:lsid:ipni.org:names:77393703-1,Euphorbiaceae,Phyllanthus subscandens var. brevistylus,(Chakrab. & M.Gangop.) Govaerts & Christenh.,Nelumbo 68(1): 146. 2026 [15 Jul 2026] ,Phyllanthus,,Euphorbiaceae Glochidion insulare Hook.f. var. brevistylum Chakrab. & M.Gangop.,(Chakrab. & M.Gangop.)
+wfo-1000094245,urn:lsid:ipni.org:names:77393704-1,Euphorbiaceae,Phyllanthus succulanthus,Govaerts & Christenh.,Nelumbo 68(1): 146. 2026 [15 Jul 2026] ,Phyllanthus,,,
+wfo-1000094247,urn:lsid:ipni.org:names:77393707-1,Euphorbiaceae,Phyllanthus sundanesianthus,Govaerts & Christenh.,Nelumbo 68(1): 147. 2026 [15 Jul 2026] ,Phyllanthus,,,
+wfo-1000094248,urn:lsid:ipni.org:names:77393708-1,Euphorbiaceae,Phyllanthus symingtonii,(Airy Shaw) Govaerts & Christenh.,Nelumbo 68(1): 147. 2026 [15 Jul 2026] ,Phyllanthus,,Euphorbiaceae Glochidion symingtonii Airy Shaw,(Airy Shaw)
+wfo-1000094249,urn:lsid:ipni.org:names:77393709-1,Euphorbiaceae,Phyllanthus talakonensis,"(Sankara Rao, J.Swamy, Nagaraju, S.B.Padal, M.Tarak.Naidu, K.C.Mohan & Thulasiah) Govaerts & Christenh.",Nelumbo 68(1): 147. 2026 [15 Jul 2026] ,Phyllanthus,,"Euphorbiaceae Glochidion talakonense Sankara Rao, J.Swamy, Nagaraju, S.B.Padal, M.Tarak.Naidu, K.C.Mohan & Thulasiah","(Sankara Rao, J.Swamy, Nagaraju, S.B.Padal, M.Tarak.Naidu, K.C.Mohan & Thulasiah)"
+wfo-1000094250,urn:lsid:ipni.org:names:77393710-1,Euphorbiaceae,Phyllanthus talmyanus,(Beille) Govaerts & Christenh.,Nelumbo 68(1): 147. 2026 [15 Jul 2026] ,Phyllanthus,,Euphorbiaceae Glochidion talmyanum Beille,(Beille)
+wfo-1000094251,urn:lsid:ipni.org:names:77393711-1,Euphorbiaceae,Phyllanthus tannaensis,(Guillaumin) Govaerts & Christenh.,Nelumbo 68(1): 147. 2026 [15 Jul 2026] ,Phyllanthus,,Euphorbiaceae Glochidion tannaense Guillaumin,(Guillaumin)
+wfo-1000094252,urn:lsid:ipni.org:names:77393712-1,Euphorbiaceae,Phyllanthus telfordii,Govaerts & Christenh.,Nelumbo 68(1): 147. 2026 [15 Jul 2026] ,Phyllanthus,,,
+wfo-1000094253,urn:lsid:ipni.org:names:77393713-1,Euphorbiaceae,Phyllanthus temii,(Welzen & Chayam.) Govaerts & Christenh.,Nelumbo 68(1): 147. 2026 [15 Jul 2026] ,Phyllanthus,,Euphorbiaceae Sauropus temii Welzen & Chayam.,(Welzen & Chayam.)
+wfo-1000094254,urn:lsid:ipni.org:names:77393714-1,Euphorbiaceae,Phyllanthus tenuistylus,(Stapf) Govaerts & Christenh.,Nelumbo 68(1): 147. 2026 [15 Jul 2026] ,Phyllanthus,,Euphorbiaceae Glochidion tenuistylum Stapf,(Stapf)
+wfo-1000094255,urn:lsid:ipni.org:names:77393715-1,Euphorbiaceae,Phyllanthus ternateus,(Airy Shaw) Govaerts & Christenh.,Nelumbo 68(1): 147. 2026 [15 Jul 2026] ,Phyllanthus,,Euphorbiaceae Glochidion ternateum Airy Shaw,(Airy Shaw)
+wfo-1000094256,urn:lsid:ipni.org:names:77393716-1,Euphorbiaceae,Phyllanthus tetrapteros,(Gage) Govaerts & Christenh.,Nelumbo 68(1): 147. 2026 [15 Jul 2026] ,Phyllanthus,,Euphorbiaceae Glochidion tetrapteron Gage,(Gage)
+wfo-1000094257,urn:lsid:ipni.org:names:77393717-1,Euphorbiaceae,Phyllanthus thoii,(Thin) Govaerts & Christenh.,Nelumbo 68(1): 147. 2026 [15 Jul 2026] ,Phyllanthus,,Euphorbiaceae Sauropus thoii Thin,(Thin)
+wfo-1000094258,urn:lsid:ipni.org:names:77393718-1,Euphorbiaceae,Phyllanthus thorelii,(Beille) Govaerts & Christenh.,Nelumbo 68(1): 147. 2026 [15 Jul 2026] ,Phyllanthus,,Euphorbiaceae Sauropus thorelii Beille,(Beille)
+wfo-1000094259,urn:lsid:ipni.org:names:77393719-1,Euphorbiaceae,Phyllanthus thyrsiflorus,(Welzen) Govaerts & Christenh.,Nelumbo 68(1): 147. 2026 [15 Jul 2026] ,Phyllanthus,,Euphorbiaceae Sauropus thyrsiflorus Welzen,(Welzen)
+wfo-1000094260,urn:lsid:ipni.org:names:77393720-1,Euphorbiaceae,Phyllanthus tiepii,(Welzen & Pruesapan) Govaerts & Christenh.,Nelumbo 68(1): 147. 2026 [15 Jul 2026] ,Phyllanthus,,Euphorbiaceae Breynia tiepii Welzen & Pruesapan,(Welzen & Pruesapan)
+wfo-1000094261,urn:lsid:ipni.org:names:77393721-1,Euphorbiaceae,Phyllanthus timorensis,(Airy Shaw) Govaerts & Christenh.,Nelumbo 68(1): 147. 2026 [15 Jul 2026] ,Phyllanthus,,Euphorbiaceae Glochidion timorense Airy Shaw,(Airy Shaw)
+wfo-1000094262,urn:lsid:ipni.org:names:77393722-1,Euphorbiaceae,Phyllanthus tomentellus,Govaerts & Christenh.,Nelumbo 68(1): 147. 2026 [15 Jul 2026] ,Phyllanthus,,,
+wfo-1200126242,urn:lsid:ipni.org:names:77393723-1,Euphorbiaceae,Phyllanthus tonkinensis,(Beille) Govaerts & Christenh.,Nelumbo 68(1): 147. 2026 [15 Jul 2026] ,Phyllanthus,,Euphorbiaceae Breynia tonkinensis Beille,(Beille)
+wfo-1000094263,urn:lsid:ipni.org:names:77393724-1,Euphorbiaceae,Phyllanthus tricalysioides,Govaerts & Christenh.,Nelumbo 68(1): 147. 2026 [15 Jul 2026] ,Phyllanthus,,,
+wfo-1000094264,urn:lsid:ipni.org:names:77393725-1,Euphorbiaceae,Phyllanthus trichophorus,(Merr.) Govaerts & Christenh.,Nelumbo 68(1): 147. 2026 [15 Jul 2026] ,Phyllanthus,,Euphorbiaceae Glochidion trichophorum Merr.,(Merr.)
+wfo-1000094265,urn:lsid:ipni.org:names:77393726-1,Euphorbiaceae,Phyllanthus trusanicus,(Airy Shaw) Govaerts & Christenh.,Nelumbo 68(1): 147. 2026 [15 Jul 2026] ,Phyllanthus,,Euphorbiaceae Glochidion trusanicum Airy Shaw,(Airy Shaw)
+wfo-1200126243,urn:lsid:ipni.org:names:77393727-1,Euphorbiaceae,Phyllanthus tsiangii,(P.T.Li) Govaerts & Christenh.,Nelumbo 68(1): 147. 2026 [15 Jul 2026] ,Phyllanthus,nom. illeg. later homonym,Euphorbiaceae Sauropus tsiangii P.T.Li,(P.T.Li)
+wfo-1000094266,urn:lsid:ipni.org:names:77393728-1,Euphorbiaceae,Phyllanthus ultrabasicola,(Airy Shaw) Govaerts & Christenh.,Nelumbo 68(1): 148. 2026 [15 Jul 2026] ,Phyllanthus,,Euphorbiaceae Glochidion ultrabasicola Airy Shaw,(Airy Shaw)
+wfo-1000094267,urn:lsid:ipni.org:names:77393729-1,Euphorbiaceae,Phyllanthus umbrosus,(I.Telford & J.J.Bruhl) Govaerts & Christenh.,Nelumbo 68(1): 148. 2026 [15 Jul 2026] ,Phyllanthus,,Euphorbiaceae Synostemon umbrosus I.Telford & J.J.Bruhl,(I.Telford & J.J.Bruhl)
+wfo-1000094268,urn:lsid:ipni.org:names:77393730-1,Euphorbiaceae,Phyllanthus urceolaris,(Airy Shaw) Govaerts & Christenh.,Nelumbo 68(1): 148. 2026 [15 Jul 2026] ,Phyllanthus,,Euphorbiaceae Glochidion urceolare Airy Shaw,(Airy Shaw)
+wfo-1000094269,urn:lsid:ipni.org:names:77393731-1,Euphorbiaceae,Phyllanthus urophylloides,(Elmer) Govaerts & Christenh.,Nelumbo 68(1): 148. 2026 [15 Jul 2026] ,Phyllanthus,,Euphorbiaceae Glochidion urophylloides Elmer,(Elmer)
+wfo-1000094270,urn:lsid:ipni.org:names:77393732-1,Euphorbiaceae,Phyllanthus vanuatuanthus,Govaerts & Christenh.,Nelumbo 68(1): 148. 2026 [15 Jul 2026] ,Phyllanthus,,,
+wfo-1000094273,urn:lsid:ipni.org:names:77393736-1,Euphorbiaceae,Phyllanthus varieri,(Sivar. & Balach.) Govaerts & Christenh.,Nelumbo 68(1): 148. 2026 [15 Jul 2026] ,Phyllanthus,,Euphorbiaceae Sauropus varieri Sivar. & Balach.,(Sivar. & Balach.)
+wfo-1200126187,urn:lsid:ipni.org:names:77393737-1,Euphorbiaceae,Phyllanthus velutinus var. arunachalensis,(Chakrab. & M.Gangop.) Govaerts & Christenh.,Nelumbo 68(1): 148. 2026 [15 Jul 2026] ,Phyllanthus,,Euphorbiaceae Glochidion zeylanicum (Gaertn.) A.Juss. var. arunachalense Chakrab. & M.Gangop.,(Chakrab. & M.Gangop.)
+wfo-1200126188,urn:lsid:ipni.org:names:77393738-1,Euphorbiaceae,Phyllanthus velutinus var. mishmiensis,(Hook.f.) Govaerts & Christenh.,Nelumbo 68(1): 148. 2026 [15 Jul 2026] ,Phyllanthus,,Euphorbiaceae Glochidion mishmiense Hook.f.,(Hook.f.)
+wfo-1200126189,urn:lsid:ipni.org:names:77393739-1,Euphorbiaceae,Phyllanthus velutinus var. tirupathiensis,"(Rasingam, Chorghe, Prasanna & Sankara Rao) Govaerts & Christenh.",Nelumbo 68(1): 148. 2026 [15 Jul 2026] ,Phyllanthus,,"Euphorbiaceae Glochidion tirupathiense Rasingam, Chorghe, Prasanna & Sankara Rao","(Rasingam, Chorghe, Prasanna & Sankara Rao)"
+wfo-1000094274,urn:lsid:ipni.org:names:77393740-1,Euphorbiaceae,Phyllanthus vestitus,(Warb.) Govaerts & Christenh.,Nelumbo 68(1): 148. 2026 [15 Jul 2026] ,Phyllanthus,,Euphorbiaceae Breynia vestita Warb.,(Warb.)
+wfo-1000094275,urn:lsid:ipni.org:names:77393741-1,Euphorbiaceae,Phyllanthus vogelkopensis,Govaerts & Christenh.,Nelumbo 68(1): 148. 2026 [15 Jul 2026] ,Phyllanthus,,,
+wfo-1000094276,urn:lsid:ipni.org:names:77393742-1,Euphorbiaceae,Phyllanthus weberi,(C.B.Rob.) Govaerts & Christenh.,Nelumbo 68(1): 148. 2026 [15 Jul 2026] ,Phyllanthus,,Euphorbiaceae Glochidion weberi C.B.Rob.,(C.B.Rob.)
+wfo-1000094277,urn:lsid:ipni.org:names:77393743-1,Euphorbiaceae,Phyllanthus welzenii,(W.N.Takeuchi) Govaerts & Christenh.,Nelumbo 68(1): 148. 2026 [15 Jul 2026] ,Phyllanthus,,Euphorbiaceae Glochidion welzenii W.N.Takeuchi,(W.N.Takeuchi)
+wfo-1000094279,urn:lsid:ipni.org:names:77393745-1,Euphorbiaceae,Phyllanthus wilsonii,(Hutch.) Govaerts & Christenh.,Nelumbo 68(1): 148. 2026 [15 Jul 2026] ,Phyllanthus,,Euphorbiaceae Glochidion wilsonii Hutch.,(Hutch.)
+wfo-1000094280,urn:lsid:ipni.org:names:77393746-1,Euphorbiaceae,Phyllanthus wisselensis,(Airy Shaw) Govaerts & Christenh.,Nelumbo 68(1): 148. 2026 [15 Jul 2026] ,Phyllanthus,,Euphorbiaceae Glochidion wisselense Airy Shaw,(Airy Shaw)
+wfo-1000094281,urn:lsid:ipni.org:names:77393747-1,Euphorbiaceae,Phyllanthus wonenggau,(Airy Shaw) Govaerts & Christenh.,Nelumbo 68(1): 148. 2026 [15 Jul 2026] ,Phyllanthus,,Euphorbiaceae Glochidion wonenggau Airy Shaw,(Airy Shaw)
+wfo-1000094282,urn:lsid:ipni.org:names:77393748-1,Euphorbiaceae,Phyllanthus wundu,Govaerts & Christenh.,Nelumbo 68(1): 148. 2026 [15 Jul 2026] ,Phyllanthus,,,
+wfo-1000094283,urn:lsid:ipni.org:names:77393749-1,Euphorbiaceae,Phyllanthus xestophyllus,(Airy Shaw) Govaerts & Christenh.,Nelumbo 68(1): 148. 2026 [15 Jul 2026] ,Phyllanthus,,Euphorbiaceae Glochidion xestophyllum Airy Shaw,(Airy Shaw)
+wfo-1000094284,urn:lsid:ipni.org:names:77393750-1,Euphorbiaceae,Phyllanthus yangchunensis,(Z.Q.Song & Gang Yao) Govaerts & Christenh.,Nelumbo 68(1): 148. 2026 [15 Jul 2026] ,Phyllanthus,,Euphorbiaceae Glochidion yangchunense Z.Q.Song & Gang Yao,(Z.Q.Song & Gang Yao)
+wfo-1000094285,urn:lsid:ipni.org:names:77393751-1,Euphorbiaceae,Phyllanthus yanhuianus,(P.T.Li) Govaerts & Christenh.,Nelumbo 68(1): 148. 2026 [15 Jul 2026] ,Phyllanthus,,Euphorbiaceae Sauropus yanhuianus P.T.Li,(P.T.Li)
+wfo-1000094286,urn:lsid:ipni.org:names:77393752-1,Euphorbiaceae,Phyllanthus zambales,Govaerts & Christenh.,Nelumbo 68(1): 148. 2026 [15 Jul 2026] ,Phyllanthus,,,
+wfo-1000094290,urn:lsid:ipni.org:names:77393765-1,Euphorbiaceae,Phyllanthus singaporensis,(Gage) Govaerts & Christenh.,Nelumbo 68(1): 146. 2026 [15 Jul 2026] ,Phyllanthus,,Euphorbiaceae Glochidion singaporense Gage,(Gage)
+wfo-1000094291,urn:lsid:ipni.org:names:77393766-1,Euphorbiaceae,Phyllanthus sinhalanthus,Govaerts & Christenh.,Nelumbo 68(1): 146. 2026 [15 Jul 2026] ,Phyllanthus,,,
+wfo-0000515233,urn:lsid:ipni.org:names:77393770-1,Aceraceae,Acer trifidum var. ningpoense,Hance,J. Bot. 11: 168. 1873 ,Acer,,,
+wfo-1200126246,urn:lsid:ipni.org:names:77393771-1,Aceraceae,Acer buergerianum var. ningpoense,(Hance) Rehder,Trees & Shrubs [Sargent] 1(4): 179. 1905 ,Acer,,Aceraceae Acer trifidum Thunb. var. ningpoense Hance,(Hance)
+wfo-0000514018,urn:lsid:ipni.org:names:77393772-1,Aceraceae,Acer buergerianum subsp. ningpoense,(Hance) A.E.Murray,Kalmia 12: 13. 1982 ,Acer,,Aceraceae Acer trifidum Thunb. var. ningpoense Hance,(Hance)
+wfo-1000094294,urn:lsid:ipni.org:names:77393773-1,Lauraceae,Cinnamomum fasciculatum,S.W.Deng & R.J.Wang,PhytoKeys 278: 110. 2026 [7 Aug 2026] ,Cinnamomum,,,
+wfo-1000094302,urn:lsid:ipni.org:names:77393781-1,Aristolochiaceae,Aristolochia hatayensis,İlçim,Phytotaxa 769(1): 79. 2026 [7 Aug 2026] ,Aristolochia,,,
+wfo-1000094303,urn:lsid:ipni.org:names:77393782-1,Lamiaceae,Leucas droupadiae,"Akash, K.Manik. & A.Rajesh",Phytotaxa 769(1): 88. 2026 [7 Aug 2026] ,Leucas,,,
+wfo-1200126199,urn:lsid:ipni.org:names:77393783-1,Scrophulariaceae,Buchnera welwitschii f. parviflora,Engl. & Gilg,Kunene-Sambesi-Exped. [Warburg] 367. 1903 [May 1903] ,Buchnera,,,
+wfo-1200126200,urn:lsid:ipni.org:names:77393786-1,Anacardiaceae,Heeria benguellensis var. petrophila,Engl. & Gilg,Kunene-Sambesi-Exped. [Warburg] 286. 1903 [May 1903] ,Heeria,,,
+wfo-1200126201,urn:lsid:ipni.org:names:77393791-1,Polygalaceae,Polygala robusta var. rubra,Gürke,Kunene-Sambesi-Exped. [Warburg] 275. 1903 [May 1903] ,Polygala,,,
+wfo-1200126202,urn:lsid:ipni.org:names:77393792-1,Polygalaceae,Polygala robusta var. coerulea,Gürke,Kunene-Sambesi-Exped. [Warburg] 275. 1903 [May 1903] ,Polygala,,,
+wfo-1000094304,urn:lsid:ipni.org:names:77393793-1,Celastraceae,Elaeodendron kedarnathii,"(Sasidh. & Swarupan.) A.Mondal, Pradh. & Murugan",Brittonia [early view]: [2 of 13]. 2026 [8 Jun 2026] ,Elaeodendron,,Celastraceae Cassine kedarnathii Sasidh. & Swarupan.,(Sasidh. & Swarupan.)
+wfo-1000094305,urn:lsid:ipni.org:names:77393794-1,Celastraceae,Elaeodendron balae,"(Kosterm.) A.Mondal, Pradh. & Murugan",Brittonia [early view]: [3 of 13]. 2026 [8 Jun 2026] ,Elaeodendron,,Celastraceae Cassine balae Kosterm.,(Kosterm.)
+wfo-1000094306,urn:lsid:ipni.org:names:77393795-1,Celastraceae,Elaeodendron grossum,"(Wall.) A.Mondal, Pradh. & Murugan",Brittonia [early view]: [9 of 13]. 2026 [8 Jun 2026] ,Elaeodendron,,Celastraceae Euonymus grossus Wall.,(Wall.)
+wfo-0000682130,urn:lsid:ipni.org:names:77393797-1,Celastraceae,Euonymus vagans subsp. macrophyllus,"Kanjilal, P.C.Kanjilal, Das & C.S.Purkay.",Fl. Assam 1(2): 264. 1937 ,Euonymus,nom. inval.    The protologue is in English; Latin description/diagnosis lacking,,
+wfo-1200126248,urn:lsid:ipni.org:names:77393798-1,Campanulaceae,Campanula sajanensis,Pall. ex Willd.,"Syst. Veg., ed. 15[bis]. 5: 102. 1819 [Dec 1819] ",Campanula,,,
+wfo-1000094309,urn:lsid:ipni.org:names:77393908-1,Aristolochiaceae,Aristolochia himalayana,"Chowlu, R.Maity, A.Shenoy & S.S.Dash",Nelumbo 68(1): 13. 2026 [15 Jul 2026] ,Aristolochia,,,
+wfo-1200126204,urn:lsid:ipni.org:names:77393909-1,Hyacinthaceae,Scilla lanceifolia var. longiracemosa,Engl. & Gilg,Kunene-Sambesi-Exped. [Warburg] 195. 1903 [May 1903] ,Scilla,,,
+wfo-1000094310,urn:lsid:ipni.org:names:77393910-1,Thymelaeaceae,Zacharia neglecta,(Z.S.Rogers) Olaniyan & Boatwr.,Taxon 75(4)-e70202: 18. 2026 [21 Jul 2026] ,Zacharia,,Thymelaeaceae Gnidia neglecta Z.S.Rogers,(Z.S.Rogers)
+wfo-1200126249,urn:lsid:ipni.org:names:77393914-1,Scrophulariaceae,Striga thunbergii var. grandiflora,Engl.,Kunene-Sambesi-Exped. [Warburg] 369. 1903 [May 1903 ] ,Striga,,,
+wfo-1000094315,urn:lsid:ipni.org:names:77393920-1,Saxifragaceae,Saxifraga alpsengulii,Yıldırım,Phytotaxa 769(2): 139. 2026 [11 Aug 2026] ,Saxifraga,,,
+wfo-1000094316,urn:lsid:ipni.org:names:77393921-1,Thymelaeaceae,Epichroxantha coriacea,(Meisn.) Olaniyan,Taxon 75(4)-e70202: 18. 2026 [21 Jul 2026] ,Epichroxantha,,Thymelaeaceae Gnidia coriacea Meisn.,(Meisn.)
+wfo-1000094317,urn:lsid:ipni.org:names:77393922-1,Thymelaeaceae,Epichroxantha decurrens,(Meisn.) Olaniyan,Taxon 75(4)-e70202: 18. 2026 [21 Jul 2026] ,Epichroxantha,,Thymelaeaceae Gnidia decurrens Meisn.,(Meisn.)
+wfo-1000094318,urn:lsid:ipni.org:names:77393923-1,Thymelaeaceae,Epichroxantha flanaganii,(C.H.Wright) Olaniyan,Taxon 75(4)-e70202: 18. 2026 [21 Jul 2026] ,Epichroxantha,,Thymelaeaceae Gnidia flanaganii C.H.Wright,(C.H.Wright)
+wfo-1000094319,urn:lsid:ipni.org:names:77393924-1,Thymelaeaceae,Epichroxantha galpinii,(C.H.Wright) Olaniyan,Taxon 75(4)-e70202: 18. 2026 [21 Jul 2026] ,Epichroxantha,,Thymelaeaceae Gnidia galpinii C.H.Wright,(C.H.Wright)
+wfo-1000094320,urn:lsid:ipni.org:names:77393925-1,Thymelaeaceae,Epichroxantha humilis,(Meisn.) Olaniyan,Taxon 75(4)-e70202: 18. 2026 [21 Jul 2026] ,Epichroxantha,,Thymelaeaceae Gnidia humilis Meisn.,(Meisn.)
+wfo-1000094321,urn:lsid:ipni.org:names:77393926-1,Thymelaeaceae,Epichroxantha juniperifolia,(Lam.) Olaniyan,Taxon 75(4)-e70202: 18. 2026 [21 Jul 2026] ,Epichroxantha,,Thymelaeaceae Gnidia juniperifolia Lam.,(Lam.)
+wfo-1000094322,urn:lsid:ipni.org:names:77393927-1,Thymelaeaceae,Epichroxantha myrtifolia,(C.H.Wright) Olaniyan,Taxon 75(4)-e70202: 18. 2026 [21 Jul 2026] ,Epichroxantha,,Thymelaeaceae Gnidia myrtifolia C.H.Wright,(C.H.Wright)
+wfo-1000094323,urn:lsid:ipni.org:names:77393928-1,Thymelaeaceae,Epichroxantha parviflora,(Meisn.) Olaniyan,Taxon 75(4)-e70202: 19. 2026 [21 Jul 2026] ,Epichroxantha,,Thymelaeaceae Gnidia parviflora Meisn.,(Meisn.)
+wfo-1000094324,urn:lsid:ipni.org:names:77393929-1,Thymelaeaceae,Epichroxantha viridis,(P.J.Bergius) Olaniyan,Taxon 75(4)-e70202: 19. 2026 [21 Jul 2026] ,Epichroxantha,,Thymelaeaceae Gnidia viridis P.J.Bergius,(P.J.Bergius)
+wfo-1000094325,urn:lsid:ipni.org:names:77393930-1,Thymelaeaceae,Epichroxantha sonderiana,(Meisn.) Olaniyan,Taxon 75(4)-e70202: 19. 2026 [21 Jul 2026] ,Epichroxantha,,Thymelaeaceae Gnidia sonderiana Meisn.,(Meisn.)
+wfo-1000094326,urn:lsid:ipni.org:names:77393931-1,Thymelaeaceae,Epichroxantha styphelioides,(Meisn.) Olaniyan,Taxon 75(4)-e70202: 19. 2026 [21 Jul 2026] ,Epichroxantha,,Thymelaeaceae Gnidia styphelioides Meisn.,(Meisn.)
+wfo-1000094327,urn:lsid:ipni.org:names:77393932-1,Thymelaeaceae,Gnidiopsis insignis,(Compton) Olaniyan,Taxon 75(4)-e70202: 20. 2026 [21 Jul 2026] ,Gnidiopsis,,Thymelaeaceae Gnidia insignis Compton,(Compton)
+wfo-1200126251,urn:lsid:ipni.org:names:77393933-1,Thymelaeaceae,Gnidiopsis oppositifolia,(L.) Olaniyan,Taxon 75(4)-e70202: 20. 2026 [21 Jul 2026] ,Gnidiopsis,isonym,Thymelaeaceae Gnidia oppositifolia L.,(L.)
+wfo-1000094328,urn:lsid:ipni.org:names:77393934-1,Thymelaeaceae,Gnidiopsis orbiculata,(C.H.Wright) Olaniyan,Taxon 75(4)-e70202: 20. 2026 [21 Jul 2026] ,Gnidiopsis,,Thymelaeaceae Gnidia orbiculata C.H.Wright,(C.H.Wright)
+wfo-1000094329,urn:lsid:ipni.org:names:77393935-1,Thymelaeaceae,Thymelina compacta,(C.H.Wright) Olaniyan,Taxon 75(4)-e70202: 21. 2026 [21 Jul 2026] ,Thymelina,,Thymelaeaceae Arthrosolen compactus C.H.Wright,(C.H.Wright)
+wfo-1000094330,urn:lsid:ipni.org:names:77393936-1,Thymelaeaceae,Thymelina fraterna,(N.E.Br.) Olaniyan,Taxon 75(4)-e70202: 21. 2026 [21 Jul 2026] ,Thymelina,,Thymelaeaceae Arthrosolen fraternus N.E.Br.,(N.E.Br.)
+wfo-1000094331,urn:lsid:ipni.org:names:77393937-1,Thymelaeaceae,Thymelina gymnostachya,(Meisn.) Olaniyan,Taxon 75(4)-e70202: 21. 2026 [21 Jul 2026] ,Thymelina,,Thymelaeaceae Passerina gymnostachya Meisn.,(Meisn.)
+wfo-1000094332,urn:lsid:ipni.org:names:77393938-1,Thymelaeaceae,Thymelina hirsuta,(L.) Olaniyan,Taxon 75(4)-e70202: 21. 2026 [21 Jul 2026] ,Thymelina,,Campanulaceae Lobelia hirsuta L.,(L.)
+wfo-1000094333,urn:lsid:ipni.org:names:77393939-1,Thymelaeaceae,Thymelina laxa,(L.f.) Olaniyan,Taxon 75(4)-e70202: 21. 2026 [21 Jul 2026] ,Thymelina,,Thymelaeaceae Passerina laxa L.f.,(L.f.)
+wfo-1000094334,urn:lsid:ipni.org:names:77393940-1,Thymelaeaceae,Thymelina obtusissima,(Meisn.) Olaniyan,Taxon 75(4)-e70202: 21. 2026 [21 Jul 2026] ,Thymelina,,Thymelaeaceae Gnidia obtusissima Meisn.,(Meisn.)
+wfo-1000094335,urn:lsid:ipni.org:names:77393941-1,Thymelaeaceae,Thymelina pallida,(Meisn.) Olaniyan,Taxon 75(4)-e70202: 21. 2026 [21 Jul 2026] ,Thymelina,,Thymelaeaceae Gnidia pallida Meisn.,(Meisn.)
+wfo-1000094336,urn:lsid:ipni.org:names:77393942-1,Thymelaeaceae,Thymelina phaeotricha,(Gilg) Olaniyan,Taxon 75(4)-e70202: 21. 2026 [21 Jul 2026] ,Thymelina,,Thymelaeaceae Gnidia phaeotricha Gilg,(Gilg)
+wfo-1000094337,urn:lsid:ipni.org:names:77393943-1,Thymelaeaceae,Thymelina spicata,(L.f.) Olaniyan,Taxon 75(4)-e70202: 21. 2026 [21 Jul 2026] ,Thymelina,,Thymelaeaceae Passerina spicata L.f.,(L.f.)
+wfo-1000094338,urn:lsid:ipni.org:names:77393944-1,Thymelaeaceae,Thymelina squarrosa,(L.) Olaniyan,Taxon 75(4)-e70202: 21. 2026 [21 Jul 2026] ,Thymelina,,Thymelaeaceae Daphne squarrosa L.,(L.)
+wfo-1000094339,urn:lsid:ipni.org:names:77393945-1,Thymelaeaceae,Thymelina variabilis,(C.H.Wright) Olaniyan,Taxon 75(4)-e70202: 22. 2026 [21 Jul 2026] ,Thymelina,,Thymelaeaceae Arthrosolen variabilis C.H.Wright,(C.H.Wright)
+wfo-1000094340,urn:lsid:ipni.org:names:77393946-1,Thymelaeaceae,Thymelina wickstroemiana,(Meisn.) Olaniyan,"Taxon 75(4)-e70202: 22. 2026 [21 Jul 2026] , as 'wikstroemiana'",Thymelina,,Thymelaeaceae Gnidia wickstroemiana Meisn.,(Meisn.)
+wfo-1000094341,urn:lsid:ipni.org:names:77393947-1,Thymelaeaceae,Thymelina woodii,(C.H.Wright) Olaniyan,Taxon 75(4)-e70202: 22. 2026 [21 Jul 2026] ,Thymelina,,Thymelaeaceae Gnidia woodii C.H.Wright,(C.H.Wright)
+wfo-1200126206,urn:lsid:ipni.org:names:77393948-1,Thymelaeaceae,Gnidia [infragen.unranked] Phidia,Endl.,"Gen. Pl. Secund. Ord. Nat., Suppl. 4(2): 64. 1847 ",Gnidia,,,
+wfo-4100006828,urn:lsid:ipni.org:names:77393949-1,Thymelaeaceae,Phidia,(Endl.) Olaniyan & J.C.Manning,Taxon 75(4)-e70202: 22. 2026 [21 Jul 2026] ,Phidia,,Thymelaeaceae Gnidia [infragen.unranked] Phidia Endl.,(Endl.)
+wfo-1000094342,urn:lsid:ipni.org:names:77393950-1,Thymelaeaceae,Phidia meyeri,(Meisn.) Olaniyan,Taxon 75(4)-e70202: 22. 2026 [21 Jul 2026] ,Phidia,,Thymelaeaceae Gnidia meyeri Meisn.,(Meisn.)
+wfo-1000094343,urn:lsid:ipni.org:names:77393951-1,Thymelaeaceae,Phidia parvula,(Wolley-Dod) Olaniyan,Taxon 75(4)-e70202: 23. 2026 [21 Jul 2026] ,Phidia,,Thymelaeaceae Gnidia parvula Wolley-Dod,(Wolley-Dod)
+wfo-1000094344,urn:lsid:ipni.org:names:77393952-1,Thymelaeaceae,Phidia racemosa,(Thunb.) Olaniyan,Taxon 75(4)-e70202: 23. 2026 [21 Jul 2026] ,Phidia,,Thymelaeaceae Gnidia racemosa Thunb.,(Thunb.)
+wfo-1000094345,urn:lsid:ipni.org:names:77393953-1,Thymelaeaceae,Phidia setosa,(Thunb.) Olaniyan,Taxon 75(4)-e70202: 23. 2026 [21 Jul 2026] ,Phidia,,Thymelaeaceae Passerina setosa Thunb.,(Thunb.)
+wfo-1000094346,urn:lsid:ipni.org:names:77393954-1,Thymelaeaceae,Phidia thesioides,(Meisn.) Olaniyan,Taxon 75(4)-e70202: 23. 2026 [21 Jul 2026] ,Phidia,,Thymelaeaceae Gnidia thesioides Meisn.,(Meisn.)
+wfo-1000094347,urn:lsid:ipni.org:names:77393955-1,Piperaceae,Piper longiapiculatum,Marcusso & E.F.Guim.,Feddes Repert. 137(3)-e70143: 2. 2026 [4 Aug 2026] ,Piper,,,
+wfo-1000094348,urn:lsid:ipni.org:names:77393957-1,Thymelaeaceae,Basutica anomala,(Meisn.) Olaniyan,Taxon 75(4)-e70202: 24. 2026 [21 Jul 2026] ,Basutica,,Thymelaeaceae Gnidia anomala Meisn.,(Meisn.)
+wfo-1000094349,urn:lsid:ipni.org:names:77393958-1,Thymelaeaceae,Basutica baurii,(C.H.Wright) Olaniyan,Taxon 75(4)-e70202: 24. 2026 [21 Jul 2026] ,Basutica,,Thymelaeaceae Gnidia baurii C.H.Wright,(C.H.Wright)
+wfo-1000094350,urn:lsid:ipni.org:names:77393959-1,Thymelaeaceae,Basutica burmanni,(Eckl. & Zeyh. ex Meisn.) Olaniyan,Taxon 75(4)-e70202: 24. 2026 [21 Jul 2026] ,Basutica,,Thymelaeaceae Gnidia burmanni Eckl. & Zeyh. ex Meisn.,(Eckl. & Zeyh. ex Meisn.)
+wfo-1000094351,urn:lsid:ipni.org:names:77393960-1,Thymelaeaceae,Basutica caniflora,(Meisn.) Olaniyan,Taxon 75(4)-e70202: 24. 2026 [21 Jul 2026] ,Basutica,,Thymelaeaceae Gnidia caniflora Meisn.,(Meisn.)
+wfo-1000094352,urn:lsid:ipni.org:names:77393961-1,Thymelaeaceae,Basutica cayleyi,(C.H.Wright) Olaniyan,Taxon 75(4)-e70202: 24. 2026 [21 Jul 2026] ,Basutica,,Thymelaeaceae Gnidia cayleyi C.H.Wright,(C.H.Wright)
+wfo-1000094353,urn:lsid:ipni.org:names:77393962-1,Thymelaeaceae,Basutica chrysophylla,(Meisn.) Olaniyan,Taxon 75(4)-e70202: 24. 2026 [21 Jul 2026] ,Basutica,,Thymelaeaceae Gnidia chrysophylla Meisn.,(Meisn.)
+wfo-1000094354,urn:lsid:ipni.org:names:77393963-1,Thymelaeaceae,Basutica clavata,(Schinz) Olaniyan,Taxon 75(4)-e70202: 24. 2026 [21 Jul 2026] ,Basutica,,Thymelaeaceae Gnidia clavata Schinz,(Schinz)
+wfo-1000094355,urn:lsid:ipni.org:names:77393964-1,Thymelaeaceae,Basutica cyanea,(Burch.) Olaniyan,Taxon 75(4)-e70202: 24. 2026 [21 Jul 2026] ,Basutica,,Thymelaeaceae Gnidia cyanea Burch.,(Burch.)
+wfo-1000094356,urn:lsid:ipni.org:names:77393965-1,Thymelaeaceae,Basutica ericoides,(C.H.Wright) Olaniyan,Taxon 75(4)-e70202: 25. 2026 [21 Jul 2026] ,Basutica,,Thymelaeaceae Gnidia ericoides C.H.Wright,(C.H.Wright)
+wfo-1000094357,urn:lsid:ipni.org:names:77393966-1,Thymelaeaceae,Basutica fastigiata,(Rendle) Olaniyan,Taxon 75(4)-e70202: 25. 2026 [21 Jul 2026] ,Basutica,,Thymelaeaceae Gnidia fastigiata Rendle,(Rendle)
+wfo-1000094358,urn:lsid:ipni.org:names:77393967-1,Thymelaeaceae,Basutica francisci,(Bolus) Olaniyan,Taxon 75(4)-e70202: 25. 2026 [21 Jul 2026] ,Basutica,,Thymelaeaceae Gnidia francisci Bolus,(Bolus)
+wfo-1000094359,urn:lsid:ipni.org:names:77393968-1,Thymelaeaceae,Basutica geminiflora,(E.Mey. ex Meisn.) Olaniyan,Taxon 75(4)-e70202: 25. 2026 [21 Jul 2026] ,Basutica,,Thymelaeaceae Gnidia geminiflora E.Mey. ex Meisn.,(E.Mey. ex Meisn.)
+wfo-1000094360,urn:lsid:ipni.org:names:77393969-1,Thymelaeaceae,Basutica harveyana,(Meisn.) Olaniyan,Taxon 75(4)-e70202: 25. 2026 [21 Jul 2026] ,Basutica,,Thymelaeaceae Gnidia harveyana Meisn.,(Meisn.)
+wfo-1000094361,urn:lsid:ipni.org:names:77393970-1,Thymelaeaceae,Basutica imbricata,(L.f.) Olaniyan,Taxon 75(4)-e70202: 25. 2026 [21 Jul 2026] ,Basutica,,Thymelaeaceae Gnidia imbricata L.f.,(L.f.)
+wfo-1000094362,urn:lsid:ipni.org:names:77393971-1,Thymelaeaceae,Basutica inconspicu,(Meisn.) Olaniyan,Taxon 75(4)-e70202: 25. 2026 [21 Jul 2026] ,Basutica,,Thymelaeaceae Gnidia inconspicua Meisn.,(Meisn.)
+wfo-1000094363,urn:lsid:ipni.org:names:77393972-1,Thymelaeaceae,Basutica leipoldtii,(C.H.Wright) Olaniyan,Taxon 75(4)-e70202: 25. 2026 [21 Jul 2026] ,Basutica,,Thymelaeaceae Gnidia leipoldtii C.H.Wright,(C.H.Wright)
+wfo-1000094364,urn:lsid:ipni.org:names:77393973-1,Thymelaeaceae,Basutica linoides,(Thunb.) Olaniyan,Taxon 75(4)-e70202: 25. 2026 [21 Jul 2026] ,Basutica,,Thymelaeaceae Passerina linoides Thunb.,(Thunb.)
+wfo-1000094365,urn:lsid:ipni.org:names:77393974-1,Thymelaeaceae,Basutica nitida,(Bolus ex C.H.Wright) Olaniyan,Taxon 75(4)-e70202: 25. 2026 [21 Jul 2026] ,Basutica,,Thymelaeaceae Gnidia nitida Bolus ex C.H.Wright,(Bolus ex C.H.Wright)
+wfo-1000094366,urn:lsid:ipni.org:names:77393975-1,Thymelaeaceae,Basutica nodiflora,(Meisn.) Olaniyan,Taxon 75(4)-e70202: 25. 2026 [21 Jul 2026] ,Basutica,,Thymelaeaceae Gnidia nodiflora Meisn.,(Meisn.)
+wfo-1000094367,urn:lsid:ipni.org:names:77393976-1,Thymelaeaceae,Basutica renniana,(Hilliard & B.L.Burtt) Olaniyan,Taxon 75(4)-e70202: 25. 2026 [21 Jul 2026] ,Basutica,,Thymelaeaceae Gnidia renniana Hilliard & B.L.Burtt,(Hilliard & B.L.Burtt)
+wfo-1000094368,urn:lsid:ipni.org:names:77393977-1,Thymelaeaceae,Basutica scabra,(Thunb.) Olaniyan,Taxon 75(4)-e70202: 25. 2026 [21 Jul 2026] ,Basutica,,Thymelaeaceae Gnidia scabra Thunb.,(Thunb.)
+wfo-1000094369,urn:lsid:ipni.org:names:77393978-1,Thymelaeaceae,Basutica sericea,(L.) Olaniyan,Taxon 75(4)-e70202: 26. 2026 [21 Jul 2026] ,Basutica,,Thymelaeaceae Passerina sericea L.,(L.)
+wfo-1000094370,urn:lsid:ipni.org:names:77393979-1,Thymelaeaceae,Basutica singularis,(Hilliard) Olaniyan,Taxon 75(4)-e70202: 26. 2026 [21 Jul 2026] ,Basutica,,Thymelaeaceae Gnidia singularis Hilliard,(Hilliard)
+wfo-1000094371,urn:lsid:ipni.org:names:77393980-1,Thymelaeaceae,Basutica strigillosa,(Meisn.) Olaniyan,Taxon 75(4)-e70202: 26. 2026 [21 Jul 2026] ,Basutica,,Thymelaeaceae Gnidia strigillosa Meisn.,(Meisn.)
+wfo-1000094372,urn:lsid:ipni.org:names:77393981-1,Thymelaeaceae,Basutica tenella,(Meisn.) Olaniyan,Taxon 75(4)-e70202: 26. 2026 [21 Jul 2026] ,Basutica,,Thymelaeaceae Gnidia tenella Meisn.,(Meisn.)
+wfo-1000094373,urn:lsid:ipni.org:names:77393982-1,Thymelaeaceae,Basutica virescens,(Wikstr.) Olaniyan,Taxon 75(4)-e70202: 26. 2026 [21 Jul 2026] ,Basutica,,Thymelaeaceae Gnidia virescens Wikstr.,(Wikstr.)
+wfo-1000094374,urn:lsid:ipni.org:names:77393983-1,Thymelaeaceae,Basutica multiflora,(Bartl. ex Meisn.) Olaniyan,Taxon 75(4)-e70202: 26. 2026 [21 Jul 2026] ,Basutica,,Thymelaeaceae Gnidia multiflora Bartl. ex Meisn.,(Bartl. ex Meisn.)
+wfo-1000094375,urn:lsid:ipni.org:names:77393984-1,Thymelaeaceae,Basutica sparsiflora,(Bartl. ex Meisn.) Olaniyan,Taxon 75(4)-e70202: 26. 2026 [21 Jul 2026] ,Basutica,,Thymelaeaceae Gnidia sparsiflora Bartl. ex Meisn.,(Bartl. ex Meisn.)
+wfo-1000094376,urn:lsid:ipni.org:names:77393985-1,Thymelaeaceae,Basutica stellatifolia,(Gand.) Olaniyan,Taxon 75(4)-e70202: 26. 2026 [21 Jul 2026] ,Basutica,,Thymelaeaceae Gnidia stellatifolia Gand.,(Gand.)
+wfo-1000094377,urn:lsid:ipni.org:names:77393986-1,Thymelaeaceae,Craspedostoma linearifolium,(Wikstr.) Olaniyan,Taxon 75(4)-e70202: 27. 2026 [21 Jul 2026] ,Craspedostoma,,Thymelaeaceae Passerina linearifolia Wikstr.,(Wikstr.)
+wfo-1000094378,urn:lsid:ipni.org:names:77393987-1,Thymelaeaceae,Craspedostoma nanum,(L.f.) Olaniyan,Taxon 75(4)-e70202: 27. 2026 [21 Jul 2026] ,Craspedostoma,,Thymelaeaceae Struthiola nana L.f.,(L.f.)
+wfo-1000094379,urn:lsid:ipni.org:names:77393988-1,Thymelaeaceae,Craspedostoma scabridum,(Meisn.) Olaniyan,Taxon 75(4)-e70202: 27. 2026 [21 Jul 2026] ,Craspedostoma,,Thymelaeaceae Gnidia scabrida Meisn.,(Meisn.)
+wfo-1000094380,urn:lsid:ipni.org:names:77393989-1,Thymelaeaceae,Craspedostoma tomentosum,(L.) Olaniyan,Taxon 75(4)-e70202: 27. 2026 [21 Jul 2026] ,Craspedostoma,,Thymelaeaceae Gnidia tomentosa L.,(L.)
+wfo-1000094381,urn:lsid:ipni.org:names:77393990-1,Liliaceae,Fritillaria elegans,Xin L.Zhao & Y.D.Qi,Taxon 75(3)-e70159: 7. 2026 [22 May 2026] ,Fritillaria,,,
+wfo-1000094383,urn:lsid:ipni.org:names:77393992-1,Lamiaceae,Ajuga oblancifolia,(Y.Z.Sun ex C.H.Hu) F.Zhao & C.L.Xiang,Taxon 75(3)-e70164: 13. 2026 [22 Jun 2026] ,Ajuga,,Lamiaceae Ajuga decumbens Thunb. var. oblancifolia Y.Z.Sun ex C.H.Hu,(Y.Z.Sun ex C.H.Hu)
+wfo-1000094421,urn:lsid:ipni.org:names:77394036-1,Erythroxylaceae,Nectaropetalum camerunense,"Sonké, M.Simo & O.Lachenaud",Pl. Ecol. Evol. 159(3): 463. 2026 [19 Aug 2026] ,Nectaropetalum,,,
+wfo-1000094422,urn:lsid:ipni.org:names:77394037-1,Alliaceae,Allium erimomeli,"Nikolop., Kit Tan, Duchoslav & Trigas",Pl. Ecol. Evol. 159(3): 472. 2026 [21 Aug 2026] ,Allium,,,
+wfo-1000094448,urn:lsid:ipni.org:names:77394063-1,Santalaceae,Thesium ser. Humilia,Hendrych,Novit. Bot. Delect. Seminum Horti Bot. Univ. Carol. Prag. 1962: 21. ,Thesium,,,
+wfo-1200126253,urn:lsid:ipni.org:names:77394064-1,Santalaceae,Thesium sect. Humilia,(Hendrych) N.Lombard,Taxon 75(3)-e70171: 41. 2026 [25 Jun 2026] ,Thesium,,Santalaceae Thesium ser. Humilia Hendrych,(Hendrych)
+wfo-1200126254,urn:lsid:ipni.org:names:77394065-1,Santalaceae,Thesium sect. Orientale,N.Lombard,Taxon 75(3)-e70171: 42. 2026 [25 Jun 2026] ,Thesium,,,
+wfo-1000094449,urn:lsid:ipni.org:names:77394066-1,Santalaceae,Thesium subgen. Spinosa,N.Lombard,Taxon 75(3)-e70171: 43. 2026 [25 Jun 2026] ,Thesium,,,
+wfo-1200126255,urn:lsid:ipni.org:names:77394067-1,Santalaceae,Thesium sect. Hystrix,N.Lombard,Taxon 75(3)-e70171: 43. 2026 [25 Jun 2026] ,Thesium,,,
+wfo-1000094450,urn:lsid:ipni.org:names:77394068-1,Santalaceae,Thesium sect. Scirpioidea,N.Lombard,Taxon 75(3)-e70171: 43. 2026 [25 Jun 2026] ,Thesium,,,
+wfo-1200126256,urn:lsid:ipni.org:names:77394069-1,Santalaceae,Thesium sect. Nigromontanum,N.Lombard,Taxon 75(3)-e70171: 43. 2026 [25 Jun 2026] ,Thesium,,,
+wfo-1000094451,urn:lsid:ipni.org:names:77394070-1,Santalaceae,Thesium subsect. Subglabra,A.W.Hill,Bull. Misc. Inform. Kew 1915: 10. ,Thesium,,,
+wfo-1200126257,urn:lsid:ipni.org:names:77394071-1,Santalaceae,Thesium sect. Subglabra,(A.W.Hill) N.Lombard,Taxon 75(3)-e70171: 43. 2026 [25 Jun 2026] ,Thesium,,Santalaceae Thesium subsect. Subglabra A.W.Hill,(A.W.Hill)
+wfo-1000094452,urn:lsid:ipni.org:names:77394072-1,Santalaceae,Thesium sect. Foliacea,N.Lombard,Taxon 75(3)-e70171: 44. 2026 [25 Jun 2026] ,Thesium,,,
+wfo-1000094453,urn:lsid:ipni.org:names:77394073-1,Santalaceae,Thesium sect. Stricta,N.Lombard,Taxon 75(3)-e70171: 44. 2026 [25 Jun 2026] ,Thesium,,,
+wfo-1000094454,urn:lsid:ipni.org:names:77394074-1,Santalaceae,Thesium sect. Confinia,N.Lombard,Taxon 75(3)-e70171: 45. 2026 [25 Jun 2026] ,Thesium,,,
+wfo-1000094455,urn:lsid:ipni.org:names:77394075-1,Santalaceae,Thesium sect. Gnidiacea,N.Lombard,Taxon 75(3)-e70171: 45. 2026 [25 Jun 2026] ,Thesium,,,
+wfo-1200126258,urn:lsid:ipni.org:names:77394076-1,Rutaceae,Zanthoxylum fagara subsp. aguilarii,(Standl. & Steyerm.) Reynel ex C.Nelson,Cat. Pl. Vasc. Honduras 988. 2008 ,Zanthoxylum,,Rutaceae Zanthoxylum aguilarii Standl. & Steyerm.,(Standl. & Steyerm.)
+wfo-1200126259,urn:lsid:ipni.org:names:77394080-1,Ranunculaceae,Thalictrum simplex subsp. boreale,(Fr.) Dahl,Nyt Mag. Naturvidensk. 69: 122. 1934 ,Thalictrum,,Ranunculaceae Thalictrum simplex L. var. boreale Fr.,(Fr.)
+wfo-1000094459,urn:lsid:ipni.org:names:77394085-1,Iridaceae,Moraea goldmanniorum,Oosth. & K.Balkwill,S. African J. Bot. 192: 590. 2026 [7 Apr 2026] ,Moraea,,,
+wfo-1200126260,urn:lsid:ipni.org:names:77394086-1,Ranunculaceae,Adonis aestivalis var. parviflora,(Fisch. ex DC.) M.Bieb. ex Krylov,Fl. Zapadnoi Sibiri 5: 1220. 1931 ,Adonis,,Ranunculaceae Adonis parviflora Fisch. ex DC.,(Fisch. ex DC.)
+wfo-1000094460,urn:lsid:ipni.org:names:77394089-1,Primulaceae,Primula exserta,"Lei Cai, Gui L.Zhang & Z.K.Wu",PhytoKeys 278: 119. 2026 [14 Aug 2026] ,Primula,,,
+wfo-1200126215,urn:lsid:ipni.org:names:77394096-1,Scrophulariaceae,Aeginetia indica var. alba,Santapau,Kew Bull. 3(3): 491. 1948 ,Aeginetia,,,
+wfo-1000094464,urn:lsid:ipni.org:names:77394098-1,Gentianaceae,Gentianella waipara,(Glenny & Molloy) Eastman-Densem,New Zealand J. Bot. 64(2)-e70084: 4. 2026 [6 Apr 2026] ,Gentianella,,Gentianaceae Gentianella calcis Glenny & Molloy subsp. waipara Glenny & Molloy,(Glenny & Molloy)
+wfo-1000094465,urn:lsid:ipni.org:names:77394102-1,Apiaceae,Psammogeton udhampurensis,Bhellum & Magotra,Phytotaxa 769(3): 280. 2026 [13 Aug 2026] ,Psammogeton,,,
+wfo-4100006831,urn:lsid:ipni.org:names:77394105-1,Rosaceae,subtrib. Malinae,Reveal,Phytoneuron 2012-33: 2. ,,,,
+wfo-1000094469,urn:lsid:ipni.org:names:77394113-1,Bromeliaceae,Ananas rose,Nois.,Bon Jard. xvii. 1829 [Jul 1829] ,Ananas,,,
+wfo-1000094474,urn:lsid:ipni.org:names:77394118-1,Thymelaeaceae,Daphne × versaliensis,Poit. & Vilm.,Bon Jard. xxv. 1829 [Jul 1829] ,Daphne,,,
+wfo-1200126264,urn:lsid:ipni.org:names:77394120-1,Magnoliaceae,Magnolia odoratissima,Poit. & Vilm.,Bon Jard. lxxii. 1829 [Jul 1829] ,Magnolia,,,
+wfo-1000094476,urn:lsid:ipni.org:names:77394121-1,Asclepiadaceae,Hoya sinagtala,"Brillo, Cabactulan & Rodda",Phytotaxa 769(3): 288. 2026 [13 Aug 2026] ,Hoya,,,
+wfo-1000094477,urn:lsid:ipni.org:names:77394122-1,Lamiaceae,Scutellaria guilinensis,Ying Qin & J.X.Wei,Phytotaxa 769(3): 295. 2026 [13 Aug 2026] ,Scutellaria,,,
+wfo-1200126265,urn:lsid:ipni.org:names:77394123-1,Magnoliaceae,Magnolia × alexandrina,J.N.Verschaff.,Bon Jard. xcv. 1829 [Jul 1829] ,Magnolia,,,
+wfo-1000094479,urn:lsid:ipni.org:names:77394125-1,Rosaceae,Rubus kashmiricus,Sofi & Khuroo,Phytotaxa 770(1): 22. 2026 [14 Aug 2026] ,Rubus,,,
+wfo-1000094480,urn:lsid:ipni.org:names:77394126-1,Juglandaceae,Juglans racemosa,Poit. & Vilm.,Bon Jard. 373. 1829 [Jul 1829] ,Juglans,,,
+wfo-1200126266,urn:lsid:ipni.org:names:77394128-1,Agavaceae,Agave filamentosa,hort. ex Poit. & Vilm.,Bon Jard. 428. 1829 [Jul 1829] ,Agave,,,
+wfo-1200126267,urn:lsid:ipni.org:names:77394129-1,Marantaceae,Phrynium sanguineum,hort. ex Poit. & Vilm.,Bon Jard. 459. 1829 [Jul 1829] ,Phrynium,,,
+wfo-1200126268,urn:lsid:ipni.org:names:77394131-1,Scrophulariaceae,Manulea oppositifolia,Vent. ex Poit. & Vilm.,Bon Jard. 489. 1829 [Jul 1829] ,Manulea,,,
+wfo-1200126269,urn:lsid:ipni.org:names:77394140-1,Asclepiadaceae,Cryptolepis reticulata,R.Br. ex Poit. & Vilm.,Bon Jard. 542. 1829 [Jul 1829] ,Cryptolepis,,,
+wfo-1200126273,urn:lsid:ipni.org:names:77394145-1,Myrsinaceae,Myrsine australis,(A.Rich.) Kirk,New Zealand Year-Book 369. 1895 ,Myrsine,,Myrsinaceae Suttonia australis A.Rich.,(A.Rich.)
+wfo-0001136447,urn:lsid:ipni.org:names:77394151-1,Saxifragaceae,Saxifraga flagellaris var. mucronulata,(Royle) C.B.Clarke,Fl. Brit. India 2: 397. 1878 ,Saxifraga,,Saxifragaceae Saxifraga mucronulata Royle,(Royle)
+wfo-0001136448,urn:lsid:ipni.org:names:77394152-1,Saxifragaceae,Saxifraga flagellaris subsp. mucronulata,(Royle) Engl. & Irmsch,Pflanzenr. IV.117(Heft 67): 163. 1916 ,Saxifraga,,Saxifragaceae Saxifraga mucronulata Royle,(Royle)
+wfo-1000094494,urn:lsid:ipni.org:names:77394153-1,Amaryllidaceae,Narcissus × garzensis,"Cebrián, M.Becerra & D.Quintana",Acta Bot. Malac. 51-23187: 3. 2026 [15 Apr 2026] ,Narcissus,,,
+wfo-1000094495,urn:lsid:ipni.org:names:77394258-1,Burmanniaceae,Thismia daemona,Seelanan & Chantanaorr.,PhytoKeys 278: 182. 2026 [17 Aug 2026] ,Thismia,,,
+wfo-0000735169,urn:lsid:ipni.org:names:77394260-1,Ranunculaceae,Pulsatilla rubra subsp. hispanica,W.Zimm. ex Aichele & Schwegler,Feddes Repert. Spec. Nov. Regni Veg. 60(1-3): 158. 1957 [1 Nov 1957] ,Pulsatilla,,,
+wfo-1200123882,urn:lsid:ipni.org:names:77394263-1,Ranunculaceae,Anemone pulsatilla subsp. rubra,(Lam.) Rouy & Foucaud,Fl. France [Rouy & Foucaud] 1: 40. 1893 [Nov 1893] ,Anemone,,Ranunculaceae Anemone rubra Lam.,(Lam.)
+wfo-1200122090,urn:lsid:ipni.org:names:77394264-1,Ranunculaceae,Anemone pulsatilla var. rubra,(Lam.) DC.,Syst. Nat. 1: 192. 1817 ,Anemone,,Ranunculaceae Anemone rubra Lam.,(Lam.)
+wfo-1000094496,urn:lsid:ipni.org:names:77394268-1,Scrophulariaceae,Linaria alfercensis,"Farminhão, Carapeto, A.Alonso, Mazuecos & L.Sáez",Pl. Ecol. Evol. 159(3): 493. 2026 [25 Aug 2026] ,Linaria,,,
+wfo-0001002036,urn:lsid:ipni.org:names:77394275-1,Rosaceae,Potentilla × waisbeckeri,Waisb.,"Phan. Köszeg 63. 1891 , nom. nud.",Potentilla,,,
+wfo-1000094498,urn:lsid:ipni.org:names:77394276-1,Crassulaceae,Echeveria × carinata,W.Bull,Nursery Cat. (William Bull) 68: 14. 1872 ,Echeveria,,,
+wfo-1000060658,urn:lsid:ipni.org:names:77394279-1,Rosaceae,Potentilla × wiemannioides,Błocki ex Th.Wolf,"Syn. Mitteleur. Fl. 6(1): 729. 1904 , nom. nud.",Potentilla,,,
+wfo-1000094500,urn:lsid:ipni.org:names:77394282-1,Iridaceae,Gladiolus × antwerpiensis,J.J.Harrison,Floric. Cab. & Florist's Mag. 10: 265. 1842 ,Gladiolus,,,
+wfo-0000517344,urn:lsid:ipni.org:names:77394288-1,Ranunculaceae,Aconitum × hamatum,(Rchb.) Gáyer,Magyar Bot. Lapok 8: 195. 1909 ,Aconitum,,,(Rchb.)
+wfo-0000563875,urn:lsid:ipni.org:names:77394290-1,Berberidaceae,Berberis × stenophylla,Lindl.,Gard. Chron. 1864: 460. ,Berberis,,,
+wfo-1000052328,urn:lsid:ipni.org:names:77394291-1,Hydrangeaceae,Deutzia × myriantha,Lemoine,Nursery Cat. (Lemoine) 158: vii. 1904 ,Deutzia,,,
+wfo-0001008694,urn:lsid:ipni.org:names:77394294-1,Rosaceae,Rosa × burgundiaca,Pers.,"Syn. Pl. 2: 48. 1806 , nom. illeg. homonym. post.",Rosa,,,
+wfo-0001003601,urn:lsid:ipni.org:names:77394297-1,Rosaceae,Rosa × slawodolica,Kmet ex Heinr.Braun,Sched. Fl. Exs. Austro-Hung. 7: 8. 1896 ,Rosa,,,
+wfo-0001013794,urn:lsid:ipni.org:names:77394299-1,Rosaceae,Rosa × balcanica,Prodan,Trandaf. 3(1): 467. 1932 ,Rosa,,,
+wfo-1000070528,urn:lsid:ipni.org:names:77394301-1,Saxifragaceae,Astilbe × lemoinei,Anon.,Rev. Hort. (Paris) 67: 567. 1895 ,Astilbe,,,
+wfo-1000060351,urn:lsid:ipni.org:names:77394302-1,Rosaceae,Rubus × vedrariensis,Vilm.,Bull. Soc. Dendrol. France 87: 82. 1933 ,Rubus,,,
+wfo-1000060220,urn:lsid:ipni.org:names:77394307-1,Rosaceae,Rubus × macrocladus,Sabr.,Oesterr. Bot. Z. 42: 92. 1892 ,Rubus,,,
+wfo-1000059940,urn:lsid:ipni.org:names:77394308-1,Rosaceae,Rosa × neilreichii,Wiesb. ex J.B.Keller,Nachtr. Fl. Nieder-Oesterr. 206. 1882 ,Rosa,,,
+wfo-1000047348,urn:lsid:ipni.org:names:77394309-1,Potamogetonaceae,Potamogeton × innominatus,(Tiselius) P.Fourn.,Quatre Fl. France 140. 1935 ,Potamogeton,,,(Tiselius)
+wfo-0000480158,urn:lsid:ipni.org:names:77394315-1,Passifloraceae,Passiflora × kewensis,Anon.,Jardin 2: 201. 1888 ,Passiflora,,,
+wfo-0000993227,urn:lsid:ipni.org:names:77394316-1,Rosaceae,Rubus × nothus,Sudre,Excurs. Batol. 52. 1900 ,Rubus,,,
+wfo-1000059972,urn:lsid:ipni.org:names:77394318-1,Rosaceae,Rosa × purpurea,Breiter,Hort. Breiter. 428. 1817 ,Rosa,,,
+wfo-1200126277,urn:lsid:ipni.org:names:77394320-1,Passifloraceae,Passiflora × hybrida,F.Dietr.,"Neu. Nachtr. Vollst. Lex. Gärtn. 6: 416. 1837 , nom. illeg. homonym. post.",Passiflora,,,
+wfo-1200096083,urn:lsid:ipni.org:names:77394321-1,Geraniaceae,Geranium × roseum,(Ehrh.) Poir.,"Encycl., Suppl. 2: 740. 1812 , nom. illeg. homonym. post.",Geranium,,Geraniaceae Pelargonium roseum Ehrh.,(Ehrh.)
+wfo-1000094504,urn:lsid:ipni.org:names:77394324-1,Epacridaceae,Epacris × hyacinthiflora-candissima,Lem.,Jard. FIeur. 2: t. 175(4). 1852 ,Epacris,,,
+wfo-1200074891,urn:lsid:ipni.org:names:77394325-1,Scrophulariaceae,Linaria × intermedia,Babey,Fl. Jurass. 3: 139. 1845 ,Linaria,,,
+wfo-0001008380,urn:lsid:ipni.org:names:77394330-1,Rosaceae,Rosa × fasciculiflora,Boullu,Bull. Soc. Bot. Lyon Compt. Rend. Séances 2: 74. 1884 ,Rosa,,,
+wfo-1000070708,urn:lsid:ipni.org:names:77394331-1,Onagraceae,Fuchsia × insignis,F.Sm. & A.Sm. ex J.Harrison,Floric. Cab. & Florist's Mag. 9: 214. 1841 ,Fuchsia,,,
+wfo-1000094505,urn:lsid:ipni.org:names:77394333-1,Crassulaceae,Echeveria × valida,F.Haage & E.Schmidt,Nursery Cat. (Haage) 1883: 43. ,Echeveria,,,
+wfo-0001012033,urn:lsid:ipni.org:names:77394339-1,Rosaceae,Rosa × umbelliflora,Sw.,"Forsok Blekinsk Fl. 37. 1823 , nom. nud.",Rosa,,,
+wfo-1000094506,urn:lsid:ipni.org:names:77394340-1,Passifloraceae,Passiflora × lemichezii,Paxton,Paxton's Mag. Bot. 13: 238. 1847 ,Passiflora,,,
+wfo-0000994286,urn:lsid:ipni.org:names:77394341-1,Rosaceae,Potentilla × nemoralis,Gaudin,"Fl. Helv. 3: 383. 1828 , nom. illeg. homonym. post.",Potentilla,,,
+wfo-0001008729,urn:lsid:ipni.org:names:77394345-1,Rosaceae,Pyrus × fallax,(C.K.Schneid.) Asch. & Graebn.,Syn. Mitteleur. Fl. 6(2): 109. 1906 ,Pyrus,,Rosaceae Sorbus × fallax C.K.Schneid.,(C.K.Schneid.)
+wfo-0001008488,urn:lsid:ipni.org:names:77394347-1,Rosaceae,Rubus × hallandicus,Gabr.,Verh. Naturwiss. Vereins Hamburg 8: 52. 1900 ,Rubus,,,
+wfo-1000059998,urn:lsid:ipni.org:names:77394350-1,Rosaceae,Rosa × semproniana,Favrat & K.F.Schimp. ex Gremli,Excursionsfl. Schweiz 170. 1878 ,Rosa,,,
+wfo-0001013463,urn:lsid:ipni.org:names:77394354-1,Rosaceae,Rosa × pseudoterebinthinacea,Sabr.,"Fl. Steiermark 1: 904. 1909 , nom. nud.",Rosa,,,
+wfo-1000060434,urn:lsid:ipni.org:names:77394355-1,Rosaceae,Crataegus × celsiana,Dippel,"Handb. Laubholzk. 3: 452. 1893 , nom. illeg. homonym. post.",Crataegus,,,
+wfo-1000059801,urn:lsid:ipni.org:names:77394358-1,Rosaceae,Amygdalus × persicoides,(Ser.) Zabel,"Handb. Laubholzben. 234. 1903 , non Unger (1850), fossil name.",Amygdalus,,Rosaceae Amygdalus communis L. var. persicoides Ser.,(Ser.)
+wfo-1200126279,urn:lsid:ipni.org:names:77394361-1,Rutaceae,Citrus × sudachi,Shirai,Jap. Names Trees 114. 1933 ,Citrus,,,
+wfo-1000059859,urn:lsid:ipni.org:names:77394365-1,Rosaceae,Rosa × falcata,Puget ex Déségl.,Mém. Soc. Acad. Maine Loire 28: 106. 1873 ,Rosa,,,
+wfo-0001008115,urn:lsid:ipni.org:names:77394366-1,Rosaceae,Prunus × sibirica,C.K.Schneid.,Ill. Handb. Laubholzk. 1: 636. 1906 ,Prunus,,,
+wfo-0001008948,urn:lsid:ipni.org:names:77394368-1,Rosaceae,Rubus × balfourianus,Genev.,Mém. Soc. Acad. Maine Loire 24: 26. 1868 ,Rubus,,,
+wfo-0001008961,urn:lsid:ipni.org:names:77394372-1,Rosaceae,Geum × rivalimontanum,Gillot,"Bull. Soc. Bot. France 33: 550. 1886 , not validly publ.",Geum,,,
+wfo-0000479995,urn:lsid:ipni.org:names:77394374-1,Passifloraceae,Passiflora × atropurpurea,T.Moore & Mast.,"Gard. Chron. n.s., 19: 499. 1883 ",Passiflora,,,
+wfo-1000094509,urn:lsid:ipni.org:names:77394376-1,Crassulaceae,× Kalorochea langleyensis,H.J.Veitch,"Gard. Chron. ser. 3, 26: 58. 1899 ",Kalorochea,,,
+wfo-1000094510,urn:lsid:ipni.org:names:77394377-1,Rhamnaceae,Ceanothus × versaillensis,C.K.Schneid.,Ill. Handb. Laubholzk. 2: 295. 1909 ,Ceanothus,,,
+wfo-1200114303,urn:lsid:ipni.org:names:77394379-1,Onagraceae,Fuchsia × dominiana,G.W.Johnson,Cottage Gardener 11: 77. 1853 ,Fuchsia,,,
+wfo-0001012825,urn:lsid:ipni.org:names:77394383-1,Rosaceae,Rubus × amphichlorus,Genev.,Monogr. Rubus 207. 1880 ,Rubus,,,
+wfo-1000094512,urn:lsid:ipni.org:names:77394386-1,Rutaceae,Citrus × pseudograndis,Shirai,Jap. Names Trees 273. 1933 ,Citrus,,,
+wfo-0001014684,urn:lsid:ipni.org:names:77394393-1,Rosaceae,Rosa × bifera,(Poir.) Pers.,Syn. Pl. 2: 48. 1806 ,Rosa,,,(Poir.)
+wfo-0000382069,urn:lsid:ipni.org:names:77394395-1,Nymphaeaceae,Nymphaea × omarana,Bisset,Gard. Tr. 8: 96. 1895 ,Nymphaea,,,
+wfo-1000094514,urn:lsid:ipni.org:names:77394399-1,Rosaceae,Potentilla × striata-formosissima,C.Van Geert,Fl. Serres Jard. Eur. 7: 137. 1852 ,Potentilla,,,
+wfo-1000094516,urn:lsid:ipni.org:names:77394401-1,Crassulaceae,Echeveria × glaucometallica,W.Bull,Nursery Cat. (William Bull) 60: 151. 1871 ,Echeveria,,,
+wfo-0000985590,urn:lsid:ipni.org:names:77394402-1,Rosaceae,Rubus × tomentosus,Thuill.,"Fl. Env. Paris, ed. 2. 253. 1799 , nom. illeg. homonym. post.",Rubus,,,
+wfo-0001009966,urn:lsid:ipni.org:names:77394404-1,Rosaceae,Potentilla × skofitzii,Błocki ex Zimmeter,Exsicc. (Potent.) 1891: n.° 108. ,Potentilla,,,
+wfo-0001007948,urn:lsid:ipni.org:names:77394406-1,Rosaceae,Potentilla × decipiens,Jord.,"Pug. Pl. Nov. 66. 1852 , not validly publ.",Potentilla,,,
+wfo-1000060556,urn:lsid:ipni.org:names:77394407-1,Rosaceae,Mespilus × smithii,Ser.,"Prodr. 2: 633. 1825 , nom. illeg. superfl.",Mespilus,,,
+wfo-1000060455,urn:lsid:ipni.org:names:77394409-1,Rosaceae,Crataegus × monoli,R.Doll,Gleditschia 2: 14. 1975 ,Crataegus,,,
+wfo-1200115194,urn:lsid:ipni.org:names:77394411-1,Lythraceae,Cuphea × elegans,Regel,Schwiez. Z. Gartenbau 8: 192. 1850 ,Cuphea,,,
+wfo-0001006762,urn:lsid:ipni.org:names:77394416-1,Rosaceae,Rubus × erythrocladus,Sudre,"Compt. Rend. Congr. Soc. Savantes Paris Dépt., Sec. Sci. 13: 220. 1909 , nom. illeg. homonym. post.",Rubus,,,
+wfo-1000094519,urn:lsid:ipni.org:names:77394417-1,Ranunculaceae,Clematis × rubroviolacea,Jackman,Florist & Pomol. 3: 265. 1864 ,Clematis,,,
+wfo-0001013853,urn:lsid:ipni.org:names:77394424-1,Rosaceae,Rosa × caninopimpinellifolia,F.W.Schultz,Arch. Fl. France Allem. 2: 256. 1852 ,Rosa,,,
+wfo-0000991230,urn:lsid:ipni.org:names:77394427-1,Rosaceae,Pyro-cydonia danieli,(H.K.A.Winkl. ex L.L.Daniel) Guillaumin,Bull. Soc. Dendrol. France 56: 63. 1925 ,Pyro-cydonia,,,(H.K.A.Winkl. ex L.L.Daniel)
+wfo-1000060634,urn:lsid:ipni.org:names:77394437-1,Rosaceae,Potentilla × pseudoherbichii,Błocki ex Zimmeter,Programm K. K. Ober-Realschule Innsbruck 1888-1889: 14. ,Potentilla,,,
+wfo-1000059884,urn:lsid:ipni.org:names:77394443-1,Rosaceae,Rosa × gravetii,(Crép. ex Borbás) Crép.,"Bull. Soc. Roy. Bot. Belgique 30: 156. 1891 , nom. illeg. homonym. post.",Rosa,,,(Crép. ex Borbás)
+wfo-0001004367,urn:lsid:ipni.org:names:77394444-1,Rosaceae,Rubus × pseudovestitus,Halácsy,Verh. K. K. Zool.-Bot. Ges. Wien 35: 666. 1886 ,Rubus,,,
+wfo-0001006181,urn:lsid:ipni.org:names:77394445-1,Rosaceae,Malus × magdeburgensis,Hartwig,Mitt. Deutsch. Dendrol. Ges. 16: 269. 1908 ,Malus,,,
+wfo-1000052325,urn:lsid:ipni.org:names:77394446-1,Hydrangeaceae,Philadelphus × burkwoodii,Burkwood & Skipwith,Flow. Shrubs 8. 1929 ,Philadelphus,,,
+wfo-0001007987,urn:lsid:ipni.org:names:77394449-1,Rosaceae,Potentilla × neumanniana,Wimm.,Fl. Schles. ed. 3: 640. 1857 ,Potentilla,,,
+wfo-0001013113,urn:lsid:ipni.org:names:77394450-1,Rosaceae,Rubus × barthianus,Borbás ex Sudre,Rubi Eur. 213. 1913 ,Rubus,,,
+wfo-1000060237,urn:lsid:ipni.org:names:77394451-1,Rosaceae,Rubus × neoburgensis,Zinsm. ex Erdner,Mitt. Bayer. Bot. Ges. 1: 542. 1906 ,Rubus,,,
+wfo-0001012879,urn:lsid:ipni.org:names:77394457-1,Rosaceae,Rubus × harpago,P.J.Müll. ex Sudre,Rubi Eur. 105. 1910 ,Rubus,,,
+wfo-1000059899,urn:lsid:ipni.org:names:77394461-1,Rosaceae,Rosa × improvisa,Rouy & E.G.Camus,Fl. France 6: 342. 1900 ,Rosa,,,
+wfo-0001006782,urn:lsid:ipni.org:names:77394462-1,Rosaceae,Prunus × laucheana,Bolle ex Lauche,Deut. Dendrol. 652. 1880 ,Prunus,,,
+wfo-0001013618,urn:lsid:ipni.org:names:77394464-1,Rosaceae,Rubus × multibracteatus,Boulay & Pierrat,Assoc. Rub. 1: 49. 1877 ,Rubus,,,
+wfo-1000061254,urn:lsid:ipni.org:names:77394467-1,Rosaceae,Rosa × condaminea,Burnat ex R.Keller,Syn. Mitteleur. Fl. 6(1): 248. 1902 ,Rosa,,,
+wfo-0001010129,urn:lsid:ipni.org:names:77394472-1,Rosaceae,Alchemilla × pentaphylloides,H.Lév.,"Bull. Géogr. Bot. 27: 56. 1917 , nom. illeg. homonym. post.",Alchemilla,,,
+wfo-0000659693,urn:lsid:ipni.org:names:77394474-1,Crassulaceae,Echeveria × cochlearis,A.Berger,"Nat. Pflanzenfam., ed. 2. 18a: 481. 1930 ",Echeveria,,,
+wfo-0001010534,urn:lsid:ipni.org:names:77394476-1,Rosaceae,Rosa × sylvestris,Schult.,"Fl. Germ. Excurs. 2: 620. 1832 , nom. illeg. homonym. post.",Rosa,,,
+wfo-0001008798,urn:lsid:ipni.org:names:77394479-1,Rosaceae,Rosa × rubella,Godet,"Fl. Jura 205. 1852 , nom. illeg. homonym. post.",Rosa,,,
+wfo-0000460312,urn:lsid:ipni.org:names:77394483-1,Rhamnaceae,Rhamnus × ovalifolia,G.Nicholson,"Hand-List Trees Shrubs 1[Polypet.]: 71. 1894 , not validly publ.",Rhamnus,,,
+wfo-0001014990,urn:lsid:ipni.org:names:77394484-1,Rosaceae,Amelanchier × canadensis,K.Koch,"Dendrologie 1: 180. 1869 , sensu auct.",Amelanchier,,,
+wfo-0001007038,urn:lsid:ipni.org:names:77394486-1,Rosaceae,Geum × meinshausenii,Gams,Ill. Fl. Mitt.-Eur. 4: 921. 1923 ,Geum,,,
+wfo-1000094529,urn:lsid:ipni.org:names:77394489-1,Passifloraceae,Passiflora × paxtonii,P.Feuillet,Passiflora 10(2): 9-15. 2000 ,Passiflora,,,
+wfo-0001006657,urn:lsid:ipni.org:names:77394492-1,Rosaceae,Prunus × effusa,(Host) C.K.Schneid.,Ill. Handb. Laubholzk. 1: 616. 1906 ,Prunus,,Rosaceae Cerasus effusa Host,(Host)
+wfo-1000060647,urn:lsid:ipni.org:names:77394493-1,Rosaceae,Potentilla × subnivalis,Brügger,"Jahresber. Naturf. Ges. Graubündens n.f., 29: 62. 1886 ",Potentilla,,,
+wfo-0001008016,urn:lsid:ipni.org:names:77394496-1,Rosaceae,Geum × willdenowii,J.N.Buek bis,Fl. March. 595. 1841 ,Geum,,,
+wfo-1000070680,urn:lsid:ipni.org:names:77394498-1,Onagraceae,Epilobium × rivulare,Čelak.,"Prodr. Fl. Böhmen 883. 1881 , nom. illeg. homonym. post.",Epilobium,,,
+wfo-0001002521,urn:lsid:ipni.org:names:77394501-1,Rosaceae,Potentilla × vitodurensis,Zimmeter,Programm K. K. Ober-Realschule Innsbruck 1888-1889: 32. ,Potentilla,,,
+wfo-0001013590,urn:lsid:ipni.org:names:77394502-1,Rosaceae,Rubus × racemosus,Posp.,Fl. Oesterr. Küstenl. 2(1): 295. 1898 ,Rubus,,,
+wfo-1000060048,urn:lsid:ipni.org:names:77394505-1,Rosaceae,Rubus × albicans,Posp.,Fl. Oesterr. Küstenl. 2(1): 295. 1898 ,Rubus,,,
+wfo-1000060499,urn:lsid:ipni.org:names:77394506-1,Rosaceae,Fragaria × sericea,Christ ex Nyman,"Consp. Fl. Eur., Suppl. 2. 109. 1889 ",Fragaria,,,
+wfo-1200126284,urn:lsid:ipni.org:names:77394507-1,Rutaceae,Citrus × sulcata,Takahashi,Kankitsu 84. 1931 ,Citrus,,,
+wfo-1000060596,urn:lsid:ipni.org:names:77394509-1,Rosaceae,Potentilla × confusa,E.H.L.Krause,Krit. Fl. Schlesw.-Holst. 2(1): 89. 1889 ,Potentilla,,,
+wfo-1000060026,urn:lsid:ipni.org:names:77394516-1,Rosaceae,Rosa × wintoniensis,Anon.,Hillier Hardy Roses 1935-1936: 28. ,Rosa,,,
+wfo-0001003904,urn:lsid:ipni.org:names:77394518-1,Rosaceae,Rosa × caballicensis,Puget,Exsicc. (Herb. Rosarum) 1: n.° 16. 1883 ,Rosa,,,
+wfo-1000060199,urn:lsid:ipni.org:names:77394523-1,Rosaceae,Rubus × incertus,Sabr.,"Oesterr. Bot. Z. 55: 316. 1905 , nom. illeg. homonym. post.",Rubus,,,
+wfo-0001009384,urn:lsid:ipni.org:names:77394526-1,Rosaceae,Aria × latifolia,Beck,Fl. Nieder-Österreich 2: 714. 1892 ,Aria,,,
+wfo-0000630233,urn:lsid:ipni.org:names:77394531-1,Lythraceae,Cuphea × neubertii,Regel,Schwiez. Z. Gartenbau 8: 192. 1850 ,Cuphea,,,
+wfo-0000700577,urn:lsid:ipni.org:names:77394539-1,Geraniaceae,Geranium × hastatum,Andrews,Geraniums 1: [s.p.]. 1806 ,Geranium,,,
+wfo-1000060215,urn:lsid:ipni.org:names:77394540-1,Rosaceae,Rubus × leventiformis,Ade ex Mayer,Denkschr. Bayer. Bot. Ges. Regensburg 18: 147. 1931 ,Rubus,,,
+wfo-1000060029,urn:lsid:ipni.org:names:77394545-1,Rosaceae,Rosa × sphaerocarpa,Brenner,"Meddeland. Soc. Fauna Fl. Fenn. 48: 10. 1925 , nom. illeg. homonym. post.",Rosa,,,
+wfo-0000983892,urn:lsid:ipni.org:names:77394547-1,Rosaceae,Geum × inclinatum,Schleich. ex Gaudin & Monnard,Syn. Fl. Helv. 426. 1836 ,Geum,,,
+wfo-0001007191,urn:lsid:ipni.org:names:77394548-1,Rosaceae,Potentilla × pulchella,Brügger,"Jahresber. Naturf. Ges. Graubündens n.f., 23-24: 61. 1880 ",Potentilla,,,
+wfo-1000059896,urn:lsid:ipni.org:names:77394549-1,Rosaceae,Rosa × hybernica,Rouy & E.G.Camus,"Fl. France 6: 422. 1900 , orth. var.",Rosa,,,
+wfo-0001008137,urn:lsid:ipni.org:names:77394552-1,Rosaceae,Crataegus × dissecta,(Dum.Cours.) DC.,"Prodr. 2: 630. 1825 , nom. illeg. homonym. post.",Crataegus,,Rosaceae Mespilus dissecta Dum.Cours.,(Dum.Cours.)
+wfo-0001013538,urn:lsid:ipni.org:names:77394556-1,Rosaceae,Potentilla × sapiehae,Błocki ex Zimmeter,Bot.-Kalend. 1887. 71. 1886 ,Potentilla,,,
+wfo-0000480245,urn:lsid:ipni.org:names:77394558-1,Passifloraceae,Passiflora × pfordtii,Anon.,"Garden (London, 1871-1927) 35: 572. 1889 ",Passiflora,,,
+wfo-1000060273,urn:lsid:ipni.org:names:77394561-1,Rosaceae,Rubus × polyanthus,P.J.Müll. ex Wirtg.,Exsicc. (Herb. Rub. Rhenan.) 4: n.° 76. 1858 ,Rubus,,,
+wfo-0001007970,urn:lsid:ipni.org:names:77394567-1,Rosaceae,Potentilla × huteri,Hausm. ex Th.Wolf,Potentillen-Stud. 2: 29. 1903 ,Potentilla,,,
+wfo-0000997272,urn:lsid:ipni.org:names:77394572-1,Rosaceae,Pyrus × atrosanguinea,Späth,Nursery Cat. (Späth) 118: 104. 1905 ,Pyrus,,,
+wfo-1000060447,urn:lsid:ipni.org:names:77394574-1,Rosaceae,Crataegus × grandiflora,(Sm.) K.Koch,"Verh. Vereins Beford. Gartenbaues Konigl. Preuss. Staaten 22: 226. 1853 , nom. illeg. homonym. post.",Crataegus,,Rosaceae Mespilus grandiflora Sm.,(Sm.)
+wfo-0001007770,urn:lsid:ipni.org:names:77394575-1,Rosaceae,Rosa × duffortii,H.J.Coste & S.Pons,Exsicc. (Herb. Rosarum) 3: 45. 1897 ,Rosa,,,
+wfo-0001007543,urn:lsid:ipni.org:names:77394576-1,Rosaceae,Rubus × rothomagensis,(Boulay) Boulay,Fl. France 6: 59. 1900 ,Rubus,,,(Boulay)
+wfo-1200039867,urn:lsid:ipni.org:names:77394581-1,Scrophulariaceae,Penstemon × compactus,Wemyss ex J.Dix,Proc. Roy. Hort. Soc. London 2: 727. 1862 ,Penstemon,,,
+wfo-1000059913,urn:lsid:ipni.org:names:77394582-1,Rosaceae,Rosa × langiae,Christ,Bull. Murith. Soc. Valais. Sci. Nat. 49: 30. 1932 ,Rosa,,,
+wfo-1000062120,urn:lsid:ipni.org:names:77394583-1,Geraniaceae,Pelargonium × ardens,(Andrews) Sweet,Geraniaceae 1: t. 45. 1820 ,Pelargonium,,Geraniaceae Geranium × ardens Andrews,(Andrews)
+wfo-0001009086,urn:lsid:ipni.org:names:77394585-1,Rosaceae,Rosa × boreykiana,Déségl.,Bull. Soc. Roy. Bot. Belgique 15: 395. 1876 ,Rosa,,,
+wfo-1200126289,urn:lsid:ipni.org:names:77394587-1,Ranunculaceae,Aquilegia × helenae,Arends,Wiener Ill. Gart.-Zeitung 27: 104. 1902 ,Aquilegia,,,
+wfo-1000060666,urn:lsid:ipni.org:names:77394596-1,Rosaceae,Prunus × aproniana,(Schübl. & G.Martens) Beck,Fl. Nieder-Österreich 2: 820. 1892 ,Prunus,,,(Schübl. & G.Martens)
+wfo-0001010268,urn:lsid:ipni.org:names:77394598-1,Rosaceae,Pyrus × arioides,H.Lév.,"Bull. Géogr. Bot. 27: 57. 1917 , nom. illeg. homonym. post.",Pyrus,,,
+wfo-1000060172,urn:lsid:ipni.org:names:77394600-1,Rosaceae,Rubus × gossypiatus,Boulay,Assoc. Rub. 1: 47. 1877 ,Rubus,,,
+wfo-1000094543,urn:lsid:ipni.org:names:77394602-1,Aceraceae,Acer × rotundilobum,Schwer.,Mitt. Deutsch. Dendrol. Ges. 3: 76. 1894 ,Acer,,,
+wfo-0001002474,urn:lsid:ipni.org:names:77394603-1,Rosaceae,Rubus × robustus,G.Fraser,"Gard. Chron. ser. 3, 73: 51. 1923 , nom. illeg. homonym. post.",Rubus,,,
+wfo-1200064402,urn:lsid:ipni.org:names:77394604-1,Grossulariaceae,Ribes × gondouinii,Jancz.,Bull. Int. Acad. Sci. Cracovie 1: 298. 1901 ,Ribes,,,
+wfo-0001086847,urn:lsid:ipni.org:names:77394606-1,Nymphaeaceae,Nymphaea × daubeniana,O.Thomas,"J. Hort. ser. 3, 11: 362. 1886 , orth. var.",Nymphaea,,,
+wfo-1000060085,urn:lsid:ipni.org:names:77394609-1,Rosaceae,Rubus × cancellatus,Focke,Syn. Mitteleur. Fl. 6(1): 498. 1902 ,Rubus,,,
+wfo-0001007206,urn:lsid:ipni.org:names:77394612-1,Rosaceae,Potentilla × tomentosa,Ten.,Fl. Napol. 4: 294. 1830 ,Potentilla,,,
+wfo-1000060626,urn:lsid:ipni.org:names:77394613-1,Rosaceae,Potentilla × murithii,Besse ex R.Keller,Bull. Trav. Soc. Murith. 21-22: 120. 1894 ,Potentilla,,,
+wfo-0001013475,urn:lsid:ipni.org:names:77394625-1,Rosaceae,Rosa × platyphylloides,Déségl. & Ripart,"Ann. Soc. Linn. Lyon 16: 375. 1868 , nom. nud.",Rosa,,,
+wfo-1200126292,urn:lsid:ipni.org:names:77394639-1,Passifloraceae,Passiflora × buonapartea,B.S.Williams,Choice Stove Greenhouse Fl. Pl. 134. 1869 ,Passiflora,,,
+wfo-1200126293,urn:lsid:ipni.org:names:77394642-1,Scrophulariaceae,Calceolaria × kellyana,Rob.,Hardy Flowers 80. 1871 ,Calceolaria,,,
+wfo-0000608086,urn:lsid:ipni.org:names:77394646-1,Rutaceae,Citrus × keraji,Yu.Tanaka,Iconogr. Jap. Citrus Fruits 2: 414. 1948 ,Citrus,,,
+wfo-1000059822,urn:lsid:ipni.org:names:77394647-1,Rosaceae,Rosa × chabertii,Déségl. ex Chabert,"Étude Fl. éd. 4, 2: 179. 1865 ",Rosa,,,
+wfo-1000060089,urn:lsid:ipni.org:names:77394650-1,Rosaceae,Rubus × carneistylus,Genev.,"Mém. Soc. Acad. Maine Loire 24: 12. 1868 , nom. illeg. homonym. post.",Rubus,,,
+wfo-1200039195,urn:lsid:ipni.org:names:77394654-1,Scrophulariaceae,Alectorolophus × fallax,(Wimm. & Grab.) Sterneck,Oesterr. Bot. Z. 45: 299. 1895 ,Alectorolophus,,Scrophulariaceae Alectorolophus minor (L.) Dumort. var. fallax Wimm. & Grab.,(Wimm. & Grab.)
+wfo-1200126295,urn:lsid:ipni.org:names:77394657-1,Scrophulariaceae,Nemesia × compacta,(Voss) Anon.,Sunset Mag. 69: 39. 1932 ,Nemesia,,,(Voss)
+wfo-1000091808,urn:lsid:ipni.org:names:77394658-1,Ranunculaceae,Anemone × emiliana,F.O.Wolf,Bull. Murith. Soc. Valais. Sci. Nat. 23-24: 66. 1896 ,Anemone,,,
+wfo-1200064805,urn:lsid:ipni.org:names:77394660-1,Hydrangeaceae,Hydrangea × canescens,J.R.Booth ex G.Kirchn.,Arbor. Muscav. 198. 1864 ,Hydrangea,,,
+wfo-1000094549,urn:lsid:ipni.org:names:77394662-1,Araceae,Cryptocoryne × ikezewaldiae,Bastm.,Aqua Pl. 45(2): 47. 2020 ,Cryptocoryne,,,
+wfo-1000060247,urn:lsid:ipni.org:names:77394665-1,Rosaceae,Rubus × obtusidens,Boulay & Tuezk.,Assoc. Rub. 1: 29. 1877 ,Rubus,,,
+wfo-0001008121,urn:lsid:ipni.org:names:77394666-1,Rosaceae,Cerasus × graeca,Focke,"Syn. Deut. Schweiz. Fl., ed. 3. 730. 1892 ",Cerasus,,,
+wfo-1000060316,urn:lsid:ipni.org:names:77394667-1,Rosaceae,Rubus × serridens,Boulay & Tuezk.,Assoc. Rub. 1: 28. 1877 ,Rubus,,,
+wfo-1000060527,urn:lsid:ipni.org:names:77394670-1,Rosaceae,Malus × eleyi,(Bean) Hesse,Nursery Cat. (Hesse) 1925-1926: 95. ,Malus,,,(Bean)
+wfo-1200126296,urn:lsid:ipni.org:names:77394672-1,Scrophulariaceae,Antirrhinum × versicolor,Jacq.,Misc. Austriac. [Jacquin] 2: 336. 1781 ,Antirrhinum,,,
+wfo-0000404904,urn:lsid:ipni.org:names:77394674-1,Grossulariaceae,Ribes × arcuatum,Jancz.,Frutic. Vilmor. 1: 135. 1904 ,Ribes,,,
+wfo-0001008789,urn:lsid:ipni.org:names:77394676-1,Rosaceae,Rosa × wilsonii,A.T.Johnson,J. Roy. Hort. Soc. 70: 332. 1945 ,Rosa,,,
+wfo-1200126297,urn:lsid:ipni.org:names:77394678-1,Primulaceae,Primula × helenae,Arends,"Nursery Cat. (Arends) Autumn 1920: ?. , nom. illeg. homonym. post.",Primula,,,
+wfo-1000059977,urn:lsid:ipni.org:names:77394679-1,Rosaceae,Rosa × ravellae,(Christ) B.D.Jacks.,Index Kew. 2: 737. 1895 ,Rosa,,,(Christ)
+wfo-1000059891,urn:lsid:ipni.org:names:77394686-1,Rosaceae,Rosa × hispidocarpa,(J.B.Keller) Heinr.Braun,Fl. Nieder-Österreich 2(1): 776. 1892 ,Rosa,,,(J.B.Keller)
+wfo-1000094553,urn:lsid:ipni.org:names:77394687-1,Scrophulariaceae,Mimulus × nueschleri,Heer & Regel,Schweiz. Z. Land- Gartenbau 2: 140. 1844 ,Mimulus,,,
+wfo-1000060224,urn:lsid:ipni.org:names:77394689-1,Rosaceae,Rubus × mayerianus,Ade ex Mayer,Denkschr. Bayer. Bot. Ges. Regensburg 18: 147. 1931 ,Rubus,,,
+wfo-1200126301,urn:lsid:ipni.org:names:77394692-1,Rutaceae,× Citrofortunella madurensis,"(Lour.) D.Rivera, Obón, De la Torre & A.Barber",Varied. Trad. Frut. Cuenca Río Segura Cat. Etnobot. 191. 1998 ,Citrofortunella,,Rutaceae Citrus madurensis Lour.,(Lour.)
+wfo-1000059927,urn:lsid:ipni.org:names:77394694-1,Rosaceae,Rosa × manettii,Crivelli ex Rivers,Gard. Chron. 1849: 724. ,Rosa,,,
+wfo-1200126302,urn:lsid:ipni.org:names:77394695-1,Hippocastanaceae,Pavia × neglecta,(Lindl.) G.Don,Gen. Hist. 1: 653. 1831 ,Pavia,,Hippocastanaceae Aesculus neglecta Lindl.,(Lindl.)
+wfo-0000670097,urn:lsid:ipni.org:names:77394699-1,Berberidaceae,Epimedium × sinense,E.Vilm.,Fl. Pleine Terre ed. 2: 298. 1866 ,Epimedium,,,
+wfo-1000060233,urn:lsid:ipni.org:names:77394725-1,Rosaceae,Rubus × multidentatus,Boulay & Pierrat,Assoc. Rub. 2: 14. 1878 ,Rubus,,,
+wfo-1000060195,urn:lsid:ipni.org:names:77394728-1,Rosaceae,Rubus × implexus,Lefèvre ex Boulay,Assoc. Rub. 1: 44. 1877 ,Rubus,,,
+wfo-1000060711,urn:lsid:ipni.org:names:77394729-1,Rosaceae,Pyrus × kaido,(Wenz.) Mouill.,Traité Arbr. Arbriss. 1: 524. 1893 ,Pyrus,,,(Wenz.)
+wfo-1200035481,urn:lsid:ipni.org:names:77394732-1,Buddlejaceae,Buddleja × intermedia,Carrière,"Rev. Hort. (Paris) 45: 151. 1873 , nom. illeg. homonym. post.",Buddleja,,,
+wfo-1200031757,urn:lsid:ipni.org:names:77394733-1,Escalloniaceae,Escallonia × langleyensis,H.J.Veitch,"Gard. Chron. ser. 3, 22: 17. 1897 ",Escallonia,,,
+wfo-0000535135,urn:lsid:ipni.org:names:77394740-1,Ranunculaceae,Anemone × bolzanensis,(Murr) Gürke,Pl. Eur. 2: 461. 1903 ,Anemone,,Ranunculaceae Pulsatilla × bolzanensis Murr,(Murr)
+wfo-1000060310,urn:lsid:ipni.org:names:77394741-1,Rosaceae,Rubus × semichlorifolius,Ade ex Mayer,Denkschr. Bayer. Bot. Ges. Regensburg 18: 148. 1931 ,Rubus,,,
+wfo-1200126307,urn:lsid:ipni.org:names:77394745-1,Rutaceae,Citrus × tamurana,Takahashi,Kankitsu 82. 1931 ,Citrus,,,
+wfo-0001001262,urn:lsid:ipni.org:names:77394750-1,Rosaceae,Chaenomeles × californica,W.B.Clarke,Garden Arist. 7: 13. 1940 ,Chaenomeles,,,
+wfo-1200126310,urn:lsid:ipni.org:names:77394757-1,Ranunculaceae,Clematis × standishii,(T.Moore) Paul,Gard. Chron. 1867: 926. ,Clematis,,Ranunculaceae Clematis florida Thunb. var. standishii T.Moore,(T.Moore)
+wfo-1000060535,urn:lsid:ipni.org:names:77394763-1,Rosaceae,Malus × pulcherrima,(Asch. & Graebn.) Makino,Bot. Mag. (Tokyo) 22: 69. 1908 ,Malus,,Rosaceae Pyrus pulcherrima Asch. & Graebn.,(Asch. & Graebn.)
+wfo-1000094562,urn:lsid:ipni.org:names:77394768-1,Crassulaceae,Echeveria × rotundifolia,Dean,"Gard. Chron. n.s., 4: 627. 1875 ",Echeveria,,,
+wfo-1000059963,urn:lsid:ipni.org:names:77394775-1,Rosaceae,Rosa × pokornyana,Kmet ex Borbás,Oesterr. Bot. Z. 33: 225. 1883 ,Rosa,,,
+wfo-0001013100,urn:lsid:ipni.org:names:77394779-1,Rosaceae,Rubus × progelii,Utsch,Jahres-Ber. Westfal. Prov.-Vereins Wiss. 23: 199. 1895 ,Rubus,,,
+wfo-1000060611,urn:lsid:ipni.org:names:77394784-1,Rosaceae,Potentilla × gremblichii,Gand. ex Zimmeter,Jahresber. K. K. Staats-Ober-Realschule Steyr 14: 29. 1884 ,Potentilla,,,
+wfo-0001008932,urn:lsid:ipni.org:names:77394787-1,Rosaceae,Rubus × insectifolius,Schmidely,Assoc. Rub. 10: 24. 1888 ,Rubus,,,
+wfo-1200126315,urn:lsid:ipni.org:names:77394791-1,Rosaceae,Geum × reyckaertsii,Reyck.,Hort. Practicien 1: 122. 1857 ,Geum,,,
+wfo-1000059834,urn:lsid:ipni.org:names:77394793-1,Rosaceae,Rosa × coquozii,Christ,Bull. Murith. Soc. Valais. Sci. Nat. 49: 32. 1932 ,Rosa,,,
+wfo-0000405296,urn:lsid:ipni.org:names:77394795-1,Grossulariaceae,Ribes × dubium,Jancz.,Frutic. Vilmor. 1: 137. 1904 ,Ribes,,,
+wfo-1000070709,urn:lsid:ipni.org:names:77394797-1,Onagraceae,Fuchsia × prostrata,Scholefield ex J.Harrison,Floric. Cab. & Florist's Mag. 9: 214. 1841 ,Fuchsia,,,
+wfo-0000535787,urn:lsid:ipni.org:names:77394799-1,Ranunculaceae,Anemone × seemenii,E.G.Camus,J. Bot. (Morot) 12: 101. 1898 ,Anemone,,,
+wfo-0001008561,urn:lsid:ipni.org:names:77394800-1,Rosaceae,Rosa × francofurtana,C.C.Gmel.,Fl. Bad. 2: 405. 1806 ,Rosa,,,
+wfo-0000983994,urn:lsid:ipni.org:names:77394802-1,Rosaceae,Crataegus × palmstruchii,Dostál,"Sbírka Příruček Českoslov. Bot. Společn. 2: 714. 1948 , nom. illeg. homonym. post.",Crataegus,,,
+wfo-1000059995,urn:lsid:ipni.org:names:77394803-1,Rosaceae,Rosa × scotinophylla,Boullu,"Exsicc. (Herb. Rosarum) 1(1894): 14. 1895 , nom. nud.",Rosa,,,
+wfo-1000094572,urn:lsid:ipni.org:names:77394805-1,Rutaceae,Citrus × sphaerocarpa,Y.Nakaj. ex H.Ohba,Siebold's Florileg. Jap. Pl. 2: 181. 1994 ,Citrus,,,
+wfo-1000060193,urn:lsid:ipni.org:names:77394808-1,Rosaceae,Rubus × hypoleucus,Boulay,"Assoc. Rub. 4: 11. 1880 , nom. illeg. homonym. post.",Rubus,,,
+wfo-0001133275,urn:lsid:ipni.org:names:77394809-1,Rutaceae,Citrus × lima,Lunan,Hort. Jamaic. 1: 451. 1814 ,Citrus,,,
+wfo-1000094574,urn:lsid:ipni.org:names:77394810-1,Scrophulariaceae,Alectorolophus × microtrichus,Borbás ex Jáv.,Magyar Fl. 1017. 1925 ,Alectorolophus,,,
+wfo-1000060701,urn:lsid:ipni.org:names:77394811-1,Rosaceae,Pyrus × ambigua,(Decne.) Michalet ex Beck,Fl. Hernstein 393. 1884 ,Pyrus,,Rosaceae Aria ambigua Decne.,(Decne.)
+wfo-1000052320,urn:lsid:ipni.org:names:77394815-1,Hydrangeaceae,Philadelphus × lemoinei,Lemoine,Nursery Cat. (Lemoine) 109: 24. 1888 ,Philadelphus,,,
+wfo-1000059955,urn:lsid:ipni.org:names:77394817-1,Rosaceae,Rosa × pennina,De la Soie ex Christ,Rosen Schweiz 167. 1873 ,Rosa,,,
+wfo-1000059567,urn:lsid:ipni.org:names:77394820-1,Rosaceae,Rosa × subintrans,Gren. ex Crép.,Bull. Soc. Roy. Bot. Belgique 8: 286. 1869 ,Rosa,,,
+wfo-1000070678,urn:lsid:ipni.org:names:77394825-1,Onagraceae,Epilobium × phyllonema,K.Knaf,Sitzungsber. Königl. Böhm. Ges. Wiss. Prag 1878: 24. 1879 ,Epilobium,,,
+wfo-1000059796,urn:lsid:ipni.org:names:77394827-1,Rosaceae,Amygdalus × amygdalo-persica,Duhamel,"Traité Arbr. Fruit. 1: 127. 1768 , contrary to Art. 10.2. (Melbourne Code).",Amygdalus,,,
+wfo-1000060099,urn:lsid:ipni.org:names:77394828-1,Rosaceae,Rubus × concinnatus,Boulay & Lucand,Assoc. Rub. 5: 16. 1881 ,Rubus,,,
+wfo-0000983879,urn:lsid:ipni.org:names:77394829-1,Rosaceae,Pyrus × pinnatifida,Sm.,"Engl. Bot. 33: t. 2331. 1812 , nom. illeg. homonym. post.",Pyrus,,,
+wfo-0001007804,urn:lsid:ipni.org:names:77394830-1,Rosaceae,Rosa × alpinopimpinellifolia,Christ,Rosen Schweiz 67. 1873 ,Rosa,,,
+wfo-0001013539,urn:lsid:ipni.org:names:77394836-1,Rosaceae,Potentilla × superargentea,Waisb. ex Oborny,Jahresber. Deutsch. Landes-Oberrealsch. Leipnik 1900: 11. ,Potentilla,,,
+wfo-0000992609,urn:lsid:ipni.org:names:77394838-1,Rosaceae,Rubus × amplithyrsus,Sudre,Rubi Eur. 76. 1909 ,Rubus,,,
+wfo-1000094579,urn:lsid:ipni.org:names:77394842-1,Aceraceae,Acer × pusillum,Schwer.,Mitt. Deutsch. Dendrol. Ges. 3: 48. 1894 ,Acer,,,
+wfo-1000060285,urn:lsid:ipni.org:names:77394848-1,Rosaceae,Rubus × pugionifer,P.J.Müll. & Timb.-Lagr. ex Sudre,Rubi Eur. 59. 1909 ,Rubus,,,
+wfo-0001008325,urn:lsid:ipni.org:names:77394852-1,Rosaceae,Rosa × superba,J.Kern. & J.B.Keller,Nachtr. Fl. Nieder-Oesterr. 263. 1882 ,Rosa,,,
+wfo-1000060025,urn:lsid:ipni.org:names:77394856-1,Rosaceae,Rosa × wilsonii,Boullu,"Étude Fl. éd. 8, 2: 255. 1889 ",Rosa,,,
+wfo-1000062145,urn:lsid:ipni.org:names:77394858-1,Geraniaceae,Phymatanthus × intertinctus,Sweet,Geraniaceae Suppl.: t. 54. 1829 ,Phymatanthus,,,
+wfo-1200126319,urn:lsid:ipni.org:names:77394860-1,Passifloraceae,Passiflora × loudonii,(Ser.) Loudon ex Mast.,J. Roy. Hort. Soc. 4: 146. 1877 ,Passiflora,,Passifloraceae Granadilla loudonii Ser.,(Ser.)
+wfo-0001003818,urn:lsid:ipni.org:names:77394868-1,Rosaceae,Rosa × perrieri,Songeon,Cat. Pl. Vasc. Dauphiné 115. 1872 ,Rosa,,,
+wfo-0000591787,urn:lsid:ipni.org:names:77394869-1,Rhamnaceae,Ceanothus × burkwoodii,C.H.Curtis,"Gard. Chron. ser. 3, 89: 438. 1931 ",Ceanothus,,,
+wfo-1000059876,urn:lsid:ipni.org:names:77394880-1,Rosaceae,Rosa × giennensis,Pau ex Cuatrec.,"Publ. Junta Ci. Nat. Barcelona, Ser. Bot. 12: 319. 1929 ",Rosa,,,
+wfo-1200040045,urn:lsid:ipni.org:names:77394888-1,Scrophulariaceae,Linaria × versicolor,(Jacq.) Chaz.,Suppl. Dict. Jard. 2: 38. 1790 ,Linaria,,,(Jacq.)
+wfo-0001011190,urn:lsid:ipni.org:names:77394892-1,Rosaceae,Rosa × damascena,Herrm.,De Rosa 14. 1762 ,Rosa,,,
+wfo-1000059641,urn:lsid:ipni.org:names:77394894-1,Rosaceae,Pyrocydonia winkleri,(L.L.Daniel ex Bois) L.L.Daniel,Bull. Soc. Dendrol. France 56: 63. 1925 ,Pyrocydonia,,Rosaceae Pirocydonia winkleri L.L.Daniel ex Bois,(L.L.Daniel ex Bois)
+wfo-0000999548,urn:lsid:ipni.org:names:77394895-1,Rosaceae,Rubus × chnoophyllus,P.J.Müll.,Annot. Fl. France Allemagne 291. 1855 ,Rubus,,,
+wfo-0001013583,urn:lsid:ipni.org:names:77394896-1,Rosaceae,Rubus × giganteus,Posp.,Fl. Oesterr. Küstenl. 2(1): 278. 1898 ,Rubus,,,
+wfo-0000608174,urn:lsid:ipni.org:names:77394900-1,Rutaceae,Citrus × montana,(Wester) Tanaka,Stud. Citrol. 9: 8. 1939 ,Citrus,,,(Wester)
+wfo-1000060465,urn:lsid:ipni.org:names:77394901-1,Rosaceae,Crataegus × pyricarpa,R.Doll,Gleditschia 2: 9. 1975 ,Crataegus,,,
+wfo-0001012766,urn:lsid:ipni.org:names:77394905-1,Rosaceae,Rubus × tornatilis,P.J.Müll. & Timb.-Lagr. ex Sudre,Rubi Eur. 25. 1908 ,Rubus,,,
+wfo-0000984168,urn:lsid:ipni.org:names:77394915-1,Rosaceae,Rosa × pyriformis,Puget ex Crép.,Bull. Soc. Roy. Bot. Belgique 8: 278. 1869 ,Rosa,,,
+wfo-0000466899,urn:lsid:ipni.org:names:77394918-1,Geraniaceae,Pelargonium × bathoniae,Hoare ex Sweet,Geraniaceae t. 74. 1821 ,Pelargonium,,,
+wfo-0001013216,urn:lsid:ipni.org:names:77394921-1,Rosaceae,Rubus × nodiflorus,Gremli ex Sudre,Rubi Eur. 252. 1913 ,Rubus,,,
+wfo-0001012869,urn:lsid:ipni.org:names:77394923-1,Rosaceae,Rubus × affinoides,G.Braun,Exsicc. (Herb. Rub. Germ.) 6: n.° 103. 1878 ,Rubus,,,
+wfo-1000060059,urn:lsid:ipni.org:names:77394934-1,Rosaceae,Rubus × anisostylus,Boulay & Pierrat,Assoc. Rub. 2: 15. 1878 ,Rubus,,,
+wfo-0000700898,urn:lsid:ipni.org:names:77394943-1,Geraniaceae,Geranium × multifidum,Andrews,Geraniums 1: [s.p.]. 1805 ,Geranium,,,
+wfo-1000060664,urn:lsid:ipni.org:names:77394945-1,Rosaceae,Prunoamygdalus baldshuanica,(Regel) Kovalev,Alycha Prirodye Kulturye Selekts. 55. 1955 ,Prunoamygdalus,,Rosaceae Prunus baldschuanica Regel,(Regel)
+wfo-1000094595,urn:lsid:ipni.org:names:77394950-1,Scrophulariaceae,Nemesia × suttonii,(Anon.) Anon.,Sunset Mag. 69: 39. 1932 ,Nemesia,,,(Anon.)
+wfo-1000047347,urn:lsid:ipni.org:names:77394951-1,Potamogetonaceae,Potamogeton × intermedius,Tiselius ex Fryer,"J. Bot. 28: 178. 1890 , nom. illeg. homonym. post.",Potamogeton,,,
+wfo-1000094597,urn:lsid:ipni.org:names:77394958-1,Rutaceae,Citrus × pumila,Marc.,"Izv. Sochin. Obl. Sukhumsk. Stantsii 2(2): 4. 1921 , nom. illeg. superfl.",Citrus,,,
+wfo-0001001858,urn:lsid:ipni.org:names:77394959-1,Rosaceae,Rosa × anisopoda,Christ ex Gremli,Excursionsfl. Schweiz 156. 1878 ,Rosa,,,
+wfo-0000994451,urn:lsid:ipni.org:names:77394961-1,Rosaceae,Rubus × bipartitus,Boulay & Bouvet,Assoc. Rub. 1: 37. 1877 ,Rubus,,,
+wfo-0001008909,urn:lsid:ipni.org:names:77394962-1,Rosaceae,Rubus × pubescens,Genev.,"Monogr. Rubus 271. 1880 , nom. illeg. homonym. post.",Rubus,,,
+wfo-1000062104,urn:lsid:ipni.org:names:77394964-1,Geraniaceae,Pelargonium × labyrinthicum,Sweet ex G.Don,Gen. Hist. 1: 726. 1831 ,Pelargonium,,,
+wfo-1000094598,urn:lsid:ipni.org:names:77394971-1,Rutaceae,Correa × curiosa,Paxton,Paxton's Mag. Bot. 14: 147. 1848 ,Correa,,,
+wfo-1000059949,urn:lsid:ipni.org:names:77394974-1,Rosaceae,Rosa × orbessanea,Thory,Roses 2: 21. 1819 ,Rosa,,,
+wfo-0001008956,urn:lsid:ipni.org:names:77394975-1,Rosaceae,Rubus × holandrei,Genev.,Mém. Soc. Acad. Maine Loire 24: 54. 1868 ,Rubus,,,
+wfo-0001004887,urn:lsid:ipni.org:names:77394977-1,Rosaceae,Prunus × donarium,Siebold ex Koidz.,Bot. Mag. (Tokyo) 25: 259. 1911 ,Prunus,,,
+wfo-1000059889,urn:lsid:ipni.org:names:77394978-1,Rosaceae,Rosa × highdownensis,C.H.Curtis,"Gard. Chron. ser. 3, 84: 242. 1928 ",Rosa,,,
+wfo-0001012928,urn:lsid:ipni.org:names:77394979-1,Rosaceae,Rubus × glaucifolius,Schmidely ex Sudre,Rubi Eur. 128. 1911 ,Rubus,,,
+wfo-1200035458,urn:lsid:ipni.org:names:77394983-1,Buddlejaceae,Buddleja × insignis,Carrière,Rev. Hort. (Paris) 50: 330. 1878 ,Buddleja,,,
+wfo-0001004560,urn:lsid:ipni.org:names:77394988-1,Rosaceae,Rosa × provincialis,Mill.,"Gard. Dict., ed. 8. Rosa n.° 18. 1768 , nom. illeg. homonym. post.",Rosa,,,
+wfo-1200115177,urn:lsid:ipni.org:names:77394994-1,Scrophulariaceae,Mimulus × splendens,Heer & Regel,Schweiz. Z. Land- Gartenbau 2: 140. 1844 ,Mimulus,,,
+wfo-0001008905,urn:lsid:ipni.org:names:77394999-1,Rosaceae,Rubus × dimorphus,Boulay & Feuilleb.,"Assoc. Rub. 6: 12. 1882 , nom. illeg. homonym. post.",Rubus,,,
+wfo-1000060070,urn:lsid:ipni.org:names:77395003-1,Rosaceae,Rubus × assurgens,Boulay & Bouvet,Assoc. Rub. 1: 59. 1877 ,Rubus,,,
+wfo-1000091802,urn:lsid:ipni.org:names:77395004-1,Ranunculaceae,Clematis × intermedia,Bonamy ex T.Moore & Jackman,"Clematis 107. 1872 , nom. illeg. homonym. post.",Clematis,,,
+wfo-0001015037,urn:lsid:ipni.org:names:77395005-1,Rosaceae,Crataegus × fallacina,Gost.-Jak.,"Roczn. Sekc. Dendrol. Polsk. Towarz. Bot. 32: 9. 1978 , nom. illeg. homonym. post.",Crataegus,,,
+wfo-1000059945,urn:lsid:ipni.org:names:77395006-1,Rosaceae,Rosa × odoratissima,Sweet ex Lindl.,"Ros. Monogr. 106. 1820 , nom. nud.",Rosa,,,
+wfo-0001001927,urn:lsid:ipni.org:names:77395007-1,Rosaceae,Potentilla × subargentea,Borbás ex Zimmeter,Jahresber. K. K. Staats-Ober-Realschule Steyr 14: 11. 1884 ,Potentilla,,,
+wfo-1000060088,urn:lsid:ipni.org:names:77395008-1,Rosaceae,Rubus × carnegianus,Sabr.,Fl. Steiermark 1: 808. 1909 ,Rubus,,,
+wfo-1000060700,urn:lsid:ipni.org:names:77395012-1,Rosaceae,× Pyracomeles vilmorinii,Rehder ex Guillaumin,Bull. Soc. Natl. Hort. France 4: 198. 1937 ,Pyracomeles,,,
+wfo-0001008740,urn:lsid:ipni.org:names:77395015-1,Rosaceae,Pyrus × dippelii,(Zabel) Asch. & Graebn.,Syn. Mitteleur. Fl. 6(2): 110. 1906 ,Pyrus,,Rosaceae Aronia dippelii Zabel,(Zabel)
+wfo-0000630430,urn:lsid:ipni.org:names:77395016-1,Lythraceae,Cuphea × speciosa,Anon.,Allg. Thüring. Gartenzeitung 1849: 40. ,Cuphea,,,
+wfo-0000996169,urn:lsid:ipni.org:names:77395017-1,Rosaceae,Prunus × caproniana,Zabel,Handb. Laubholzben. 240. 1903 ,Prunus,,,
+wfo-1000060313,urn:lsid:ipni.org:names:77395021-1,Rosaceae,Rubus × semivestitus,E.H.L.Krause,Krit. Fl. Schlesw.-Holst. 2(1): 85. 1889 ,Rubus,,,
+wfo-1000060438,urn:lsid:ipni.org:names:77395024-1,Rosaceae,Crataegus × decipiens,Peterm.,Anal. Pfl.-Schlüss. 135. 1846 ,Crataegus,,,
+wfo-0001006134,urn:lsid:ipni.org:names:77395030-1,Rosaceae,Pyrus × purpurea,(A.Barbier) Woolley,"Garden (London, 1871-1927) 85: 204. 1921 ",Pyrus,,,(A.Barbier)
+wfo-1000059855,urn:lsid:ipni.org:names:77395032-1,Rosaceae,Rosa × dufftii,M.Schulze,Mitt. Geogr. Ges. (Thüringen) Jena 2: 226. 1884 ,Rosa,,,
+wfo-1200126326,urn:lsid:ipni.org:names:77395033-1,Ranunculaceae,Aconitum × medium,Schrad.,Uebers. Aconitum 1819 ,Aconitum,,,
+wfo-1000060653,urn:lsid:ipni.org:names:77395035-1,Rosaceae,Potentilla × tormentilla-formosa,Tongue ex W.H.Baxter,"Loudon's Hort. Brit., ed. 3. 660. 1839 ",Potentilla,,,
+wfo-0001012304,urn:lsid:ipni.org:names:77395039-1,Rosaceae,Potentilla × breunia,Huter ex Zimmeter,Sched. Fl. Exs. Austro-Hung. 4: 14. 1886 ,Potentilla,,,
+wfo-1200115176,urn:lsid:ipni.org:names:77395043-1,Scrophulariaceae,Mimulus × harrisonianus,Heer & Regel,Schweiz. Z. Land- Gartenbau 2: 140. 1844 ,Mimulus,,,
+wfo-1000059797,urn:lsid:ipni.org:names:77395049-1,Rosaceae,Pyrus × thuringiaca,(Nyman) Ruhmer,Jahrb. Königl. Bot. Gart. Berlin 1: 232. 1881 ,Pyrus,,Rosaceae Sorbus hybrida L. var. thuringiaca Nyman,(Nyman)
+wfo-0001006150,urn:lsid:ipni.org:names:77395051-1,Rosaceae,Malus × hybrida,Loisel.,"Traité Arbr. Arbust., nouv. éd. 6: 140. 1815 , nom. illeg. homonym. post.",Malus,,,
+wfo-1000059957,urn:lsid:ipni.org:names:77395053-1,Rosaceae,Rosa × pimpinellifoliocanina,Christ,Rosen Schweiz 69. 1873 ,Rosa,,,
+wfo-0001001908,urn:lsid:ipni.org:names:77395054-1,Rosaceae,Potentilla × wolffiana,Siegfr. ex Oborny,Jahresber. Deutsch. Landes-Oberrealsch. Leipnik 1900: 9. ,Potentilla,,,
+wfo-0000989743,urn:lsid:ipni.org:names:77395055-1,Rosaceae,Potentilla × ruthenica,Steud.,"Nomencl. Bot., ed. 2. 2: 389. 1841 , not validly publ.",Potentilla,,,
+wfo-0000747509,urn:lsid:ipni.org:names:77395056-1,Rutaceae,Citrus × koozi,(Siebold ex Tanaka) Tanaka,Mem. Tanaka Citrus Exp. Sta. 1(1): 32. 1927 ,Citrus,,,(Siebold ex Tanaka)
+wfo-1000060400,urn:lsid:ipni.org:names:77395057-1,Rosaceae,Chabertia × sepium,Gand.,Tab. Rhodo. Eur. n.° 3064. 1881 ,Chabertia,,,
+wfo-1000059935,urn:lsid:ipni.org:names:77395060-1,Rosaceae,Rosa × mitescens,Kupcsok ex R.Keller,Bul. Grad. Bot. Univ. Cluj 6: 50. 1926 ,Rosa,,,
+wfo-0001005077,urn:lsid:ipni.org:names:77395063-1,Rosaceae,Geum × billietii,Gillot ex Malinv.,Rev. Sci. Bourbonnais Centr. France 1894: 136. ,Geum,,,
+wfo-0000991765,urn:lsid:ipni.org:names:77395068-1,Rosaceae,Potentilla × vilmoriniana,Hand.-Mazz.,Acta Horti Gothob. 13: 300. 1940 ,Potentilla,,,
+wfo-0001013388,urn:lsid:ipni.org:names:77395069-1,Rosaceae,Rubus × schummelii,Sabr.,"Fl. Steiermark 1: 784. 1909 , nom. illeg. homonym. post.",Rubus,,,
+wfo-1000060404,urn:lsid:ipni.org:names:77395073-1,Rosaceae,Chamaemespilus × ambigua,(Decne.) Gren.,Fl. Jurass. 3: 82. 1875 ,Chamaemespilus,,Rosaceae Aria ambigua Decne.,(Decne.)
+wfo-1200094249,urn:lsid:ipni.org:names:77395080-1,Berberidaceae,Berberis × toluacensis,T.Moore & Mast.,Gard. Chron. 1869: 739. ,Berberis,,,
+wfo-0001009081,urn:lsid:ipni.org:names:77395083-1,Rosaceae,Rosa × geminata,Boreau,"Fl. Centre France, éd. 2. 2: 173. 1849 , nom. illeg. homonym. post.",Rosa,,,
+wfo-1000060183,urn:lsid:ipni.org:names:77395084-1,Rosaceae,Rubus × hemimacrophyllus,E.H.L.Krause,Krit. Fl. Schlesw.-Holst. 2(1): 84. 1889 ,Rubus,,,
+wfo-1000060681,urn:lsid:ipni.org:names:77395089-1,Rosaceae,Prunus × pollardii,(J.M.Ward ex Ingram) Rehder,Man. Cult. Trees ed. 2: 463. 1940 ,Prunus,,,(J.M.Ward ex Ingram)
+wfo-1000059825,urn:lsid:ipni.org:names:77395090-1,Rosaceae,Rosa × cimelium,Kmet ex Heinr.Braun,Sched. Fl. Exs. Austro-Hung. 7: 10. 1896 ,Rosa,,,
+wfo-0000630326,urn:lsid:ipni.org:names:77395096-1,Lythraceae,Cuphea × pubiflora,Bouché,"Sitzungsber. Ges. Naturf. Freunde Berlin 1870: 61. , nom. illeg. homonym. post.",Cuphea,,,
+wfo-1000070541,urn:lsid:ipni.org:names:77395101-1,Saxifragaceae,Heuchera × rosea,L.Möller,Deutsche Gärtn.-Zeitung 1893: 2. ,Heuchera,,,
+wfo-1000059895,urn:lsid:ipni.org:names:77395105-1,Rosaceae,Rosa × hyana,Préaub. & Bouvet,Obs. Pl. Crit. Ouest 28: 79. 1899 ,Rosa,,,
+wfo-1000059849,urn:lsid:ipni.org:names:77395106-1,Rosaceae,Rosa × devoniensis,Paxton & Lindl.,Gard. Chron. 1841: 343. ,Rosa,,,
+wfo-0001133206,urn:lsid:ipni.org:names:77395109-1,Rutaceae,Citrus × clementina,Yu.Tanaka,Sp. Problem Citrus 133. 1954 ,Citrus,,,
+wfo-0001017595,urn:lsid:ipni.org:names:77395113-1,Rosaceae,Crataegus × apiifolia,Rchb.,"Fl. Germ. Excurs. 2: 629. 1832 , nom. illeg. homonym. post.",Crataegus,,,
+wfo-1000059967,urn:lsid:ipni.org:names:77395114-1,Rosaceae,Rosa × pseudoalpestris,Kupcsok ex R.Keller,Bul. Grad. Bot. Univ. Cluj 6: 38. 1926 ,Rosa,,,
+wfo-1200126332,urn:lsid:ipni.org:names:77395115-1,Crassulaceae,× Pachyveria glauca,F.Haage & E.Schmidt,"Haupt-Verz. Samen Pfl., Erfurt 1926: 19. ",Pachyveria,,,
+wfo-1000059883,urn:lsid:ipni.org:names:77395116-1,Rosaceae,Rosa × gravereauxiana,Duffort,Bull. Vulg. Sci. Nat. 4: 26. 1906 ,Rosa,,,
+wfo-0001009179,urn:lsid:ipni.org:names:77395117-1,Rosaceae,Rosa × marginata,Reut.,Cat. Pl. Vasc. Genève éd. 2: 66. 1861 ,Rosa,,,
+wfo-0001007805,urn:lsid:ipni.org:names:77395120-1,Rosaceae,Rosa × gentilis,Déségl.,Bull. Soc. Roy. Bot. Belgique 15: 264. 1876 ,Rosa,,,
+wfo-0001004597,urn:lsid:ipni.org:names:77395121-1,Rosaceae,Potentilla × waisbeckeri,Borbás,Jahresb. Oberrealsch. Leibnitz 10. 1900 ,Potentilla,,,
+wfo-0001007337,urn:lsid:ipni.org:names:77395124-1,Rosaceae,Potentilla × prostrata,Gremli,Excursionsfl. Schweiz 171. 1874 ,Potentilla,,,
+wfo-1200035457,urn:lsid:ipni.org:names:77395125-1,Buddlejaceae,Buddleja × hybrida,Farquhar ex Rehder,Man. Cult. Trees 768. 1927 ,Buddleja,,,
+wfo-1000091803,urn:lsid:ipni.org:names:77395127-1,Ranunculaceae,Clematis × venosa,(Krampen) C.K.Schneid.,"Ill. Handb. Laubholzk. 1: 286. 1905 , nom. illeg. homonym. post.",Clematis,,,(Krampen)
+wfo-1000060588,urn:lsid:ipni.org:names:77395133-1,Rosaceae,Potentilla × buschakii,Błocki ex Zimmeter,Bot.-Kalend. 1887. 71. 1886 ,Potentilla,,,
+wfo-1000059993,urn:lsid:ipni.org:names:77395134-1,Rosaceae,Rosa × scaphusiensis,Christ ex Gremli,Excursionsfl. Schweiz 175. 1881 ,Rosa,,,
+wfo-1000060112,urn:lsid:ipni.org:names:77395136-1,Rosaceae,Rubus × cyclophyllus,Lindeb.,"Exsicc. (Herb. Rub. Scand.) 2: 48. 1885 , nom. illeg. homonym. post.",Rubus,,,
+wfo-1000091838,urn:lsid:ipni.org:names:77395139-1,Ranunculaceae,Batrachium × bachii,Wirtg.,Verh. Naturhist. Vereines Preuss. Rheinl. Westphalens 2: 8. 1846 ,Batrachium,,,
+wfo-0000669496,urn:lsid:ipni.org:names:77395149-1,Onagraceae,Epilobium × obscurum,Schreb.,"Spic. Fl. Lips. 147. 1771 , nom. illeg. homonym. post.",Epilobium,,,
+wfo-1000060334,urn:lsid:ipni.org:names:77395151-1,Rosaceae,Rubus × subvelutinus,Boulay & Ripart,Assoc. Rub. 1: 24. 1877 ,Rubus,,,
+wfo-1000060637,urn:lsid:ipni.org:names:77395154-1,Rosaceae,Potentilla × riddensis,Besse ex F.T.Wolf,"Syn. Mitteleur. Fl. 6(1): 862. 1905 , nom. nud.",Potentilla,,,
+wfo-1000060272,urn:lsid:ipni.org:names:77395155-1,Rosaceae,Rubus × polyadenes,Boulay & Pierrat,Assoc. Rub. 1: 52. 1877 ,Rubus,,,
+wfo-1000070679,urn:lsid:ipni.org:names:77395157-1,Onagraceae,Epilobium × purvisianum,Lees ex Cheetham,Naturalist (Maund & Hall) 1938: 164. ,Epilobium,,,
+wfo-1000059867,urn:lsid:ipni.org:names:77395160-1,Rosaceae,Rosa × fraseriana,Loudon,Loudon's Hort. Brit. 211. 1830 ,Rosa,,,
+wfo-1000091801,urn:lsid:ipni.org:names:77395170-1,Ranunculaceae,Clematis × henryi,And.-Henry ex T.Moore & Jackman,Clematis 106. 1872 ,Clematis,,,
+wfo-0000610089,urn:lsid:ipni.org:names:77395171-1,Ranunculaceae,Clematis × hybrida,Voss,"Vilm. Blumengärtn., ed. 3. 1: 7. 1894 ",Clematis,,,
+wfo-0000698515,urn:lsid:ipni.org:names:77395172-1,Gentianaceae,Gentiana × rubra,Clairv.,Man. Herbor. Suisse 73. 1811 ,Gentiana,,,
+wfo-0000610850,urn:lsid:ipni.org:names:77395173-1,Ranunculaceae,Clematis × vedrariensis,J.Vilm.,"J. Soc. Natl. Hort. France sér. 4, 15: 385. 1914 ",Clematis,,,
+wfo-0000992447,urn:lsid:ipni.org:names:77395183-1,Rosaceae,Rubus × imitabilis,Frid.,Bot. Tidsskr. 16: 111. 1887 ,Rubus,,,
+wfo-0000748298,urn:lsid:ipni.org:names:77395184-1,Rutaceae,Citrus × acida,Roxb.,"Fl. Ind., ed. 1832. 3: 390. 1832 ",Citrus,,,
+wfo-0001002530,urn:lsid:ipni.org:names:77395187-1,Rosaceae,Rosa × uncinelloides,Puget ex Heinr.Braun,Verh. K. K. Zool.-Bot. Ges. Wien 35: 107. 1886 ,Rosa,,,
+wfo-1000094620,urn:lsid:ipni.org:names:77395191-1,Hemerocallidaceae,Hemerocallis × luteola,Unknown,Gard. Ill. 25: 346. 1904 ,Hemerocallis,,,
+wfo-1000060675,urn:lsid:ipni.org:names:77395197-1,Rosaceae,Prunus × introrsa,Yagi,Nihon Sakura Shū 264. 1973 ,Prunus,,,
+wfo-0000989742,urn:lsid:ipni.org:names:77395201-1,Rosaceae,Potentilla × diffusa,Rchb.,"Fl. Germ. Excurs. 2: 870. 1832 , nom. illeg. homonym. post.",Potentilla,,,
+wfo-0000680240,urn:lsid:ipni.org:names:77395203-1,Escalloniaceae,Escallonia × exoniensis,G.Nicholson,Hand-List Trees Shrubs 1[Polypet.]: 227. 1894 ,Escallonia,,,
+wfo-0000483787,urn:lsid:ipni.org:names:77395204-1,Primulaceae,Primula × henryi,T.Moore & Mast.,"Gard. Chron. n.s., 15: 404. 1881 ",Primula,,,
+wfo-1000061491,urn:lsid:ipni.org:names:77395205-1,Onagraceae,Fuchsia × reflexa,Bosse,"Vollst. Handb. Bl.-Gärtn., ed. 2. 2: 118. 1841 ",Fuchsia,,,
+wfo-1200126337,urn:lsid:ipni.org:names:77395208-1,Aceraceae,Acer × neglectum,Hoffmanns.,Preiss-Verzeichn. Pflanzen. ed. 8(Nachtr.): 38. 1837 ,Acer,,,
+wfo-0001005250,urn:lsid:ipni.org:names:77395209-1,Rosaceae,Potentilla × arenicola,Błocki,"Allg. Bot. Z. Syst. 2: 5. 1896 , nom. nud.",Potentilla,,,
+wfo-0001013595,urn:lsid:ipni.org:names:77395211-1,Rosaceae,Malus × arnoldiana,(Rehder) Rehder,J. Arnold Arbor. 2: 57. 1920 ,Malus,,Rosaceae Malus floribunda Siebold ex Van Houtte var. arnoldiana Rehder,(Rehder)
+wfo-1000060076,urn:lsid:ipni.org:names:77395212-1,Rosaceae,Rubus × benzonianus,E.H.L.Krause,Krit. Fl. Schlesw.-Holst. 2(1): 85. 1889 ,Rubus,,,
+wfo-1000094622,urn:lsid:ipni.org:names:77395213-1,Passifloraceae,Passiflora × campbellii,B.S.Williams,Choice Stove Greenhouse Fl. Pl. ed. 3: 317. 1883 ,Passiflora,,,
+wfo-1000094623,urn:lsid:ipni.org:names:77395214-1,Iridaceae,Iris × barbata,Kuntze,Trudy Imp. S.-Peterburgsk. Bot. Sada 10: 242. 1887 ,Iris,,,
+wfo-1200126338,urn:lsid:ipni.org:names:77395219-1,Liliaceae,Lilium × venustum,F.Neumann,Allg. Deutsche Gart.-Zeitung 18: 157. 1840 ,Lilium,,,
+wfo-1000060379,urn:lsid:ipni.org:names:77395221-1,Rosaceae,Aronia × heterophylla,Zabel,"Handb. Laubholzben. 193. 1903 , nom. illeg. superfl.",Aronia,,,
+wfo-1200126339,urn:lsid:ipni.org:names:77395222-1,Rhamnaceae,Ceanothus × arnouldii,Carrière,Rev. Hort. (Paris) 44: 380. 1872 ,Ceanothus,,,
+wfo-1000094625,urn:lsid:ipni.org:names:77395223-1,Aceraceae,Acer × sericeum,Schwer.,Mitt. Deutsch. Dendrol. Ges. 3: 49. 1894 ,Acer,,,
+wfo-1000091833,urn:lsid:ipni.org:names:77395226-1,Ranunculaceae,Delphinium × phoeniceum,Rinz & J.Rinz,"Blumen-Zeitung 13: 354. 1840 , nom. illeg. superfl.",Delphinium,,,
+wfo-1200126341,urn:lsid:ipni.org:names:77395228-1,Ranunculaceae,Clematis × tunbridgensis,Dean,Gardener (Edinburgh) 2: 359. 1867 ,Clematis,,,
+wfo-1000060296,urn:lsid:ipni.org:names:77395229-1,Rosaceae,Rubus × reniformis,Boulay & Pierrat,Assoc. Rub. 6: 20. 1882 ,Rubus,,,
+wfo-0001007996,urn:lsid:ipni.org:names:77395232-1,Rosaceae,Potentilla × geranioides,Schleich. ex Zimmeter,Jahresber. K. K. Staats-Ober-Realschule Steyr 14: 26. 1884 ,Potentilla,,,
+wfo-0001008756,urn:lsid:ipni.org:names:77395233-1,Rosaceae,Rosa × pomponia,Rössig,Oekon.-Bot. Beschr. Rosen 2: 53. 1803 ,Rosa,,,
+wfo-0001009007,urn:lsid:ipni.org:names:77395237-1,Rosaceae,Potentilla × aurulenta,Ruhmer,Jahrb. Königl. Bot. Gart. Berlin 1: 230. 1881 ,Potentilla,,,
+wfo-1000094628,urn:lsid:ipni.org:names:77395239-1,Ranunculaceae,Ranunculus × grovesiana,Druce,"List Brit. Pl. 2. 1908 , nom. nud.",Ranunculus,,,
+wfo-1000060074,urn:lsid:ipni.org:names:77395247-1,Rosaceae,Rubus × bellus,Sabr.,"Fl. Steiermark 1: 788. 1909 , nom. illeg. homonym. post.",Rubus,,,
+wfo-1200096191,urn:lsid:ipni.org:names:77395254-1,Geraniaceae,Geranium × purpureum,Andrews,"Geraniums 1: [s.p.]. 1807 , nom. illeg. homonym. post.",Geranium,,,
+wfo-0000994470,urn:lsid:ipni.org:names:77395255-1,Rosaceae,Rubus × modestus,Ripart ex Boulay,Assoc. Rub. 1: 56. 1877 ,Rubus,,,
+wfo-0000745219,urn:lsid:ipni.org:names:77395257-1,Cistaceae,Helianthemum × piliferum,J.F.Gmel. ex Rchb.,Fl. Germ. Excurs. 2: 714. 1832 ,Helianthemum,,,
+wfo-0001013581,urn:lsid:ipni.org:names:77395259-1,Rosaceae,Rubus × macrophylloides,Posp.,Fl. Oesterr. Küstenl. 2(1): 278. 1898 ,Rubus,,,
+wfo-0001003717,urn:lsid:ipni.org:names:77395262-1,Rosaceae,Rosa × semperflorens,Loisel. & Michel,"Traité Arbr. Arbust., nouv. éd. 7: t. 9. 1819 , nom. illeg. homonym. post.",Rosa,,,
+wfo-1000060153,urn:lsid:ipni.org:names:77395264-1,Rosaceae,Rubus × extensifolius,Boulay & Ripart,Assoc. Rub. 1: 30. 1877 ,Rubus,,,
+wfo-0001007801,urn:lsid:ipni.org:names:77395265-1,Rosaceae,Rosa × wiegmannii,M.Schulze,Mitt. Geogr. Ges. (Thüringen) Jena 5(4): 44. 1887 ,Rosa,,,
+wfo-1200126342,urn:lsid:ipni.org:names:77395268-1,Rutaceae,Citrus × nana,Reider,"Ann. Blumisterei Gartenbesitz. 1: 38. 1825 , nom. illeg. superfl.",Citrus,,,
+wfo-1000062111,urn:lsid:ipni.org:names:77395269-1,Geraniaceae,Pelargonium × broadleyae,(Andrews) Colvill ex G.Don,Gen. Hist. 1: 740. 1831 ,Pelargonium,,Geraniaceae Geranium × broadleyae Andrews,(Andrews)
+wfo-0000999973,urn:lsid:ipni.org:names:77395271-1,Rosaceae,Rubus × rhomboidalis,Sudre ex Bouvet,Bull. Soc. Études Sci. Angers 36: 86. 1907 ,Rubus,,,
+wfo-1000094632,urn:lsid:ipni.org:names:77395272-1,Violaceae,Viola × luxuriosa,F.Maek. & T.Hashim.,"Violets of Japan 9. 1963 , nom. nud.",Viola,,,
+wfo-1000094633,urn:lsid:ipni.org:names:77395274-1,Illecebraceae,Scleranthus × polycarpoides,H.Lév.,Bull. Géogr. Bot. 25: 55. 1917 ,Scleranthus,,,
+wfo-1000052363,urn:lsid:ipni.org:names:77395275-1,Sarraceniaceae,Sarracenia × illustrata,W.Bull,Nursery Cat. (William Bull) 199: 15. 1884 ,Sarracenia,,,
+wfo-1200063602,urn:lsid:ipni.org:names:77395278-1,Ulmaceae,Ulmus × dampieri,(G.Kirchn.) Jühlke,Hamburger Garten- Blumenzeitung 33: 485. 1877 ,Ulmus,,,(G.Kirchn.)
+wfo-0000493531,urn:lsid:ipni.org:names:77395280-1,Sarraceniaceae,Sarracenia × williamsii,T.Moore & Mast.,"Gard. Chron. n.s., 2: 49. 1874 ",Sarracenia,,,
+wfo-0000988771,urn:lsid:ipni.org:names:77395282-1,Rosaceae,Spiraea × angustifolia,Dippel,"Handb. Laubholzk. 3: 487. 1893 , not validly publ.",Spiraea,,,
+wfo-0000419692,urn:lsid:ipni.org:names:77395286-1,Scrophulariaceae,Verbascum × vodnense,Bornm.,Bot. Jahrb. Syst. 61: 140. 1927 ,Verbascum,,,
+wfo-1000094636,urn:lsid:ipni.org:names:77395291-1,Violaceae,Viola × suzukii,F.Maek. & T.Hashim.,"Violets of Japan 6. 1963 , nom. nud.",Viola,,,
+wfo-1200126344,urn:lsid:ipni.org:names:77395293-1,Tiliaceae,Tilia × platyphylla,Gray,"Nat. Arr. Brit. Pl. 2: 637. 1822 , nom. illeg. superfl.",Tilia,,,
+wfo-1200126345,urn:lsid:ipni.org:names:77395298-1,Rutaceae,Skimmia × rogersii,Mast.,"Gard. Chron. ser. 3, 5: 553. 1889 ",Skimmia,,,
+wfo-1000048394,urn:lsid:ipni.org:names:77395303-1,Scrophulariaceae,Verbascum × longicrure,Borbás,Balaton Tavának Növényföldr. 118. 1900 ,Verbascum,,,
+wfo-0000988284,urn:lsid:ipni.org:names:77395309-1,Rosaceae,Spiraea × alpina,Zabel,"Strauch. Spiräen 37. 1893 , nom. illeg. homonym. post.",Spiraea,,,
+wfo-1200126347,urn:lsid:ipni.org:names:77395310-1,Saxifragaceae,Saxifraga × clarionii,(Sternb.) A.W.Hill,Index Kew. Suppl. 9: 252. 1938 ,Saxifraga,,Saxifragaceae Saxifraga clarioni Sternb.,(Sternb.)
+wfo-1000070479,urn:lsid:ipni.org:names:77395314-1,Saxifragaceae,Saxifraga × bursiculata,E.H.Jenkins,"Gard. Chron. ser. 3, 49: 141. 1911 ",Saxifraga,,,
+wfo-0000988685,urn:lsid:ipni.org:names:77395316-1,Rosaceae,Spiraea × nobleana,Zabel,"Strauch. Spiräen 93. 1893 , nom. illeg. homonym. post.",Spiraea,,,
+wfo-1000052359,urn:lsid:ipni.org:names:77395319-1,Sarraceniaceae,Sarracenia × tolliana,Rob.,"Garden (London, 1871-1927) 24: 447. 1883 ",Sarracenia,,,
+wfo-1200126348,urn:lsid:ipni.org:names:77395321-1,Crassulaceae,Sedum × bergeri,P.Fourn.,"Quatre Fl. France 464. 1936 , nom. illeg. homonym. post.",Sedum,,,
+wfo-0001420470,urn:lsid:ipni.org:names:77395327-1,Violaceae,Viola × chinoi,F.Maek.,"Violets of Japan 6. 1963 , nom. nud.",Viola,,,
+wfo-1000094639,urn:lsid:ipni.org:names:77395332-1,Violaceae,Viola × pragensis,Wiesb.,Oesterr. Bot. Z. 34: 184. 1884 ,Viola,,,
+wfo-1000052362,urn:lsid:ipni.org:names:77395333-1,Sarraceniaceae,Sarracenia × stevensii,Rob.,"Garden (London, 1871-1927) 5: 494. 1874 ",Sarracenia,,,
+wfo-0001001100,urn:lsid:ipni.org:names:77395334-1,Rosaceae,Rubus × winterianus,Erdner,Mitt. Bayer. Bot. Ges. 2: 306. 1911 ,Rubus,,,
+wfo-0000735257,urn:lsid:ipni.org:names:77395336-1,Ulmaceae,Ulmus × pendula,W.Mast.,"Hort. Duroverni 66. 1831 , nom. illeg. homonym. post.",Ulmus,,,
+wfo-0000423866,urn:lsid:ipni.org:names:77395337-1,Violaceae,Viola × gerstlaueri,Gross,Repert. Spec. Nov. Regni Veg. 17: 37. 1921 ,Viola,,,
+wfo-0000991847,urn:lsid:ipni.org:names:77395338-1,Rosaceae,Spiraea × californica,Zabel,"Strauch. Spiräen 102. 1893 , nom. illeg. homonym. post.",Spiraea,,,
+wfo-1200126349,urn:lsid:ipni.org:names:77395339-1,Violaceae,Viola × kiliensis,(E.H.L.Krause) E.H.L.Krause,Ber. Deutsch. Bot. Ges. 9: 128. 1891 ,Viola,,Violaceae Viola flavicornis Sm. nothof. kiliensis E.H.L.Krause,(E.H.L.Krause)
+wfo-0000988767,urn:lsid:ipni.org:names:77395340-1,Rosaceae,Spiraea × speciosa,Dippel,Handb. Laubholzk. 3: 487. 1893 ,Spiraea,,,
+wfo-1000060354,urn:lsid:ipni.org:names:77395343-1,Rosaceae,Rubus × velutinus,Pourr. ex Crép.,"Prodr. Fl. Hispan. 3: 221. 1874 , nom. illeg. homonym. post.",Rubus,,,
+wfo-1000094642,urn:lsid:ipni.org:names:77395344-1,Violaceae,Viola × erdneri,Gerstl.,Ber. Bayer. Bot. Ges. 26: 29. 1943 ,Viola,,,
+wfo-1000094643,urn:lsid:ipni.org:names:77395345-1,Violaceae,Viola × kuetzingii,W.Becker,Deutsche Bot. Monatsschr. 1902: 89. ,Viola,,,
+wfo-1000059704,urn:lsid:ipni.org:names:77395348-1,Rosaceae,Rubus × vestifer,P.J.Müll. ex Boulay,Ronces vosg. 62. 1867 ,Rubus,,,
+wfo-1000094644,urn:lsid:ipni.org:names:77395351-1,Passifloraceae,Tacsonia × militaris,Mast.,"Gard. Chron. ser. 2, 26: 484. 1899 ",Tacsonia,,,
+wfo-1200035398,urn:lsid:ipni.org:names:77395352-1,Scrophulariaceae,Verbascum × commutatum,A.Kern.,"Oesterr. Bot. Z. 23: 252. 1873 , nom. illeg. homonym. post.",Verbascum,,,
+wfo-1000094645,urn:lsid:ipni.org:names:77395357-1,Illecebraceae,Scleranthus × podperae,Smejkal,Folia Fac. Sci. Natur. Univ. Purkynianae Brun. 6(4): 63. 1965 ,Scleranthus,,,
+wfo-1000094646,urn:lsid:ipni.org:names:77395358-1,Violaceae,Viola × aquisgranensis,Borbás,"Syn. Deut. Schweiz. Fl., ed. 3. 222. 1890 ",Viola,,,
+wfo-0001011337,urn:lsid:ipni.org:names:77395359-1,Rosaceae,Spiraea × ruberrima,Dippel,"Handb. Laubholzk. 3: 482. 1893 , nom. illeg. homonym. post.",Spiraea,,,
+wfo-1000094647,urn:lsid:ipni.org:names:77395364-1,Violaceae,Viola × williamsii,Wittr.,Acta Horti Berg. 2(1): 33. 1897 ,Viola,,,
+wfo-1000060370,urn:lsid:ipni.org:names:77395365-1,Rosaceae,Rubus × villosus,Mérat,"Rev. Fl. Paris. 440. 1843 , nom. illeg. homonym. post.",Rubus,,,
+wfo-1000060803,urn:lsid:ipni.org:names:77395367-1,Rosaceae,Spiraea × racemosa,R.I.Schröd.,"Gard. Chron. n.s., 18: 108. 1882 ",Spiraea,,,
+wfo-0000456963,urn:lsid:ipni.org:names:77395368-1,Tiliaceae,Tilia × praelustris,J.Wagner ex Vöröss,Acta Bot. Hung. 31: 179. 1985 ,Tilia,,,
+wfo-1000094648,urn:lsid:ipni.org:names:77395370-1,Violaceae,Viola × yachigii,F.Maek. & T.Hashim.,"Violets of Japan 6. 1963 , nom. nud.",Viola,,,
+wfo-0000988729,urn:lsid:ipni.org:names:77395371-1,Rosaceae,Spiraea × intermedia,Lemoine,"Nursery Cat. (Lemoine) 109: 26. 1888 , nom. nud.",Spiraea,,,
+wfo-0000420720,urn:lsid:ipni.org:names:77395375-1,Scrophulariaceae,Verbascum × godronii,Boros,Bot. Közlem. 22: 14. 1925 ,Verbascum,,,
+wfo-1000094649,urn:lsid:ipni.org:names:77395381-1,Violaceae,Viola × akirae,F.Maek. & T.Hashim.,"Violets of Japan 9. 1963 , nom. provis.",Viola,,,
+wfo-1000094650,urn:lsid:ipni.org:names:77395382-1,Passifloraceae,Tacsonia × taylorii,J.R.Duncan & V.C.Davies,Nursery Cat. (Duncan & Davies) 1925: xiii. ,Tacsonia,,,
+wfo-0001012845,urn:lsid:ipni.org:names:77395385-1,Rosaceae,Ulmaria × purpurea,(Maxim.) Rehder,Cycl. Amer. Hort. 4: 1879. 1902 ,Ulmaria,,Rosaceae Filipendula purpurea Maxim.,(Maxim.)
+wfo-0001000285,urn:lsid:ipni.org:names:77395386-1,Rosaceae,Rubus × virescens,Boulay & Pierrat,Assoc. Rub. 1: 54. 1877 ,Rubus,,,
+wfo-1000094651,urn:lsid:ipni.org:names:77395388-1,Violaceae,Viola × merkensteinensis,Wiesb.,Nachtr. Fl. Nieder-Oesterr. 166. 1882 ,Viola,,,
+wfo-0001018781,urn:lsid:ipni.org:names:77395391-1,Rosaceae,Spiraea × eximia,K.Koch,"Dendrologie 1: 312. 1869 , nom. illeg. homonym. post.",Spiraea,,,
+wfo-1200126356,urn:lsid:ipni.org:names:77395392-1,Tiliaceae,Tilia × pallida,(Wierzb. ex Rchb.) Simonk.,"Math. Term. Közlem. 22: 344. 1888 , nom. illeg. homonym. post.",Tilia,,,(Wierzb. ex Rchb.)
+wfo-1000094652,urn:lsid:ipni.org:names:77395393-1,Violaceae,Viola × fouilladei,W.Becker,"Beih. Bot. Centralbl., Abt. 2. 26: 282. 1910 , nom. nud.",Viola,,,
+wfo-0001006116,urn:lsid:ipni.org:names:77395397-1,Rosaceae,Sorbus × speciosa,Dippel,Handb. Laubholzk. 3: 370. 1893 ,Sorbus,,,
+wfo-1000094654,urn:lsid:ipni.org:names:77395398-1,Lamiaceae,Sideritis × celtiberica,Font Quer,"Treb. Mus. Ci. Nat. Barcelona, Sèr. Bot. 5(4): 25. 1924 ",Sideritis,,,
+wfo-1000052360,urn:lsid:ipni.org:names:77395400-1,Sarraceniaceae,Sarracenia × maddisoniana,Rob.,"Garden (London, 1871-1927) 24: 447. 1883 ",Sarracenia,,,
+wfo-0001007873,urn:lsid:ipni.org:names:77395401-1,Rosaceae,Rubus × wahlbergii,Godr.,"Mem. Soc. Roy. Sci. Nancy 1842: 16. 1843 , nom. illeg. homonym. post.",Rubus,,,
+wfo-0000988665,urn:lsid:ipni.org:names:77395406-1,Rosaceae,Spiraea × pruinosa,Zabel,Strauch. Spiräen 84. 1893 ,Spiraea,,,
+wfo-0000456494,urn:lsid:ipni.org:names:77395408-1,Passifloraceae,Tacsonia × smythiana,Mast.,"Gard. Chron. ser. 3, 12: 704. 1892 ",Tacsonia,,,
+wfo-1000060820,urn:lsid:ipni.org:names:77395409-1,Rosaceae,× Tormariosorbus intermedia,(Ehrh.) Mezhenskyj,Netraditsĭni plodoy kulʼturi 29. 2012 ,Tormariosorbus,,Rosaceae Pyrus intermedia Ehrh.,(Ehrh.)
+wfo-1200126357,urn:lsid:ipni.org:names:77395413-1,Myrsinaceae,Suttonia × montana,(Hook.f.) Engl.,Nat. Pflanzenfam. Erg. 2: 278. 1908 ,Suttonia,,Myrsinaceae Suttonia montana Hook.f.,(Hook.f.)
+wfo-1000060752,urn:lsid:ipni.org:names:77395414-1,Rosaceae,Sorbus × ambigua,(Decne.) Beck,Exsicc. (Herb. Norm.) 37: 221. 1898 ,Sorbus,,Rosaceae Aria ambigua Decne.,(Decne.)
+wfo-0000988726,urn:lsid:ipni.org:names:77395415-1,Rosaceae,Spiraea × oblongifolia,Dippel,Handb. Laubholzk. 3: 493. 1893 ,Spiraea,,,
+wfo-1000094660,urn:lsid:ipni.org:names:77395417-1,Violaceae,Viola × kurokawae,H.Hara ex F.Maek. & T.Hashim.,"Violets of Japan 6. 1963 , nom. nud.",Viola,,,
+wfo-1000094661,urn:lsid:ipni.org:names:77395419-1,Violaceae,Viola × sourekii,F.Proch.,Opera Corcontica 19: 289. 1982 ,Viola,,,
+wfo-0000988764,urn:lsid:ipni.org:names:77395423-1,Rosaceae,Spiraea × constantiae,Zabel,"Strauch. Spiräen 102. 1893 , nom. illeg. homonym. post.",Spiraea,,,
+wfo-1200126358,urn:lsid:ipni.org:names:77395424-1,Tiliaceae,Tilia × orbicularis,(Carrière) Jouin,Jardin 12: 360. 1898 ,Tilia,,,(Carrière)
+wfo-0000493545,urn:lsid:ipni.org:names:77395425-1,Sarraceniaceae,Sarracenia × brucei,R.H.Pearson,"Gard. Chron. ser. 3, 53: 357. 1913 ",Sarracenia,,,
+wfo-1000094662,urn:lsid:ipni.org:names:77395428-1,Violaceae,Viola × inouei,F.Maek. & T.Hashim.,"Violets of Japan 6. 1963 , nom. nud.",Viola,,,
+wfo-1000070555,urn:lsid:ipni.org:names:77395430-1,Saxifragaceae,Saxifraga × stricta,Farrer,Engl. Rock Gard. 2: 317. 1919 ,Saxifraga,,,
+wfo-0000498544,urn:lsid:ipni.org:names:77395431-1,Illecebraceae,Scleranthus × venustus,Rchb. ex Pant.,"Oesterr. Bot. Z. 24: 26. 1874 , nom. nud.",Scleranthus,,,
+wfo-1000052361,urn:lsid:ipni.org:names:77395433-1,Sarraceniaceae,Sarracenia × patersonii,Rob.,"Garden (London, 1871-1927) 28: 185. 1885 ",Sarracenia,,,
+wfo-1200063599,urn:lsid:ipni.org:names:77395434-1,Ulmaceae,Ulmus × pitteursii,G.Kirchn.,Arbor. Muscav. 566. 1864 ,Ulmus,,,
+wfo-0001300740,urn:lsid:ipni.org:names:77395439-1,Crassulaceae,Sempervivum × flavipilum,Hausm. ex Saut.,Flora 40: 446. 1857 ,Sempervivum,,,
+wfo-1000094664,urn:lsid:ipni.org:names:77395442-1,Illecebraceae,Scleranthus × perennoides,H.Lév.,Bull. Géogr. Bot. 25: 55. 1917 ,Scleranthus,,,
+wfo-1000094665,urn:lsid:ipni.org:names:77395443-1,Violaceae,Viola × recensita,E.G.Camus,J. Bot. (Morot) 12: 267. 1898 ,Viola,,,
+wfo-1000094666,urn:lsid:ipni.org:names:77395445-1,Violaceae,Viola × pauperfillora,F.Maek. & T.Hashim.,"Violets of Japan 6. 1963 , nom. nud.",Viola,,,
+wfo-1000094667,urn:lsid:ipni.org:names:77395446-1,Violaceae,Viola × berdaui,Zapał.,"Rozpr. Wydz. Mat.-Przyr Polsk Akad. Umiejetn., Dzial A/B, Nauki Mat-Fiz. Biol. ser. 3, 14B(54B(1)): 235. 1914 ",Viola,,,
+wfo-1200126359,urn:lsid:ipni.org:names:77395451-1,Crassulaceae,Kalanchoe cochleatum,(Lem.) B.D.Jacks.,Index Kew. ,Kalanchoe,,Crassulaceae Bryophyllum cochleatum Lem.,(Lem.)
+wfo-1200126360,urn:lsid:ipni.org:names:77395452-1,Lemnaceae,Landoltia punctata,Anon.,"Unknown Publ. , sensu auct.",Landoltia,,,
+wfo-0001070109,urn:lsid:ipni.org:names:77395469-1,Lamiaceae,Coleus forskohlii,Anon.,"Unknown Publ. , sensu auct.",Coleus,,,
+wfo-0001010125,urn:lsid:ipni.org:names:77395473-1,Rosaceae,Prunus virgata,Siebold,"Exsicc. (Syn. Fil.) , not validly publ.",Prunus,,,
+wfo-1200126362,urn:lsid:ipni.org:names:77395481-1,Bombacaceae,Pachira quinata,Anon.,"Unknown Publ. , sensu auct.",Pachira,,,
+wfo-1000094671,urn:lsid:ipni.org:names:77395487-1,Liliaceae,Fritillaria schirvanica,Sonay & Balos,Int. J. Nat. Life Sci. 10(2): 28. 2026 [9 May 2026] ,Fritillaria,,,
+wfo-1000094672,urn:lsid:ipni.org:names:77395488-1,Lamiaceae,Thorncroftia attwoodii,K.Balkwill,S. African J. Bot. 196: 2. 2026 [30 May 2026] ,Thorncroftia,,,
+wfo-1000094673,urn:lsid:ipni.org:names:77395489-1,Liliaceae,Fritillaria serapiae,"Sonay, Balos, Yıldırım & Tekşen",Int. J. Nat. Life Sci. 10(2): 36. 2026 [24 Jun 2026] ,Fritillaria,,,
+wfo-1000094674,urn:lsid:ipni.org:names:77395490-1,Liliaceae,Fritillaria bercemiae,Sonay & Balos,Int. J. Nat. Life Sci. 10(2): 19. 2026 [18 Apr 2026] ,Fritillaria,,,
+wfo-1000094675,urn:lsid:ipni.org:names:77395492-1,Alliaceae,Allium aralii,"Balos, Köse & Sonay",Plants 15(10)-1574: 3. 2026 [21 May 2026] ,Allium,,,
+wfo-1000094676,urn:lsid:ipni.org:names:77395493-1,Alliaceae,Allium kazim-kosei,Köse & Balos,Life (Basel) 16(5)-852: 5. 2026 [20 May 2026] ,Allium,,,
+wfo-1000094678,urn:lsid:ipni.org:names:77395499-1,Apiaceae,Bilacunaria konyaensis,A.Duran & Lyskov,Phytotaxa 770(2): 82. 2026 [19 Aug 2026] ,Bilacunaria,,,
+wfo-1000094679,urn:lsid:ipni.org:names:77395500-1,Verbenaceae,Stachytarpheta pradoi,P.H.Cardoso & Salimena,Phytotaxa 770(2): 151. 2026 [19 Aug 2026] ,Stachytarpheta,,,
+wfo-1000094680,urn:lsid:ipni.org:names:77395503-1,Liliaceae,Tulipa subgen. Eduardoregelia,"(Popov) B.D.Wilson, Shalpykov, Christenh. & S.F.Brock.",Amer. J. Bot. [early view]: [7 of 34]. 2026 [4 Aug 2026] ,Tulipa,,Liliaceae Eduardoregelia Popov,(Popov)
+wfo-1200126364,urn:lsid:ipni.org:names:77395516-1,Oleaceae,Syringa saugeana,hort. ex Poit. & Vilm.,"Bon Jard. 1830: 551. , as 'L. Saugeiana'",Syringa,,,
+wfo-1000094691,urn:lsid:ipni.org:names:77395523-1,Euphorbiaceae,Jatropha livingstonei,"Seema, Senthilk. & V.Bhatia","Feddes Repert. 137(3)-e70150: 10. 2026 [17 Aug 2026] , as 'livingstonii'",Jatropha,Termination of specific epithet amended as per Art. 60.8. ICN (2025).,,
+wfo-1000094693,urn:lsid:ipni.org:names:77395528-1,Euphorbiaceae,Jatropha narasimhanii,"Seema, Senthilk. & V.Bhatia",Feddes Repert. 137(3)-e70150: 11. 2026 [17 Aug 2026] ,Jatropha,,,
+wfo-1000094694,urn:lsid:ipni.org:names:77395529-1,Euphorbiaceae,Jatropha umashaankeri,"Seema, Senthilk. & V.Bhatia","Feddes Repert. 137(3)-e70150: 13. 2026 [17 Aug 2026] , as 'umashaankerii'",Jatropha,Termination of specific epithet amended as per Art. 60.8. ICN (2025).,,
+wfo-1000094695,urn:lsid:ipni.org:names:77395531-1,Rosaceae,Prunus holosericea,(Batalin) B.H.Wu & D.F.Cui,China Mother Gard. Twenty-First Cent. 5: 212. 2023 ,Prunus,,Rosaceae Prunus armeniaca L. var. holosericea Batalin,(Batalin)
+wfo-1200126222,urn:lsid:ipni.org:names:77395532-1,Rosaceae,Prunus mume var. pubicaulina,(C.Z.Qiao & H.M.Shen) D.F.Cui,China Mother Gard. Twenty-First Cent. 5: 216. 2023 ,Prunus,,Rosaceae Armeniaca mume K.Koch var. pubicaulina C.Z.Qiao & H.M.Shen,(C.Z.Qiao & H.M.Shen)
+wfo-1000094696,urn:lsid:ipni.org:names:77395533-1,Rosaceae,Prunus subsect. Hypadenium,Koehne,"Pl. Wilson. 1(2): 227, 244. 1912 ",Prunus,,,
+wfo-1200126366,urn:lsid:ipni.org:names:77395534-1,Rosaceae,Prunus sect. Hypadenium,(Koehne) B.H.Wu,China Mother Gard. Twenty-First Cent. 5: 267. 2023 ,Prunus,,Rosaceae Prunus subsect. Hypadenium Koehne,(Koehne)
+wfo-1000094699,urn:lsid:ipni.org:names:77395537-1,Rosaceae,Prunus sect. Maddenia,(Hook.f. & Thomson) D.F.Cui,China Mother Gard. Twenty-First Cent. 5: 281. 2023 ,Prunus,,Rosaceae Maddenia Hook.f. & Thomson,(Hook.f. & Thomson)
+wfo-1000094700,urn:lsid:ipni.org:names:77395538-1,Lamiaceae,Stachys boluensis,"Dirmenci, Akçiçek & Ö.Güner",Phytotaxa 770(3): 189. 2026 [21 Aug 2026] ,Stachys,,,
+wfo-1000094704,urn:lsid:ipni.org:names:77395660-1,Primulaceae,Primula pingwuensis,"Y.Hu, J.L.Gu & S.Y.Zhang",PhytoKeys 278: 254. 2026 [25 Aug 2026] ,Primula,,,
+wfo-1000094706,urn:lsid:ipni.org:names:77395662-1,Lythraceae,Punica lutea,hort. ex Poit. & Vilm.,"Bon Jard. 740. 1829 [Jul 1829] , as 'luteum'",Punica,Termination of specific epithet amended as per Art. 23.5. ICN (2025).,,
+wfo-1200126367,urn:lsid:ipni.org:names:77395664-1,Rosaceae,Sorbus sambucifolia,hort. ex Poit. & Vilm.,Bon Jard. 755. 1829 [Jul 1829] ,Sorbus,,,
+wfo-1200126370,urn:lsid:ipni.org:names:77395667-1,Celastraceae,Euonymus nepalensis,hort. ex Poit. & Vilm.,Bon Jard. 834. 1829 [Jul 1829] ,Euonymus,,,
+wfo-1200126371,urn:lsid:ipni.org:names:77395668-1,Euphorbiaceae,Euphorbia breonii,hort. ex Poit. & Vilm.,"Bon Jard. 842. 1829 [Jul 1829] , as 'Breoni'",Euphorbia,Termination of specific epithet amended as per Art. 60.8. ICN (2025).,,
+wfo-1200126372,urn:lsid:ipni.org:names:77395669-1,Moraceae,Morus sinensis,Poit. & Vilm.,Bon Jard. 849. 1829 [Jul 1829] ,Morus,,,
+wfo-1200126373,urn:lsid:ipni.org:names:77395670-1,Moraceae,Morus lucida,Poit. & Vilm.,Bon Jard. 849. 1829 [Jul 1829] ,Morus,,,
+wfo-1200126374,urn:lsid:ipni.org:names:77395671-1,Ulmaceae,Celtis mississippiensis,Bosc ex Poit. & Vilm.,"Bon Jard. 854. 1829 [Jul 1829] , as 'mississipiensis'",Celtis,Epithet corrected as per Art.60.1 ICN (2025).,,
+wfo-1000094708,urn:lsid:ipni.org:names:77395672-1,Corylaceae,Corylus byzantina,Poit.,Bon Jard. 870. 1829 [Jul 1829] ,Corylus,,,
+wfo-1200126377,urn:lsid:ipni.org:names:77395677-1,Amaryllidaceae,Amaryllis longiscapa,Poit.,"Bon Jard. lxx, 492. 1830 ",Amaryllis,,,
+wfo-1200126378,urn:lsid:ipni.org:names:77395678-1,Geraniaceae,Pelargonium × insigne,Poit. & Vilm.,Bon Jard. lxxiii. 1830 ,Pelargonium,,,
+wfo-1200126379,urn:lsid:ipni.org:names:77395679-1,Celastraceae,Euonymus sinensis,Poit. & Vilm.,Bon Jard. lxxviii. 1830 ,Euonymus,,,
+wfo-1000094710,urn:lsid:ipni.org:names:77395681-1,Scrophulariaceae,Antirrhinum fulgens,Poit. & Vilm.,Bon Jard. 514. 1829 [Jul 1829] ,Antirrhinum,,,
+wfo-1200126381,urn:lsid:ipni.org:names:77395682-1,Tiliaceae,Tilia laciniata,hort. ex Poit. & Vilm.,Bon Jard. 702. 1829 [Jul 1829] ,Tilia,,,
+wfo-0001402727,urn:lsid:ipni.org:names:77395683-1,Ranunculaceae,Ranunculus bullatus var. cytheraeus,Halácsy,Verh. K. K. Zool.-Bot. Ges. Wien 54: 483. 1904 ,Ranunculus,,,
+wfo-1200126382,urn:lsid:ipni.org:names:77395685-1,Corylaceae,Corylus purpurea,hort. ex Poit. & Vilm.,Bon Jard. 870. 1829 [Jul 1829] ,Corylus,,,
+wfo-1000094711,urn:lsid:ipni.org:names:77395687-1,Saururaceae,Anemia subgen. Coptophyllum,(Gardner) C.Presl,Suppl. Tent. Pterid. 79. 1845 [late 1845] ,Anemia,,Schizaeaceae Coptophyllum Gardner,(Gardner)
+wfo-1000094712,urn:lsid:ipni.org:names:77395688-1,Saururaceae,Anemia subgen. Euanemia,C.Presl,Suppl. Tent. Pterid. 81. 1845 [late 1845] ,Anemia,nom. inval.    Contrary to Art. 21.3. ICN (2025). The epithet in the name of a subdivision of a genus is not to be formed from the name of the genus to which it belongs by adding the prefix Eu- .,,
+wfo-1000094713,urn:lsid:ipni.org:names:77395689-1,Saururaceae,Anemia subgen. Trochopteris,(Gardner) J.W.Sturm,Fl. Bras. 1(2): 187. 1859 [15 Jul 1859] ,Anemia,,Schizaeaceae Trochopteris Gardner,(Gardner)
+wfo-1000094714,urn:lsid:ipni.org:names:77395691-1,Saururaceae,Anemia sect. Oblongifoliae,Prantl,Unters. Morph. Gefasskrypt. 2: 87. 1881 [Oct 1881] ,Anemia,,,
+wfo-1000094715,urn:lsid:ipni.org:names:77395692-1,Saururaceae,Anemia sect. Phyllitides,Prantl,Unters. Morph. Gefasskrypt. 2: 88. 1881 [Oct 1881] ,Anemia,,,
+wfo-1000094716,urn:lsid:ipni.org:names:77395693-1,Saururaceae,Anemia sect. Adetostoma,Mickel,Iowa State J. Sci. 36(4): 404. 1962 [15 May 1962] ,Anemia,,,
+wfo-1200126383,urn:lsid:ipni.org:names:77395694-1,Saururaceae,Anemia sect. Dregeana,Prantl,Unters. Morph. Gefasskrypt. 2: 88. 1881 [Oct 1881] ,Anemia,,,
+wfo-1200126384,urn:lsid:ipni.org:names:77395695-1,Saururaceae,Anemia sect. Coptophyllum,(Gardner) Mickel,Iowa State J. Sci. 36(4): 400. 1962 [15 May 1962] ,Anemia,,Schizaeaceae Coptophyllum Gardner,(Gardner)
+wfo-1000094717,urn:lsid:ipni.org:names:77395696-1,Saururaceae,Anemia sect. Millefoliae,Prantl,Unters. Morph. Gefasskrypt. 2: 87. 1881 [Oct 1881] ,Anemia,,,
+wfo-1000094718,urn:lsid:ipni.org:names:77395697-1,Saururaceae,Anemia sect. Pachypoda,Mickel,Iowa State J. Sci. 36(4): 397. 1962 [15 May 1962] ,Anemia,,,
+wfo-1200126385,urn:lsid:ipni.org:names:77395698-1,Saururaceae,Anemia sect. Trochopteris,(Gardner) Mickel,Iowa State J. Sci. 36(4): 406. 1962 [15 May 1962] ,Anemia,,Schizaeaceae Trochopteris Gardner,(Gardner)
+wfo-1000094720,urn:lsid:ipni.org:names:77395700-1,Saururaceae,Anemia sect. Coriaceae,Prantl,Unters. Morph. Gefasskrypt. 2: 88. 1881 [Oct 1881] ,Anemia,,,
+wfo-1000094721,urn:lsid:ipni.org:names:77395701-1,Saururaceae,Anemia sect. Cuneatae,Prantl,Unters. Morph. Gefasskrypt. 2: 88. 1881 [1 Jan 1881] ,Anemia,,,
+wfo-1000094722,urn:lsid:ipni.org:names:77395703-1,Saururaceae,Anemia sect. Anemiaebotrys,(Fée) Mickel,Iowa State J. Sci. 36(4): 395. 1962 [15 May 1962] ,Anemia,,Schizaeaceae Aneimiaebotrys Fée,(Fée)
+wfo-1000094729,urn:lsid:ipni.org:names:77395728-1,Iridaceae,Cypella subgen. Viruflos,Ravenna,Revista Inst. Munic. Bot. 2: 53. 1964 [11 May 1964] ,Cypella,,,
+wfo-1000094730,urn:lsid:ipni.org:names:77395729-1,Iridaceae,Cypella subgen. Phalocallis,(Herb.) Ravenna,Revista Inst. Munic. Bot. 2: 53. 1964 [11 May 1964] ,Cypella,,Iridaceae Phalocallis Herb.,(Herb.)
+wfo-1000094802,urn:lsid:ipni.org:names:77395816-1,Scrophulariaceae,Verbascum lesnovoensis,Micevski,Prilozi Makedon. Akad. Nauk. Umetn. Oddel. Biol. Med. Nauki 17(1-2): 17. 1996 ,Verbascum,,,
+wfo-1000094808,urn:lsid:ipni.org:names:77395826-1,Proteaceae,Heliciopsis guiliangii,Y.E.Wang & J.D.Ya,Phytotaxa 772(2): 143. 2026 [28 Aug 2026] ,Heliciopsis,,,
+wfo-1000094809,urn:lsid:ipni.org:names:77395827-1,Apiaceae,Psammogeton jasrotaensis,Bhellum & Magotra,Phytotaxa 772(2): 193. 2026 [28 Aug 2026] ,Psammogeton,,,
+wfo-1200126393,urn:lsid:ipni.org:names:77395837-1,Ranunculaceae,Ranunculus aconitifolius subsp. platanifolius,(L.) Bonnier & Layens,Tabl. Syn. Pl. Vasc. France 7. 1894 ,Ranunculus,isonym,Ranunculaceae Ranunculus platanifolius L.,(L.)
+wfo-1200126394,urn:lsid:ipni.org:names:77395844-1,Ranunculaceae,Ranunculus aconitifolius subsp. platanifolius,(L.) Berher,Départ. Vosges 2: 26. 1887 ,Ranunculus,,Ranunculaceae Ranunculus platanifolius L.,(L.)
+wfo-1000094811,urn:lsid:ipni.org:names:77395845-1,Ranunculaceae,Chrysocoptis subgen. Pterophyllum,Nutt.,J. Acad. Nat. Sci. Philadelphia 7: 9. 1834 ,Chrysocoptis,,,
