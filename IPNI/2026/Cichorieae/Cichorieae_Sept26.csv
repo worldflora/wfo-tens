@@ -1,0 +1,486 @@
+WFOID,IPNID,scientificName,authorship,namePublishedin,Genus,nomenclaturalStatus,originalName,originalNameAuthor
+wfo-1000094982,urn:lsid:ipni.org:names:77396030-1,Hieracium submucidum,Dahlst.,Exsicc. (Hierac. Scand.) 13: n.° 12. 1895 ,Hieracium,,,
+wfo-1000095353,urn:lsid:ipni.org:names:77396049-1,Hieracium mutelii,(Arv.-Touv.) Arv.-Touv.,"Ann. Soc. Linn. Lyon sér. 2, 34: 25. 1888 ",Hieracium,,Asteraceae Hieracium mutelii Arv.-Touv.,(Arv.-Touv.)
+wfo-1000094983,urn:lsid:ipni.org:names:77396052-1,Hieracium lobophyllum,Dahlst.,Exsicc. (Herb. Hierac. Scand.) 17: n.° 29. 1904 ,Hieracium,,,
+wfo-1000094984,urn:lsid:ipni.org:names:77396057-1,Hieracium subsignatum,Dahlst. ex Notø,Tromsø Mus. Aarsh. 31-32: 52. 1910 ,Hieracium,,,
+wfo-1000054804,urn:lsid:ipni.org:names:77396068-1,Hieracium siljense,(Johanss.) Johanss.,"Bih. Kongl. Svenska Vetensk.-Akad. Handl. Afd. 3, 28(7): 27. 1902 ",Hieracium,,,(Johanss.)
+wfo-1000094985,urn:lsid:ipni.org:names:77396100-1,Hieracium scaberulum,(Brenner ex H.Lindb.) Brenner,"Acta Soc. Fauna Fl. Fenn. 25(6): 6. 1903 , nom. superfl.",Hieracium,,,(Brenner ex H.Lindb.)
+wfo-1000094986,urn:lsid:ipni.org:names:77396103-1,Hieracium gyratifrons,Dahlst. ex Sondén,"Svensk Bot. Tidskr. 1: 224, 307. 1907 ",Hieracium,,,
+wfo-1000095026,urn:lsid:ipni.org:names:77396157-1,Hieracium sligoense,T.C.G.Rich,"Brit. Irish Bot. 8(2): 227. 2026 [28 Aug 2026] , as 'sligoensis'",Hieracium,,,
+wfo-1000095027,urn:lsid:ipni.org:names:77396158-1,Hieracium hibernicyclicum,T.C.G.Rich,Brit. Irish Bot. 8(2): 222. 2026 [28 Aug 2026] ,Hieracium,,,
+wfo-1000095028,urn:lsid:ipni.org:names:77396261-1,Hieracium neomagniceps,T.C.G.Rich,Brit. Irish Bot. 8(2): 220. 2026 [28 Aug 2026] ,Hieracium,,,
+wfo-1000095029,urn:lsid:ipni.org:names:77396262-1,Taraxacum marioniae,A.J.Richards,"Brit. Irish Bot. 8(2): 234. 2026 [28 Aug 2026] , as 'marionae'",Taraxacum,,,
+wfo-1000095030,urn:lsid:ipni.org:names:77396263-1,Taraxacum vatersayi,A.J.Richards,Brit. Irish Bot. 8(2): 245. 2026 [28 Aug 2026] ,Taraxacum,,,
+wfo-1200126490,urn:lsid:ipni.org:names:77396275-1,Hieracium umbellatum subsp. provinciale,(Jord.) Bonnier,Fl. Ill. France 7: 15. 1924 ,Hieracium,,Asteraceae Hieracium provinciale Jord.,(Jord.)
+wfo-1200099236,urn:lsid:ipni.org:names:77396282-1,Hieracium murorum subsp. manubricatum,Dahlst. & Enander ex Zahn,"Pflanzenr. IV, 280(Heft 76): 338. 1921 ",Hieracium,,,
+wfo-1200111108,urn:lsid:ipni.org:names:77396295-1,Hieracium sparsum subsp. pseudokotschyanum,Nyár. & Zahn,Bul. Grad. Bot. Univ. Cluj 8: 67. 1929 ,Hieracium,,,
+wfo-1200111260,urn:lsid:ipni.org:names:77396307-1,Hieracium onosmoides subsp. praecellans,(Omang) Zahn,"Pflanzenr. IV, 280(Heft 75): 244. 1921 ",Hieracium,,Asteraceae Hieracium praecellans Omang,(Omang)
+wfo-1200126497,urn:lsid:ipni.org:names:77396316-1,Hieracium caesium subsp. peralbidum,(Borbás) Zahn,"Pflanzenr. IV, 280(Heft 76): 445. 1921 ",Hieracium,,Asteraceae Hieracium peralbidum Borbás,(Borbás)
+wfo-1200066940,urn:lsid:ipni.org:names:77396317-1,Hieracium cryptadenum subsp. subvillosifolium,Käser & Zahn,"Pflanzenr. IV, 280(Heft 75): 114. 1921 ",Hieracium,,,
+wfo-1200126499,urn:lsid:ipni.org:names:77396326-1,Hieracium sagittatum subsp. obliquifolium,(Dahlst.) Zahn,"Pflanzenr. IV, 280(Heft 76): 347. 1921 ",Hieracium,,Asteraceae Hieracium obliquifolium Dahlst.,(Dahlst.)
+wfo-1200126501,urn:lsid:ipni.org:names:77396332-1,Hieracium bifurcum subsp. danubii,Zahn,"Pflanzenr. IV, 280(Heft 82): 1382. 1929 ",Hieracium,,,
+wfo-1200126502,urn:lsid:ipni.org:names:77396334-1,Hieracium lachenalii subsp. haematophilum,(Zahn) Müll.Dornst.,Mitt. Vereins Naturwiss. Math. Ulm. 20: 26. 1931 ,Hieracium,,,(Zahn)
+wfo-1200067062,urn:lsid:ipni.org:names:77396336-1,Hieracium lachenalii subsp. drymophilum,Zahn,Syn. Mitteleur. Fl. 12(2): 573. 1934 ,Hieracium,,,
+wfo-1200126504,urn:lsid:ipni.org:names:77396338-1,Hieracium nigrescens subsp. sundbergii,(Elfstr.) Zahn,"Pflanzenr. IV, 280(Heft 77): 658. 1921 ",Hieracium,,Asteraceae Hieracium sundbergii Elfstr.,(Elfstr.)
+wfo-1200126506,urn:lsid:ipni.org:names:77396352-1,Hieracium germanicum subsp. alsaticum,Nägeli & Peter,Hierac. Mitt.-Eur. 1: 730. 1885 ,Hieracium,,,
+wfo-1200126509,urn:lsid:ipni.org:names:77396357-1,Hieracium anglicum subsp. gougetianum,(Gren. & Godr.) Nyman,Consp. Fl. Eur. 449. 1879 ,Hieracium,,Asteraceae Hieracium gougetianum Gren. & Godr.,(Gren. & Godr.)
+wfo-1200126511,urn:lsid:ipni.org:names:77396361-1,Hieracium brachiatum subsp. nematocauloides,Zahn,"Pflanzenr. IV, 280(Heft 82): 1458. 1923 ",Hieracium,,,
+wfo-1200126512,urn:lsid:ipni.org:names:77396376-1,Hieracium lachenalii subsp. amplificatum,(Dahlst. ex Johanss.) Zahn,Syn. Mitteleur. Fl. 12(2): 537. 1934 ,Hieracium,,Asteraceae Hieracium amplificatum Dahlst. ex Johanss.,(Dahlst. ex Johanss.)
+wfo-1200067096,urn:lsid:ipni.org:names:77396377-1,Hieracium laevigatum subsp. schwarzianum,Zahn,"Pflanzenr. IV, 280(Heft 79): 867. 1922 ",Hieracium,,,
+wfo-1200126513,urn:lsid:ipni.org:names:77396389-1,Hieracium magyaricum subsp. weissianum,Nägeli & Peter,Hierac. Mitt.-Eur. 1: 594. 1885 ,Hieracium,,,
+wfo-1200126516,urn:lsid:ipni.org:names:77396403-1,Hieracium nigrescens subsp. stiricolum,Zahn,Icon. Fl. Germ. Helv. 19(2): 180. 1908 ,Hieracium,,,
+wfo-1200110791,urn:lsid:ipni.org:names:77396404-1,Hieracium raiblense subsp. polypolium,Bornm. & Zahn,Repert. Spec. Nov. Regni Veg. 16: 180. 1919 ,Hieracium,,,
+wfo-1200110807,urn:lsid:ipni.org:names:77396415-1,Hieracium atratum subsp. orthoschistum,Bornm. & Zahn,"Pflanzenr. IV, 280(Heft 77): 675. 1921 ",Hieracium,,,
+wfo-1200126519,urn:lsid:ipni.org:names:77396420-1,Hieracium nigrescens subsp. subinsignitum,Zahn,"Pflanzenr. IV, 280(Heft 77): 658. 1921 ",Hieracium,,,
+wfo-1200126521,urn:lsid:ipni.org:names:77396427-1,Hieracium nigrescens subsp. subcrispum,(Dahlst. ex Notø) Zahn,"Pflanzenr. IV, 280(Heft 77): 638. 1921 ",Hieracium,,,(Dahlst. ex Notø)
+wfo-1200067044,urn:lsid:ipni.org:names:77396433-1,Hieracium humile subsp. brachycaule,Zahn,"Pflanzenr. IV, 280(Heft 77): 610. 1921 ",Hieracium,,,
+wfo-1200126523,urn:lsid:ipni.org:names:77396434-1,Hieracium bifidum subsp. oblongatum,(Omang) Zahn,"Pflanzenr. IV, 280(Heft 76): 421. 1921 ",Hieracium,,Asteraceae Hieracium oblongatum Omang,(Omang)
+wfo-1200126524,urn:lsid:ipni.org:names:77396440-1,Hieracium lachenalii subsp. diaphanoidiforme,Bornm. & Zahn,Syn. Mitteleur. Fl. 12(2): 547. 1934 ,Hieracium,,,
+wfo-1200127222,urn:lsid:ipni.org:names:77396446-1,Crepis biennis subsp. maritima,(Boucher) Nyman,"Consp. Fl. Eur. 457. 1879 , not validly publ.",Crepis,,Asteraceae Crepis maritima Boucher,(Boucher)
+wfo-1200126526,urn:lsid:ipni.org:names:77396448-1,Hieracium bifidum subsp. poliocranellum,Zahn,"Pflanzenr. IV, 280(Heft 76): 419. 1921 ",Hieracium,,,
+wfo-1200067123,urn:lsid:ipni.org:names:77396515-1,Hieracium levicaule subsp. vitulimontis,(Zahn) Zahn,"Pflanzenr. IV, 280(Heft 76): 403. 1921 ",Hieracium,,,(Zahn)
+wfo-1200024477,urn:lsid:ipni.org:names:77396518-1,Hieracium bupleuroides subsp. burlei,Zahn,"Pflanzenr. IV, 280(Heft 75): 45. 1921 ",Hieracium,,,
+wfo-1200066816,urn:lsid:ipni.org:names:77396519-1,Hieracium austroslavicum subsp. cakoranum,"O.Behr, E.Behr & Zahn",Glasn. Skopsk. Naučn. Društva 20: 126. 1939 ,Hieracium,,,
+wfo-1200066846,urn:lsid:ipni.org:names:77396526-1,Hieracium bifidum subsp. polylodontium,Nyár. & Zahn,Bul. Grad. Bot. Univ. Cluj 8: 37. 1929 ,Hieracium,,,
+wfo-1200111765,urn:lsid:ipni.org:names:77396530-1,Aetheorhiza bulbosa subsp. montana,(Willk.) Gand.,Nov. Consp. Fl. Eur. 308. 1910 ,Aetheorhiza,,Asteraceae Aetheorhiza montana Willk.,(Willk.)
+wfo-1200126536,urn:lsid:ipni.org:names:77396534-1,Leontodon proteiformis subsp. incanus,(L.) R.C.V.Douin,"Fl. Ill. France 6: 68. 1923 , nom. superfl.",Leontodon,,Asteraceae Hieracium incanum L.,(L.)
+wfo-1200127223,urn:lsid:ipni.org:names:77396539-1,Hieracium anchusoides subsp. pseudocymosum,Nägeli & Peter,Hierac. Mitt.-Eur. 1: 426. 1885 ,Hieracium,,,
+wfo-1200126538,urn:lsid:ipni.org:names:77396540-1,Hieracium murorum subsp. lacerisectiforme,K.Harz & Zahn,Mitt. Naturf. Ges. Schaffhausen 5: 75. 1925 ,Hieracium,,,
+wfo-1200126539,urn:lsid:ipni.org:names:77396543-1,Hieracium vulgatum subsp. palatinense,Zahn,"Pflanzenr. IV, 280(Heft 76): 372. 1921 ",Hieracium,,,
+wfo-1200099453,urn:lsid:ipni.org:names:77396544-1,Hieracium sylvaticum subsp. aquiliforme,Dahlst.,Bot. Tidsskr. 20: 353. 1896 ,Hieracium,,,
+wfo-1200126541,urn:lsid:ipni.org:names:77396546-1,Hieracium psammoges subsp. senile,(Arv.-Touv.) Zahn,Neue Denkschr. Allg. Schweiz. Ges. Gesammten Naturwiss. 40: 440. 1906 ,Hieracium,,Asteraceae Hieracium subincisum Arv.-Touv. var. senile Arv.-Touv.,(Arv.-Touv.)
+wfo-1200066956,urn:lsid:ipni.org:names:77396549-1,Hieracium dentatum subsp. rufobrunnescens,Zahn,Syn. Mitteleur. Fl. 12(2): 134. 1930 ,Hieracium,,,
+wfo-1200126543,urn:lsid:ipni.org:names:77396553-1,Hieracium arrectum subsp. neyraeanum,(Arv.-Touv.) Zahn,Hier. Schweiz 450. 1906 ,Hieracium,,Asteraceae Hieracium neyranum Arv.-Touv.,(Arv.-Touv.)
+wfo-1200067237,urn:lsid:ipni.org:names:77396559-1,Hieracium murorum subsp. subirriguiforme,Zahn,"Pflanzenr. IV, 280(Heft 76): 333. 1921 ",Hieracium,,,
+wfo-1200126546,urn:lsid:ipni.org:names:77396568-1,Hieracium murorum subsp. supernatum,(Johanss.) Zahn,"Pflanzenr. IV, 280(Heft 76): 322. 1921 ",Hieracium,,Asteraceae Hieracium supernatum Johanss.,(Johanss.)
+wfo-1200112223,urn:lsid:ipni.org:names:77396573-1,Hieracium murorum subsp. bruyeranum,(Biau) Zahn,Syn. Mitteleur. Fl. 12(2): 446. 1931 ,Hieracium,,Asteraceae Hieracium bruyeranum Biau,(Biau)
+wfo-1200099162,urn:lsid:ipni.org:names:77396583-1,Hieracium laevigatum subsp. sublineolatum,Dahlst. ex Zahn,"Pflanzenr. IV, 280(Heft 79): 874. 1922 ",Hieracium,,,
+wfo-1200126550,urn:lsid:ipni.org:names:77396591-1,Hieracium florentinum subsp. canipedunculatum,Nägeli & Peter,Hierac. Mitt.-Eur. 1: 545. 1885 ,Hieracium,,,
+wfo-1200126551,urn:lsid:ipni.org:names:77396594-1,Hieracium tubulascens subsp. fragilicolium,Norrl.,Acta Soc. Fauna Fl. Fenn. 26(7): 65. 1904 ,Hieracium,,,
+wfo-1200127224,urn:lsid:ipni.org:names:77396596-1,Hieracium piliferum subsp. subnivaliforme,(Zahn) Burnat & Gremli,Cat. Hierac. Alp. Mar. ?. 1883 ,Hieracium,,,(Zahn)
+wfo-1200126552,urn:lsid:ipni.org:names:77396598-1,Hieracium vulgatum subsp. subatronitens,(Dahlst.) Zahn,"Pflanzenr. IV, 280(Heft 76): 386. 1921 ",Hieracium,,,(Dahlst.)
+wfo-1200126553,urn:lsid:ipni.org:names:77396602-1,Hieracium sagittatum subsp. paganicum,(Notø) Zahn,"Pflanzenr. IV, 280(Heft 76): 346. 1921 ",Hieracium,,Asteraceae Hieracium paganicum Notø,(Notø)
+wfo-1200067419,urn:lsid:ipni.org:names:77396612-1,Hieracium umbrosum subsp. subexilentiforme,Zahn,Hierac. Alp. Mar. 298. 1916 ,Hieracium,,,
+wfo-1200126557,urn:lsid:ipni.org:names:77396626-1,Hieracium × canum subsp. lepteilema,Nägeli & Peter,Hierac. Mitt.-Eur. 1: 436. 1885 ,Hieracium,,,
+wfo-1200111192,urn:lsid:ipni.org:names:77396637-1,Hieracium inuloides subsp. platamodes,(Omang) Zahn,"Pflanzenr. IV, 280(Heft 79): 901. 1922 ",Hieracium,,Asteraceae Hieracium platamodes Omang,(Omang)
+wfo-1200126560,urn:lsid:ipni.org:names:77396643-1,Hieracium argyrocomum subsp. subuliferum,(Nägeli & Peter) Zahn,Arch. Bot. Bull. Mens. 2: 201. 1928 ,Hieracium,,Asteraceae Hieracium subuliferum Nägeli & Peter,(Nägeli & Peter)
+wfo-1200126561,urn:lsid:ipni.org:names:77396644-1,Hieracium nigrescens subsp. amblyphyllarioides,(Notø) Zahn,"Pflanzenr. IV, 280(Heft 77): 653. 1921 ",Hieracium,,Asteraceae Hieracium amblyphyllarioides Notø,(Notø)
+wfo-1200126562,urn:lsid:ipni.org:names:77396646-1,Hieracium murorum subsp. chattum,A.Zobel & Zahn,"Pflanzenr. IV, 280(Heft 76): 322. 1921 ",Hieracium,,,
+wfo-1200067401,urn:lsid:ipni.org:names:77396659-1,Hieracium sparsum subsp. subottomalicum,"O.Behr, E.Behr & Zahn",Glasn. Skopsk. Naučn. Društva 20: 128. 1939 ,Hieracium,,,
+wfo-1200126567,urn:lsid:ipni.org:names:77396663-1,Hieracium × canum subsp. anosciadium,Nägeli & Peter,Hierac. Mitt.-Eur. 1: 435. 1885 ,Hieracium,,,
+wfo-1200099089,urn:lsid:ipni.org:names:77396668-1,Hieracium murorum subsp. plicosum,Dahlst. ex Zahn,"Pflanzenr. IV, 280(Heft 76): 335. 1921 ",Hieracium,,,
+wfo-1200126570,urn:lsid:ipni.org:names:77396675-1,Hieracium laevigatum subsp. purpuricaule,Zahn,Ann. Hist.-Nat. Mus. Natl. Hung. 8: 86. 1910 ,Hieracium,,,
+wfo-1200126572,urn:lsid:ipni.org:names:77396682-1,Hieracium juranum subsp. stenocephaloides,Zahn,"Pflanzenr. IV, 280(Heft 77): 785. 1921 ",Hieracium,,,
+wfo-1200126573,urn:lsid:ipni.org:names:77396685-1,Andryala rothia subsp. cossyrensis,(Guss.) Maire,Cat. Pl. Maroc 4: 1167. 1941 ,Andryala,,Asteraceae Andryala cossyrensis Guss.,(Guss.)
+wfo-1200126577,urn:lsid:ipni.org:names:77396691-1,Hieracium vulgatum subsp. lacerosum,Zahn,"Pflanzenr. IV, 280(Heft 76): 387. 1921 ",Hieracium,,,
+wfo-1200067169,urn:lsid:ipni.org:names:77396695-1,Hieracium murorum subsp. euryodontophyllum,Briq. & Zahn,Syn. Mitteleur. Fl. 12(2): 437. 1931 ,Hieracium,,,
+wfo-1200126579,urn:lsid:ipni.org:names:77396696-1,Hieracium anchusoides subsp. albipedunculatum,Nägeli & Peter,Hierac. Mitt.-Eur. 1: 727. 1885 ,Hieracium,,,
+wfo-1200126580,urn:lsid:ipni.org:names:77396697-1,Hieracium bifidum subsp. brachyodon,Zahn,"Pflanzenr. IV, 280(Heft 76): 429. 1921 ",Hieracium,,,
+wfo-1200126589,urn:lsid:ipni.org:names:77397034-1,Hieracium alpinum subsp. subvitellicolor,(Notø) Zahn,"Pflanzenr. IV, 280(Heft 77): 626. 1921 ",Hieracium,,Asteraceae Hieracium subvitellicolor Notø,(Notø)
+wfo-1200126590,urn:lsid:ipni.org:names:77397035-1,Hieracium murorum subsp. orthorhachis,(Sam.) Zahn,"Pflanzenr. IV, 280(Heft 76): 528. 1921 ",Hieracium,,Asteraceae Hieracium orthorhachis Sam.,(Sam.)
+wfo-1200126591,urn:lsid:ipni.org:names:77397037-1,Hieracium murorum subsp. leptotes,(Norrl.) Zahn,"Pflanzenr. IV, 280(Heft 76): 327. 1921 ",Hieracium,,Asteraceae Hieracium leptotes Norrl.,(Norrl.)
+wfo-1200126592,urn:lsid:ipni.org:names:77397042-1,Hieracium tauschii subsp. pseudomagyariciforme,Lengyel & Zahn,Magyar Bot. Lapok 25: 297. 1927 ,Hieracium,,,
+wfo-1200126593,urn:lsid:ipni.org:names:77397056-1,Hieracium praecox subsp. praecociforme,Zahn,"Syn. Fl. Germ. Helv., ed. 2. 1813. 1901 ",Hieracium,,,
+wfo-1200126594,urn:lsid:ipni.org:names:77397067-1,Hieracium fragile subsp. petiolare,(Jord.) Rouy,Fl. France 9: 336. 1905 ,Hieracium,,Asteraceae Hieracium petiolare Jord.,(Jord.)
+wfo-1200099457,urn:lsid:ipni.org:names:77397072-1,Hieracium sylvaticum subsp. belonodontum,Dahlst.,Bot. Tidsskr. 22: 204. 1899 ,Hieracium,,,
+wfo-1200067255,urn:lsid:ipni.org:names:77397079-1,Hieracium norvegicum subsp. chodatianum,Romieux & Zahn,"Bull. Soc. Bot. Genève sér. 2, 18: 322. 1927 ",Hieracium,,,
+wfo-1200067299,urn:lsid:ipni.org:names:77397090-1,Hieracium praecurrens subsp. macrocardiophyllum,Nyár. & Zahn,Bul. Grad. Bot. Univ. Cluj 8: 43. 1929 ,Hieracium,,,
+wfo-1200066864,urn:lsid:ipni.org:names:77397101-1,Hieracium bifidum subsp. subsagittatum,(Zahn) Zahn,"Pflanzenr. IV, 280(Heft 76): 436. 1921 ",Hieracium,,,(Zahn)
+wfo-1200126597,urn:lsid:ipni.org:names:77397105-1,Hieracium caesium subsp. spurcifrons,(Dahlst.) Zahn,"Pflanzenr. IV, 280(Heft 76): 438. 1921 ",Hieracium,,Asteraceae Hieracium spurcifrons Dahlst.,(Dahlst.)
+wfo-1200068981,urn:lsid:ipni.org:names:77397107-1,Hieracium alpicola subsp. furcotae,Degen & Zahn,Allg. Bot. Z. Syst. 12: 39. 1906 ,Hieracium,,,
+wfo-1200126600,urn:lsid:ipni.org:names:77397113-1,Hieracium × pseudobupleuroides subsp. latissimum,Nägeli & Peter,Hierac. Mitt.-Eur. 2: 76. 1886 ,Hieracium,,,
+wfo-1200126602,urn:lsid:ipni.org:names:77397117-1,Hieracium laevigatum subsp. aleiatolepioides,A.Zobel & Zahn,Verz. Anhalt Phan. 4: 50. 1920 ,Hieracium,,,
+wfo-1200126605,urn:lsid:ipni.org:names:77397126-1,Hieracium bifidum subsp. naeviferum,(Dahlst. ex Notø) Zahn,"Pflanzenr. IV, 280(Heft 76): 421. 1921 ",Hieracium,,Asteraceae Hieracium naeviferum Dahlst. ex Notø,(Dahlst. ex Notø)
+wfo-1200126608,urn:lsid:ipni.org:names:77397131-1,Hieracium angustatum subsp. naevosum,(Johanss. ex Dahlst.) Zahn,"Pflanzenr. IV, 280(Heft 76): 472. 1921 ",Hieracium,,Asteraceae Hieracium naevosum Johanss. ex Dahlst.,(Johanss. ex Dahlst.)
+wfo-1200126610,urn:lsid:ipni.org:names:77397138-1,Hieracium murorum subsp. microcranellum,Zahn,Syn. Mitteleur. Fl. 12(2): 369. 1931 ,Hieracium,,,
+wfo-1200099165,urn:lsid:ipni.org:names:77397143-1,Hieracium laevigatum subsp. trichocauloides,Dahlst. ex Zahn,"Pflanzenr. IV, 280(Heft 79): 881. 1922 ",Hieracium,,,
+wfo-1200126613,urn:lsid:ipni.org:names:77397160-1,Hieracium sagittatum subsp. scalenum,(Norrl.) Zahn,"Pflanzenr. IV, 280(Heft 76): 348. 1921 ",Hieracium,,Asteraceae Hieracium fuscocinereum Norrl. subsp. scalenum Norrl.,(Norrl.)
+wfo-1200126615,urn:lsid:ipni.org:names:77397170-1,Hieracium ochroleucum subsp. sieberi,(Tausch) Rouy,"Fl. France 9: 422. 1905 , nom. illeg. homonym. post.",Hieracium,,Asteraceae Hieracium sieberi Tausch,(Tausch)
+wfo-1200111012,urn:lsid:ipni.org:names:77397173-1,Hieracium integrifolium subsp. moravicum,(Freyn ex Oborny) Zahn,"Syn. Deut. Schweiz. Fl., ed. 3. 1884. 1901 ",Hieracium,,Asteraceae Hieracium moravicum Freyn ex Oborny,(Freyn ex Oborny)
+wfo-1200067311,urn:lsid:ipni.org:names:77397175-1,Hieracium prenanthoides subsp. crassipilum,Zahn,Ann. Hist.-Nat. Mus. Natl. Hung. 8: 81. 1910 ,Hieracium,,,
+wfo-1200126616,urn:lsid:ipni.org:names:77397176-1,Hieracium vulgatum subsp. rhenohassicum,Touton,Jahrb. Nassauischen Vereins Naturk. 76(2 Abh.): 22. 1924 ,Hieracium,,,
+wfo-1200110814,urn:lsid:ipni.org:names:77397182-1,Hieracium porrigens subsp. pectinosum,Dahlst.,"Kongl. Svenska Vetensk. Acad. Handl. n.f., 26(3): 60. 1894 ",Hieracium,,,
+wfo-1200111213,urn:lsid:ipni.org:names:77397183-1,Hieracium juranum subsp. cistifolium,(Arv.-Touv. & Gaut.) Zahn,"Pflanzenr. IV, 280(Heft 77): 780. 1921 ",Hieracium,,Asteraceae Hieracium cistifolium Arv.-Touv. & Gaut.,(Arv.-Touv. & Gaut.)
+wfo-1200126618,urn:lsid:ipni.org:names:77397189-1,Hieracium spurium subsp. schizanthelum,Zahn,Hierac. Alp. Mar. 47. 1916 ,Hieracium,,,
+wfo-1200126622,urn:lsid:ipni.org:names:77397197-1,Hieracium × misancinum subsp. rhenosilvanum,Käser & Zahn,"Pflanzenr. IV, 280(Heft 75): 117. 1921 ",Hieracium,,,
+wfo-1200126623,urn:lsid:ipni.org:names:77397201-1,Hieracium tridentatum subsp. lotharingum,(Jord. ex Sudre) Rouy,Fl. France 9: 397. 1905 ,Hieracium,,Asteraceae Hieracium lotharingum Jord. ex Sudre,(Jord. ex Sudre)
+wfo-1200067020,urn:lsid:ipni.org:names:77397203-1,Hieracium glaucum subsp. pseudolimonense,Korb & Zahn,Syn. Mitteleur. Fl. 12(2): 27. 1930 ,Hieracium,,,
+wfo-1200126624,urn:lsid:ipni.org:names:77397204-1,Hieracium montanum subsp. rubrivittatum,Nägeli & Peter,Hierac. Mitt.-Eur. 1: 684. 1885 ,Hieracium,,,
+wfo-1000095268,urn:lsid:ipni.org:names:77397429-1,Hieracium herculanum,(Zahn) Szeląg,Phytotaxa 776(2): 198. 2026 [24 Sep 2026] ,Hieracium,,Asteraceae Hieracium wiesbaurianum Uechtr. subsp. herculanum Zahn,(Zahn)
+wfo-1200066973,urn:lsid:ipni.org:names:77397449-1,Hieracium diaphanoides subsp. vogesorum,Zahn,"Pflanzenr. IV, 280(Heft 76): 355. 1921 ",Hieracium,,,
+wfo-1200068218,urn:lsid:ipni.org:names:77397451-1,Hieracium pseudopilosella subsp. tenuicaule,Nägeli & Peter,Hierac. Mitt.-Eur. 1: 176. 1885 ,Hieracium,,,
+wfo-1200067337,urn:lsid:ipni.org:names:77397452-1,Hieracium racemosum subsp. chaetotrichum,Zahn,Reliq. Forman. 355. 1909 ,Hieracium,,,
+wfo-1200126650,urn:lsid:ipni.org:names:77397465-1,Hieracium diaphanoides subsp. atriplex,(Brenner) Zahn,"Pflanzenr. IV, 280(Heft 76): 352. 1921 ",Hieracium,,Asteraceae Hieracium atriplex Brenner,(Brenner)
+wfo-1200111087,urn:lsid:ipni.org:names:77397471-1,Hieracium umbrosum subsp. pseudocrepidineum,Zahn,Repert. Spec. Nov. Regni Veg. 38: 318. 1935 ,Hieracium,,,
+wfo-1200126655,urn:lsid:ipni.org:names:77397486-1,Hieracium murorum subsp. incrassans,(Dahlst. ex Johanss.) Zahn,"Pflanzenr. IV, 280(Heft 76): 292. 1921 ",Hieracium,,Asteraceae Hieracium incrassans Dahlst. ex Johanss.,(Dahlst. ex Johanss.)
+wfo-1200126657,urn:lsid:ipni.org:names:77397492-1,Hieracium montanum subsp. inopiforme,Nägeli & Peter,Hierac. Mitt.-Eur. 1: 686. 1885 ,Hieracium,,,
+wfo-1200126661,urn:lsid:ipni.org:names:77397510-1,Hieracium atratum subsp. pannucium,(Dahlst.) Zahn,"Pflanzenr. IV, 280(Heft 77): 671. 1921 ",Hieracium,,Asteraceae Hieracium pannucium Dahlst.,(Dahlst.)
+wfo-1200126662,urn:lsid:ipni.org:names:77397513-1,Hieracium nigrescens subsp. macroconoides,Zahn,"Pflanzenr. IV, 280(Heft 77): 652. 1921 ",Hieracium,,,
+wfo-1200126663,urn:lsid:ipni.org:names:77397515-1,Hieracium vulgatum subsp. friesii,Tourlet,"Fl. Indre-et-Loire 312. 1908 , not validly publ.",Hieracium,,,
+wfo-1200126665,urn:lsid:ipni.org:names:77397517-1,Hieracium leptophyton subsp. eurhostum,Nägeli & Peter,Hierac. Mitt.-Eur. 1: 646. 1885 ,Hieracium,,,
+wfo-1200066990,urn:lsid:ipni.org:names:77397519-1,Hieracium dollineri subsp. tephropolioides,Zahn,"Pflanzenr. IV, 280(Heft 75): 67. 1921 ",Hieracium,,,
+wfo-1200099035,urn:lsid:ipni.org:names:77397527-1,Hieracium integrifolium subsp. obscuratum,(Murr) Zahn,"Syn. Deut. Schweiz. Fl., ed. 3. 1884. 1901 ",Hieracium,,Asteraceae Hieracium obscuratum Murr,(Murr)
+wfo-1200126667,urn:lsid:ipni.org:names:77397530-1,Hieracium nigrescens subsp. nutatulum,(Norrl.) Zahn,"Pflanzenr. IV, 280(Heft 77): 647. 1921 ",Hieracium,,Asteraceae Hieracium nutatulum Norrl.,(Norrl.)
+wfo-1200126668,urn:lsid:ipni.org:names:77397534-1,Hieracium subramosum subsp. prodigum,Notø,Repert. Spec. Nov. Regni Veg. 39: 372. 1936 ,Hieracium,,,
+wfo-1200067060,urn:lsid:ipni.org:names:77397540-1,Hieracium lachenalii subsp. aspernatulum,Zahn,Syn. Mitteleur. Fl. 12(2): 594. 1934 ,Hieracium,,,
+wfo-1200126674,urn:lsid:ipni.org:names:77397567-1,Hieracium laevigatum subsp. macrogoniotropum,Nyár. & Zahn,Bul. Grad. Bot. Univ. Cluj 8: 64. 1929 ,Hieracium,,,
+wfo-1200126675,urn:lsid:ipni.org:names:77397574-1,Hieracium maculatum subsp. hemitrichozoum,A.Ludw. & Zahn,Syn. Mitteleur. Fl. 12(2): 521. 1934 ,Hieracium,,,
+wfo-1200099227,urn:lsid:ipni.org:names:77397579-1,Hieracium murorum subsp. homoeodontum,Dahlst. ex Zahn,"Pflanzenr. IV, 280(Heft 76): 294. 1921 ",Hieracium,,,
+wfo-1200126678,urn:lsid:ipni.org:names:77397589-1,Hieracium floribundum subsp. hylaeophilum,Zahn & Petr.,Allg. Bot. Z. Syst. 16: 154. 1910 ,Hieracium,,,
+wfo-1200126679,urn:lsid:ipni.org:names:77397590-1,Hieracium nigrescens subsp. finmarkioides,(Notø) Zahn,"Pflanzenr. IV, 280(Heft 77): 663. 1921 ",Hieracium,,Asteraceae Hieracium finmarkioides Notø,(Notø)
+wfo-1200126680,urn:lsid:ipni.org:names:77397594-1,Hieracium bifidum subsp. siliginellum,(Dahlst.) Zahn,"Pflanzenr. IV, 280(Heft 76): 421. 1921 ",Hieracium,,Asteraceae Hieracium sylvaticum (L.) Gouan subsp. siliginellum Dahlst.,(Dahlst.)
+wfo-1200126681,urn:lsid:ipni.org:names:77397602-1,Hieracium florentinum subsp. piloselloides,(Vill.) Gaudin,Fl. Helv. 5: 82. 1829 ,Hieracium,,Asteraceae Hieracium piloselloides Vill.,(Vill.)
+wfo-1200126682,urn:lsid:ipni.org:names:77397603-1,Hieracium caesium subsp. arenariifolium,Nyár. & Zahn,Allg. Bot. Z. Syst. 1911: 150. ,Hieracium,,,
+wfo-1200098625,urn:lsid:ipni.org:names:77397604-1,Hieracium pilosella subsp. micradenophorum,Zahn,Syn. Mitteleur. Fl. 12(1): 53. 1922 ,Hieracium,,,
+wfo-1200126684,urn:lsid:ipni.org:names:77397613-1,Hieracium murorum subsp. durschianum,Zahn,Syn. Mitteleur. Fl. 12(2): 436. 1931 ,Hieracium,,,
+wfo-1200111051,urn:lsid:ipni.org:names:77397614-1,Hieracium aestivum subsp. pruiniferum,(Norrl.) Zahn,"Pflanzenr. IV, 280(Heft 79): 924. 1922 ",Hieracium,,,(Norrl.)
+wfo-1200066847,urn:lsid:ipni.org:names:77397615-1,Hieracium bifidum subsp. polytricholepium,Zahn,"Pflanzenr. IV, 280(Heft 76): 417. 1921 ",Hieracium,,,
+wfo-1200067023,urn:lsid:ipni.org:names:77397620-1,Hieracium glaucum subsp. tenerum,Nägeli & Peter,Hierac. Mitt.-Eur. 2: 35. 1886 ,Hieracium,,,
+wfo-1200126686,urn:lsid:ipni.org:names:77397640-1,Hieracium bifurcum subsp. mesoschistum,Nägeli & Peter,Hierac. Mitt.-Eur. 1: 512. 1885 ,Hieracium,,,
+wfo-1200067297,urn:lsid:ipni.org:names:77397641-1,Hieracium praecurrens subsp. hypopellitum,Nyár. & Zahn,Bul. Grad. Bot. Univ. Cluj 8: 42. 1929 ,Hieracium,,,
+wfo-1200110935,urn:lsid:ipni.org:names:77397647-1,Hieracium sparsidens subsp. subcinerellum,Dahlst. ex Johanss.,"Kongl. Svenska Vetensk. Acad. Handl. n.f., 25(3): 144. 1893 ",Hieracium,,,
+wfo-1200126687,urn:lsid:ipni.org:names:77397655-1,Hieracium pratense subsp. flagellare,(Willd.) P.Fourn.,Fl. Compl. Plaine Franç. 306. 1928 ,Hieracium,,Asteraceae Hieracium flagellare Willd.,(Willd.)
+wfo-1200066900,urn:lsid:ipni.org:names:77397659-1,Hieracium caesioides subsp. lobophyton,Zahn,Hierac. Alp. Mar. 212. 1916 ,Hieracium,,,
+wfo-1200067161,urn:lsid:ipni.org:names:77397662-1,Hieracium murorum subsp. contaminatum,(Wiinst.) Gottschl.,Ber. Bayer. Bot. Ges. 92: 131. 2022 ,Hieracium,,Asteraceae Hieracium contaminatum Wiinst.,(Wiinst.)
+wfo-1200126689,urn:lsid:ipni.org:names:77397663-1,Hieracium subramosum subsp. subalpestre,(Norrl.) Zahn,"Pflanzenr. IV, 280(Heft 76): 459. 1921 ",Hieracium,,Asteraceae Hieracium subalpestre Norrl.,(Norrl.)
+wfo-1200126692,urn:lsid:ipni.org:names:77397678-1,Hieracium carpathicum subsp. subtumidum,(Notø) O.Behr,Exsicc. (Hierac. Behr) 1936: n.° 286. ,Hieracium,,Asteraceae Hieracium subtumidum Notø,(Notø)
+wfo-1200067452,urn:lsid:ipni.org:names:77397680-1,Hieracium wilczekianum subsp. pratigoviense,Käser & Zahn,"Bull. Soc. Bot. Genève sér. 2, 16: 147. 1925 ",Hieracium,,,
+wfo-1200126693,urn:lsid:ipni.org:names:77397682-1,Hieracium atratum subsp. pseudonordlandicum,Notø,Repert. Spec. Nov. Regni Veg. 39: 372. 1936 ,Hieracium,,,
+wfo-1200126695,urn:lsid:ipni.org:names:77397687-1,Hieracium florentinum subsp. pseudassimile,Zahn,"Pflanzenr. IV, 280(Heft 82): 1407. 1923 ",Hieracium,,,
+wfo-1200126696,urn:lsid:ipni.org:names:77397689-1,Hieracium alpinum subsp. dissquamatum,Elfstr.,Hier. Alp. Mittl. Skand. 19. 1893 ,Hieracium,,,
+wfo-1200099248,urn:lsid:ipni.org:names:77397711-1,Hieracium murorum subsp. placerum,Dahlst. ex Zahn,"Pflanzenr. IV, 280(Heft 76): 289. 1921 ",Hieracium,,,
+wfo-1200126700,urn:lsid:ipni.org:names:77397713-1,Hieracium hoppeanum subsp. grundlii,Nägeli & Peter,Hierac. Mitt.-Eur. 1: 122. 1885 ,Hieracium,,,
+wfo-1200126701,urn:lsid:ipni.org:names:77397715-1,Hieracium murorum subsp. torpense,Dahlst.,Exsicc. (Herb. Hierac. Scand.) 1: n.° 79. 1889 ,Hieracium,,,
+wfo-1200126702,urn:lsid:ipni.org:names:77397721-1,Hieracium carpaticum subsp. aequilibratum,(Omang) Zahn,"Pflanzenr. IV, 280(Heft 77): 815. 1921 ",Hieracium,,Asteraceae Hieracium aequilibratum Omang,(Omang)
+wfo-1200126706,urn:lsid:ipni.org:names:77397741-1,Hieracium fragile subsp. verlotii,(Jord. ex Nyman) Rouy,Fl. France 9: 337. 1905 ,Hieracium,,Asteraceae Hieracium verlotii Jord. ex Nyman,(Jord. ex Nyman)
+wfo-1200069430,urn:lsid:ipni.org:names:77397749-1,Hieracium dentatum subsp. ortisense,Pawł.,Acta Soc. Bot. Poloniae 32: 474. 1963 ,Hieracium,,,
+wfo-1200126708,urn:lsid:ipni.org:names:77397753-1,Hieracium × canum subsp. krausei,Nägeli & Peter,Hierac. Mitt.-Eur. 1: 430. 1885 ,Hieracium,,,
+wfo-1200126710,urn:lsid:ipni.org:names:77397764-1,Hieracium subrigidum subsp. angermanicum,(Dahlst. ex Johanss.) Zahn,"Pflanzenr. IV, 280(Heft 76): 525. 1921 ",Hieracium,,,(Dahlst. ex Johanss.)
+wfo-1200126711,urn:lsid:ipni.org:names:77397765-1,Hieracium bifurcum subsp. comatum,Nägeli & Peter,Hierac. Mitt.-Eur. 1: 511. 1885 ,Hieracium,,,
+wfo-1200067411,urn:lsid:ipni.org:names:77397769-1,Hieracium tephrosoma subsp. deruptorum,Schack & Zahn,Repert. Spec. Nov. Regni Veg. 33: 375. 1934 ,Hieracium,,,
+wfo-1200126712,urn:lsid:ipni.org:names:77397772-1,Hieracium murorum subsp. trigonodon,Zahn,"Pflanzenr. IV, 280(Heft 76): 319. 1921 ",Hieracium,,,
+wfo-1200126713,urn:lsid:ipni.org:names:77397776-1,Hieracium × canum subsp. melanoxanthum,Nägeli & Peter,Hierac. Mitt.-Eur. 1: 438. 1885 ,Hieracium,,,
+wfo-1200126716,urn:lsid:ipni.org:names:77397781-1,Hieracium triviale subsp. rubroviolascens,Zahn,Verz. Anhalt Phan. 4: 43. 1920 ,Hieracium,,,
+wfo-1200126717,urn:lsid:ipni.org:names:77397782-1,Hieracium vulgatum subsp. scapiforme,(Brenner) H.Lindb.,Enum. Pl. Fennoscandia 69. 1901 ,Hieracium,,Asteraceae Hieracium scapiforme Brenner,(Brenner)
+wfo-1200126718,urn:lsid:ipni.org:names:77397783-1,Hieracium auriculiforme subsp. atrum,Nägeli & Peter,Hierac. Mitt.-Eur. 1: 224. 1885 ,Hieracium,,,
+wfo-1200111320,urn:lsid:ipni.org:names:77397785-1,Hieracium crispum subsp. atalum,Omang,Nyt Mag. Naturvidensk. 50: 141. 1912 ,Hieracium,,,
+wfo-1200126720,urn:lsid:ipni.org:names:77397790-1,Hieracium bifidum subsp. adenopsilon,(Dahlst.) Zahn,"Pflanzenr. IV, 280(Heft 76): 419. 1921 ",Hieracium,,Asteraceae Hieracium adenopsilon Dahlst.,(Dahlst.)
+wfo-1200126725,urn:lsid:ipni.org:names:77397799-1,Hieracium subglaberrimum subsp. montis-deserti,Touton,Mitt. Bayer. Bot. Ges. 3: 307. 1916 ,Hieracium,,,
+wfo-1200126727,urn:lsid:ipni.org:names:77397813-1,Hieracium subramosum subsp. haploicum,(Omang) Zahn,"Pflanzenr. IV, 280(Heft 76): 465. 1921 ",Hieracium,,Asteraceae Hieracium haploicum Omang,(Omang)
+wfo-1200126728,urn:lsid:ipni.org:names:77397814-1,Hieracium murorum subsp. pseudopellucidum,(Brenner) Zahn,"Pflanzenr. IV, 280(Heft 76): 289. 1921 ",Hieracium,,Asteraceae Hieracium pseudopellucidum Brenner,(Brenner)
+wfo-1200067078,urn:lsid:ipni.org:names:77397817-1,Hieracium laevigatum subsp. brevifoliiforme,Zahn,"Pflanzenr. IV, 280(Heft 79): 890. 1922 ",Hieracium,,,
+wfo-1200126732,urn:lsid:ipni.org:names:77397827-1,Hieracium lachenalii subsp. semiargillaceum,(Schwimmer & Zahn) Zahn,Syn. Mitteleur. Fl. 12(2): 526. 1934 ,Hieracium,,,(Schwimmer & Zahn)
+wfo-1200126733,urn:lsid:ipni.org:names:77397837-1,Hieracium fallax subsp. exstolonosum,Gaudin,Fl. Helv. 5: 79. 1829 ,Hieracium,,,
+wfo-1200126737,urn:lsid:ipni.org:names:77397847-1,Hieracium piloselliflorum subsp. aupaensis,Nägeli & Peter,Hierac. Mitt.-Eur. 1: 709. 1885 ,Hieracium,,,
+wfo-1200110787,urn:lsid:ipni.org:names:77397849-1,Hieracium pilosella subsp. pseudoparvulum,Bornm. & Zahn,"Mitth. Thüring. Bot. Vereins n.f., 39: 59. 1930 ",Hieracium,,,
+wfo-1200126738,urn:lsid:ipni.org:names:77397854-1,Hieracium saxifragum subsp. lythrodes,(Dahlst. ex Omang) Zahn,"Pflanzenr. IV, 280(Heft 75): 257. 1921 ",Hieracium,,Asteraceae Hieracium lythrodes Dahlst. ex Omang,(Dahlst. ex Omang)
+wfo-1200126739,urn:lsid:ipni.org:names:77397856-1,Hieracium murorum subsp. subviridans,(Dahlst. ex Johanss.) Zahn,"Pflanzenr. IV, 280(Heft 76): 306. 1921 ",Hieracium,,Asteraceae Hieracium subviridans Dahlst. ex Johanss.,(Dahlst. ex Johanss.)
+wfo-1200126740,urn:lsid:ipni.org:names:77397857-1,Hieracium dentatum subsp. hoettingense,Zahn,"Syn. Deut. Schweiz. Fl., ed. 3. 1795. 1901 ",Hieracium,,,
+wfo-1200126741,urn:lsid:ipni.org:names:77397860-1,Hieracium germanicum subsp. tigrinum,Nägeli & Peter,Hierac. Mitt.-Eur. 1: 732. 1885 ,Hieracium,,,
+wfo-1200126742,urn:lsid:ipni.org:names:77397871-1,Crepis tectorum subsp. barkhausioides,Rouy,Fl. France 9: 227. 1905 ,Crepis,,,
+wfo-1200126743,urn:lsid:ipni.org:names:77397875-1,Leontodon proteiformis subsp. alpinus,Bonnier & Layens,Tabl. Syn. Pl. Vasc. France 184. 1894 ,Leontodon,,,
+wfo-1200111000,urn:lsid:ipni.org:names:77397890-1,Hieracium subspeciosum subsp. supracalvum,Nägeli & Peter,Hierac. Mitt.-Eur. 2: 151. 1886 ,Hieracium,,,
+wfo-1200127234,urn:lsid:ipni.org:names:77397911-1,Hieracium praecox subsp. prasinifolium,(Boreau) Sudre,Hierac. Centr. France 87. 1902 ,Hieracium,,Asteraceae Hieracium prasinifolium Boreau,(Boreau)
+wfo-1200098910,urn:lsid:ipni.org:names:77397912-1,Hieracium hybridum subsp. adriaticiforme,Zahn,Hier. Schweiz 153. 1906 ,Hieracium,,,
+wfo-1200067159,urn:lsid:ipni.org:names:77397915-1,Hieracium murorum subsp. cinereidorsum,Zahn,"Pflanzenr. IV, 280(Heft 76): 306. 1921 ",Hieracium,,,
+wfo-1200126754,urn:lsid:ipni.org:names:77397928-1,Hieracium auriculinum subsp. firmisetiforme,Zahn,Naturwiss. Z. Lotos 74: 37. 1926 ,Hieracium,,,
+wfo-1200126758,urn:lsid:ipni.org:names:77397948-1,Hieracium florentinum subsp. pseudosparsum,Zahn,Repert. Spec. Nov. Regni Veg. 3: 184. 1907 ,Hieracium,,,
+wfo-1200126759,urn:lsid:ipni.org:names:77397951-1,Hieracium chlorellum subsp. limbatulum,Zahn,"Pflanzenr. IV, 280(Heft 76): 391. 1921 ",Hieracium,,,
+wfo-1200126762,urn:lsid:ipni.org:names:77397958-1,Hieracium brachiatum subsp. flavum,Nägeli & Peter,Hierac. Mitt.-Eur. 1: 623. 1885 ,Hieracium,,,
+wfo-1200126764,urn:lsid:ipni.org:names:77397962-1,Hieracium murorum subsp. floccicymum,(Touton) Zahn,Syn. Mitteleur. Fl. 12(2): 461. 1931 ,Hieracium,,,(Touton)
+wfo-1200126766,urn:lsid:ipni.org:names:77397967-1,Hieracium laevigatum subsp. pseudoconspicuum,Zahn,Ned. Kruidk. Arch. 1926: 176. 1927 ,Hieracium,,,
+wfo-1200126769,urn:lsid:ipni.org:names:77397973-1,Hieracium saxifragum subsp. lurlejense,Zahn,"Pflanzenr. IV, 280(Heft 75): 258. 1921 ",Hieracium,,,
+wfo-1200066987,urn:lsid:ipni.org:names:77397983-1,Hieracium dollineri subsp. salisburgiae,J.Vetter & Zahn,Syn. Mitteleur. Fl. 12(2): 56. 1930 ,Hieracium,,,
+wfo-1200126770,urn:lsid:ipni.org:names:77397984-1,Hieracium bifidum subsp. suboligopodium,(Notø) Zahn,"Pflanzenr. IV, 280(Heft 76): 424. 1921 ",Hieracium,,Asteraceae Hieracium suboligopodium Notø,(Notø)
+wfo-1200126773,urn:lsid:ipni.org:names:77397991-1,Hieracium bauhini subsp. albaecclesiense,Petr. & Zahn,Syn. Mitteleur. Fl. 12(1): 337. 1929 ,Hieracium,,,
+wfo-1200066830,urn:lsid:ipni.org:names:77397997-1,Hieracium bifidum subsp. caesiotropum,K.Malý & Zahn,Glasn. Zemaljsk. Muz. Bosni Hercegovini 38: 106. 1926 ,Hieracium,,,
+wfo-1200126774,urn:lsid:ipni.org:names:77398002-1,Hieracium caesium subsp. markazense,Zahn,"Pflanzenr. IV, 280(Heft 76): 439. 1921 ",Hieracium,,,
+wfo-1200126776,urn:lsid:ipni.org:names:77398009-1,Hieracium murorum subsp. tephroneuron,Zahn,"Pflanzenr. IV, 280(Heft 76): 320. 1921 ",Hieracium,,,
+wfo-1200126777,urn:lsid:ipni.org:names:77398016-1,Hieracium vulgatum subsp. maculatiforme,Zahn,"Pflanzenr. IV, 280(Heft 76): 372. 1921 ",Hieracium,,,
+wfo-1200126778,urn:lsid:ipni.org:names:77398017-1,Hieracium murorum subsp. bucsanum,Kováts & Zahn,Syn. Mitteleur. Fl. 12(2): 369. 1931 ,Hieracium,,,
+wfo-1200126779,urn:lsid:ipni.org:names:77398025-1,Hieracium murorum subsp. chlorocorium,Oborny & Zahn,Verh. Naturf. Vereins Brünn 1912: 49. ,Hieracium,,,
+wfo-1200126780,urn:lsid:ipni.org:names:77398028-1,Hieracium bifidum subsp. subhugeliense,(Dahlst. ex Notø) Zahn,"Pflanzenr. IV, 280(Heft 76): 425. 1921 ",Hieracium,,Asteraceae Hieracium subhugeliense Dahlst. ex Notø,(Dahlst. ex Notø)
+wfo-1200126781,urn:lsid:ipni.org:names:77398030-1,Hieracium lachenalii subsp. festiniforme,(Touton) Zahn,Syn. Mitteleur. Fl. 12(2): 564. 1934 ,Hieracium,,,(Touton)
+wfo-1200111588,urn:lsid:ipni.org:names:77398036-1,Taraxacum officinale subsp. gymnanthum,(Link) Cout.,Fl. Portugal 673. 1913 ,Taraxacum,,Asteraceae Leontodon gymnanthus Link,(Link)
+wfo-1200126784,urn:lsid:ipni.org:names:77398037-1,Hieracium tephrodes subsp. goatyanum,Zahn,Hierac. Alp. Mar. 71. 1916 ,Hieracium,,,
+wfo-1200126786,urn:lsid:ipni.org:names:77398048-1,Hieracium vulgatum subsp. persbergense,(Johanss.) Zahn,"Pflanzenr. IV, 280(Heft 76): 380. 1921 ",Hieracium,,Asteraceae Hieracium persbergense Johanss.,(Johanss.)
+wfo-1200066948,urn:lsid:ipni.org:names:77398051-1,Hieracium dentatum subsp. basiviolaceum,Käser & Zahn,Hieracioth. Eur. 4: 19. 1909 ,Hieracium,,,
+wfo-1200126789,urn:lsid:ipni.org:names:77398055-1,Hieracium carpathicum subsp. subindutoides,Notø,Repert. Spec. Nov. Regni Veg. 39: 373. 1936 ,Hieracium,,,
+wfo-1200099318,urn:lsid:ipni.org:names:77398059-1,Hieracium laevigatum subsp. neolineolatum,Zahn,"Pflanzenr. IV, 280(Heft 79): 873. 1922 ",Hieracium,,,
+wfo-1200066958,urn:lsid:ipni.org:names:77398064-1,Hieracium dentatum subsp. subruncinatiforme,L.Rossi & Zahn,Magyar Bot. Lapok 8: 294. 1910 ,Hieracium,,,
+wfo-1200069271,urn:lsid:ipni.org:names:77398078-1,Hieracium vulgatum subsp. pseudosanguinolentum,Bornm. & Zahn,"Mitth. Thüring. Bot. Vereins n.f., 39: 34. 1930 ",Hieracium,,,
+wfo-1200126791,urn:lsid:ipni.org:names:77398085-1,Reichardia picroides subsp. eu-picroides,Maire,"Cat. Pl. Maroc 3: 85. 1934 , not validly publ.",Reichardia,,,
+wfo-1200126793,urn:lsid:ipni.org:names:77398090-1,Hieracium adriaticum subsp. anisobrachiophorum,Zahn,"Mitth. Thüring. Bot. Vereins n.f., 39: 67. 1930 , nom. illeg. superfl.",Hieracium,,,
+wfo-1200126796,urn:lsid:ipni.org:names:77398102-1,Hieracium leptophyton subsp. bauhinifloriforme,Lengyel & Zahn,Magyar Bot. Lapok 25: 296. 1925 ,Hieracium,,,
+wfo-1200111176,urn:lsid:ipni.org:names:77398106-1,Hieracium amplexicaule subsp. speluncarum,(Arv.-Touv.) Zahn,"Pflanzenr. IV, 280(Heft 77): 726. 1921 ",Hieracium,,Asteraceae Hieracium speluncarum Arv.-Touv.,(Arv.-Touv.)
+wfo-1200126797,urn:lsid:ipni.org:names:77398110-1,Hieracium saxifragum subsp. freibergianum,(Zahn) Zahn,"Pflanzenr. IV, 280(Heft 75): 247. 1921 ",Hieracium,,,(Zahn)
+wfo-1200126799,urn:lsid:ipni.org:names:77398114-1,Hieracium nigrescens subsp. lamprodes,(Dahlst.) Zahn,"Pflanzenr. IV, 280(Heft 77): 645. 1921 ",Hieracium,,Asteraceae Hieracium lamprodes Dahlst.,(Dahlst.)
+wfo-1200126802,urn:lsid:ipni.org:names:77398136-1,Hieracium murorum subsp. paridens,Dahlst. ex Zahn,"Pflanzenr. IV, 280(Heft 76): 326. 1921 ",Hieracium,,,
+wfo-1200126807,urn:lsid:ipni.org:names:77398142-1,Hieracium hyperboreum subsp. subhyperboreum,Peter,Flora 46: 240. 1883 ,Hieracium,,,
+wfo-1200126808,urn:lsid:ipni.org:names:77398143-1,Hieracium bifidum subsp. festiviforme,(Dahlst. ex Notø) Zahn,"Pflanzenr. IV, 280(Heft 76): 419. 1921 ",Hieracium,,Asteraceae Hieracium festiviforme Dahlst. ex Notø,(Dahlst. ex Notø)
+wfo-1200126809,urn:lsid:ipni.org:names:77398149-1,Taraxacum dens-leonis subsp. palustre,(Lyons) R.C.V.Douin,Fl. Ill. France 6: 78. 1923 ,Taraxacum,,Asteraceae Leontodon palustris Lyons,(Lyons)
+wfo-1200099325,urn:lsid:ipni.org:names:77398150-1,Hieracium bifidum subsp. glaucinifrons,Zahn,"Pflanzenr. IV, 280(Heft 76): 425. 1921 ",Hieracium,,,
+wfo-1200110952,urn:lsid:ipni.org:names:77398151-1,Hieracium laevigatum subsp. semigothicum,Zahn,"Pflanzenr. IV, 280(Heft 77): 861. 1921 ",Hieracium,,,
+wfo-1200126811,urn:lsid:ipni.org:names:77398160-1,Hieracium sulphureum subsp. glogaviense,Nägeli & Peter,Hierac. Mitt.-Eur. 1: 652. 1885 ,Hieracium,,,
+wfo-1200126813,urn:lsid:ipni.org:names:77398167-1,Hieracium murorum subsp. subulatidens,(Dahlst.) Zahn,"Pflanzenr. IV, 280(Heft 76): 318. 1921 ",Hieracium,,Asteraceae Hieracium subulatidens Dahlst.,(Dahlst.)
+wfo-1200126816,urn:lsid:ipni.org:names:77398176-1,Hieracium zizianum subsp. actinanthoides,Zahn,"Pflanzenr. IV, 280(Heft 82): 1488. 1923 ",Hieracium,,,
+wfo-1200126818,urn:lsid:ipni.org:names:77398181-1,Hieracium murorum subsp. nuoliense,(Johanss.) Zahn,"Pflanzenr. IV, 280(Heft 76): 302. 1921 ",Hieracium,,Asteraceae Hieracium nuoliense Johanss.,(Johanss.)
+wfo-1200099132,urn:lsid:ipni.org:names:77398182-1,Hieracium murorum subsp. cyclum,Dahlst. ex Zahn,"Pflanzenr. IV, 280(Heft 76): 292. 1921 ",Hieracium,,,
+wfo-1200099323,urn:lsid:ipni.org:names:77398185-1,Hieracium bifidum subsp. tephrinum,Dahlst. ex Zahn,"Pflanzenr. IV, 280(Heft 76): 419. 1921 ",Hieracium,,,
+wfo-1200126824,urn:lsid:ipni.org:names:77398204-1,Hieracium nigrescens subsp. polymelinum,(Johanss.) Zahn,"Pflanzenr. IV, 280(Heft 77): 657. 1921 ",Hieracium,,Asteraceae Hieracium polymelinum Johanss.,(Johanss.)
+wfo-1200067203,urn:lsid:ipni.org:names:77398214-1,Hieracium murorum subsp. oegocladomorphum,Schwimmer & Zahn,Sonderschr. Naturwiss. Kommiss. Vorarlb. Landesmus. 5: 23. 1928 ,Hieracium,,,
+wfo-1200126827,urn:lsid:ipni.org:names:77398220-1,Hieracium apatelium subsp. carpathorum,Zahn,"Pflanzenr. IV, 280(Heft 82): 1302. 1923 ",Hieracium,,,
+wfo-1200126830,urn:lsid:ipni.org:names:77398224-1,Hieracium subcaesium subsp. subscalenum,(Norrl.) H.Lindb.,Enum. Pl. Fennoscandia 67. 1901 ,Hieracium,,Asteraceae Hieracium subscalenum Norrl.,(Norrl.)
+wfo-1200111205,urn:lsid:ipni.org:names:77398232-1,Hieracium inuloides subsp. lasiophyton,(Omang) Zahn,"Pflanzenr. IV, 280(Heft 79): 901. 1922 ",Hieracium,,Asteraceae Hieracium lasiophyton Omang,(Omang)
+wfo-1200126834,urn:lsid:ipni.org:names:77398233-1,Lactuca scariola subsp. augustanae,(Rchb. ex Nyman) Arcang.,Comp. Fl. Ital. 424. 1882 ,Lactuca,,Asteraceae Lactuca augustana Rchb. ex Nyman,(Rchb. ex Nyman)
+wfo-1200126835,urn:lsid:ipni.org:names:77398234-1,Lactuca lessertiana subsp. lyrata,(Decne.) Stebbins,Bull. Jard. Bot. État Bruxelles 14: 240. 1936 ,Lactuca,,Asteraceae Melanoseris lyrata Decne.,(Decne.)
+wfo-1200126836,urn:lsid:ipni.org:names:77398239-1,Hieracium bifidum subsp. subvariatum,Zahn,"Pflanzenr. IV, 280(Heft 76): 412. 1921 ",Hieracium,,,
+wfo-1200126839,urn:lsid:ipni.org:names:77398244-1,Hieracium saxatile subsp. candidum,(Scheele) Nyman,Consp. Fl. Eur. 449. 1879 ,Hieracium,,Asteraceae Hieracium candidum Scheele,(Scheele)
+wfo-1200098870,urn:lsid:ipni.org:names:77398250-1,Hieracium umbelliferum subsp. semicymigerum,Zahn,Spisok Rast. Gerb. Russk. Fl. Bot. Muz. Imp. Akad. Nauk 6: 93. 1908 ,Hieracium,,,
+wfo-1200126842,urn:lsid:ipni.org:names:77398256-1,Hieracium murorum subsp. praejuranum,Zahn,Syn. Mitteleur. Fl. 12(2): 430. 1931 ,Hieracium,,,
+wfo-1200126843,urn:lsid:ipni.org:names:77398259-1,Hieracium cerinthoides subsp. ramosum,(Jord. ex Boreau) Sudre,Hierac. Centr. France 93. 1902 ,Hieracium,,,(Jord. ex Boreau)
+wfo-1200126844,urn:lsid:ipni.org:names:77398272-1,Hieracium atratum subsp. personatiforme,(Dahlst.) Zahn,"Pflanzenr. IV, 280(Heft 77): 670. 1921 ",Hieracium,,Asteraceae Hieracium personatiforme Dahlst.,(Dahlst.)
+wfo-1200126846,urn:lsid:ipni.org:names:77398280-1,Hieracium murorum subsp. canisquamatum,Zahn,"Pflanzenr. IV, 280(Heft 76): 319. 1921 ",Hieracium,,,
+wfo-1200126847,urn:lsid:ipni.org:names:77398281-1,Hieracium cirsiifolium subsp. ensifolium,Norrl.,"Ann. Acad. Sci. Fenn., Ser. A 27A(6): 50. 1928 ",Hieracium,,,
+wfo-1200126856,urn:lsid:ipni.org:names:77398304-1,Hieracium maculatum subsp. pseudarenarium,(Touton) Zahn,Syn. Mitteleur. Fl. 12(2): 512. 1934 ,Hieracium,,,(Touton)
+wfo-1200067428,urn:lsid:ipni.org:names:77398305-1,Hieracium valdepilosum subsp. pseudoglabrescens,J.Vetter & Zahn,Syn. Mitteleur. Fl. 12(2): 183. 1931 ,Hieracium,,,
+wfo-1200099464,urn:lsid:ipni.org:names:77398320-1,Hieracium schmidtii subsp. chlorolepium,Dahlst.,Bot. Tidsskr. 22: 206. 1899 ,Hieracium,,,
+wfo-1200111110,urn:lsid:ipni.org:names:77398333-1,Hieracium sparsum subsp. sublubricicaule,Nyár. & Zahn,Bul. Grad. Bot. Univ. Cluj 8: 67. 1929 ,Hieracium,,,
+wfo-1200126864,urn:lsid:ipni.org:names:77398335-1,Hieracium triangulare subsp. euscepanum,(Omang) Zahn,"Pflanzenr. IV, 280(Heft 76): 390. 1921 ",Hieracium,,Asteraceae Hieracium euscepanum Omang,(Omang)
+wfo-1200126865,urn:lsid:ipni.org:names:77398340-1,Hieracium bifidum subsp. pseudopoliocranum,(Notø) Zahn,"Pflanzenr. IV, 280(Heft 76): 419. 1921 ",Hieracium,,Asteraceae Hieracium pseudopoliocranum Notø,(Notø)
+wfo-1200126867,urn:lsid:ipni.org:names:77398351-1,Hieracium subcaesium subsp. prolixum,(Norrl.) H.Lindb.,Enum. Pl. Fennoscandia 67. 1901 ,Hieracium,,Asteraceae Hieracium prolixum Norrl.,(Norrl.)
+wfo-1200126869,urn:lsid:ipni.org:names:77398353-1,Hieracium vulgatum subsp. clevense,Höppner & Touton,Jahrb. Nassauischen Vereins Naturk. 80(2): 158. 1929 ,Hieracium,,,
+wfo-1200069015,urn:lsid:ipni.org:names:77398359-1,Hypochaeris aethnensis subsp. depressa,(Viv.) Arcang.,Comp. Fl. Ital. 415. 1882 ,Hypochaeris,,Asteraceae Seriola depressa Viv.,(Viv.)
+wfo-1200098651,urn:lsid:ipni.org:names:77398363-1,Hieracium fuscum subsp. chrysanthes,Nägeli & Peter,Hierac. Mitt.-Eur. 1: 366. 1885 ,Hieracium,,,
+wfo-1200126871,urn:lsid:ipni.org:names:77398372-1,Hieracium levicaule subsp. cinericeps,(Brenner) Zahn,"Pflanzenr. IV, 280(Heft 76): 396. 1921 ",Hieracium,,Asteraceae Hieracium cinericeps Brenner,(Brenner)
+wfo-1200126872,urn:lsid:ipni.org:names:77398375-1,Hieracium murorum subsp. plurisinuosum,Zahn,"Pflanzenr. IV, 280(Heft 76): 335. 1921 ",Hieracium,,,
+wfo-1200111158,urn:lsid:ipni.org:names:77398385-1,Hieracium praecox subsp. pallidulum,(Boreau) Zahn,"Pflanzenr. IV, 280(Heft 75): 242. 1921 ",Hieracium,,Asteraceae Hieracium pallidulum Boreau,(Boreau)
+wfo-1200111102,urn:lsid:ipni.org:names:77398397-1,Hieracium tommasinii subsp. adenothyrsum,Sagorski & Zahn,Magyar Bot. Lapok 6: 223. 1907 ,Hieracium,,,
+wfo-1200099431,urn:lsid:ipni.org:names:77398401-1,Hieracium sylvaticum subsp. subreniforme,Degen & Zahn,"Pflanzenr. IV, 280(Heft 76): 312. 1921 ",Hieracium,,,
+wfo-1200126878,urn:lsid:ipni.org:names:77398404-1,Hieracium norvegicum subsp. haploschemon,Omang,Nyt Mag. Naturvidensk. 46: 425. 1908 ,Hieracium,,,
+wfo-1200126879,urn:lsid:ipni.org:names:77398405-1,Hieracium laevigatum subsp. lemkei,Zahn,Syn. Mitteleur. Fl. 12(3): 450. 1937 ,Hieracium,,,
+wfo-1200067360,urn:lsid:ipni.org:names:77398409-1,Hieracium schmidtii subsp. residuum,Norrl.,Suom. Kasvio ed. 5: 684. 1906 ,Hieracium,,,
+wfo-1200126883,urn:lsid:ipni.org:names:77398417-1,Hieracium tauschii subsp. pseudochrocephalum,Gerstl. & Zahn,Syn. Mitteleur. Fl. 12(1): 446. 1930 ,Hieracium,,,
+wfo-1200126885,urn:lsid:ipni.org:names:77398424-1,Hieracium cernuiforme subsp. piscinae,Zahn,Notizbl. Bot. Gart. Berlin-Dahlem 9: 410. 1925 ,Hieracium,,,
+wfo-1200067187,urn:lsid:ipni.org:names:77398432-1,Hieracium murorum subsp. macrobifidiforme,Schack & Zahn,"Mitth. Thüring. Bot. Vereins n.f., 39: 16. 1930 ",Hieracium,,,
+wfo-1200099212,urn:lsid:ipni.org:names:77398444-1,Hieracium depilatum subsp. subdepilatum,Dahlst. ex Zahn,"Pflanzenr. IV, 280(Heft 77): 841. 1921 ",Hieracium,,,
+wfo-1200126894,urn:lsid:ipni.org:names:77398451-1,Hieracium levicaule subsp. leptaeolum,(Omang) Zahn,"Pflanzenr. IV, 280(Heft 76): 395. 1921 ",Hieracium,,Asteraceae Hieracium leptaeolum Omang,(Omang)
+wfo-1200126895,urn:lsid:ipni.org:names:77398454-1,Hieracium lindebergii subsp. nuduliforme,(Dahlst.) Zahn,"Pflanzenr. IV, 280(Heft 75): 277. 1921 ",Hieracium,,Asteraceae Hieracium nuduliforme Dahlst.,(Dahlst.)
+wfo-1200126896,urn:lsid:ipni.org:names:77398459-1,Hieracium caesium subsp. fastigiellum,Zahn,"Pflanzenr. IV, 280(Heft 76): 454. 1921 ",Hieracium,,,
+wfo-1200111556,urn:lsid:ipni.org:names:77398465-1,Youngia japonica subsp. genuina,(Hochr.) Babc. & Stebbins,"Publ. Carnegie Inst. Wash. 484: 95. 1937 , not validly publ.",Youngia,,,(Hochr.)
+wfo-1200068969,urn:lsid:ipni.org:names:77398467-1,Andryala rothia subsp. ficalhoana,(Daveau) Rouy,Bull. Soc. Bot. France 35: 120. 1888 ,Andryala,,Asteraceae Andryala ficalheana Daveau,(Daveau)
+wfo-1200126899,urn:lsid:ipni.org:names:77398473-1,Hieracium alpinum subsp. pumilum,Gaudin,Fl. Helv. 5: 67. 1829 ,Hieracium,,,
+wfo-1200126901,urn:lsid:ipni.org:names:77398476-1,Hieracium bifurcum subsp. pachycladum,Peter,Bot. Jahrb. Syst. 5: 275. 1884 ,Hieracium,,,
+wfo-1200126902,urn:lsid:ipni.org:names:77398479-1,Hieracium murorum subsp. papillosum,(Johanss.) Zahn,"Pflanzenr. IV, 280(Heft 76): 297. 1921 ",Hieracium,,Asteraceae Hieracium papillosum Johanss.,(Johanss.)
+wfo-1200067324,urn:lsid:ipni.org:names:77398480-1,Hieracium pseudobifidum subsp. grebenicum,J.Scheff. & Zahn,Repert. Spec. Nov. Regni Veg. 38: 351. 1935 ,Hieracium,,,
+wfo-1200126903,urn:lsid:ipni.org:names:77398487-1,Hieracium angustatum subsp. coarctatum,Zahn,"Pflanzenr. IV, 280(Heft 76): 470. 1921 ",Hieracium,,,
+wfo-1200126905,urn:lsid:ipni.org:names:77398492-1,Hieracium nigrescens subsp. cirrostylum,(Omang) Zahn,"Pflanzenr. IV, 280(Heft 77): 638. 1921 ",Hieracium,,Asteraceae Hieracium cirrostylum Omang,(Omang)
+wfo-1200126906,urn:lsid:ipni.org:names:77398493-1,Hieracium murorum subsp. pseudocanipes,(Dahlst. ex Omang) Zahn,"Pflanzenr. IV, 280(Heft 76): 336. 1921 ",Hieracium,,Asteraceae Hieracium pseudocanipes Dahlst. ex Omang,(Dahlst. ex Omang)
+wfo-1200126907,urn:lsid:ipni.org:names:77398498-1,Hieracium murorum subsp. rhacophyllum,(Omang) Zahn,"Pflanzenr. IV, 280(Heft 76): 336. 1921 ",Hieracium,,Asteraceae Hieracium rhacophyllum Omang,(Omang)
+wfo-1200126910,urn:lsid:ipni.org:names:77398504-1,Tragopogon porrifolius subsp. angustifolium,(Bellardi ex Willd.) R.C.V.Douin,Fl. Ill. France 6: 75. 1923 ,Tragopogon,,Asteraceae Tragopogon angustifolius Bellardi ex Willd.,(Bellardi ex Willd.)
+wfo-1200067064,urn:lsid:ipni.org:names:77398511-1,Hieracium lachenalii subsp. gleitschense,Schack & Zahn,"Mitth. Thüring. Bot. Vereins n.f., 41: 90. 1933 ",Hieracium,,,
+wfo-1200126913,urn:lsid:ipni.org:names:77398513-1,Hieracium levicaule subsp. parvuliceps,(Brenner) Zahn,"Pflanzenr. IV, 280(Heft 76): 406. 1921 ",Hieracium,,Asteraceae Hieracium parvuliceps Brenner,(Brenner)
+wfo-1200126916,urn:lsid:ipni.org:names:77398520-1,Hieracium angustatum subsp. melanostictum,Dahlst. ex Zahn,"Pflanzenr. IV, 280(Heft 76): 472. 1921 ",Hieracium,,,
+wfo-1200099114,urn:lsid:ipni.org:names:77398523-1,Hieracium caesium subsp. subverniferum,Dahlst. & Enander ex Zahn,"Pflanzenr. IV, 280(Heft 76): 455. 1921 ",Hieracium,,,
+wfo-1200126917,urn:lsid:ipni.org:names:77398524-1,Hieracium eriocerinthe subsp. candidum,(Scheele) H.J.Coste,Fl. Descr. France 3: 723. 1906 ,Hieracium,,Asteraceae Hieracium candidum Scheele,(Scheele)
+wfo-1200126920,urn:lsid:ipni.org:names:77398533-1,Hieracium piloselliflorum subsp. kirrophyllum,Rehmann,Verh. K. K. Zool. Bot. Ges. Wien 47: 304. 1897 ,Hieracium,,,
+wfo-1200126924,urn:lsid:ipni.org:names:77398540-1,Hieracium zizianum subsp. postdiluviale,Nägeli & Peter,Hierac. Mitt.-Eur. 1: 722. 1885 ,Hieracium,,,
+wfo-1200110947,urn:lsid:ipni.org:names:77398550-1,Hieracium sylvaticum subsp. oxylepium,Dahlst.,"Kongl. Svenska Vetensk. Acad. Handl. n.f., 25(3): 47. 1893 ",Hieracium,,,
+wfo-1200126929,urn:lsid:ipni.org:names:77398554-1,Hieracium sciadophorum subsp. ignotum,Nägeli & Peter,Hierac. Mitt.-Eur. 1: 441. 1885 ,Hieracium,,,
+wfo-1200067073,urn:lsid:ipni.org:names:77398559-1,Hieracium lachenalii subsp. schellenbergense,F.Feurstein & Zahn,Syn. Mitteleur. Fl. 12(2): 573. 1934 ,Hieracium,,,
+wfo-1200126935,urn:lsid:ipni.org:names:77398569-1,Hieracium praemorsum subsp. racemosum,Gaudin,Fl. Helv. 5: 122. 1829 ,Hieracium,,,
+wfo-1200126936,urn:lsid:ipni.org:names:77398577-1,Hieracium subramosum subsp. sublaeticeps,(Dahlst. ex Johanss.) Zahn,"Pflanzenr. IV, 280(Heft 76): 464. 1921 ",Hieracium,,Asteraceae Hieracium sublaeticeps Dahlst. ex Johanss.,(Dahlst. ex Johanss.)
+wfo-1200126939,urn:lsid:ipni.org:names:77398591-1,Hieracium sagittatum subsp. kvaenangense,(Dahlst. ex Notø) Zahn,"Pflanzenr. IV, 280(Heft 76): 344. 1921 ",Hieracium,,Asteraceae Hieracium kvaenangense Dahlst. ex Notø,(Dahlst. ex Notø)
+wfo-1200126941,urn:lsid:ipni.org:names:77398602-1,Hieracium carpathicum subsp. glaucopallidulum,(Johanss. & Sam.) Zahn,"Pflanzenr. IV, 280(Heft 82): 1556. 1923 ",Hieracium,,Asteraceae Hieracium glaucopallidulum Johanss. & Sam.,(Johanss. & Sam.)
+wfo-1200126942,urn:lsid:ipni.org:names:77398605-1,Hieracium fallacinum subsp. meringophoroides,Bornm. & Zahn,Syn. Mitteleur. Fl. 12(1): 462. 1930 ,Hieracium,,,
+wfo-1200126943,urn:lsid:ipni.org:names:77398606-1,Hieracium murorum subsp. sparsellidens,Zahn,"Pflanzenr. IV, 280(Heft 76): 326. 1921 ",Hieracium,,,
+wfo-1200126945,urn:lsid:ipni.org:names:77398614-1,Hieracium × canum subsp. pastum,Nägeli & Peter,Hierac. Mitt.-Eur. 1: 439. 1885 ,Hieracium,,,
+wfo-1200126948,urn:lsid:ipni.org:names:77398632-1,Hieracium vulgatum subsp. flaccidum,Brenner,Onega-Karel. Veget. 23. 1871 ,Hieracium,,,
+wfo-1200126949,urn:lsid:ipni.org:names:77398635-1,Hieracium × canum subsp. polianthes,Nägeli & Peter,Hierac. Mitt.-Eur. 1: 429. 1885 ,Hieracium,,,
+wfo-1200126950,urn:lsid:ipni.org:names:77398638-1,Hieracium piloselliflorum subsp. striiferum,Nägeli & Peter,Hierac. Mitt.-Eur. 1: 708. 1885 ,Hieracium,,,
+wfo-1200110783,urn:lsid:ipni.org:names:77398642-1,Hieracium schultesii subsp. austrobohemicum,Zahn,Syn. Mitteleur. Fl. 12(1): 97. 1924 ,Hieracium,,,
+wfo-1200126955,urn:lsid:ipni.org:names:77398651-1,Hieracium nigrescens subsp. confluens,(Norrl.) Zahn,"Pflanzenr. IV, 280(Heft 77): 647. 1921 ",Hieracium,,Asteraceae Hieracium confluens Norrl.,(Norrl.)
+wfo-1200099247,urn:lsid:ipni.org:names:77398657-1,Hieracium murorum subsp. pertenuatum,Dahlst. ex Zahn,"Pflanzenr. IV, 280(Heft 76): 333. 1921 ",Hieracium,,,
+wfo-1200126958,urn:lsid:ipni.org:names:77398659-1,Hieracium caesium subsp. dimorpholepium,Dahlst. ex Zahn,"Pflanzenr. IV, 280(Heft 76): 454. 1921 ",Hieracium,,,
+wfo-1200126959,urn:lsid:ipni.org:names:77398660-1,Hieracium vulgatum subsp. muscynae,Zahn,"Pflanzenr. IV, 280(Heft 76): 389. 1921 ",Hieracium,,,
+wfo-1200126960,urn:lsid:ipni.org:names:77398662-1,Hieracium nigrescens subsp. pseudotransiens,Dahlst. ex Zahn,"Pflanzenr. IV, 280(Heft 77): 665. 1921 ",Hieracium,,,
+wfo-1200067166,urn:lsid:ipni.org:names:77398668-1,Hieracium murorum subsp. diaphanoneurum,T.Georgiev & Zahn,Izv. Bulg. Bot. Družh. 4: 81. 1931 ,Hieracium,,,
+wfo-1200067350,urn:lsid:ipni.org:names:77398671-1,Hieracium rupicoliforme subsp. bellacristae,Zahn,"Pflanzenr. IV, 280(Heft 76): 521. 1921 ",Hieracium,,,
+wfo-1200126961,urn:lsid:ipni.org:names:77398673-1,Hieracium vulgatum subsp. basipinnatifidum,Zahn,Magyar Bot. Lapok 25: 340. 1927 ,Hieracium,,,
+wfo-1200126964,urn:lsid:ipni.org:names:77398682-1,Hieracium paragogum subsp. phalacrodes,Zahn,"Pflanzenr. IV, 280(Heft 82): 1471. 1923 ",Hieracium,,,
+wfo-1200098784,urn:lsid:ipni.org:names:77398685-1,Hieracium auriculoides subsp. kandawanicum,Rech.f. & Zahn,Repert. Spec. Nov. Regni Veg. 48: 157. 1940 ,Hieracium,,,
+wfo-1200067316,urn:lsid:ipni.org:names:77398686-1,Hieracium prenanthoides subsp. trichocynanchoides,Zahn,Hierac. Alp. Mar. 278. 1916 ,Hieracium,,,
+wfo-1200127267,urn:lsid:ipni.org:names:77398690-1,Hieracium scorzonerifolium subsp. flexile,B.Kotula,Distr. Pl. Vasc. Tatr. 351. 1890 ,Hieracium,,,
+wfo-1200126966,urn:lsid:ipni.org:names:77398694-1,Hieracium florentinum subsp. subexcedens,Unknown,"Pflanzenr. IV, 280: 1398. 1923 ",Hieracium,,,
+wfo-1200111269,urn:lsid:ipni.org:names:77398704-1,Hieracium pallidum subsp. rupicola,(Jord.) Zahn,"Pflanzenr. IV, 280(Heft 75): 225. 1921 ",Hieracium,,Asteraceae Hieracium rupicola Jord.,(Jord.)
+wfo-1200126968,urn:lsid:ipni.org:names:77398709-1,Hieracium × canum subsp. catoschistum,Nägeli & Peter,Hierac. Mitt.-Eur. 1: 433. 1885 ,Hieracium,,,
+wfo-1200066915,urn:lsid:ipni.org:names:77398715-1,Hieracium carpathicum subsp. parvifolium,Zahn,"Pflanzenr. IV, 280(Heft 77): 817. 1921 ",Hieracium,,,
+wfo-1200126970,urn:lsid:ipni.org:names:77398716-1,Hieracium laevigatum subsp. corvipedifolium,Zahn,"Pflanzenr. IV, 280(Heft 79): 886. 1922 ",Hieracium,,,
+wfo-1200126974,urn:lsid:ipni.org:names:77398732-1,Hieracium villosum subsp. chloropsis,(Gren. & Godr.) Bonnier,Fl. Ill. France 7: 20. 1924 ,Hieracium,,Asteraceae Hieracium chloropsis Gren. & Godr.,(Gren. & Godr.)
+wfo-1200127271,urn:lsid:ipni.org:names:77398740-1,Leontodon hastilis subsp. hispidus,(L.) Čelak.,"Prodr. Fl. Böhmen 213. 1871 , nom. illeg. homonym. post.",Leontodon,,Asteraceae Leontodon hispidus L.,(L.)
+wfo-1200126979,urn:lsid:ipni.org:names:77398749-1,Hieracium norvegicum subsp. pseudonosmoides,S.Bräut. & V.Bräut.,"Ber. Arbeitsgem. Sächs. Bot. n.f., 8: 136. 1967 ",Hieracium,,,
+wfo-1200066849,urn:lsid:ipni.org:names:77398750-1,Hieracium bifidum subsp. pseudocardiobasis,Korb & Zahn,Magyar Bot. Lapok 25: 352. 1927 ,Hieracium,,,
+wfo-1200067234,urn:lsid:ipni.org:names:77398754-1,Hieracium murorum subsp. sericipes,Zahn,"Pflanzenr. IV, 280(Heft 76): 305. 1921 ",Hieracium,,,
+wfo-1200126981,urn:lsid:ipni.org:names:77398759-1,Hieracium × misancinum subsp. wallimannii,Käser & Zahn,Ber. Schweiz. Bot. Ges. 37: 178. 1928 ,Hieracium,,,
+wfo-1200126983,urn:lsid:ipni.org:names:77398770-1,Taraxacum dens-leonis subsp. salsugineum,(Lamotte) R.C.V.Douin,Fl. Ill. France 6: 78. 1923 ,Taraxacum,,Asteraceae Taraxacum salsugineum Lamotte,(Lamotte)
+wfo-1200111148,urn:lsid:ipni.org:names:77398780-1,Hieracium praecox subsp. piroloidiforme,Korb & Zahn,Syn. Mitteleur. Fl. 12(2): 307. 1931 ,Hieracium,,,
+wfo-1200126986,urn:lsid:ipni.org:names:77398782-1,Hieracium murorum subsp. sagittiferum,Zahn,"Pflanzenr. IV, 280(Heft 76): 327. 1921 ",Hieracium,,,
+wfo-1200126989,urn:lsid:ipni.org:names:77398795-1,Hieracium caesium subsp. setosifolium,(Brenner) Zahn,"Pflanzenr. IV, 280(Heft 76): 446. 1921 ",Hieracium,,Asteraceae Hieracium setosifolium Brenner,(Brenner)
+wfo-1200126991,urn:lsid:ipni.org:names:77398797-1,Hieracium rupicola subsp. lasiophyllum,(W.D.J.Koch) Bonnier,"Fl. Ill. France 7: 21. 1924 , nom. illeg. homonym. post.",Hieracium,,Asteraceae Hieracium lasiophyllum W.D.J.Koch,(W.D.J.Koch)
+wfo-1200126992,urn:lsid:ipni.org:names:77398800-1,Hieracium valdepilosum subsp. pseudoelongatum,Nägeli & Peter,Hierac. Mitt.-Eur. 2: 215. 1886 ,Hieracium,,,
+wfo-1200099201,urn:lsid:ipni.org:names:77398802-1,Hieracium laevigatum subsp. grandescens,Dahlst. ex Zahn,"Pflanzenr. IV, 280(Heft 79): 873. 1922 ",Hieracium,,,
+wfo-1200111208,urn:lsid:ipni.org:names:77398811-1,Hieracium inuloides subsp. hirtellum,(Lindeb.) Zahn,"Pflanzenr. IV, 280(Heft 79): 906. 1922 ",Hieracium,,Asteraceae Hieracium hirtellum Lindeb.,(Lindeb.)
+wfo-1200126998,urn:lsid:ipni.org:names:77398817-1,Hieracium caesium subsp. varianum,(Johanss.) Zahn,"Pflanzenr. IV, 280(Heft 76): 453. 1921 ",Hieracium,,Asteraceae Hieracium varianum Johanss.,(Johanss.)
+wfo-1200067150,urn:lsid:ipni.org:names:77398818-1,Hieracium murorum subsp. biauanum,Zahn,Syn. Mitteleur. Fl. 12(2): 441. 1931 ,Hieracium,,,
+wfo-1200127002,urn:lsid:ipni.org:names:77398838-1,Hieracium crocatum subsp. condylodes,(Brenner) H.Lindb.,Enum. Pl. Fennoscandia 70. 1901 ,Hieracium,,Asteraceae Hieracium condylodes Brenner,(Brenner)
+wfo-1200127003,urn:lsid:ipni.org:names:77398847-1,Hieracium subrigidum subsp. macrotonum,(Dahlst.) Zahn,"Pflanzenr. IV, 280(Heft 76): 525. 1921 ",Hieracium,,Asteraceae Hieracium macrotonum Dahlst.,(Dahlst.)
+wfo-1200110796,urn:lsid:ipni.org:names:77398863-1,Hieracium floribundum subsp. stenomacellatum,Zahn,Syn. Mitteleur. Fl. 12(1): 189. 1929 ,Hieracium,,,
+wfo-1200127007,urn:lsid:ipni.org:names:77398866-1,Hieracium lycopifolium subsp. cantalicum,(Arv.-Touv.) Rouy,Fl. France 9: 413. 1905 ,Hieracium,,Asteraceae Hieracium cantalicum Arv.-Touv.,(Arv.-Touv.)
+wfo-1200110901,urn:lsid:ipni.org:names:77398874-1,Hieracium anfractum subsp. atronitens,Dahlst.,"Kongl. Svenska Vetensk. Acad. Handl. n.f., 26(3): 158. 1894 ",Hieracium,,,
+wfo-1200127010,urn:lsid:ipni.org:names:77398878-1,Hieracium alpinum subsp. piliferum,(Arcang.) Bonnier & Layens,Tabl. Syn. Pl. Vasc. France 194. 1894 ,Hieracium,,,(Arcang.)
+wfo-1200127014,urn:lsid:ipni.org:names:77398887-1,Hieracium vulgatum subsp. pseudeuroum,Murr & Zahn,Oesterr. Bot. Z. 53: 426. 1903 ,Hieracium,,,
+wfo-1200127015,urn:lsid:ipni.org:names:77398888-1,Hieracium caesium subsp. deltoideum,(Brenner) Zahn,"Pflanzenr. IV, 280(Heft 76): 438. 1921 ",Hieracium,,Asteraceae Hieracium deltoideum Brenner,(Brenner)
+wfo-1200099025,urn:lsid:ipni.org:names:77398895-1,Hieracium sylvaticum subsp. subcrassum,Dahlst.,Exsicc. (Hieracia) 2: n.° 36. 1889 ,Hieracium,,,
+wfo-1200127022,urn:lsid:ipni.org:names:77398912-1,Hieracium kalsoense subsp. leucograptum,(Dahlst.) Zahn,"Pflanzenr. IV, 280(Heft 75): 188. 1921 ",Hieracium,,Asteraceae Hieracium leucograptum Dahlst.,(Dahlst.)
+wfo-1200127023,urn:lsid:ipni.org:names:77398913-1,Hieracium lachenalii subsp. uncinatidens,(Touton) Zahn,Syn. Mitteleur. Fl. 12(2): 549. 1934 ,Hieracium,,,(Touton)
+wfo-1200127024,urn:lsid:ipni.org:names:77398915-1,Hieracium pannonicum subsp. polytilum,Nägeli & Peter,Hierac. Mitt.-Eur. 1: 754. 1885 ,Hieracium,,,
+wfo-1200127025,urn:lsid:ipni.org:names:77398933-1,Hieracium piloselliflorum subsp. paxii,Nägeli & Peter,Hierac. Mitt.-Eur. 1: 709. 1885 ,Hieracium,,,
+wfo-1200099076,urn:lsid:ipni.org:names:77398939-1,Hieracium laevigatum subsp. perlongum,Dahlst. ex Zahn,"Pflanzenr. IV, 280(Heft 79): 887. 1922 ",Hieracium,,,
+wfo-1200066984,urn:lsid:ipni.org:names:77398940-1,Hieracium dollineri subsp. pseudaustriacum,Zahn,"Pflanzenr. IV, 280(Heft 75): 65. 1921 ",Hieracium,,,
+wfo-1200099674,urn:lsid:ipni.org:names:77398941-1,Hieracium glanduliferum subsp. piliferum,Arcang.,Comp. Fl. Ital. 439. 1882 ,Hieracium,,,
+wfo-1200127027,urn:lsid:ipni.org:names:77398944-1,Hieracium bifidum subsp. subdyscimon,(Notø) Zahn,"Pflanzenr. IV, 280(Heft 76): 417. 1921 ",Hieracium,,Asteraceae Hieracium subdyscimon Notø,(Notø)
+wfo-1200067079,urn:lsid:ipni.org:names:77398946-1,Hieracium laevigatum subsp. callunetorum,Schack & Zahn,Repert. Spec. Nov. Regni Veg. 33: 377. 1934 ,Hieracium,,,
+wfo-1200127031,urn:lsid:ipni.org:names:77398959-1,Hieracium dubium subsp. peckianum,Nägeli & Peter,Hierac. Mitt.-Eur. 1: 711. 1885 ,Hieracium,,,
+wfo-1200127032,urn:lsid:ipni.org:names:77398961-1,Hieracium diaphanoides subsp. canaliculatum,(Brenner) Zahn,"Pflanzenr. IV, 280(Heft 76): 352. 1921 ",Hieracium,,Asteraceae Hieracium canaliculatum Brenner,(Brenner)
+wfo-1200067300,urn:lsid:ipni.org:names:77398972-1,Hieracium praecurrens subsp. megaladenophyes,K.Malý & Zahn,Repert. Spec. Nov. Regni Veg. 38: 296. 1935 ,Hieracium,,,
+wfo-1200127034,urn:lsid:ipni.org:names:77398984-1,Hieracium nigrescens subsp. reichartense,Zahn,Icon. Fl. Germ. Helv. 19(2): 170. 1908 ,Hieracium,,,
+wfo-1200127281,urn:lsid:ipni.org:names:77398993-1,Hieracium caesium subsp. carnosum,(Wiesb.) Zahn,"Pflanzenr. IV, 280(Heft 76): 439. 1921 ",Hieracium,,Asteraceae Hieracium caesium (Fr.) Fr. var. carnosum Wiesb.,(Wiesb.)
+wfo-1200127037,urn:lsid:ipni.org:names:77398997-1,Hieracium laevigatum subsp. centrohelveticum,Zahn,"Pflanzenr. IV, 280(Heft 79): 886. 1922 ",Hieracium,,,
+wfo-1200067265,urn:lsid:ipni.org:names:77399002-1,Hieracium oxyodon subsp. adenoxyodon,Korb & Zahn,Syn. Mitteleur. Fl. 12(2): 47. 1930 ,Hieracium,,,
+wfo-1200099082,urn:lsid:ipni.org:names:77399011-1,Hieracium murorum subsp. stiptadenium,Dahlst. ex Zahn,"Pflanzenr. IV, 280(Heft 76): 333. 1921 ",Hieracium,,,
+wfo-1200127038,urn:lsid:ipni.org:names:77399015-1,Hieracium murorum subsp. savonicum,(Norrl.) Zahn,"Pflanzenr. IV, 280(Heft 76): 325. 1921 ",Hieracium,,Asteraceae Hieracium savonicum Norrl.,(Norrl.)
+wfo-1200127039,urn:lsid:ipni.org:names:77399020-1,Hieracium florentinum subsp. pseudoparcifloccum,Zahn,"Pflanzenr. IV, 280(Heft 82): 1407. 1923 ",Hieracium,,,
+wfo-1200099085,urn:lsid:ipni.org:names:77399022-1,Hieracium caesium subsp. brandelii,Dahlst. ex Zahn,"Pflanzenr. IV, 280(Heft 76): 442. 1921 ",Hieracium,,,
+wfo-1200099148,urn:lsid:ipni.org:names:77399044-1,Hieracium norvegicum subsp. hogdalense,Dahlst. ex Zahn,"Pflanzenr. IV, 280(Heft 75): 279. 1921 ",Hieracium,,,
+wfo-1200067341,urn:lsid:ipni.org:names:77399057-1,Hieracium racemosum subsp. pseudoracemosum,Zahn,Reliq. Forman. 358. 1909 ,Hieracium,,,
+wfo-1200127048,urn:lsid:ipni.org:names:77399062-1,Hieracium murorum subsp. eupseudoblongum,Zahn,"Mitth. Thüring. Bot. Vereins n.f., 39: 13. 1930 ",Hieracium,,,
+wfo-1200127049,urn:lsid:ipni.org:names:77399063-1,Hieracium sagittatum subsp. praepallens,(Dahlst.) Zahn,"Pflanzenr. IV, 280(Heft 76): 347. 1921 ",Hieracium,,,(Dahlst.)
+wfo-1200127050,urn:lsid:ipni.org:names:77399066-1,Hieracium bifidum subsp. subcapnotrichoides,(Notø) Zahn,"Pflanzenr. IV, 280(Heft 76): 419. 1921 ",Hieracium,,Asteraceae Hieracium subcapnotrichoides Notø,(Notø)
+wfo-1200127052,urn:lsid:ipni.org:names:77399072-1,Hieracium bifidum subsp. versifolium,(Brenner) Zahn,"Pflanzenr. IV, 280(Heft 76): 416. 1921 ",Hieracium,,Asteraceae Hieracium versifolium Brenner,(Brenner)
+wfo-1200127053,urn:lsid:ipni.org:names:77399080-1,Hieracium montanum subsp. inops,(Peter) Zahn,"Pflanzenr. IV, 280(Heft 82): 1481. 1923 ",Hieracium,,Asteraceae Hieracium × inops Peter,(Peter)
+wfo-1200066947,urn:lsid:ipni.org:names:77399083-1,Hieracium dacicum subsp. zlatuiae,Nyár. & Zahn,Bul. Grad. Bot. Univ. Cluj 8: 84. 1929 ,Hieracium,,,
+wfo-1200127057,urn:lsid:ipni.org:names:77399087-1,Hieracium × spathophyllum subsp. melanauricula,Zahn,Naturwiss. Z. Lotos 74: 37. 1926 ,Hieracium,,,
+wfo-1200127060,urn:lsid:ipni.org:names:77399096-1,Hieracium × misancinum subsp. gasterenenese,Käser & Zahn,Ber. Schweiz. Bot. Ges. 37: 178. 1928 ,Hieracium,,,
+wfo-1200069285,urn:lsid:ipni.org:names:77399098-1,Hieracium murorum subsp. schackii,Zahn,"Mitth. Thüring. Bot. Vereins n.f., 39: 16. 1930 ",Hieracium,,,
+wfo-1200067183,urn:lsid:ipni.org:names:77399110-1,Hieracium murorum subsp. koserovense,Zahn,Syn. Mitteleur. Fl. 12(2): 398. 1931 ,Hieracium,,,
+wfo-1200127062,urn:lsid:ipni.org:names:77399121-1,Hieracium onosmoides subsp. venustum,(Arv.-Touv.) Arv.-Touv.,Hier. Gall. Hisp. Cat. 297. 1913 ,Hieracium,,Asteraceae Hieracium venustum Arv.-Touv.,(Arv.-Touv.)
+wfo-1200127063,urn:lsid:ipni.org:names:77399122-1,Hieracium rigidum subsp. aboense,Norrl.,Suom. Kasvio ed. 5: 733. 1906 ,Hieracium,,,
+wfo-1200111306,urn:lsid:ipni.org:names:77399126-1,Hieracium pyrenaicum subsp. perclusum,(Arv.-Touv.) Zahn,"Pflanzenr. IV, 280(Heft 79): 994. 1922 ",Hieracium,,Asteraceae Hieracium perclusum Arv.-Touv.,(Arv.-Touv.)
+wfo-1200127064,urn:lsid:ipni.org:names:77399130-1,Hieracium atratum subsp. chalybaeum,(Arv.-Touv.) Rouy,Fl. France 9: 326. 1905 ,Hieracium,,Asteraceae Hieracium chalybaeum Arv.-Touv.,(Arv.-Touv.)
+wfo-1200099420,urn:lsid:ipni.org:names:77399146-1,Hieracium sylvaticum subsp. pseudogentile,Zahn,Veg. Untersees 469. 1911 ,Hieracium,,,
+wfo-1200067025,urn:lsid:ipni.org:names:77399154-1,Hieracium glaucum subsp. turbinatum,Nägeli & Peter,Hierac. Mitt.-Eur. 2: 42. 1886 ,Hieracium,,,
+wfo-1200127067,urn:lsid:ipni.org:names:77399159-1,Hieracium carpathicum subsp. subgemellum,O.Behr,Exsicc. (Hierac. Behr) 1936: n.° 220. ,Hieracium,,,
+wfo-1200127069,urn:lsid:ipni.org:names:77399172-1,Hieracium murorum subsp. pilosuliforume,Zahn,Ned. Kruidk. Arch. 1929: 113. ,Hieracium,,,
+wfo-1200067266,urn:lsid:ipni.org:names:77399179-1,Hieracium oxyodon subsp. almejurense,Zahn,Syn. Mitteleur. Fl. 12(2): 42. 1930 ,Hieracium,,,
+wfo-1200127072,urn:lsid:ipni.org:names:77399180-1,Hieracium gothicum subsp. tenuiramum,Dahlst. & Svanlund,Bot. Not. 1902: 111. ,Hieracium,,,
+wfo-1200067453,urn:lsid:ipni.org:names:77399182-1,Hieracium wilczekianum subsp. romieuxii,Zahn,"Bull. Soc. Bot. Genève sér. 2, 16: 148. 1925 ",Hieracium,,,
+wfo-1200099460,urn:lsid:ipni.org:names:77399188-1,Hieracium sylvaticum subsp. acidotoides,Dahlst.,Bot. Tidsskr. 20: 353. 1896 ,Hieracium,,,
+wfo-1200127074,urn:lsid:ipni.org:names:77399193-1,Hieracium murorum subsp. subsparsidens,(Johanss.) Zahn,"Pflanzenr. IV, 280(Heft 76): 328. 1921 ",Hieracium,,Asteraceae Hieracium subsparsidens Johanss.,(Johanss.)
+wfo-1200127075,urn:lsid:ipni.org:names:77399194-1,Hieracium murorum subsp. autopsis,(Omang) Zahn,"Pflanzenr. IV, 280(Heft 76): 326. 1921 ",Hieracium,,Asteraceae Hieracium autopsis Omang,(Omang)
+wfo-1200066910,urn:lsid:ipni.org:names:77399195-1,Hieracium caesium subsp. volakanum,Rech.f. & Zahn,Bot. Jahrb. Syst. 69: 529. 1939 ,Hieracium,,,
+wfo-1200127076,urn:lsid:ipni.org:names:77399198-1,Hieracium murorum subsp. daniciforme,(Johanss.) Zahn,"Pflanzenr. IV, 280(Heft 76): 332. 1921 ",Hieracium,,Asteraceae Hieracium daniciforme Johanss.,(Johanss.)
+wfo-1200127077,urn:lsid:ipni.org:names:77399199-1,Hieracium lachenalii subsp. perspiculatum,K.Harz & Zahn,Syn. Mitteleur. Fl. 12(2): 565. 1934 ,Hieracium,,,
+wfo-1200127078,urn:lsid:ipni.org:names:77399202-1,Hieracium germanicum subsp. fissicaule,Nägeli & Peter,Hierac. Mitt.-Eur. 1: 730. 1885 ,Hieracium,,,
+wfo-1200066826,urn:lsid:ipni.org:names:77399204-1,Hieracium bifidum subsp. biharicum,Zahn,"Pflanzenr. IV, 280(Heft 76): 408. 1921 ",Hieracium,,,
+wfo-1200127080,urn:lsid:ipni.org:names:77399208-1,Hieracium murorum subsp. pervirens,(Notø) Zahn,"Pflanzenr. IV, 280(Heft 76): 303. 1921 ",Hieracium,,Asteraceae Hieracium pervirens Notø,(Notø)
+wfo-1200127081,urn:lsid:ipni.org:names:77399210-1,Hieracium diaphanoides subsp. batavicum,Zahn,Ned. Kruidk. Arch. 35: 175. 1926 ,Hieracium,,,
+wfo-1200127082,urn:lsid:ipni.org:names:77399215-1,Hieracium murorum subsp. integratifrons,(Johanss.) Zahn,"Pflanzenr. IV, 280(Heft 76): 322. 1921 ",Hieracium,,Asteraceae Hieracium integratifrons Johanss.,(Johanss.)
+wfo-1200127084,urn:lsid:ipni.org:names:77399219-1,Hieracium chlorellum subsp. itharophyton,(Johanss.) Zahn,"Pflanzenr. IV, 280(Heft 76): 391. 1921 ",Hieracium,,Asteraceae Hieracium itharophyton Johanss.,(Johanss.)
+wfo-1200111203,urn:lsid:ipni.org:names:77399221-1,Hieracium corymbosum subsp. episcotum,Omang,Haandb. Norges Fl. 765. 1906 ,Hieracium,,,
+wfo-1200127087,urn:lsid:ipni.org:names:77399227-1,Hieracium auriculiforme subsp. auriculare,(Arv.-Touv. & Faure) Zahn,"Pflanzenr. IV, 280(Heft 82): 1210. 1923 ",Hieracium,,Asteraceae Hieracium auriculare Arv.-Touv. & Faure,(Arv.-Touv. & Faure)
+wfo-1200098698,urn:lsid:ipni.org:names:77399234-1,Hieracium piloselloides subsp. glareicola,(Nägeli & Peter) Zahn,Ill. Fl. Mitt.-Eur. 6: 1231. 1929 ,Hieracium,,Asteraceae Hieracium florentinum All. subsp. glareicola Nägeli & Peter,(Nägeli & Peter)
+wfo-1200098831,urn:lsid:ipni.org:names:77399236-1,Hieracium umbelliferum subsp. babunae,Bornm. & Zahn,Repert. Spec. Nov. Regni Veg. 16: 181. 1919 ,Hieracium,,,
+wfo-1200127091,urn:lsid:ipni.org:names:77399241-1,Hieracium bifurcum subsp. praticola,Tausch ex Nägeli & Peter,Hierac. Mitt.-Eur. 1: 510. 1885 ,Hieracium,,,
+wfo-1200117688,urn:lsid:ipni.org:names:77399242-1,Hieracium murorum subsp. tenebricosum,(Dahlst.) Zahn,"Pflanzenr. IV, 280(Heft 76): 332. 1921 ",Hieracium,,Asteraceae Hieracium tenebricosum Dahlst.,(Dahlst.)
+wfo-1200127092,urn:lsid:ipni.org:names:77399243-1,Hieracium pratense subsp. pseudoboicum,Höppner & Touton,Jahrb. Nassauischen Vereins Naturk. 80(2): 134. 1929 ,Hieracium,,,
+wfo-1200067220,urn:lsid:ipni.org:names:77399260-1,Hieracium murorum subsp. pseudovalifolium,(Touton) Zahn,Syn. Mitteleur. Fl. 12(2): 376. 1931 ,Hieracium,,,(Touton)
+wfo-1200099339,urn:lsid:ipni.org:names:77399268-1,Hieracium murorum subsp. legnodes,Dahlst. ex Zahn,"Pflanzenr. IV, 280(Heft 76): 327. 1921 ",Hieracium,,,
+wfo-1200099456,urn:lsid:ipni.org:names:77399277-1,Hieracium sylvaticum subsp. macropholidium,Dahlst.,Bot. Tidsskr. 22: 203. 1899 ,Hieracium,,,
+wfo-1200127099,urn:lsid:ipni.org:names:77399283-1,Hieracium laevigatum subsp. backhouseanum,Zahn,"Pflanzenr. IV, 280(Heft 79): 881. 1922 ",Hieracium,,,
+wfo-1200127101,urn:lsid:ipni.org:names:77399287-1,Hieracium nigrescens subsp. inlingulatum,(Elfstr.) Zahn,"Pflanzenr. IV, 280(Heft 77): 651. 1921 ",Hieracium,,Asteraceae Hieracium inlingulatum Elfstr.,(Elfstr.)
+wfo-1200127103,urn:lsid:ipni.org:names:77399290-1,Hieracium nigriceps subsp. fasciculatum,Nägeli & Peter,Hierac. Mitt.-Eur. 1: 704. 1885 ,Hieracium,,,
+wfo-1200127105,urn:lsid:ipni.org:names:77399303-1,Hieracium nigrescens subsp. procedens,(Omang) Zahn,"Pflanzenr. IV, 280(Heft 77): 643. 1921 ",Hieracium,,Asteraceae Hieracium procedens Omang,(Omang)
+wfo-1200111797,urn:lsid:ipni.org:names:77399305-1,Hieracium sylvaticum subsp. heteroschistum,Zahn,"Syn. Deut. Schweiz. Fl., ed. 3. 1781. 1901 ",Hieracium,,,
+wfo-1200127106,urn:lsid:ipni.org:names:77399306-1,Hieracium nigrescens subsp. involvens,(Dahlst.) Zahn,"Pflanzenr. IV, 280(Heft 77): 651. 1921 ",Hieracium,,Asteraceae Hieracium involvens Dahlst.,(Dahlst.)
+wfo-1200127110,urn:lsid:ipni.org:names:77399322-1,Hieracium cymosum subsp. regelii,Nägeli & Peter,Hierac. Mitt.-Eur. 1: 410. 1885 ,Hieracium,,,
+wfo-1200127111,urn:lsid:ipni.org:names:77399323-1,Hieracium sagittatum subsp. expallidiceps,(Dahlst. ex Notø) Zahn,"Pflanzenr. IV, 280(Heft 76): 346. 1921 ",Hieracium,,Asteraceae Hieracium expallidiceps Dahlst. ex Notø,(Dahlst. ex Notø)
+wfo-1200127113,urn:lsid:ipni.org:names:77399328-1,Hieracium murorum subsp. subfarreilimbatum,(Notø) Zahn,"Pflanzenr. IV, 280(Heft 76): 328. 1921 ",Hieracium,,Asteraceae Hieracium subfarreilimbatum Notø,(Notø)
+wfo-1200127115,urn:lsid:ipni.org:names:77399337-1,Hieracium caesium subsp. bucovinae,Zahn,"Pflanzenr. IV, 280(Heft 76): 447. 1921 ",Hieracium,,,
+wfo-1200111217,urn:lsid:ipni.org:names:77399340-1,Hieracium juranum subsp. cichoriaceum,(Arv.-Touv.) Zahn,"Pflanzenr. IV, 280(Heft 77): 789. 1921 ",Hieracium,,Asteraceae Hieracium cichoriaceum Arv.-Touv.,(Arv.-Touv.)
+wfo-1200127116,urn:lsid:ipni.org:names:77399344-1,Hieracium bifurcatum subsp. pseudobrachiatum,Čelak.,Prodr. Fl. Böhmen 787. 1881 ,Hieracium,,,
+wfo-1200127117,urn:lsid:ipni.org:names:77399345-1,Hieracium alpinum subsp. nigrosetosum,(Gus.Schneid.) Zahn,"Pflanzenr. IV, 280(Heft 77): 626. 1921 ",Hieracium,,,(Gus.Schneid.)
+wfo-1200127119,urn:lsid:ipni.org:names:77399351-1,Hieracium glomeratum subsp. cymigeriforme,Nägeli & Peter,Hierac. Mitt.-Eur. 1: 468. 1885 ,Hieracium,,,
+wfo-1200127120,urn:lsid:ipni.org:names:77399353-1,Hieracium ambiguum subsp. nigrifontimontanum,Zahn,Ill. Fl. Mitt.-Eur. 6: 1226. 1929 ,Hieracium,,,
+wfo-1200127121,urn:lsid:ipni.org:names:77399354-1,Hieracium bifidum subsp. domogledense,Zahn,"Pflanzenr. IV, 280(Heft 76): 411. 1921 ",Hieracium,,,
+wfo-1200127122,urn:lsid:ipni.org:names:77399355-1,Hieracium atratum subsp. acutissimum,Zahn,Ann. Hist.-Nat. Mus. Natl. Hung. 8: 76. 1910 ,Hieracium,,,
+wfo-1200127123,urn:lsid:ipni.org:names:77399356-1,Hieracium neocerinthe subsp. lamprophyllum,(Scheele) Nyman,Consp. Fl. Eur. 448. 1879 ,Hieracium,,Asteraceae Hieracium lamprophyllum Scheele,(Scheele)
+wfo-1200127294,urn:lsid:ipni.org:names:77399360-1,Hieracium juranum subsp. subperfoliatiforme,(Arv.-Touv.) Zahn,"Pflanzenr. IV, 280(Heft 77): 778. 1921 ",Hieracium,,Asteraceae Hieracium subperfoliatum Arv.-Touv.,(Arv.-Touv.)
+wfo-1200127124,urn:lsid:ipni.org:names:77399367-1,Hieracium nigrescens subsp. hypsilepis,(Omang) Zahn,"Pflanzenr. IV, 280(Heft 77): 660. 1921 ",Hieracium,,Asteraceae Hieracium hypsilepis Omang,(Omang)
+wfo-1200127126,urn:lsid:ipni.org:names:77399376-1,Hieracium × canum subsp. diffusum,Nägeli & Peter,Hierac. Mitt.-Eur. 1: 437. 1885 ,Hieracium,,,
+wfo-1200066946,urn:lsid:ipni.org:names:77399379-1,Hieracium cydoniifolium subsp. vilandinum,Zahn,Candollea 2: 71. 1924 ,Hieracium,,,
+wfo-1200127128,urn:lsid:ipni.org:names:77399384-1,Hieracium magyaricum subsp. holomnoon,Nägeli & Peter,Hierac. Mitt.-Eur. 1: 591. 1885 ,Hieracium,,,
+wfo-1200099468,urn:lsid:ipni.org:names:77399385-1,Hieracium ausserdorferi subsp. vulgatifolium,Murr & Zahn,Oesterr. Bot. Z. 52: 394. 1902 ,Hieracium,,,
+wfo-1200127130,urn:lsid:ipni.org:names:77399390-1,Hieracium vulgatum subsp. brevidentatum,(Boreau) Zahn,"Pflanzenr. IV, 280(Heft 76): 388. 1921 ",Hieracium,,Asteraceae Hieracium brevidentatum Boreau,(Boreau)
+wfo-1200127133,urn:lsid:ipni.org:names:77399399-1,Hieracium nigrescens subsp. atratum,(Fr.) Zahn,"Pflanzenr. IV, 280(Heft 77): 676. 1921 ",Hieracium,,Asteraceae Hieracium atratum Fr.,(Fr.)
+wfo-1200127134,urn:lsid:ipni.org:names:77399402-1,Hieracium bifidum subsp. phaeocybe,(Norrl.) Zahn,"Pflanzenr. IV, 280(Heft 76): 412. 1921 ",Hieracium,,Asteraceae Hieracium phaeocybe Norrl.,(Norrl.)
+wfo-1200127136,urn:lsid:ipni.org:names:77399410-1,Hieracium diaphanoides subsp. hebecalyx,(Brenner) Zahn,"Pflanzenr. IV, 280(Heft 76): 352. 1921 ",Hieracium,,Asteraceae Hieracium hebecalyx Brenner,(Brenner)
+wfo-1200099333,urn:lsid:ipni.org:names:77399416-1,Hieracium bifidum subsp. compar,(Dahlst.) Zahn,"Pflanzenr. IV, 280(Heft 76): 429. 1921 ",Hieracium,,Asteraceae Hieracium compar Dahlst.,(Dahlst.)
+wfo-1200127139,urn:lsid:ipni.org:names:77399434-1,Hieracium alpinum subsp. vaellistense,Elfstr.,Hier. Alp. Mittl. Skand. 15. 1893 ,Hieracium,,,
+wfo-1200067126,urn:lsid:ipni.org:names:77399442-1,Hieracium maculatum subsp. approximatiforme,Zahn,Syn. Mitteleur. Fl. 12(2): 520. 1934 ,Hieracium,,,
+wfo-1200111206,urn:lsid:ipni.org:names:77399451-1,Hieracium inuloides subsp. detruncatum,Zahn,"Pflanzenr. IV, 280(Heft 79): 899. 1922 ",Hieracium,,,
+wfo-1200127142,urn:lsid:ipni.org:names:77399453-1,Hieracium murorum subsp. macellatum,Zahn,"Pflanzenr. IV, 280(Heft 76): 295. 1921 ",Hieracium,,,
+wfo-1200127144,urn:lsid:ipni.org:names:77399456-1,Hieracium intricatum subsp. subrude,Arv.-Touv.,Suppl. Monogr. Pilosella & Hieracium 21. 1876 ,Hieracium,,,
+wfo-1200067069,urn:lsid:ipni.org:names:77399459-1,Hieracium lachenalii subsp. pseudochlorophylloides,(Zahn) Zahn,Syn. Mitteleur. Fl. 12(2): 547. 1934 ,Hieracium,,,(Zahn)
+wfo-1200127145,urn:lsid:ipni.org:names:77399462-1,Hieracium vulgatum subsp. tersiflorum,(Norrl.) H.Lindb.,Enum. Pl. Fennoscandia 70. 1901 ,Hieracium,,Asteraceae Hieracium tersiflorum Norrl.,(Norrl.)
+wfo-1200066836,urn:lsid:ipni.org:names:77399467-1,Hieracium bifidum subsp. glaucochlorophyes,"O.Behr, E.Behr & Zahn",Glasn. Skopsk. Naučn. Društva 20: 27. 1939 ,Hieracium,,,
+wfo-1200067076,urn:lsid:ipni.org:names:77399469-1,Hieracium laevigatum subsp. albaredanum,Zahn,"Pflanzenr. IV, 280(Heft 77): 860. 1921 ",Hieracium,,,
+wfo-1200127148,urn:lsid:ipni.org:names:77399475-1,Hieracium mixtum subsp. candidum,(Scheele) Bonnier,Fl. Ill. France 7: 18. 1924 ,Hieracium,,Asteraceae Hieracium candidum Scheele,(Scheele)
+wfo-1200066921,urn:lsid:ipni.org:names:77399476-1,Hieracium chondrillifolium subsp. lantschfeldense,Vierh. & Zahn,Syn. Mitteleur. Fl. 12(2): 154. 1930 ,Hieracium,,,
+wfo-1200127306,urn:lsid:ipni.org:names:77399477-1,Hieracium subulatidens subsp. cuneifrons,W.R.Linton,Acc. Brit. Hierac. 30. 1905 ,Hieracium,,,
+wfo-1200127149,urn:lsid:ipni.org:names:77399478-1,Hieracium vulgatum subsp. festiniforme,Touton,Jahrb. Nassauischen Vereins Naturk. 80(2): 156. 1929 ,Hieracium,,,
+wfo-1200127150,urn:lsid:ipni.org:names:77399480-1,Hieracium vulgatum subsp. neuroclasium,(Omang) Zahn,"Pflanzenr. IV, 280(Heft 76): 373. 1921 ",Hieracium,,Asteraceae Hieracium neuroclasium Omang,(Omang)
+wfo-1200127154,urn:lsid:ipni.org:names:77399490-1,Hieracium chlorellum subsp. leuciscum,(Omang) Zahn,"Pflanzenr. IV, 280(Heft 76): 391. 1921 ",Hieracium,,Asteraceae Hieracium leuciscum Omang,(Omang)
+wfo-1200127156,urn:lsid:ipni.org:names:77399493-1,Hieracium caesium subsp. latitegulatum,Zahn,"Pflanzenr. IV, 280(Heft 76): 441. 1921 ",Hieracium,,,
+wfo-1200127157,urn:lsid:ipni.org:names:77399495-1,Hieracium alpinum subsp. cleistogamum,(Dahlst.) Zahn,"Pflanzenr. IV, 280(Heft 77): 626. 1921 ",Hieracium,,Asteraceae Hieracium cleistogamum Dahlst.,(Dahlst.)
+wfo-1200127158,urn:lsid:ipni.org:names:77399496-1,Tolpis succulenta subsp. filiformis,(Viv.) Menezes,Fl. Madeira 99. 1914 ,Tolpis,,Asteraceae Crepis filiformis [Dryand.],(Viv.)
+wfo-1200067375,urn:lsid:ipni.org:names:77399497-1,Hieracium sericophyllum subsp. leucosphyrum,T.Georgiev & Zahn,Izv. Bulg. Bot. Družh. 4: 79. 1931 ,Hieracium,,,
+wfo-1200127307,urn:lsid:ipni.org:names:77399502-1,Hieracium aestivum subsp. angustiforme,Pohle & Zahn,Allg. Bot. Z. Syst. 13: 144. 1907 ,Hieracium,,,
+wfo-1200127160,urn:lsid:ipni.org:names:77399503-1,Hieracium laschii subsp. sublagarum,Oborny & Zahn,"Pflanzenr. IV, 280(Heft 82): 1331. 1923 ",Hieracium,,,
+wfo-1200110794,urn:lsid:ipni.org:names:77399512-1,Hieracium brachiatum subsp. leptosphaerellum,Bornm. & Zahn,Syn. Mitteleur. Fl. 12(1): 380. 1929 ,Hieracium,,,
+wfo-1200067074,urn:lsid:ipni.org:names:77399520-1,Hieracium lachenalii subsp. substipatiforme,Zahn,Verh. Zool.-Bot. Ges. Wien 74: 40. 1926 ,Hieracium,,,
+wfo-1200127161,urn:lsid:ipni.org:names:77399522-1,Hieracium subramosum subsp. dentellatum,(Omang) Zahn,"Pflanzenr. IV, 280(Heft 76): 465. 1921 ",Hieracium,,Asteraceae Hieracium dentellatum Omang,(Omang)
+wfo-1200127163,urn:lsid:ipni.org:names:77399530-1,Hieracium laevigatum subsp. weidachense,Müll.Dornst. & Zahn,Mitt. Vereins Naturwiss. Math. Ulm. 20: 33. 1931 ,Hieracium,,,
+wfo-1200127164,urn:lsid:ipni.org:names:77399537-1,Hieracium murorum subsp. pseudosericellipes,Zahn,Syn. Mitteleur. Fl. 12(2): 435. 1931 ,Hieracium,,,
+wfo-1200127165,urn:lsid:ipni.org:names:77399538-1,Hieracium caesium subsp. mesotephrodes,Zahn,"Pflanzenr. IV, 280(Heft 76): 441. 1921 ",Hieracium,,,
+wfo-1200067122,urn:lsid:ipni.org:names:77399539-1,Hieracium levicaule subsp. stipaticeps,Zahn,"Pflanzenr. IV, 280(Heft 76): 403. 1921 ",Hieracium,,,
+wfo-1200127166,urn:lsid:ipni.org:names:77399540-1,Hieracium cymosum subsp. praealtum,(Gochnat) Bonnier & Layens,Tabl. Syn. Pl. Vasc. France 192. 1894 ,Hieracium,,Asteraceae Hieracium praealtum Gochnat,(Gochnat)
+wfo-1200127170,urn:lsid:ipni.org:names:77399560-1,Hieracium sylvaticum subsp. internatum,(Brenner) Zahn,"Pflanzenr. IV, 280(Heft 79): 870. 1922 ",Hieracium,,Asteraceae Hieracium internatum Brenner,(Brenner)
+wfo-1200127172,urn:lsid:ipni.org:names:77399564-1,Hieracium cernuiforme subsp. polychaetobium,Zahn,"Pflanzenr. IV, 280(Heft 82): 1283. 1923 ",Hieracium,,,
+wfo-1200099087,urn:lsid:ipni.org:names:77399569-1,Hieracium murorum subsp. cinerelliforme,Dahlst. ex Zahn,"Pflanzenr. IV, 280(Heft 76): 295. 1921 ",Hieracium,,,
+wfo-1200066863,urn:lsid:ipni.org:names:77399575-1,Hieracium bifidum subsp. subpendulum,Zahn,Fl. Puschlav. 234. 1907 ,Hieracium,,,
+wfo-1200127176,urn:lsid:ipni.org:names:77399583-1,Hieracium tubulascens subsp. pseudosuecicum,Norrl.,Acta Soc. Fauna Fl. Fenn. 26(7): 66. 1904 ,Hieracium,,,
+wfo-1200067306,urn:lsid:ipni.org:names:77399589-1,Hieracium praecurrens subsp. trachysetum,Zahn,"Pflanzenr. IV, 280(Heft 76): 476. 1921 ",Hieracium,,,
+wfo-1200127182,urn:lsid:ipni.org:names:77399603-1,Hieracium racemosum subsp. basalticarum,Sudre,Hierac. Centr. France 40. 1902 ,Hieracium,,,
+wfo-1200110868,urn:lsid:ipni.org:names:77399607-1,Hieracium triangulare subsp. lacerifolium,(Almq. ex Stenstr.) Zahn,"Pflanzenr. IV, 280(Heft 76): 390. 1921 ",Hieracium,,Asteraceae Hieracium lacerifolium Almq. ex Stenstr.,(Almq. ex Stenstr.)
+wfo-1200127183,urn:lsid:ipni.org:names:77399608-1,Hieracium lachenalii subsp. daedalolepioides,(Zahn) Zahn,Syn. Mitteleur. Fl. 12(2): 555. 1934 ,Hieracium,,,(Zahn)
+wfo-1200099422,urn:lsid:ipni.org:names:77399610-1,Hieracium murorum subsp. mundiceps,Dahlst. ex Zahn,"Pflanzenr. IV, 280(Heft 76): 306. 1921 ",Hieracium,,,
+wfo-1200127314,urn:lsid:ipni.org:names:77399611-1,Hieracium glanduliferum subsp. leucopsis,(Arv.-Touv.) Nägeli & Peter,Hierac. Mitt.-Eur. 2: 251. 1889 ,Hieracium,,Asteraceae Hieracium leucopsis Arv.-Touv.,(Arv.-Touv.)
+wfo-1200098787,urn:lsid:ipni.org:names:77399622-1,Hieracium pannonicum subsp. longisetum,Nägeli & Peter,Hierac. Mitt.-Eur. 1: 750. 1885 ,Hieracium,,,
+wfo-1200110995,urn:lsid:ipni.org:names:77399623-1,Hieracium subspeciosum subsp. melanophaeum,Nägeli & Peter,Hierac. Mitt.-Eur. 2: 159. 1886 ,Hieracium,,,
+wfo-1200099166,urn:lsid:ipni.org:names:77399630-1,Hieracium laevigatum subsp. vermlandicum,Dahlst. ex Zahn,"Pflanzenr. IV, 280(Heft 79): 883. 1922 ",Hieracium,,,
+wfo-1200067083,urn:lsid:ipni.org:names:77399634-1,Hieracium laevigatum subsp. eugymnocranum,Schack & Zahn,"Mitth. Thüring. Bot. Vereins n.f., 41: 98. 1933 ",Hieracium,,,
+wfo-1200111141,urn:lsid:ipni.org:names:77399635-1,Hieracium praecox subsp. arnicoides,(Gren. & Godr.) Zahn,"Pflanzenr. IV, 280(Heft 75): 242. 1921 ",Hieracium,,Asteraceae Hieracium arnicoides Gren. & Godr.,(Gren. & Godr.)
+wfo-1200127186,urn:lsid:ipni.org:names:77399637-1,Hieracium tauschii subsp. xanthothyrsum,Fest & Zahn,Exsicc. (Hier. Eur.) 4: 11-12. 1909 ,Hieracium,,,
+wfo-1200111266,urn:lsid:ipni.org:names:77399651-1,Hieracium pallidum subsp. residuum,(Norrl.) Zahn,"Pflanzenr. IV, 280(Heft 75): 217. 1921 ",Hieracium,,,(Norrl.)
+wfo-1200127189,urn:lsid:ipni.org:names:77399653-1,Hieracium neocerinthe subsp. compositum,(Lapeyr.) Bonnier,"Fl. Ill. France 7: 20. 1924 , nom. illeg. homonym. post.",Hieracium,,Asteraceae Hieracium compositum Lapeyr.,(Lapeyr.)
+wfo-1200127199,urn:lsid:ipni.org:names:77399689-1,Hieracium nigrescens subsp. capnostyloides,(Dahlst.) Zahn,"Pflanzenr. IV, 280(Heft 77): 640. 1921 ",Hieracium,,Asteraceae Hieracium capnostyloides Dahlst.,(Dahlst.)

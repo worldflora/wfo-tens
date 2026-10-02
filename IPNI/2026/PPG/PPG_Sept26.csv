@@ -1,0 +1,38 @@
+WFOID,IPNID,scientificName,authorship,namePublishedin,Family,nomenclaturalStatus,originalName,originalNameAuthor
+wfo-1000068870,urn:lsid:ipni.org:names:77396042-1,Lycopodioides leptophylla,(Baker) Kuntze,Revis. Gen. Pl. 2: 826. 1891 ,Selaginellaceae,,Selaginellaceae Selaginella leptophylla Baker,(Baker)
+wfo-1000068941,urn:lsid:ipni.org:names:77396051-1,Lycopodioides tectissima,(Baker) Kuntze,Revis. Gen. Pl. 2: 827. 1891 ,Selaginellaceae,,,(Baker)
+wfo-1000068617,urn:lsid:ipni.org:names:77396076-1,Huperzia ulicifolia,(Sw.) Trevis.,Atti Soc. Ital. Sci. Nat. 17: 248. 1875 ,Lycopodiaceae,,Lycopodiaceae Lycopodium ulicifolium Sw.,(Sw.)
+wfo-1000074329,urn:lsid:ipni.org:names:77396079-1,Pleopeltis linearis,Bedd.,"Handb. Ferns Brit. India 346. 1883 , nom. illeg.",Polypodiaceae,,,
+wfo-1000068886,urn:lsid:ipni.org:names:77396097-1,Lycopodioides molliceps,(Spring) Kuntze,Revis. Gen. Pl. 2: 826. 1891 ,Selaginellaceae,,Selaginellaceae Selaginella molliceps Spring,(Spring)
+wfo-1000069799,urn:lsid:ipni.org:names:77396101-1,Spicanta orientalis,(L.) Kuntze,Revis. Gen. Pl. 2: 821. 1891 ,Blechnaceae,,Blechnaceae Blechnum orientale L.,(L.)
+wfo-1000094987,urn:lsid:ipni.org:names:77396104-1,Oleandra aequatorialis,C.V.Miranda & Schwartsb.,Brittonia 78(2): 113. 2026 [3 Mar 2026] ,Oleandraceae,,,
+wfo-1000094988,urn:lsid:ipni.org:names:77396105-1,Oleandra arbuscula,C.V.Miranda & Schwartsb.,Brittonia 78(2): 114. 2026 [3 Mar 2026] ,Oleandraceae,,,
+wfo-1000094989,urn:lsid:ipni.org:names:77396106-1,Oleandra × afrobrasiliana,C.V.Miranda & Schwartsb.,Brittonia 78(2): 131. 2026 [3 Mar 2026] ,Oleandraceae,,,
+wfo-1000094990,urn:lsid:ipni.org:names:77396107-1,Oleandra × nigrovenia,C.V.Miranda & Schwartsb.,Brittonia 78(2): 131. 2026 [3 Mar 2026] ,Oleandraceae,,,
+wfo-1000071413,urn:lsid:ipni.org:names:77396119-1,Athyrium cyclosorum,(Rupr.) Gilbert,Fernwort Pap. 27. 1900 [20 Dec 1900] ,Woodsiaceae,,Woodsiaceae Athyrium filix-femina (L.) Roth var. cyclosorum Rupr.,(Rupr.)
+wfo-1200102823,urn:lsid:ipni.org:names:77396355-1,Dryopteris gongylodes subsp. propinqua,(R.Br.) C.Chr.,Index Filic. 268. 1905 ,Dryopteridaceae,,Dryopteridaceae Nephrodium propinquum R.Br.,(R.Br.)
+wfo-1200104686,urn:lsid:ipni.org:names:77396525-1,Selaginella marginata subsp. distorta,Spring,Flora 21: 196. 1838 ,Selaginellaceae,,,
+wfo-1200104725,urn:lsid:ipni.org:names:77396619-1,Selaginella plumosa subsp. flagellifera,(W.Bull) G.Schneid.,Choice Ferns 3: 427. 1894 ,Selaginellaceae,,Selaginellaceae Selaginella flagellifera W.Bull,(W.Bull)
+wfo-1000095086,urn:lsid:ipni.org:names:77396726-1,Platytaenia sect. Pseudoplatytaenia,Schischk.,Fl. URSS 17: 357. 1951 [2 Aug 1951] ,Adiantaceae,,,
+wfo-1200106794,urn:lsid:ipni.org:names:77397077-1,Nephrodium spinulosum subsp. dilatatum,(Hoffm.) Hook.f.,Student. Fl. Brit. Isl. 466. 1870 ,Dryopteridaceae,,Polypodiaceae Polypodium dilatatum Hoffm.,(Hoffm.)
+wfo-1000066831,urn:lsid:ipni.org:names:77397257-1,Leptochilus sanjiangensis,(H.G.Zhou & Hua Li) Liang Zhang & Li Bing Zhang,Phytotaxa 776(1): 90. 2026 [22 Sep 2026] ,Polypodiaceae,,Polypodiaceae Colysis sanjiangensis H.G.Zhou & Hua Li,(H.G.Zhou & Hua Li)
+wfo-1200102896,urn:lsid:ipni.org:names:77397463-1,Dryopteris setifera subsp. angularis,(Kit.; Willd.) Maire,Cat. Pl. Maroc 1: 3. 1931 ,Dryopteridaceae,,Dryopteridaceae Aspidium angulare Kit.; Willd.,(Kit.; Willd.)
+wfo-1200104433,urn:lsid:ipni.org:names:77397671-1,Pteris cretica subsp. nipponica,(Shieh) Jôtani & H.Ohba,Sci. Rep. Yokosuka City Mus. 15: 28. 1969 ,Pteridaceae,,Pteridaceae Pteris nipponica Shieh,(Shieh)
+wfo-1200127232,urn:lsid:ipni.org:names:77397778-1,Aspidium filix-mas subsp. remotum,(A.Braun ex Döll) Nyman,Acot. Charac. Eur. 7. 1883 ,Dryopteridaceae,,,(A.Braun ex Döll)
+wfo-1200104055,urn:lsid:ipni.org:names:77397815-1,Phegopteris dryopteris subsp. calcarea,(Sm.) Bonnier & Layens,Tabl. Syn. Pl. Vasc. France 378. 1894 ,Thelypteridaceae,,Polypodiaceae Polypodium calcareum Sm.,(Sm.)
+wfo-1200101972,urn:lsid:ipni.org:names:77397844-1,Asplenium africanum subsp. currorii,(Hook.) Tardieu,Mem. Inst. Franç. Afrique Noire 28: 172. 1953 ,Aspleniaceae,,Aspleniaceae Asplenium currorii Hook.,(Hook.)
+wfo-1200106205,urn:lsid:ipni.org:names:77398125-1,Asplenium lanceolatum subsp. obovatum,(Viv.) Nyman,Acot. Charac. Eur. 5. 1883 ,Aspleniaceae,,Aspleniaceae Asplenium obovatum Viv.,(Viv.)
+wfo-1200100225,urn:lsid:ipni.org:names:77398225-1,Platytaenia lasiocarpa subsp. thomsonii,(C.B.Clarke) Rech.f. & Riedl,Biol. Skr. 13(4): 104. 1963 ,Adiantaceae,,Apiaceae Heracleum thomsonii C.B.Clarke,(C.B.Clarke)
+wfo-1200102621,urn:lsid:ipni.org:names:77398326-1,Cystopteris fragilis subsp. regia,(L.) Bernoulli,Gefässkrypt. Schweiz 44. 1857 ,Woodsiaceae,,Polypodiaceae Polypodium regium L.,(L.)
+wfo-1200102893,urn:lsid:ipni.org:names:77398349-1,Dryopteris sagenioides subsp. obscura,(T.Moore) C.Chr.,Index Filic. 290. 1905 ,Dryopteridaceae,,Dryopteridaceae Nephrodium obscurum T.Moore,(T.Moore)
+wfo-1200102189,urn:lsid:ipni.org:names:77398561-1,Asplenium ruta-muraria subsp. grammitioides,Grinț.,Fl. Republ. Popul. Român. 1: 634. 1952 ,Aspleniaceae,,,
+wfo-1200102917,urn:lsid:ipni.org:names:77398871-1,Dryopteris thelypteris subsp. squamigera,(Schltdl.) Bonap.,Notes Pteridol. 15: 17. 1924 ,Dryopteridaceae,,Dryopteridaceae Aspidium thelypteris Sw. var. squamigerum Schltdl.,(Schltdl.)
+wfo-1200103408,urn:lsid:ipni.org:names:77398988-1,Hypodematium crenatum subsp. fauriei,(Kodama) K.Iwats.,Acta Phytotax. Geobot. 21: 52. 1964 ,Woodsiaceae,,Dryopteridaceae Dryopteris fauriei Kodama,(Kodama)
+wfo-1200104394,urn:lsid:ipni.org:names:77399197-1,Polystichum spinulosum subsp. dilatatum,(Hoffm.) Corb.,Nouv. Fl. Normandie 676. 1894 ,Dryopteridaceae,,Polypodiaceae Polypodium dilatatum Hoffm.,(Hoffm.)
+wfo-1200106159,urn:lsid:ipni.org:names:77399237-1,Aspidium spinulosum subsp. dilatatum,(Hoffm.) Čelak.,Prodr. Fl. Böhmen 10. 1867 ,Dryopteridaceae,,Polypodiaceae Polypodium dilatatum Hoffm.,(Hoffm.)
+wfo-1200104321,urn:lsid:ipni.org:names:77399414-1,Polystichum aculeatum subsp. lobatum,(Huds.) Vollm.,Fl. Bayern 8. 1914 ,Dryopteridaceae,,Polypodiaceae Polypodium lobatum Huds.,(Huds.)
+wfo-1200107026,urn:lsid:ipni.org:names:77399524-1,Woodsia hyperborea subsp. ilvensis,(L.) Hook.f.,"Student. Fl. Brit. Isl. ed. 3: 515. 1884 , nom. illeg. homonym. post.",Woodsiaceae,,Pteridaceae Acrostichum ilvense L.,(L.)
+wfo-1200106445,urn:lsid:ipni.org:names:77399557-1,Dryopteris spinulosa subsp. dilatata,(Hoffm.) C.Chr.,Index Filic. 293. 1905 ,Dryopteridaceae,,Polypodiaceae Polypodium dilatatum Hoffm.,(Hoffm.)
+wfo-1200127204,urn:lsid:ipni.org:names:77399840-1,Asplenium hookerianum var. normale,Domin,Biblioth. Bot. 20(85): 101. 1914 ,Aspleniaceae,nom. inval. nom. nud.,,
+wfo-1200127205,urn:lsid:ipni.org:names:77399843-1,Adiantum diaphanum var. normale,Domin,Biblioth. Bot. 20(85): 151. 1914 ,Adiantaceae,,,
+wfo-1200127206,urn:lsid:ipni.org:names:77399844-1,Pteris quadriaurita var. normalis,(D.Don) Alderw.,Malayan Ferns 366. 1908 ,Pteridaceae,,Pteridaceae Pteris normalis D.Don,(D.Don)
