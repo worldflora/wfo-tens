@@ -1,0 +1,607 @@
+WFOID,IPNID,scientificName,authorship,namePublishedin,Family,nomenclaturalStatus,originalName,originalNameAuthor
+wfo-1200127837,urn:lsid:ipni.org:names:77400003-1,Alkanna tinctoria subsp. lehmannii,(Tineo) Nyman,Consp. Fl. Eur. 517. 1881 ,Boraginaceae,,Boraginaceae Lithospermum lehmannii Tineo,(Tineo)
+wfo-1200127887,urn:lsid:ipni.org:names:77400265-1,Anchusa officinalis subsp. angustifolia,(L.) Bjelčić,"Posebna Izd. Zemaljsk. Muz. Bosne Hercegovine 2: 50. 1960 , not validly publ.",Boraginaceae,,Boraginaceae Anchusa angustifolia L.,(L.)
+wfo-1200128015,urn:lsid:ipni.org:names:77400995-1,Buglossoides arvensis subsp. czernjajevii,(Klokov & Desj.-Shost.) Moysiyenko,Chornomorsk Bot. J. 6: 102. 2010 ,Boraginaceae,,Boraginaceae Lithospermum czernjajevi Klokov & Desj.-Shost.,(Klokov & Desj.-Shost.)
+wfo-1200128137,urn:lsid:ipni.org:names:77401640-1,Cerinthe aspera subsp. gymnandra,(Gasp.) Arcang.,Comp. Fl. Ital. 483. 1882 ,Boraginaceae,,Boraginaceae Cerinthe gymnandra Gasp.,(Gasp.)
+wfo-1200128144,urn:lsid:ipni.org:names:77401664-1,Cerinthe maculata subsp. auriculata,(Ten.) Nyman,Consp. Fl. Eur. 513. 1881 ,Boraginaceae,,Boraginaceae Cerinthe auriculata Ten.,(Ten.)
+wfo-1200128185,urn:lsid:ipni.org:names:77401947-1,Elizaldia violacea subsp. calycina,(Roem. & Schult.) Maire,Bull. Soc. Hist. Nat. Afrique N. 20: 191. 1929 ,Boraginaceae,,Boraginaceae Lycopsis calycina Roem. & Schult.,(Roem. & Schult.)
+wfo-1200128189,urn:lsid:ipni.org:names:77401974-1,Echium calycinum subsp. arenarium,(Guss.) R.C.V.Douin,Fl. Ill. France 8: 5. 1926 ,Boraginaceae,,Boraginaceae Echium arenarium Guss.,(Guss.)
+wfo-1200128218,urn:lsid:ipni.org:names:77402130-1,Cynoglossum nebrodense subsp. tenorei,Guss. ex Nyman,Consp. Fl. Eur. 521. 1881 ,Boraginaceae,,,
+wfo-1200128230,urn:lsid:ipni.org:names:77402244-1,Echinospermum lappula subsp. squarrosum,(Retz.) Schübl. & G.Martens,Fl. Würtemberg 126. 1834 ,Boraginaceae,,Boraginaceae Myosotis squarrosa Retz.,(Retz.)
+wfo-1200128276,urn:lsid:ipni.org:names:77402580-1,Echium vulgare subsp. granatense,(Coincy) Lacaita,"Treb. Mus. Ci. Nat. Barcelona, Sèr. Bot. 12: 393. 1929 ",Boraginaceae,,Boraginaceae Echium granatense Coincy,(Coincy)
+wfo-1200128287,urn:lsid:ipni.org:names:77402657-1,Cynoglossum montanum subsp. linnaeanum,Brand,"Pflanzenr. IV, 252(Heft 78): 127. 1921 ",Boraginaceae,,,
+wfo-1200128352,urn:lsid:ipni.org:names:77403081-1,Heliotropium undulatum subsp. erosum,(Lehm.) Maire,Bull. Soc. Hist. Nat. Afrique N. 22: 306. 1931 ,Boraginaceae,,Boraginaceae Heliotropium erosum Lehm.,(Lehm.)
+wfo-1200128361,urn:lsid:ipni.org:names:77403156-1,Heliotropium bacciferum subsp. antiatlanticum,(Emb. ex Maire) Sauvage & Vindt,Fl. Maroc 2: 72. 1954 ,Boraginaceae,,Boraginaceae Heliotropium antiatlanticum Emb. ex Maire,(Emb. ex Maire)
+wfo-1200128369,urn:lsid:ipni.org:names:77403203-1,Heliotropium europaeum subsp. tenuiflorum,(Guss. & Guss.) Nyman,Consp. Fl. Eur. 508. 1881 ,Boraginaceae,,Boraginaceae Heliotropium tenuiflorum (Guss.) Guss.,(Guss. & Guss.)
+wfo-1200128410,urn:lsid:ipni.org:names:77403442-1,Heliotropium undulatum subsp. antiatlanticum,(Emb. ex Maire) Maire,Cat. Pl. Maroc 3: 592. 1934 ,Boraginaceae,,Boraginaceae Heliotropium antiatlanticum Emb. ex Maire,(Emb. ex Maire)
+wfo-1200128851,urn:lsid:ipni.org:names:77405937-1,Lithospermum incrassatum subsp. gasparrinii,(Heldr. ex Guss.) Nyman,Consp. Fl. Eur. 518. 1881 ,Boraginaceae,,Boraginaceae Lithospermum gasparrinii Heldr. ex Guss.,(Heldr. ex Guss.)
+wfo-1200128853,urn:lsid:ipni.org:names:77405957-1,Lycopsis arvensis subsp. occidentalis,Kusn.,Trudy Bot. Muz. Imp. Akad. Nauk 8: 96. 1911 ,Boraginaceae,,,
+wfo-1200142262,urn:lsid:ipni.org:names:77406107-1,Lithospermum arvense subsp. incrassatum,(Guss.) Bonnier & Layens,Tabl. Syn. Pl. Vasc. France 222. 1894 ,Boraginaceae,,Boraginaceae Lithospermum incrassatum Guss.,(Guss.)
+wfo-1200128890,urn:lsid:ipni.org:names:77406145-1,Lithospermum arvense subsp. glandulosum,(Velen.) Ciocârlan,Fl. Il. României 2: 148. 1990 ,Boraginaceae,,Boraginaceae Lithospermum glandulosum Velen.,(Velen.)
+wfo-1200142270,urn:lsid:ipni.org:names:77406603-1,Lithospermum arvense subsp. incrassatum,(Guss.) Ball,"J. Linn. Soc., Bot. 16: 573. 1878 ",Boraginaceae,,Boraginaceae Lithospermum incrassatum Guss.,(Guss.)
+wfo-1200129007,urn:lsid:ipni.org:names:77406921-1,Myosotis cespitosa subsp. repens,(Hartm.) P.Fourn.,Fl. Compl. Plaine Franç. 331. 1928 ,Boraginaceae,,,(Hartm.)
+wfo-1200129014,urn:lsid:ipni.org:names:77406950-1,Myosotis sylvatica subsp. eusilvatica,Hayek,Repert. Spec. Nov. Regni Veg. Beih. 30(2): 77. 1928 ,Boraginaceae,,,
+wfo-1200129015,urn:lsid:ipni.org:names:77406951-1,Myosotis sicula subsp. virgata,(Bég.) R.Schust.,Feddes Repert. 74: 88. 1967 ,Boraginaceae,,,(Bég.)
+wfo-1200129016,urn:lsid:ipni.org:names:77406956-1,Myosotis palustris subsp. repens,(Hartm.) Nyman,Consp. Fl. Eur. 519. 1881 ,Boraginaceae,,,(Hartm.)
+wfo-1200129022,urn:lsid:ipni.org:names:77406991-1,Myosotis scorpioides subsp. multiflora,(Mérat) P.Fourn.,Quatre Fl. France 738. 1937 ,Boraginaceae,,Boraginaceae Myosotis multiflora Mérat,(Mérat)
+wfo-1200129023,urn:lsid:ipni.org:names:77406992-1,Omphalodes linifolia subsp. kuzinskyana,(Willk.) Brand,"Pflanzenr. IV, 252(Heft 78): 103. 1921 ",Boraginaceae,,Boraginaceae Omphalodes kuzinskyana Willk.,(Willk.)
+wfo-1200129030,urn:lsid:ipni.org:names:77407012-1,Myosotis pusilla subsp. multiflora,(Mérat) P.Fourn.,Fl. Compl. Plaine Franç. 331. 1928 ,Boraginaceae,,Boraginaceae Myosotis multiflora Mérat,(Mérat)
+wfo-1200129031,urn:lsid:ipni.org:names:77407016-1,Myosotis scorpioides subsp. cespitosa,(Schultz) F.Herm.,Fl. Deutschl. Fennoskand. 384. 1912 ,Boraginaceae,,Boraginaceae Myosotis cespitosa Schultz,(Schultz)
+wfo-1200129032,urn:lsid:ipni.org:names:77407018-1,Myosotis lutea subsp. balbisiana,(Jord.) Braun-Blanq.,Cat. Fl. Aigoual 255. 1933 ,Boraginaceae,,Boraginaceae Myosotis balbisiana Jord.,(Jord.)
+wfo-1200129036,urn:lsid:ipni.org:names:77407031-1,Myosotis scorpioides subsp. laxa,(Lehm.) Hegi,Ill. Fl. Mitt.-Eur. 5: 2165. 1927 ,Boraginaceae,,Boraginaceae Myosotis laxa Lehm.,(Lehm.)
+wfo-1200129039,urn:lsid:ipni.org:names:77407052-1,Myosotis palustris subsp. lingulata,(Lehm.) Bonnier & Layens,Tabl. Syn. Pl. Vasc. France 224. 1894 ,Boraginaceae,,Boraginaceae Myosotis lingulata Lehm.,(Lehm.)
+wfo-1200129043,urn:lsid:ipni.org:names:77407072-1,Nonea caspica subsp. schmidii,Riedl,Oesterr. Bot. Z. 110: 529. 1963 ,Boraginaceae,,,
+wfo-1200129044,urn:lsid:ipni.org:names:77407077-1,Myosotis palustris subsp. radicans,(Opiz) R.Schust.,Feddes Repert. 74: 68. 1967 ,Boraginaceae,,Boraginaceae Myosotis radicans Opiz,(Opiz)
+wfo-1200129049,urn:lsid:ipni.org:names:77407100-1,Myosotis sparsiflora subsp. propinqua,(Turcz.) Kusn.,Fl. Caucas. Crit. 4(2): 351. 1912 ,Boraginaceae,,Boraginaceae Strophiostoma propinquum Turcz.,(Turcz.)
+wfo-1200129050,urn:lsid:ipni.org:names:77407111-1,Myosotis alpestris subsp. albomarginata,(H.Lindb.) Maire,Cat. Pl. Maroc 3: 601. 1934 ,Boraginaceae,,Boraginaceae Myosotis sylvatica Hoffm. subsp. albomarginata H.Lindb.,(H.Lindb.)
+wfo-1200129052,urn:lsid:ipni.org:names:77407119-1,Myosotis palustris subsp. sicula,(Guss.) Bonnier & Layens,Tabl. Syn. Pl. Vasc. France 224. 1894 ,Boraginaceae,,Boraginaceae Myosotis sicula Guss.,(Guss.)
+wfo-1200129054,urn:lsid:ipni.org:names:77407126-1,Myosotis palustris subsp. praecox,(Hulphers) O.Schwarz,Mitt. Thüring. Bot. Ges. 1: 112. 1949 ,Boraginaceae,,Boraginaceae Myosotis praecox Hulphers,(Hulphers)
+wfo-1200142284,urn:lsid:ipni.org:names:77407130-1,Myosotis scorpioides subsp. cespitosa,(Schultz) F.Hermann,Ill. Fl. Mitt.-Eur. 5: 2164. 1927 ,Boraginaceae,,Boraginaceae Myosotis cespitosa Schultz,(Schultz)
+wfo-1200129057,urn:lsid:ipni.org:names:77407146-1,Myosotis pyrenaica subsp. soleirolii,(Godr.) Nyman,Consp. Fl. Eur. 519. 1881 ,Boraginaceae,,Boraginaceae Myosotis soleirolii Godr.,(Godr.)
+wfo-1200142286,urn:lsid:ipni.org:names:77407157-1,Myosotis palustris subsp. lamottiana,(Braun-Blanq.) Chass.,Inventaire Anal. Fl. Auvergne 2: 252. 1957 ,Boraginaceae,,,(Braun-Blanq.)
+wfo-1200129061,urn:lsid:ipni.org:names:77407162-1,Myosotis collina subsp. gracillima,(Loscos & J.Prado) Nyman,Consp. Fl. Eur. 520. 1881 ,Boraginaceae,,Boraginaceae Myosotis gracillima Loscos & J.Prado,(Loscos & J.Prado)
+wfo-1200129062,urn:lsid:ipni.org:names:77407170-1,Nonea nigricans subsp. violacea,(Desf.) Batt.,Fl. Algérie Dicot.: 601. 1890 ,Boraginaceae,,Boraginaceae Echioides violacea Desf.,(Desf.)
+wfo-1200142288,urn:lsid:ipni.org:names:77407192-1,Myosotis sylvatica subsp. suaveolens,(Waldst. & Kit. ex Willd.) Rouy,Consp. Fl. France 190. 1927 ,Boraginaceae,,Boraginaceae Myosotis suaveolens Waldst. & Kit. ex Willd.,(Waldst. & Kit. ex Willd.)
+wfo-1200129065,urn:lsid:ipni.org:names:77407193-1,Myosotis intermedia subsp. lebelii,Nyman,Consp. Fl. Eur. 520. 1881 ,Boraginaceae,,,
+wfo-1200129072,urn:lsid:ipni.org:names:77407239-1,Myosotis pusilla subsp. incrassata,(Guss.) Nyman,Consp. Fl. Eur. 519. 1881 ,Boraginaceae,,Boraginaceae Myosotis incrassata Guss.,(Guss.)
+wfo-1200142290,urn:lsid:ipni.org:names:77407243-1,Myosotis palustris subsp. laxiflora,(Rchb.) Schübl. & G.Martens,Fl. Würtemberg 123. 1834 ,Boraginaceae,,Boraginaceae Myosotis laxiflora Rchb.,(Rchb.)
+wfo-1200129076,urn:lsid:ipni.org:names:77407256-1,Myosotis hispida subsp. lebelii,Corb.,Nouv. Fl. Normandie 407. 1894 ,Boraginaceae,,,
+wfo-1200142291,urn:lsid:ipni.org:names:77407264-1,Myosotis scorpioides subsp. arvensis,(L.) Ehrh.,Hannover. Mag. 18: 217. 1780 ,Boraginaceae,,Boraginaceae Myosotis scorpioides L. var. arvensis L.,(L.)
+wfo-1200129078,urn:lsid:ipni.org:names:77407277-1,Nonea pulla subsp. macrantha,Riedl,Oesterr. Bot. Z. 110: 531. 1963 ,Boraginaceae,,,
+wfo-1200129084,urn:lsid:ipni.org:names:77407301-1,Myosotis cespitosa subsp. lingulata,P.Fourn.,Fl. Compl. Plaine Franç. 331. 1928 ,Boraginaceae,,,
+wfo-1200142292,urn:lsid:ipni.org:names:77407307-1,Myosotis arvensis subsp. dumetorum,Blaise,"Taxon 18: 311. 1969 , not validly publ.",Boraginaceae,,,
+wfo-1200129113,urn:lsid:ipni.org:names:77407576-1,Paracaryum persicum subsp. macrocarpum,Riedl,Fl. Iranica 48: 101. 1967 ,Boraginaceae,,,
+wfo-1200142315,urn:lsid:ipni.org:names:77408429-1,Onosma cinerea subsp. sanguinolenta,(Vatke) Bornm.,"Beih. Bot. Centralbl., Abt. 2. 33: 115. 1915 ",Boraginaceae,,Boraginaceae Onosma sanguinolenta Vatke,(Vatke)
+wfo-1200129273,urn:lsid:ipni.org:names:77408517-1,Pulmonaria officinalis subsp. saccharata,(Mill.) Arcang.,Comp. Fl. Ital. 487. 1882 ,Boraginaceae,,Boraginaceae Pulmonaria saccharata Mill.,(Mill.)
+wfo-1200129278,urn:lsid:ipni.org:names:77408573-1,Pulmonaria angustifolia subsp. tuberosa,P.Fourn.,Quatre Fl. France 746. 1937 ,Boraginaceae,,,
+wfo-1200129289,urn:lsid:ipni.org:names:77408699-1,Pulmonaria officinalis subsp. angustifolia,Bonnier & Layens,Tabl. Syn. Pl. Vasc. France 223. 1894 ,Boraginaceae,,,
+wfo-1200129297,urn:lsid:ipni.org:names:77408823-1,Pulmonaria azurea subsp. vulgaris,(Mérat) Corb.,Nouv. Fl. Normandie 404. 1894 ,Boraginaceae,,Boraginaceae Pulmonaria vulgaris Mérat,(Mérat)
+wfo-1200129307,urn:lsid:ipni.org:names:77408924-1,Pulmonaria affinis subsp. alpestris,(Lamotte) P.Fourn.,Quatre Fl. France 746. 1937 ,Boraginaceae,,Boraginaceae Pulmonaria alpestris Lamotte,(Lamotte)
+wfo-1200129311,urn:lsid:ipni.org:names:77408965-1,Pulmonaria tuberosa subsp. longifolia,(Bastard) R.C.V.Douin,Fl. Ill. France 8: 8. 1926 ,Boraginaceae,,,(Bastard)
+wfo-1200129312,urn:lsid:ipni.org:names:77408967-1,Pulmonaria montana subsp. mollis,(J.P.Wolff ex F.Heller) Gams,Ill. Fl. Mitt.-Eur. 5: 2218. 1927 ,Boraginaceae,,Boraginaceae Pulmonaria mollis J.P.Wolff ex F.Heller,(J.P.Wolff ex F.Heller)
+wfo-1200129316,urn:lsid:ipni.org:names:77409034-1,Pulmonaria tuberosa subsp. angustifolia,(L.) R.C.V.Douin,"Fl. Ill. France 8: 8. 1926 , nom. illeg. homonym. post.",Boraginaceae,,Boraginaceae Pulmonaria angustifolia L.,(L.)
+wfo-1200129334,urn:lsid:ipni.org:names:77409239-1,Pulmonaria angustifolia subsp. azurea,(Besser) Gams,Ill. Fl. Mitt.-Eur. 5: 2211. 1927 ,Boraginaceae,,Boraginaceae Pulmonaria azurea Besser,(Besser)
+wfo-1200129337,urn:lsid:ipni.org:names:77409332-1,Pulmonaria vulgaris subsp. ovalis,(Bastard) Nyman,Consp. Fl. Eur. 512. 1881 ,Boraginaceae,,Boraginaceae Pulmonaria × ovalis Bastard,(Bastard)
+wfo-1200142329,urn:lsid:ipni.org:names:77409410-1,Pulmonaria angustifolia subsp. longifolia,(Bastard) Tourlet,Fl. Indre-et-Loire 246. 1908 ,Boraginaceae,,,(Bastard)
+wfo-1200142337,urn:lsid:ipni.org:names:77410758-1,Symphytum officinale subsp. bohemicum,(F.W.Schmidt) Čelak.,"Sitzungsber. Königl. Böhm. Ges. Wiss. Prag., Math.-Naturwiss. Cl. 1891: 29. ",Boraginaceae,,Boraginaceae Symphytum bohemicum F.W.Schmidt,(F.W.Schmidt)
+wfo-1200129658,urn:lsid:ipni.org:names:77411316-1,Symphytum tuberosum subsp. bulbosum,(K.F.Schimp.) P.Fourn.,Quatre Fl. France 747. 1937 ,Boraginaceae,,Boraginaceae Symphytum bulbosum K.F.Schimp.,(K.F.Schimp.)
+wfo-1200130215,urn:lsid:ipni.org:names:77415794-1,Alkanna graeca var. versicolor,Boiss.,Fl. Orient. Suppl.: 231. 1888 ,Boraginaceae,,,
+wfo-1200142440,urn:lsid:ipni.org:names:77415797-1,Alkanna tinctoria var. lehmannii,(Tineo) Halácsy,Consp. Fl. Graec. 2: 346. 1902 ,Boraginaceae,,Boraginaceae Lithospermum lehmannii Tineo,(Tineo)
+wfo-1200130219,urn:lsid:ipni.org:names:77415808-1,Alkanna tinctoria var. marica,Podp.,Verh. K. K. Zool.-Bot. Ges. Wien 52: 664. 1902 ,Boraginaceae,,,
+wfo-1200130238,urn:lsid:ipni.org:names:77415872-1,Alkanna tinctoria var. baetica,Lacaita,Cavanillesia 3: 20. 1930 ,Boraginaceae,,,
+wfo-1200130518,urn:lsid:ipni.org:names:77416802-1,Anchusa azurea var. macrophylla,(Lam.) Sauvage & Vindt,"Trav. Inst. Sci. Chérifien, Sér. Bot. 3: 96. 1954 ",Boraginaceae,,Boraginaceae Anchusa macrophylla Lam.,(Lam.)
+wfo-1200130519,urn:lsid:ipni.org:names:77416804-1,Anchusa arvensis var. stricta,Boenn.,Prodr. Fl. Monast. Westphal. 54. 1824 ,Boraginaceae,,,
+wfo-1200130527,urn:lsid:ipni.org:names:77416872-1,Anchusa calcarea var. glabrescens,Boiss.,"Voy. Bot. Espagne 2: 431. 1841 , not validly publ.",Boraginaceae,,,
+wfo-1200130530,urn:lsid:ipni.org:names:77416890-1,Anchusa officinalis var. minor,Gaudin,Fl. Helv. 2: 45. 1828 ,Boraginaceae,,,
+wfo-1200130531,urn:lsid:ipni.org:names:77416891-1,Anchusa granatensis var. horrida,Cuatrec.,Treb. Inst. Bot. Barcelona 12: 389. 1929 ,Boraginaceae,,,
+wfo-1200130532,urn:lsid:ipni.org:names:77416893-1,Anchusa strigosa var. decalvata,Bég. & A.Vacc.,"Atti Reale Ist. Veneto Sci. Lett. Arti ser. 8, 72: 325. 1912 ",Boraginaceae,,,
+wfo-1200130533,urn:lsid:ipni.org:names:77416895-1,Anchusa undulata var. subvelutina,Cout.,Bol. Soc. Brot. 21: 148. 1906 ,Boraginaceae,,,
+wfo-1200142477,urn:lsid:ipni.org:names:77416896-1,Anchusa officinalis var. angustifolia,(L.) Lej.,Rev. Fl. Spa 42. 1825 ,Boraginaceae,,Boraginaceae Anchusa angustifolia L.,(L.)
+wfo-1200130534,urn:lsid:ipni.org:names:77416898-1,Anchusa calcarea var. nana,Mariz ex Cout.,Fl. Portugal 495. 1913 ,Boraginaceae,,,
+wfo-1200130535,urn:lsid:ipni.org:names:77416899-1,Anchusa italica var. azurea,(Mill.) Rouy,"Fl. France 10: 286. 1908 , nom. superfl.",Boraginaceae,,Boraginaceae Anchusa azurea Mill.,(Mill.)
+wfo-1200130536,urn:lsid:ipni.org:names:77416902-1,Anchusa hybrida var. setigera,Halácsy,Consp. Fl. Graec. 2: 325. 1902 ,Boraginaceae,,,
+wfo-1200130539,urn:lsid:ipni.org:names:77416909-1,Anchusa undulata var. angustissima,A.DC.,Prodr. 10: 44. 1846 ,Boraginaceae,,,
+wfo-1200130540,urn:lsid:ipni.org:names:77416912-1,Anchusa hybrida var. luschanii,(Wettst. ex Stapf) Gușul.,Bul. Fac. Şti. Cernăuti 1: 95. 1927 ,Boraginaceae,,Boraginaceae Anchusa luschani Wettst. ex Stapf,(Wettst. ex Stapf)
+wfo-1200130543,urn:lsid:ipni.org:names:77416915-1,Anchusa officinalis var. angustior,Hartm.,Handb. Skand. Fl. ed. 2: 60. 1832 ,Boraginaceae,,,
+wfo-1200130546,urn:lsid:ipni.org:names:77416921-1,Anchusa italica var. grandiflora,Jekyll & E.T.Cook,"Garden (London, 1871-1927) 57: 471. 1900 ",Boraginaceae,,,
+wfo-1200130547,urn:lsid:ipni.org:names:77416925-1,Anchusa officinalis var. incarnata,Gray,Nat. Arr. Brit. Pl. 2: 352. 1822 ,Boraginaceae,,,
+wfo-1200142478,urn:lsid:ipni.org:names:77416928-1,Anchusa undulata var. atlantica,(Ball) Gușul.,Bul. Fac. Şti. Cernăuti 1: 304. 1927 ,Boraginaceae,,Boraginaceae Anchusa atlantica Ball,(Ball)
+wfo-1200130548,urn:lsid:ipni.org:names:77416929-1,Anchusa officinalis var. alba,Gray,Nat. Arr. Brit. Pl. 2: 352. 1822 ,Boraginaceae,,,
+wfo-1200130549,urn:lsid:ipni.org:names:77416936-1,Anchusa undulata var. commutata,Pau,Bol. Soc. Iber. Ci. Nat. 22: 96. 1923 ,Boraginaceae,,,
+wfo-1200142479,urn:lsid:ipni.org:names:77416938-1,Anchusa undulata var. granatensis,(Boiss.) Cout.,Bol. Soc. Brot. 21: 150. 1906 ,Boraginaceae,,Boraginaceae Anchusa granatensis Boiss.,(Boiss.)
+wfo-1200130550,urn:lsid:ipni.org:names:77416939-1,Anchusa officinalis var. glabrescens,Wimm. & Grab.,Fl. Siles. 1: 161. 1827 ,Boraginaceae,,,
+wfo-1200130551,urn:lsid:ipni.org:names:77416940-1,Anchusa italica var. paniculata,(Aiton) Rouy,Fl. France 10: 286. 1908 ,Boraginaceae,,Boraginaceae Anchusa paniculata Aiton,(Aiton)
+wfo-1200130552,urn:lsid:ipni.org:names:77416941-1,Anchusa italica var. strigosa,Maire,Bull. Soc. Hist. Nat. Afrique N. 22: 306. 1931 ,Boraginaceae,,,
+wfo-1200130553,urn:lsid:ipni.org:names:77416946-1,Anchusa undulata var. alborosea,(Benoist) Braun-Blanq. & Maire,Bull. Soc. Hist. Nat. Afrique N. 16: 37. 1925 ,Boraginaceae,,Boraginaceae Anchusa alborosea Benoist,(Benoist)
+wfo-1200130554,urn:lsid:ipni.org:names:77416953-1,Anchusa officinalis var. hirsuta,Wimm. & Grab.,Fl. Siles. 1: 161. 1827 ,Boraginaceae,,,
+wfo-1200130555,urn:lsid:ipni.org:names:77416959-1,Anchusa hispida var. songarica,Trautv.,Bull. Soc. Imp. Naturalistes Moscou 39(I): 101. 1866 ,Boraginaceae,,,
+wfo-1200130556,urn:lsid:ipni.org:names:77416962-1,Anchusa granatensis var. albiflora,Batt.,Bull. Soc. Bot. France 51: 352. 1904 ,Boraginaceae,,,
+wfo-1200130557,urn:lsid:ipni.org:names:77416964-1,Anchusa hybrida var. claryi,(Batt.) Gușul.,Bul. Fac. Şti. Cernăuti 1: 261. 1927 ,Boraginaceae,,Boraginaceae Anchusa claryi Batt.,(Batt.)
+wfo-1200130558,urn:lsid:ipni.org:names:77416967-1,Anchusa undulata var. typica,Cout.,"Bol. Soc. Brot. 21: 149. 1906 , not validly publ.",Boraginaceae,,,
+wfo-1200130561,urn:lsid:ipni.org:names:77416975-1,Anchusa italica var. angustifolia,St.-Lag.,"Étude Fl. éd. 8, 2: 603. 1889 ",Boraginaceae,,,
+wfo-1200130562,urn:lsid:ipni.org:names:77416976-1,Anchusa granatensis var. calcarea,Cuatrec.,Treb. Inst. Bot. Barcelona 12: 390. 1929 ,Boraginaceae,,,
+wfo-1200130563,urn:lsid:ipni.org:names:77416977-1,Anchusa calcarea var. scaberrima,Boiss.,Voy. Bot. Espagne 2: 431. 1841 ,Boraginaceae,,,
+wfo-1200130564,urn:lsid:ipni.org:names:77416979-1,Anchusa officinalis var. arvalis,(Rchb.) Rouy,Fl. France 10: 288. 1908 ,Boraginaceae,,Boraginaceae Anchusa arvalis Rchb.,(Rchb.)
+wfo-1200130565,urn:lsid:ipni.org:names:77416980-1,Anchusa officinalis var. macrantha,H.Post,Bot. Not. 1844: 124. ,Boraginaceae,,,
+wfo-1200130566,urn:lsid:ipni.org:names:77416983-1,Anchusa officinalis var. hispida,Wimm. & Grab.,Fl. Siles. 1: 161. 1827 ,Boraginaceae,,,
+wfo-1200130567,urn:lsid:ipni.org:names:77416984-1,Anchusa undulata var. macrotricha,Faure & Maire,Bull. Soc. Hist. Nat. Afrique N. 27: 250. 1936 ,Boraginaceae,,,
+wfo-1200142480,urn:lsid:ipni.org:names:77416987-1,Anchusa undulata var. hybrida,(Ten.) Fiori & Bég.,Fl. Anal. Italia 2: 376. 1902 ,Boraginaceae,,Boraginaceae Anchusa hybrida Ten.,(Ten.)
+wfo-1200131003,urn:lsid:ipni.org:names:77419177-1,Arnebia decumbens var. microcalyx,Coss. & Kralik,"Bull. Soc. Bot. France 4: 403. 1857 , not validly publ.",Boraginaceae,,,
+wfo-1200131608,urn:lsid:ipni.org:names:77422385-1,Borago officinalis var. lilacina,Alef.,Landw. Fl. 123. 1866 ,Boraginaceae,,,
+wfo-1200131609,urn:lsid:ipni.org:names:77422395-1,Borago officinalis var. coerulea,Alef.,Landw. Fl. 123. 1866 ,Boraginaceae,,,
+wfo-1200131613,urn:lsid:ipni.org:names:77422416-1,Borago officinalis var. saxicola,Rouy,Bull. Soc. Bot. France 35: 122. 1888 ,Boraginaceae,,,
+wfo-1200131619,urn:lsid:ipni.org:names:77422446-1,Borago officinalis var. stenopetala,Ducell. & Maire,Bull. Soc. Hist. Nat. Afrique N. 19: 60. 1928 ,Boraginaceae,,,
+wfo-1200131621,urn:lsid:ipni.org:names:77422452-1,Borago officinalis var. variegata,Alef.,Landw. Fl. 123. 1866 ,Boraginaceae,,,
+wfo-1200131623,urn:lsid:ipni.org:names:77422468-1,Borago officinalis var. alba,Gray,Nat. Arr. Brit. Pl. 2: 351. 1822 ,Boraginaceae,,,
+wfo-1200131789,urn:lsid:ipni.org:names:77423667-1,Caccinia glauca var. typica,Trautv.,"Trudy Imp. S.-Peterburgsk. Bot. Sada 9: 462. 1886 , not validly publ.",Boraginaceae,,,
+wfo-1200131790,urn:lsid:ipni.org:names:77423679-1,Caccinia macranthera var. eumacranthera,Brand,"Pflanzenr. IV, 252(Heft 78): 90. 1921 , not validly publ.",Boraginaceae,,,
+wfo-1200142731,urn:lsid:ipni.org:names:77426922-1,Cerinthe minor var. auriculata,(Ten.) P.Fourn.,Quatre Fl. France 741. 1937 ,Boraginaceae,,Boraginaceae Cerinthe auriculata Ten.,(Ten.)
+wfo-1200132462,urn:lsid:ipni.org:names:77426936-1,Cerinthe glabra var. auriculata,(Ten.) St.-Lag.,"Étude Fl. éd. 8, 2: 610. 1889 ",Boraginaceae,,Boraginaceae Cerinthe auriculata Ten.,(Ten.)
+wfo-1200132464,urn:lsid:ipni.org:names:77426941-1,Cerinthe major var. valentina,Pau,Anales Soc. Esp. Hist. Nat. 26: 195. 1897 ,Boraginaceae,,,
+wfo-1200142732,urn:lsid:ipni.org:names:77426946-1,Cerinthe glabra var. pyrenaica,(Arv.-Touv.) Rouy,Fl. France 10: 280. 1908 ,Boraginaceae,,Boraginaceae Cerinthe pyrenaica Arv.-Touv.,(Arv.-Touv.)
+wfo-1200132465,urn:lsid:ipni.org:names:77426947-1,Cerinthe major var. maculata,Hoffm.,Hort. Mosq. 10. 1808 ,Boraginaceae,,,
+wfo-1200132467,urn:lsid:ipni.org:names:77426950-1,Cerinthe gymnandra var. dubia,Maire,Bull. Soc. Hist. Nat. Afrique N. 22: 307. 1931 ,Boraginaceae,,,
+wfo-1200132469,urn:lsid:ipni.org:names:77426965-1,Cerinthe glabra var. tenuifolia,(Bertol.) P.Fourn.,Quatre Fl. France 741. 1937 ,Boraginaceae,,Boraginaceae Cerinthe tenuiflora Bertol.,(Bertol.)
+wfo-1200132471,urn:lsid:ipni.org:names:77426971-1,Cerinthe glabra var. alpina,(Kit. ex Schult.) St.-Lag.,"Étude Fl. éd. 8, 2: 610. 1889 ",Boraginaceae,,Boraginaceae Cerinthe alpina Kit. ex Schult.,(Kit. ex Schult.)
+wfo-1200132472,urn:lsid:ipni.org:names:77426976-1,Cerinthe minor var. maculata,Mert. & W.D.J.Koch,"Deutschl. Fl., ed. 3. 2: 82. 1826 ",Boraginaceae,,,
+wfo-1200142733,urn:lsid:ipni.org:names:77426997-1,Cerinthe major var. oranensis,(Batt.) Jahand. & Maire,Cat. Pl. Maroc 3: 603. 1934 ,Boraginaceae,,Boraginaceae Cerinthe oranensis Batt.,(Batt.)
+wfo-1200132474,urn:lsid:ipni.org:names:77427000-1,Cerinthe major var. macrosiphonia,(Murb.) Jahand. & Maire,Cat. Pl. Maroc 3: 603. 1934 ,Boraginaceae,,,(Murb.)
+wfo-1200132802,urn:lsid:ipni.org:names:77428939-1,Cochranea conferta var. auriculata,Miers,"Ann. Mag. Nat. Hist. ser. 4, 2: 126. 1868 ",Boraginaceae,,,
+wfo-1200132842,urn:lsid:ipni.org:names:77429201-1,Cordia goossensii var. longifolia,De Wild.,Miss. de Briey Mayumbe 215. 1920 ,Boraginaceae,,,
+wfo-1200132846,urn:lsid:ipni.org:names:77429215-1,Cordia sericicalyx var. latifolia,Miq.,Stirp. Surinam. Select. 140. 1851 ,Boraginaceae,,,
+wfo-1200132847,urn:lsid:ipni.org:names:77429216-1,Cordia dichotoma var. brunnea,Kurz,Forest Fl. Burma 2: 208. 1877 ,Boraginaceae,,,
+wfo-1200132848,urn:lsid:ipni.org:names:77429218-1,Cordia obscura var. tomentosa,Cham.,Linnaea 8: 128. 1833 ,Boraginaceae,,,
+wfo-1200132849,urn:lsid:ipni.org:names:77429225-1,Cordia cylindristachya var. portoricensis,(Spreng.) Bello,Anales Soc. Esp. Hist. Nat. 10: 297. 1881 ,Boraginaceae,,Boraginaceae Cordia portoricensis Spreng.,(Spreng.)
+wfo-1200132850,urn:lsid:ipni.org:names:77429226-1,Cordia abyssinica var. acutifolia,A.Rich.,Tent. Fl. Abyss. 2: 81. 1850 ,Boraginaceae,,,
+wfo-1200132861,urn:lsid:ipni.org:names:77429262-1,Cordia cylindristachya var. graveolens,(Kunth) Griseb.,Fl. Brit. W. I. 480. 1861 ,Boraginaceae,,Boraginaceae Cordia graveolens Kunth,(Kunth)
+wfo-1200132867,urn:lsid:ipni.org:names:77429282-1,Cordia cylindristachya var. cinerascens,(A.DC.) Griseb.,Fl. Brit. W. I. 480. 1861 ,Boraginaceae,,Boraginaceae Cordia cinerascens A.DC.,(A.DC.)
+wfo-1200133035,urn:lsid:ipni.org:names:77430458-1,Cryptantha crassisepala var. typica,I.M.Johnst.,"Wrightia 2: 20. 1959 , not validly publ.",Boraginaceae,,,
+wfo-1200133291,urn:lsid:ipni.org:names:77431197-1,Cynoglossum borbonicum var. adscendens,A.DC.,Prodr. 10: 152. 1846 ,Boraginaceae,,,
+wfo-1200133292,urn:lsid:ipni.org:names:77431199-1,Cynoglossum dioscoridis var. castrilense,(Pau) Brand,"Pflanzenr. IV, 252(Heft 78): 119. 1921 ",Boraginaceae,,Boraginaceae Cynoglossum castrilense Pau,(Pau)
+wfo-1200133294,urn:lsid:ipni.org:names:77431202-1,Cynoglossum officinale var. areolatum,(Boiss.) Kusn.,Fl. Caucas. Crit. 4(2): 129. 1913 ,Boraginaceae,,,(Boiss.)
+wfo-1200133295,urn:lsid:ipni.org:names:77431204-1,Cynoglossum hochstetteri var. calathiforme,Chiov.,Ann. Bot. (Rome) 10: 398. 1912 ,Boraginaceae,,,
+wfo-1200133296,urn:lsid:ipni.org:names:77431206-1,Cynoglossum furcatus var. tenerum,Royle ex Benth.,Ill. Bot. Himal. Mts. 306. 1836 ,Boraginaceae,,,
+wfo-1200133297,urn:lsid:ipni.org:names:77431207-1,Cynoglossum asperrimum var. tosaense,(Nakai) H.Hara,Enum. Spermatophytarum Japon. 1: 172. 1948 ,Boraginaceae,,Boraginaceae Cynoglossum tosaense Nakai,(Nakai)
+wfo-1200133298,urn:lsid:ipni.org:names:77431208-1,Cynoglossum linifolium var. coerulescens,DC.,"Fl. Franç., éd. 3. 5: 422. 1815 ",Boraginaceae,,,
+wfo-1200133299,urn:lsid:ipni.org:names:77431209-1,Cynoglossum micranthum var. decurrens,Trimen,Handb. Fl. Ceylon 3: 203. 1895 ,Boraginaceae,,,
+wfo-1200133301,urn:lsid:ipni.org:names:77431211-1,Cynoglossum columnae var. nebrodense,(Guss.) Strobl,Flora 67: 622. 1884 ,Boraginaceae,,Boraginaceae Cynoglossum nebrodense Guss.,(Guss.)
+wfo-1200133302,urn:lsid:ipni.org:names:77431212-1,Cynoglossum officinale var. albiflorum,Opiz,Oekon.-Techn. Fl. Böhm. 2(2): 157. 1839 ,Boraginaceae,,,
+wfo-1200133304,urn:lsid:ipni.org:names:77431216-1,Cynoglossum cheirifolium var. clavatum,(Viv.) A.DC.,Prodr. 10: 154. 1846 ,Boraginaceae,,Boraginaceae Cynoglossum clavatum Viv.,(Viv.)
+wfo-1200133305,urn:lsid:ipni.org:names:77431217-1,Cynoglossum columnae var. dolopicum,Hausskn.,"Mitth. Thüring. Bot. Vereins n.f., 8: 54. 1895 ",Boraginaceae,,,
+wfo-1200133307,urn:lsid:ipni.org:names:77431219-1,Cynoglossum amabile var. parviflorum,Turrill,Bot. Mag. 177: 82. 1949 ,Boraginaceae,,,
+wfo-1200133308,urn:lsid:ipni.org:names:77431220-1,Cynoglossum cheirifolium var. stylosum,Brand,"Pflanzenr. IV, 252(Heft 78): 123. 1921 ",Boraginaceae,,,
+wfo-1200133309,urn:lsid:ipni.org:names:77431223-1,Cynoglossum officinale var. angustifolium,Cariot,"Étude Fl. éd. 5, 2: 443. 1872 ",Boraginaceae,,,
+wfo-1200133310,urn:lsid:ipni.org:names:77431224-1,Cynoglossum creticum var. atlanticum,(Murb.) Maire,Cat. Pl. Maroc 3: 593. 1934 ,Boraginaceae,,Boraginaceae Cynoglossum atlanticum Murb.,(Murb.)
+wfo-1200133311,urn:lsid:ipni.org:names:77431226-1,Cynoglossum dioscoridis var. nebrodense,(Guss.) Ball,"J. Linn. Soc., Bot. 16: 569. 1878 ",Boraginaceae,,Boraginaceae Cynoglossum nebrodense Guss.,(Guss.)
+wfo-1200133312,urn:lsid:ipni.org:names:77431229-1,Cynoglossum dioscoridis var. maroccanum,(Brand) Maire,Bull. Soc. Hist. Nat. Afrique N. 22: 56. 1931 ,Boraginaceae,,,(Brand)
+wfo-1200133314,urn:lsid:ipni.org:names:77431231-1,Cynoglossum officinale var. eglochidiatum,Domin,"Věstn. Ceské Společn. Nauk, Tř. Mat.-Přír. 58: 34. 1903 ",Boraginaceae,,,
+wfo-1200133316,urn:lsid:ipni.org:names:77431234-1,Cynoglossum montanum var. maroccanum,Brand,"Pflanzenr. IV, 252(Heft 78): 128. 1921 ",Boraginaceae,,,
+wfo-1200133317,urn:lsid:ipni.org:names:77431235-1,Cynoglossum officinale var. canescens,Ten.,Syll. Pl. Fl. Neapol. 82. 1831 ,Boraginaceae,,,
+wfo-1200133318,urn:lsid:ipni.org:names:77431236-1,Cynoglossum clandestinum var. fallax,Samp.,Bol. Soc. Brot. 18: 66. 1902 ,Boraginaceae,,,
+wfo-1200133319,urn:lsid:ipni.org:names:77431239-1,Cynoglossum officinale var. bicolor,(Willd.) Lehm.,Pl. Asperif. Nucif. 153. 1818 ,Boraginaceae,,Boraginaceae Cynoglossum bicolor Willd.,(Willd.)
+wfo-1200133320,urn:lsid:ipni.org:names:77431240-1,Cynoglossum officinale var. hybridum,(Thuill.) Mérat,Nouv. Fl. Env. Paris 73. 1812 ,Boraginaceae,,Boraginaceae Cynoglossum hybridum Thuill.,(Thuill.)
+wfo-1200133322,urn:lsid:ipni.org:names:77431245-1,Cynoglossum heterocarpum var. mariolense,(Rouy) Willk.,Suppl. Prodr. Fl. Hispan. 167. 1893 ,Boraginaceae,,,(Rouy)
+wfo-1200133324,urn:lsid:ipni.org:names:77431247-1,Cynoglossum officinale var. corsicum,E.Rev. ex Brand,"Pflanzenr. IV, 252(Heft 78): 118. 1921 ",Boraginaceae,,,
+wfo-1200133325,urn:lsid:ipni.org:names:77431249-1,Cynoglossum montanum var. parvifolium,(K.Koch) Brand,"Pflanzenr. IV, 252(Heft 78): 128. 1921 ",Boraginaceae,,Boraginaceae Cynoglossum parvifolium K.Koch,(K.Koch)
+wfo-1200133326,urn:lsid:ipni.org:names:77431250-1,Cynoglossum officinale var. collinum,Vis.,Fl. Dalmat. 2: 240. 1847 ,Boraginaceae,,,
+wfo-1200133327,urn:lsid:ipni.org:names:77431251-1,Cynoglossum microglochin var. marganum,Brand,"Pflanzenr. IV, 252(Heft 78): 134. 1921 ",Boraginaceae,,,
+wfo-1200133330,urn:lsid:ipni.org:names:77431254-1,Cynoglossum cheirifolium var. lasianthum,Murb.,Contr. Fl. Maroc 2: 20. 1923 ,Boraginaceae,,,
+wfo-1200133331,urn:lsid:ipni.org:names:77431256-1,Cynoglossum cheirifolium var. gomaricum,Font Quer,Mem. Real Acad. Ci. Barcelona 22(18): 19. 1931 ,Boraginaceae,,,
+wfo-1200133332,urn:lsid:ipni.org:names:77431258-1,Cynoglossum lanceolatum var. formosanum,(Nakai) H.Hara,Fl. E. Himalaya 266. 1966 ,Boraginaceae,,Boraginaceae Cynoglossum formosanum Nakai,(Nakai)
+wfo-1200133335,urn:lsid:ipni.org:names:77431261-1,Cynoglossum creticum var. pictum,Maire,Cat. Pl. Maroc 3: 593. 1934 ,Boraginaceae,,Boraginaceae Cynoglossum pictum [Soland.],
+wfo-1200133338,urn:lsid:ipni.org:names:77431264-1,Cynoglossum cheirifolium var. arundanum,(Coss.) Maire,Bull. Soc. Hist. Nat. Afrique N. 27: 249. 1936 ,Boraginaceae,,Boraginaceae Cynoglossum arundanum Coss.,(Coss.)
+wfo-1200133339,urn:lsid:ipni.org:names:77431267-1,Cynoglossum cheirifolium var. calcaratum,DC.,"Fl. Franç., éd. 3. 5: 422. 1815 ",Boraginaceae,,,
+wfo-1200133341,urn:lsid:ipni.org:names:77431270-1,Cynoglossum nebrodense var. areolatum,Boiss.,Fl. Orient. 4: 265. 1875 ,Boraginaceae,,,
+wfo-1200133342,urn:lsid:ipni.org:names:77431271-1,Cynoglossum lanceolatum var. comoranum,Brand,"Pflanzenr. IV, 252(Heft 78): 140. 1921 ",Boraginaceae,,,
+wfo-1200133343,urn:lsid:ipni.org:names:77431272-1,Cynoglossum montanum var. parviflorum,Hayek,Repert. Spec. Nov. Regni Veg. Beih. 30(2): 51. 1928 ,Boraginaceae,,,
+wfo-1200133344,urn:lsid:ipni.org:names:77431273-1,Cynoglossum lanceolatum var. hirsutum,(Thunb.) A.DC.,Prodr. 10: 155. 1846 ,Boraginaceae,,Boraginaceae Cynoglossum hirsutum Thunb.,(Thunb.)
+wfo-1200133345,urn:lsid:ipni.org:names:77431275-1,Cynoglossum cheirifolium var. controversum,(Sennen) Sennen ex Maire,Bull. Soc. Hist. Nat. Afrique N. 27: 249. 1936 ,Boraginaceae,,Boraginaceae Cynoglossum controversum Sennen,(Sennen)
+wfo-1200133347,urn:lsid:ipni.org:names:77431278-1,Cynoglossum creticum var. siculum,(Guss.) Brand,"Pflanzenr. IV, 252(Heft 78): 131. 1921 ",Boraginaceae,,Boraginaceae Cynoglossum siculum Guss.,(Guss.)
+wfo-1200133348,urn:lsid:ipni.org:names:77431279-1,Cynoglossum cheirifolium var. mariolense,(Rouy) Brand,"Pflanzenr. IV, 252(Heft 78): 123. 1921 ",Boraginaceae,,,(Rouy)
+wfo-1200133349,urn:lsid:ipni.org:names:77431280-1,Cynoglossum montanum var. latifolium,Brand,"Pflanzenr. IV, 252(Heft 78): 128. 1921 ",Boraginaceae,,,
+wfo-1200133351,urn:lsid:ipni.org:names:77431283-1,Cynoglossum arundanum var. mariolense,Rouy,Bull. Soc. Bot. France 29: 123. 1882 ,Boraginaceae,,,
+wfo-1200133352,urn:lsid:ipni.org:names:77431284-1,Cynoglossum officinale var. humile,Ten.,Succ. relaz. viaggio Abruzzo 50. 1830 ,Boraginaceae,,,
+wfo-1200133353,urn:lsid:ipni.org:names:77431286-1,Cynoglossum cheirifolium var. tubuliflorum,Maire,Bull. Soc. Hist. Nat. Afrique N. 27: 249. 1936 ,Boraginaceae,,,
+wfo-1200133354,urn:lsid:ipni.org:names:77431289-1,Cynoglossum coeruleum var. winkleri,Brand,"Pflanzenr. IV, 252(Heft 78): 146. 1921 ",Boraginaceae,,,
+wfo-1200133355,urn:lsid:ipni.org:names:77431290-1,Cynoglossum germanicum var. hungaricum,(Simonk.) Brand,"Pflanzenr. IV, 252(Heft 78): 125. 1921 ",Boraginaceae,,Boraginaceae Cynoglossum hungaricum Simonk.,(Simonk.)
+wfo-1200133357,urn:lsid:ipni.org:names:77431292-1,Cynoglossum officinale var. montanum,Moris,"Fl. Sardoa 3: 112. 1858 , nom. illeg. superfl.",Boraginaceae,,,
+wfo-1200133359,urn:lsid:ipni.org:names:77431294-1,Cynoglossum borbonicum var. angustifolium,Bory ex A.DC.,Prodr. 10: 151. 1846 ,Boraginaceae,,,
+wfo-1200133360,urn:lsid:ipni.org:names:77431295-1,Cynoglossum officinale var. glochidiatum,Domin,Věstn. Král. České Společn. Nauk. Tř. Mat.-Přír. 58: 34. 1903 ,Boraginaceae,,,
+wfo-1200133361,urn:lsid:ipni.org:names:77431296-1,Cynoglossum officinale var. album,Gray,Nat. Arr. Brit. Pl. 2: 349. 1822 ,Boraginaceae,,,
+wfo-1200133362,urn:lsid:ipni.org:names:77431302-1,Cynoglossum zeylanicum var. villosulum,(Nakai) Ohwi,Bull. Natl. Sci. Mus. Tokyo 33: 84. 1953 ,Boraginaceae,,Boraginaceae Cynoglossum villosulum Nakai,(Nakai)
+wfo-1200133363,urn:lsid:ipni.org:names:77431325-1,Cynoglossum officinale var. scabrifolia,Willk.,Prodr. Fl. Hispan. 2: 509. 1870 ,Boraginaceae,,,
+wfo-1200133364,urn:lsid:ipni.org:names:77431336-1,Cynoglossum officinale var. scabrifolium,Willk.,Prodr. Fl. Hispan. 2: 509. 1870 ,Boraginaceae,,,
+wfo-1200133365,urn:lsid:ipni.org:names:77431340-1,Cynoglossum officinale var. sempervirens,Roth,Tent. Fl. Germ. 2: 218. 1789 ,Boraginaceae,,,
+wfo-1200133366,urn:lsid:ipni.org:names:77431347-1,Cynoglossum officinale var. sylvaticum,(Haenke) Willd.,"Sp. Pl., ed. 4. 1: 760. 1798 ",Boraginaceae,,Boraginaceae Cynoglossum sylvaticum Haenke,(Haenke)
+wfo-1200133367,urn:lsid:ipni.org:names:77431350-1,Cynoglossum officinale var. purpureum,Opiz,"Oekon.-Techn. Fl. Böhm. 2(2): 156. 1839 , nom. illeg. superfl.",Boraginaceae,,,
+wfo-1200133368,urn:lsid:ipni.org:names:77431351-1,Cynoglossum pictum var. loreyi,(Jord. ex Lange) Nyman,Consp. Fl. Eur. 521. 1881 ,Boraginaceae,,Boraginaceae Cynoglossum loreyi Jord. ex Lange,(Jord. ex Lange)
+wfo-1200133369,urn:lsid:ipni.org:names:77431358-1,Cynoglossum officinale var. subglabrum,Mérat,Nouv. Fl. Env. Paris 73. 1812 ,Boraginaceae,,,
+wfo-1200133370,urn:lsid:ipni.org:names:77431367-1,Cynoglossum pictum var. siculum,(Guss.) Nyman,Consp. Fl. Eur. 521. 1881 ,Boraginaceae,,Boraginaceae Cynoglossum siculum Guss.,(Guss.)
+wfo-1200133371,urn:lsid:ipni.org:names:77431372-1,Cynoglossum officinale var. umbrosum,Caruel,"Fl. Ital. 6: 849. 1886 , nom. illeg. superfl.",Boraginaceae,,,
+wfo-1200133372,urn:lsid:ipni.org:names:77431379-1,Cynoglossum officinale var. villosum,Ten.,Syll. Pl. Fl. Neapol. 83. 1831 ,Boraginaceae,,,
+wfo-1200133373,urn:lsid:ipni.org:names:77431390-1,Cynoglossum pictum var. umbrosum,Rouy,Bull. Soc. Bot. France 35: 122. 1888 ,Boraginaceae,,,
+wfo-1200133374,urn:lsid:ipni.org:names:77431391-1,Cynoglossum zeylanicum var. lanceolatum,(C.B.Clarke) Brand,"Pflanzenr. IV, 252(Heft 78): 135. 1921 ",Boraginaceae,,Boraginaceae Cynoglossum furcatum Wall. var. lanceolatum C.B.Clarke,(C.B.Clarke)
+wfo-1200133375,urn:lsid:ipni.org:names:77431396-1,Cynoglossum officinale var. virens,Rouy,"Fl. France 10: 339. 1908 , nom. illeg. superfl.",Boraginaceae,,,
+wfo-1200133378,urn:lsid:ipni.org:names:77431468-1,Cyphomattia lanata var. brachyantha,(Boiss.) Boiss.,Fl. Orient. 4: 273. 1875 ,Boraginaceae,,Boraginaceae Mattia brachyantha Boiss.,(Boiss.)
+wfo-1200133939,urn:lsid:ipni.org:names:77434585-1,Echinospermum polymorphum var. minimum,Lipsky,Trudy Imp. S.-Peterburgsk. Bot. Sada 26: 551. 1910 ,Boraginaceae,,,
+wfo-1200133940,urn:lsid:ipni.org:names:77434594-1,Echinospermum redowskii var. affine,(Kar. & Kir.) Regel,Bull. Soc. Imp. Naturalistes Moscou 41(I): 84. 1868 ,Boraginaceae,,Boraginaceae Echinospermum affine Kar. & Kir.,(Kar. & Kir.)
+wfo-1200133941,urn:lsid:ipni.org:names:77434596-1,Echiochilon chazaliei var. muratii,Faurel & Dubuis,Bull. Soc. Hist. Nat. Afrique N. 50: 320. 1959 ,Boraginaceae,,,
+wfo-1200133942,urn:lsid:ipni.org:names:77434598-1,Echium angustifolium var. heterophyllum,Coincy,J. Bot. (Morot) 16: 218. 1902 ,Boraginaceae,,,
+wfo-1200133944,urn:lsid:ipni.org:names:77434604-1,Echinospermum semiglabrum var. karelinii,Regel,Bull. Soc. Imp. Naturalistes Moscou 41(I): 87. 1868 ,Boraginaceae,,,
+wfo-1200133946,urn:lsid:ipni.org:names:77434617-1,Echinospermum patulum var. pterocarpum,Hochr.,Annuaire Conserv. Jard. Bot. Genève 7-8: 171. 1904 ,Boraginaceae,,,
+wfo-1200133947,urn:lsid:ipni.org:names:77434618-1,Echinospermum lappula var. glaucescens,Wimm. & Grab.,Fl. Siles. 1: 158. 1827 ,Boraginaceae,,,
+wfo-1200133948,urn:lsid:ipni.org:names:77434621-1,Echinospermum echinophorum var. sessile,Lipsky,"Trudy Imp. S.-Peterburgsk. Bot. Sada 26: 539. 1910 , nom. illeg. superfl.",Boraginaceae,,,
+wfo-1200133949,urn:lsid:ipni.org:names:77434623-1,Echinospermum redowskii var. oligacanthum,(Ledeb.) Regel,Bull. Soc. Imp. Naturalistes Moscou 41(I): 84. 1868 ,Boraginaceae,,Boraginaceae Echinospermum oligacanthum Ledeb.,(Ledeb.)
+wfo-1200133950,urn:lsid:ipni.org:names:77434630-1,Echinospermum redowskii var. karelinii,(Fisch. & C.A.Mey.) Regel,Bull. Soc. Imp. Naturalistes Moscou 41(I): 84. 1868 ,Boraginaceae,,Boraginaceae Echinospermum karelinii Fisch. & C.A.Mey.,(Fisch. & C.A.Mey.)
+wfo-1200133951,urn:lsid:ipni.org:names:77434633-1,Echinospermum barbatum var. cariense,(Boiss.) Boiss.,Fl. Orient. 4: 250. 1879 ,Boraginaceae,,Boraginaceae Echinospermum cariense Boiss.,(Boiss.)
+wfo-1200133953,urn:lsid:ipni.org:names:77434639-1,Echinospermum semiglabrum var. bungei,Regel,Bull. Soc. Imp. Naturalistes Moscou 41(I): 87. 1868 ,Boraginaceae,,,
+wfo-1200133954,urn:lsid:ipni.org:names:77434642-1,Echium angustifolium var. eriobotryum,(Pomel) Coincy,J. Bot. (Morot) 16: 220. 1902 ,Boraginaceae,,Boraginaceae Echium eriobotrium Pomel,(Pomel)
+wfo-1200133955,urn:lsid:ipni.org:names:77434646-1,Echium angustifolium var. humile,(Desf.) Coincy,"J. Bot. (Morot) 16: 217. 1902 , nom. illeg. homonym. post.",Boraginaceae,,Boraginaceae Echium humile Desf.,(Desf.)
+wfo-1200142853,urn:lsid:ipni.org:names:77434652-1,Echinospermum lappula var. squarrosum,(Retz.) Lehm.,Pl. Asperif. Nucif. 121. 1818 ,Boraginaceae,,Boraginaceae Myosotis squarrosa Retz.,(Retz.)
+wfo-1200133957,urn:lsid:ipni.org:names:77434654-1,Echinospermum sinaicum var. flaviflorum,Parsa,Kew Bull. 3: 24. 1948 ,Boraginaceae,,,
+wfo-1200133958,urn:lsid:ipni.org:names:77434655-1,Echinospermum lappula var. virescens,Wimm. & Grab.,Fl. Siles. 1: 158. 1827 ,Boraginaceae,,,
+wfo-1200133959,urn:lsid:ipni.org:names:77434656-1,Echium angustifolium var. grandiflorum,Rouy,Bull. Soc. Bot. France 29: 123. 1882 ,Boraginaceae,,,
+wfo-1200133960,urn:lsid:ipni.org:names:77434657-1,Echinospermum lappula var. pedicellatum,Rouy,Fl. France 10: 341. 1908 ,Boraginaceae,,,
+wfo-1200133961,urn:lsid:ipni.org:names:77434658-1,Echinospermum deflexum var. grandiflorum,Gaudin,Fl. Helv. 2: 60. 1828 ,Boraginaceae,,,
+wfo-1200133963,urn:lsid:ipni.org:names:77434664-1,Echinospermum deflexum var. parviflorum,Gaudin,Fl. Helv. 2: 60. 1828 ,Boraginaceae,,,
+wfo-1200133964,urn:lsid:ipni.org:names:77434665-1,Echinospermum microcarpum var. rupestre,(Schrenk) Regel,Bull. Soc. Imp. Naturalistes Moscou 41(I): 85. 1868 ,Boraginaceae,,Boraginaceae Echinospermum rupestre Schrenk,(Schrenk)
+wfo-1200133965,urn:lsid:ipni.org:names:77434666-1,Echinospermum polymorphum var. aculeatum,Lipsky,Trudy Imp. S.-Peterburgsk. Bot. Sada 26: 547. 1910 ,Boraginaceae,,,
+wfo-1200133966,urn:lsid:ipni.org:names:77434669-1,Echinospermum barbatum var. brevistylum,Ball,"J. Linn. Soc., Bot. 16: 570. 1878 ",Boraginaceae,,,
+wfo-1200133968,urn:lsid:ipni.org:names:77434673-1,Echinospermum redowskii var. tenue,(Ledeb.) Regel,Bull. Soc. Imp. Naturalistes Moscou 41(I): 84. 1868 ,Boraginaceae,,Boraginaceae Echinospermum tenue Ledeb.,(Ledeb.)
+wfo-1200142854,urn:lsid:ipni.org:names:77434675-1,Echinospermum lappula var. squarrosum,(Retz.) Gaudin,Fl. Helv. 2: 59. 1828 ,Boraginaceae,,Boraginaceae Myosotis squarrosa Retz.,(Retz.)
+wfo-1200142855,urn:lsid:ipni.org:names:77434677-1,Echium angustifolium var. humile,Rouy,"Rev. Sci. Nat. (Montpellier) sér. 3, 3: 239. 1883 ",Boraginaceae,,,
+wfo-1200133970,urn:lsid:ipni.org:names:77434678-1,Echium pycnanthum var. garianicum,Maire & Weiller,Bull. Soc. Hist. Nat. Afrique N. 30: 292. 1939 ,Boraginaceae,,,
+wfo-1200133971,urn:lsid:ipni.org:names:77434679-1,Echium confusum var. perplexans,(Maire) Sauvage & Vindt,"Trav. Inst. Sci. Chérifien, Sér. Bot. 3: 184. 1954 ",Boraginaceae,,Boraginaceae Echium perplexans Maire,(Maire)
+wfo-1200133972,urn:lsid:ipni.org:names:77434680-1,Echium modestum var. vidalii,Maire,"Cat. Pl. Maroc 3: 607. 1934 , nom. nud.",Boraginaceae,,,
+wfo-1200133973,urn:lsid:ipni.org:names:77434681-1,Echium strictum var. lineolatum,(Webb & Berthel.) Christ,Bot. Jahrb. Syst. 9: 128. 1887 ,Boraginaceae,,Boraginaceae Echium lineolatum Webb & Berthel.,(Webb & Berthel.)
+wfo-1200133974,urn:lsid:ipni.org:names:77434683-1,Echium confusum var. sabulicola,(Pomel) Batt.,"Fl. Algérie Dicot.: 236. 1905 , nom. superfl.",Boraginaceae,,Boraginaceae Echium sabulicola Pomel,(Pomel)
+wfo-1200133975,urn:lsid:ipni.org:names:77434684-1,Echium pycnanthum var. pseudosericeum,Maire & Weiller,Bull. Soc. Hist. Nat. Afrique N. 30: 292. 1939 ,Boraginaceae,,,
+wfo-1200133976,urn:lsid:ipni.org:names:77434686-1,Echium arenarium var. debile,Pamp.,Pl. Tripol. 195. 1914 ,Boraginaceae,,,
+wfo-1200133977,urn:lsid:ipni.org:names:77434687-1,Echium vulgare var. parviflorum,Gaudin,Fl. Helv. 2: 31. 1828 ,Boraginaceae,,,
+wfo-1200133978,urn:lsid:ipni.org:names:77434688-1,Echium plantagineum var. grandiflorum,Ball,"J. Linn. Soc., Bot. 16: 576. 1876 ",Boraginaceae,,,
+wfo-1200133979,urn:lsid:ipni.org:names:77434689-1,Echium pycnanthum var. heterophyllum,(Coincy) Jahand. & Maire,Cat. Pl. Maroc 3: 605. 1934 ,Boraginaceae,,,(Coincy)
+wfo-1200133980,urn:lsid:ipni.org:names:77434690-1,Echium pycnanthum var. eriobotryum,(Pomel) Maire,Bull. Soc. Hist. Nat. Afrique N. 25: 310. 1934 ,Boraginaceae,,Boraginaceae Echium eriobotrium Pomel,(Pomel)
+wfo-1200133981,urn:lsid:ipni.org:names:77434692-1,Echium australe var. grandiflorum,(Ball) Sauvage & Vindt,"Trav. Inst. Sci. Chérifien, Sér. Bot. 3: 176. 1954 ",Boraginaceae,,,(Ball)
+wfo-1200133982,urn:lsid:ipni.org:names:77434693-1,Echium parviflorum var. vivianii,Rouy,Fl. France 10: 311. 1908 ,Boraginaceae,,,
+wfo-1200133983,urn:lsid:ipni.org:names:77434694-1,Echium modestum var. barrattei,(Coincy) Maire,Pl. Marocc. Nov. 3: 5. 1930 ,Boraginaceae,,Boraginaceae Echium barrattei Coincy,(Coincy)
+wfo-1200133984,urn:lsid:ipni.org:names:77434695-1,Echium confusum var. decipiens,(Pomel) Coincy,J. Bot. (Morot) 16: 230. 1902 ,Boraginaceae,,Boraginaceae Echium decipiens Pomel,(Pomel)
+wfo-1200133985,urn:lsid:ipni.org:names:77434696-1,Echium sabulicola var. briquetii,(Sennen) Klotz,"Wiss. Z. Martin-Luther-Univ. Halle-Wittenberg, Math.-Naturwiss. Reihe 11: 1093. 1962 ",Boraginaceae,,Boraginaceae Echium briquetii Sennen,(Sennen)
+wfo-1200142856,urn:lsid:ipni.org:names:77434697-1,Echium tuberculatum var. latifolium,Hoffmanns. & Link,Fl. Portug. 1: 184. 1811 ,Boraginaceae,,,
+wfo-1200133986,urn:lsid:ipni.org:names:77434698-1,Echium asturicum var. strigosum,Lacaita,Cavanillesia 1: 9. 1928 ,Boraginaceae,,,
+wfo-1200133987,urn:lsid:ipni.org:names:77434699-1,Echium australe var. coincyanum,(Lacaita) Sauvage & Vindt,"Trav. Inst. Sci. Chérifien, Sér. Bot. 3: 176. 1954 ",Boraginaceae,,Boraginaceae Echium coincyanum Lacaita,(Lacaita)
+wfo-1200133988,urn:lsid:ipni.org:names:77434700-1,Echium plantagineum var. sennenii,(Pau) Sauvage & Vindt,"Trav. Inst. Sci. Chérifien, Sér. Bot. 3: 176. 1954 ",Boraginaceae,,Boraginaceae Echium sennenii Pau,(Pau)
+wfo-1200133989,urn:lsid:ipni.org:names:77434702-1,Echium confusum var. bracteatum,Sommier ex Pamp.,Pl. Tripol. 196. 1914 ,Boraginaceae,,,
+wfo-1200133990,urn:lsid:ipni.org:names:77434703-1,Echium pycnanthum var. fallaciosum,Maire & Weiller,Bull. Soc. Hist. Nat. Afrique N. 30: 292. 1939 ,Boraginaceae,,,
+wfo-1200133991,urn:lsid:ipni.org:names:77434704-1,Echium modestum var. rifanum,Maire,Pl. Marocc. Nov. 3: 5. 1930 ,Boraginaceae,,,
+wfo-1200133992,urn:lsid:ipni.org:names:77434706-1,Echium pycnanthum var. djeneiense,Le Houér.,Bull. Soc. Bot. France 107: 26. 1960 ,Boraginaceae,,,
+wfo-1200133993,urn:lsid:ipni.org:names:77434707-1,Echium modestum var. wilczekianum,Maire,Bull. Soc. Hist. Nat. Afrique N. 22: 307. 1931 ,Boraginaceae,,,
+wfo-1200133994,urn:lsid:ipni.org:names:77434709-1,Echium pyrenaicum var. balearicum,(Porta) Lacaita,"J. Linn. Soc., Bot. 47: 414. 1926 ",Boraginaceae,,Boraginaceae Echium balearicum Porta,(Porta)
+wfo-1200133995,urn:lsid:ipni.org:names:77434710-1,Echium angustifolium var. parviflorum,Rouy,Bull. Soc. Bot. France 29: 123. 1882 ,Boraginaceae,,,
+wfo-1200133996,urn:lsid:ipni.org:names:77434711-1,Echium confusum var. philothei,(Sennen) Maire,Cat. Pl. Maroc 3: 607. 1934 ,Boraginaceae,,Boraginaceae Echium philothei Sennen,(Sennen)
+wfo-1200133997,urn:lsid:ipni.org:names:77434712-1,Echium vulgare var. album,Gray,Nat. Arr. Brit. Pl. 2: 357. 1822 ,Boraginaceae,,,
+wfo-1200133998,urn:lsid:ipni.org:names:77434713-1,Echium sabulicola var. confusum,(Coincy) Klotz,"Wiss. Z. Martin-Luther-Univ. Halle-Wittenberg, Math.-Naturwiss. Reihe 11: 1090. 1962 ",Boraginaceae,,Boraginaceae Echium confusum Coincy,(Coincy)
+wfo-1200133999,urn:lsid:ipni.org:names:77434714-1,Echium australe var. brevicalyx,Murb.,Contr. Fl. Maroc 2: 23. 1923 ,Boraginaceae,,,
+wfo-1200142857,urn:lsid:ipni.org:names:77434716-1,Echium creticum var. grandiflorum,(Ball) R.Fern.,"Bol. Soc. Brot. sér. 2, 43: 152. 1969 ",Boraginaceae,,,(Ball)
+wfo-1200142858,urn:lsid:ipni.org:names:77434718-1,Echium humile var. pycnanthum,(Pomel) Lacaita,"J. Linn. Soc., Bot. 44: 376. 1919 ",Boraginaceae,,Boraginaceae Echium pycnanthum Pomel,(Pomel)
+wfo-1200134000,urn:lsid:ipni.org:names:77434719-1,Echium humile var. saharicum,Maire,Bull. Soc. Hist. Nat. Afrique N. 20: 191. 1929 ,Boraginaceae,,,
+wfo-1200134001,urn:lsid:ipni.org:names:77434721-1,Echium humile var. fallax,Maire,Bull. Soc. Hist. Nat. Afrique N. 20: 191. 1929 ,Boraginaceae,,,
+wfo-1200134002,urn:lsid:ipni.org:names:77434724-1,Echium vulgare var. hirsutum,Wimm. & Grab.,Fl. Siles. 1: 169. 1827 ,Boraginaceae,,,
+wfo-1200134003,urn:lsid:ipni.org:names:77434725-1,Echium vulgare var. violaceum,Gray,Nat. Arr. Brit. Pl. 2: 357. 1822 ,Boraginaceae,,,
+wfo-1200134004,urn:lsid:ipni.org:names:77434726-1,Echium plantagineum var. maritimum,Kunze,Chlor. Austro-Hispan. 3. 1846 ,Boraginaceae,,,
+wfo-1200134005,urn:lsid:ipni.org:names:77434727-1,Echium angustifolium var. onosmoides,(Pomel) Coincy,J. Bot. (Morot) 16: 217. 1902 ,Boraginaceae,,Boraginaceae Echium onosmoides Pomel,(Pomel)
+wfo-1200134006,urn:lsid:ipni.org:names:77434729-1,Echium mentagense var. versicolor,(H.Lindb.) Maire,Cat. Pl. Maroc 3: 609. 1934 ,Boraginaceae,,Boraginaceae Echium versicolor H.Lindb.,(H.Lindb.)
+wfo-1200134007,urn:lsid:ipni.org:names:77434731-1,Echium bifrons var. hierrense,(Webb ex Bolle) Christ,Bot. Jahrb. Syst. 9: 127. 1887 ,Boraginaceae,,Boraginaceae Echium hierrense Webb ex Bolle,(Webb ex Bolle)
+wfo-1200134008,urn:lsid:ipni.org:names:77434734-1,Echium longifolium var. macrocalycinum,Maire & Weiller,Bull. Soc. Hist. Nat. Afrique N. 30: 293. 1939 ,Boraginaceae,,,
+wfo-1200134009,urn:lsid:ipni.org:names:77434735-1,Echium velutinum var. michaelis,(Maire & Wilczek) Sauvage & Vindt,"Trav. Inst. Sci. Chérifien, Sér. Bot. 3: 179. 1954 ",Boraginaceae,,Boraginaceae Echium michaelis Maire & Wilczek,(Maire & Wilczek)
+wfo-1200134010,urn:lsid:ipni.org:names:77434737-1,Echium vulgare var. estivalis,Sennen,Exsicc. (Pl. Espagne) 1934: n.° 9075. 1935 ,Boraginaceae,,,
+wfo-1200134011,urn:lsid:ipni.org:names:77434740-1,Echium plantagineum var. maroccanum,Sennen,Diagn. Nouv. 109. 1936 ,Boraginaceae,,,
+wfo-1200134012,urn:lsid:ipni.org:names:77434741-1,Echium hypertropicum var. nudum,Coincy,"Bull. Herb. Boissier sér. 2, 3: 497. 1903 , nom. nud.",Boraginaceae,,,
+wfo-1200134013,urn:lsid:ipni.org:names:77434742-1,Echium arenarium var. sieberi,A.DC.,Prodr. 10: 21. 1846 ,Boraginaceae,,,
+wfo-1200134014,urn:lsid:ipni.org:names:77434743-1,Echium angustifolium var. mogadorense,(Coincy) Coincy,J. Bot. (Morot) 16: 218. 1902 ,Boraginaceae,,Boraginaceae Echium mogadorense Coincy,(Coincy)
+wfo-1200134015,urn:lsid:ipni.org:names:77434744-1,Echium italicum var. lusitanicum,(L.) Hoffmanns. & Link,Fl. Portug. 1: 185. 1811 ,Boraginaceae,,Boraginaceae Echium lusitanicum L.,(L.)
+wfo-1200134016,urn:lsid:ipni.org:names:77434747-1,Echium vulgare var. hispidum,Wimm. & Grab.,Fl. Siles. 1: 169. 1827 ,Boraginaceae,,,
+wfo-1200142859,urn:lsid:ipni.org:names:77434748-1,Echium sabulicola var. decipiens,(Pomel) G.Klotz,"Wiss. Z. Martin-Luther-Univ. Halle-Wittenberg, Math.-Naturwiss. Reihe 11: 1091. 1962 ",Boraginaceae,,Boraginaceae Echium decipiens Pomel,(Pomel)
+wfo-1200134017,urn:lsid:ipni.org:names:77434749-1,Echium fontanesii var. setosum,Willk.,Prodr. Fl. Hispan. 2: 484. 1870 ,Boraginaceae,,,
+wfo-1200134018,urn:lsid:ipni.org:names:77434753-1,Echium modestum var. decipiens,(Pomel) Maire,Cat. Pl. Maroc 3: 607. 1934 ,Boraginaceae,,Boraginaceae Echium decipiens Pomel,(Pomel)
+wfo-1200134019,urn:lsid:ipni.org:names:77434754-1,Echium vulgare var. angustifoliun,Klett & Richt.,Fl. Leipzig 187. 1830 ,Boraginaceae,,,
+wfo-1200134020,urn:lsid:ipni.org:names:77434756-1,Echium pyrenaicum var. italicum,(L.) DC.,"Cat. Pl. Horti Monsp. 25. 1813 , nom. superfl.",Boraginaceae,,Boraginaceae Echium italicum L.,(L.)
+wfo-1200134021,urn:lsid:ipni.org:names:77434757-1,Echium modestum var. brevicalyx,(Murb.) Maire,Contr. Fl. Maroc 2: 23. 1923 ,Boraginaceae,,,(Murb.)
+wfo-1200134022,urn:lsid:ipni.org:names:77434759-1,Echium canum var. microcalycinum,Emb. & Maire,Pl. Marocc. Nov. 2: 6. 1929 ,Boraginaceae,,,
+wfo-1200142860,urn:lsid:ipni.org:names:77434760-1,Echium italicum var. pyrenaicum,Loisel.,"Fl. Gall. ed. 2, 1: 150. 1828 ",Boraginaceae,,,
+wfo-1200134023,urn:lsid:ipni.org:names:77434762-1,Echium micranthum var. inclusum,H.Lindb.,"Acta Soc. Sci. Fenn., Ser. B, Opera Biol. 1(2): 124. 1932 ",Boraginaceae,,,
+wfo-1200134024,urn:lsid:ipni.org:names:77434763-1,Echium velutinum var. mentagense,(Maire) Klotz,"Wiss. Z. Martin-Luther-Univ. Halle-Wittenberg, Math.-Naturwiss. Reihe 11: 1101. 1962 ",Boraginaceae,,Boraginaceae Echium mentagense Maire,(Maire)
+wfo-1200134025,urn:lsid:ipni.org:names:77434766-1,Echium micranthum var. exsertum,H.Lindb.,"Acta Soc. Sci. Fenn., Ser. B, Opera Biol. 1(2): 124. 1932 ",Boraginaceae,,,
+wfo-1200134026,urn:lsid:ipni.org:names:77434767-1,Echium modestum var. masguindalii,Maire,"Cat. Pl. Maroc 3: 607. 1934 , nom. nud.",Boraginaceae,,,
+wfo-1200134027,urn:lsid:ipni.org:names:77434769-1,Echium sericeum var. diffusum,Boiss.,Fl. Orient. 4: 207. 1879 ,Boraginaceae,,,
+wfo-1200134028,urn:lsid:ipni.org:names:77434770-1,Echium vulgare var. carneum,Gaudin,Fl. Helv. 2: 31. 1828 ,Boraginaceae,,,
+wfo-1200134029,urn:lsid:ipni.org:names:77434772-1,Echium vulgare var. minus,Gaudin,Fl. Helv. 2: 31. 1828 ,Boraginaceae,,,
+wfo-1200134030,urn:lsid:ipni.org:names:77434773-1,Echium vulgare var. wierzbickii,(Haberle ex Rchb.) Coste,Fl. Descr. France 2: 594. 1903 ,Boraginaceae,,Boraginaceae Echium wierzbickii Haberle ex Rchb.,(Haberle ex Rchb.)
+wfo-1200134031,urn:lsid:ipni.org:names:77434774-1,Echium pycnanthum var. mogadorense,(Coincy) Jahand. & Maire,Cat. Pl. Maroc 3: 605. 1934 ,Boraginaceae,,Boraginaceae Echium mogadorense Coincy,(Coincy)
+wfo-1200134032,urn:lsid:ipni.org:names:77434788-1,Ehretia buxifolia var. heterophylla,(Cav.) Gagnep.,Fl. Indo-Chine 4(2): 207. 1914 ,Boraginaceae,,Boraginaceae Carmona heterophylla Cav.,(Cav.)
+wfo-1200134034,urn:lsid:ipni.org:names:77434818-1,Ehretia buxifolia var. microphylla,(Lam.) DC.,"Prodr. 9: 509. 1845 , nom. superfl.",Boraginaceae,,Boraginaceae Ehretia microphylla Lam.,(Lam.)
+wfo-1200134036,urn:lsid:ipni.org:names:77434877-1,Ehretia petiolaris var. subria,Lam.,Encycl. 1: 527. 1785 ,Boraginaceae,,,
+wfo-1200134125,urn:lsid:ipni.org:names:77435988-1,Eritrichium nanum var. euvillosum,Brand,"Pflanzenr. IV, 97(Heft 252): 190. 1931 , not validly publ.",Boraginaceae,,,
+wfo-1200134126,urn:lsid:ipni.org:names:77435999-1,Eritrichium tibeticum var. minor,C.B.Clarke,Fl. Brit. India 4: 165. 1883 ,Boraginaceae,,,
+wfo-1200134128,urn:lsid:ipni.org:names:77436011-1,Eritrichium villosum var. latifolium,Trautv.,Reise Sibir. 1(2; 1): 34. 1847 ,Boraginaceae,,,
+wfo-1200134131,urn:lsid:ipni.org:names:77436060-1,Eritrichium rupestre var. latifolium,Bunge,Mém. Acad. Imp. Sci. St.-Pétersbourg Divers Savans 2: 530. 1835 ,Boraginaceae,,,
+wfo-1200134132,urn:lsid:ipni.org:names:77436062-1,Eritrichium villosum var. parviflorum,Regel,Bull. Soc. Imp. Naturalistes Moscou 41(I): 82. 1868 ,Boraginaceae,,,
+wfo-1200134134,urn:lsid:ipni.org:names:77436076-1,Eritrichium nanum var. leiospermum,Rouy,Fl. France 10: 582. 1908 ,Boraginaceae,,,
+wfo-1200134846,urn:lsid:ipni.org:names:77441998-1,Heliotropium anomalum var. argenteum,A.Gray,Proc. Amer. Acad. Arts 5: 339. 1862 ,Boraginaceae,,,
+wfo-1200134852,urn:lsid:ipni.org:names:77442027-1,Heliophytum erosum var. prostratum,DC.,Prodr. 9: 552. 1845 ,Boraginaceae,,,
+wfo-1200134863,urn:lsid:ipni.org:names:77442053-1,Heliotropium anomalum var. candidum,H.St.John,"Trans. Roy. Soc. New Zealand, Bot. 1: 192. 1962 ",Boraginaceae,,,
+wfo-1200134867,urn:lsid:ipni.org:names:77442067-1,Heliotropium strigosum var. bicolor,(Hochst. & Steud.) O.Schwartz,Mitt. Inst. Allg. Bot. Hamburg 10: 209. 1939 ,Boraginaceae,,Boraginaceae Heliotropium bicolor Hochst. & Steud.,(Hochst. & Steud.)
+wfo-1200134868,urn:lsid:ipni.org:names:77442070-1,Heliotropium gymnostomum var. aucheriiforme,Popov,Trudy Imp. S.-Peterburgsk. Bot. Sada 42: 241. 1931 ,Boraginaceae,,,
+wfo-1200134869,urn:lsid:ipni.org:names:77442072-1,Heliotropium subulatum var. arenarium,Vatke,Linnaea 43: 316. 1882 ,Boraginaceae,,,
+wfo-1200134870,urn:lsid:ipni.org:names:77442073-1,Heliotropium minutiflorum var. rudbaricum,Bornm.,"Bull. Herb. Boissier sér. 2, 7: 780. 1907 ",Boraginaceae,,,
+wfo-1200134871,urn:lsid:ipni.org:names:77442076-1,Heliotropium chorassanicum var. lasiocarpum,Bunge,Bull. Soc. Imp. Naturalistes Moscou 42(I): 301. 1869 ,Boraginaceae,,,
+wfo-1200134872,urn:lsid:ipni.org:names:77442078-1,Heliotropium strigosum var. cordofanum,(Hochst. ex DC.) Maire,Bull. Soc. Hist. Nat. Afrique N. 29: 436. 1938 ,Boraginaceae,,Boraginaceae Heliotropium cordofanum Hochst. ex DC.,(Hochst. ex DC.)
+wfo-1200134873,urn:lsid:ipni.org:names:77442083-1,Heliotropium europaeum var. gymnocarpum,Borbás,Math. Term. Közlem. 14: 405. 1877 ,Boraginaceae,,,
+wfo-1200134874,urn:lsid:ipni.org:names:77442085-1,Heliotropium steudneri var. oppositifolium,Chiov.,Res. Sci. Somalia Ital. 120. 1916 ,Boraginaceae,,,
+wfo-1200134875,urn:lsid:ipni.org:names:77442086-1,Heliotropium zeylanicum var. arenarium,(Vatke) Chiov.,Fl. Somala 3: 141. 1936 ,Boraginaceae,,,(Vatke)
+wfo-1200134876,urn:lsid:ipni.org:names:77442088-1,Heliotropium longiflorum var. stenophyllum,O.Schwartz,Mitt. Inst. Allg. Bot. Hamburg 10: 209. 1939 ,Boraginaceae,,,
+wfo-1200134877,urn:lsid:ipni.org:names:77442095-1,Heliotropium europaeum var. ellipticum,(Ledeb.) Regel,Bull. Soc. Imp. Naturalistes Moscou 41(I): 75. 1868 ,Boraginaceae,,Boraginaceae Heliotropium ellipticum Ledeb.,(Ledeb.)
+wfo-1200134878,urn:lsid:ipni.org:names:77442096-1,Heliotropium curassavicum var. virens,DC.,Prodr. 9: 538. 1845 ,Boraginaceae,,,
+wfo-1200134879,urn:lsid:ipni.org:names:77442101-1,Heliotropium chorassanicum var. leiocarpum,Bunge,Bull. Soc. Imp. Naturalistes Moscou 42(I): 302. 1869 ,Boraginaceae,,,
+wfo-1200134880,urn:lsid:ipni.org:names:77442103-1,Heliotropium undulatum var. suberosum,C.B.Clarke,Fl. Brit. India 4: 234. 1883 ,Boraginaceae,,,
+wfo-1200134881,urn:lsid:ipni.org:names:77442115-1,Heliotropium undulatum var. suffruticescens,(Pomel) Maire,Mém. Soc. Hist. Nat. Afrique N. 3: 177. 1933 ,Boraginaceae,,Boraginaceae Heliotropium suffruticescens Pomel,(Pomel)
+wfo-1200134882,urn:lsid:ipni.org:names:77442116-1,Heliotropium undulatum var. maroccanum,(Lehm.) Ball,"J. Linn. Soc., Bot. 16: 569. 1878 ",Boraginaceae,,Boraginaceae Heliotropium maroccanum Lehm.,(Lehm.)
+wfo-1200134883,urn:lsid:ipni.org:names:77442118-1,Heliotropium europaeum var. hispidula,P.Monts.,Collect. Bot. (Barcelona) 5: 335. 1957 ,Boraginaceae,,,
+wfo-1200134884,urn:lsid:ipni.org:names:77442119-1,Heliotropium steudneri var. petiolosum,Chiov.,Res. Sci. Somalia Ital. 120. 1916 ,Boraginaceae,,,
+wfo-1200134885,urn:lsid:ipni.org:names:77442126-1,Heliotropium ciliatum var. lanceolatum,D.Kaplan,Ann. Transvaal Mus. 12: 187. 1927 ,Boraginaceae,,,
+wfo-1200134886,urn:lsid:ipni.org:names:77442127-1,Heliotropium undulatum var. monodianum,Maire,Bull. Soc. Hist. Nat. Afrique N. 22: 306. 1931 ,Boraginaceae,,,
+wfo-1200134887,urn:lsid:ipni.org:names:77442129-1,Heliotropium supinum var. malabaricum,(Retz.) C.B.Clarke,Fl. Brit. India 4: 49. 1885 ,Boraginaceae,,Boraginaceae Heliotropium malabaricum Retz.,(Retz.)
+wfo-1200134888,urn:lsid:ipni.org:names:77442132-1,Heliotropium erosum var. prostratum,(DC.) Pit. & Proust,Iles Canaries 272. 1909 ,Boraginaceae,,,(DC.)
+wfo-1200134889,urn:lsid:ipni.org:names:77442133-1,Heliotropium undulatum var. nubicum,(Bunge) Maire,Mém. Acad. Sci. Inst. France 62: 27. 1935 ,Boraginaceae,,Boraginaceae Heliotropium nubicum Bunge,(Bunge)
+wfo-1200134890,urn:lsid:ipni.org:names:77442136-1,Heliotropium ramosissimum var. trichocarpum,DC.,Prodr. 9: 537. 1845 ,Boraginaceae,,,
+wfo-1200134891,urn:lsid:ipni.org:names:77442138-1,Heliotropium undulatum var. persicum,Maire,Mém. Soc. Hist. Nat. Afrique N. 3: 177. 1933 ,Boraginaceae,,,
+wfo-1200134892,urn:lsid:ipni.org:names:77442140-1,Heliotropium curassavicum var. typicum,I.M.Johnst.,"Lilloa 10: 333. 1944 , not validly publ.",Boraginaceae,,,
+wfo-1200134893,urn:lsid:ipni.org:names:77442143-1,Heliotropium undulatum var. kralikii,(Pomel) Maire,Bull. Soc. Hist. Nat. Afrique N. 22: 306. 1931 ,Boraginaceae,,Boraginaceae Bourjotia kralikii Pomel,(Pomel)
+wfo-1200134894,urn:lsid:ipni.org:names:77442149-1,Heliotropium anomalum var. mediale,I.M.Johnst.,J. Arnold Arbor. 18: 21. 1937 ,Boraginaceae,,,
+wfo-1200142940,urn:lsid:ipni.org:names:77442151-1,Heliotropium europaeum var. tenuiflorum,Guss.,Fl. Sicul. Prodr. 1: 205. 1827 ,Boraginaceae,,,
+wfo-1200134895,urn:lsid:ipni.org:names:77442152-1,Heliotropium undulatum var. crispum,(Desf.) Maire,Cat. Pl. Maroc 3: 592. 1934 ,Boraginaceae,,Boraginaceae Heliotropium crispum Desf.,(Desf.)
+wfo-1200134896,urn:lsid:ipni.org:names:77442155-1,Heliotropium zeylanicum var. subulatum,(Hochst. ex A.DC.) Chiov.,Fl. Somala 3: 140. 1936 ,Boraginaceae,,Boraginaceae Tournefortia subulata Hochst. ex A.DC.,(Hochst. ex A.DC.)
+wfo-1200142941,urn:lsid:ipni.org:names:77442160-1,Heliotropium europaeum var. tenuiflorum,Boiss.,"Fl. Orient. 4: 130. 1875 , nom. illeg. homonym. post.",Boraginaceae,,,
+wfo-1200134897,urn:lsid:ipni.org:names:77442162-1,Heliotropium europaeum var. hebecarpum,H.Lindb.,"Acta Soc. Sci. Fenn., Ser. B, Opera Biol. 1(2): 125. 1932 ",Boraginaceae,,,
+wfo-1200134954,urn:lsid:ipni.org:names:77442404-1,Heterocaryum echinophorum var. minimum,(Lehm.) Brand,"Pflanzenr. IV, 252(Heft 97): 95. 1931 ",Boraginaceae,,Boraginaceae Echinospermum minimum Lehm.,(Lehm.)
+wfo-1200134958,urn:lsid:ipni.org:names:77442419-1,Heterocaryum echinophorum var. oligacanthum,(Kuntze) Brand,"Pflanzenr. IV, 252(Heft 97): 97. 1931 ",Boraginaceae,,Boraginaceae Cynoglossospermum oligacanthum Kuntze,(Kuntze)
+wfo-1200134977,urn:lsid:ipni.org:names:77442468-1,Heterocaryum echinophorum var. pachypodum,(A.DC.) Brand,"Pflanzenr. IV, 252(Heft 97): 95. 1931 ",Boraginaceae,,Boraginaceae Heterocaryum pachypodum A.DC.,(A.DC.)
+wfo-1200135732,urn:lsid:ipni.org:names:77445462-1,Lappula echinophora var. sessilis,Kuntze,"Trudy Imp. S.-Peterburgsk. Bot. Sada 10: 215. 1887 , nom. illeg. superfl.",Boraginaceae,,,
+wfo-1200135736,urn:lsid:ipni.org:names:77445475-1,Lappula redowskii var. marginata,Maire,Bull. Soc. Hist. Nat. Afrique N. 32: 214. 1941 ,Boraginaceae,,,
+wfo-1200135742,urn:lsid:ipni.org:names:77445529-1,Lappula echinophora var. pachypoda,(A.DC.) Kuntze,Trudy Imp. S.-Peterburgsk. Bot. Sada 10: 214. 1887 ,Boraginaceae,,Boraginaceae Heterocaryum pachypodum A.DC.,(A.DC.)
+wfo-1200135748,urn:lsid:ipni.org:names:77445556-1,Lappula spinocarpos var. inermis,Botsch.,"Izv. Akad. Nauk S.S.S.R., Ser. Biol. 1: 364. 1964 ",Boraginaceae,,,
+wfo-1200135749,urn:lsid:ipni.org:names:77445557-1,Lappula barbata var. brevistyla,(Ball) Murb.,Contr. Fl. Maroc 2: 22. 1923 ,Boraginaceae,,,(Ball)
+wfo-1200135941,urn:lsid:ipni.org:names:77446860-1,Lindelofia spectabilis var. levingei,C.B.Clarke,Fl. Brit. India 4: 159. 1883 ,Boraginaceae,,,
+wfo-1200135942,urn:lsid:ipni.org:names:77446867-1,Lindelofia lanata var. ovatifolia,Brand,"Pflanzenr. IV, 252(Heft 78): 83. 1921 ",Boraginaceae,,,
+wfo-1200135943,urn:lsid:ipni.org:names:77446868-1,Lindelofia stylosa var. hispida,(Regel) Brand,"Pflanzenr. IV, 252(Heft 78): 87. 1921 ",Boraginaceae,,,(Regel)
+wfo-1200135944,urn:lsid:ipni.org:names:77446929-1,Lindelofia cerinthoides var. stenophylla,(Bornm.) Brand,"Pflanzenr. IV, 252(Heft 78): 84. 1921 ",Boraginaceae,,,(Bornm.)
+wfo-1200143066,urn:lsid:ipni.org:names:77446932-1,Lindelofia stylosa var. pterocarpa,(Rupr.) Popov ex Czukav.,Fl. Tadzhikistana 7: 489. 1984 ,Boraginaceae,,Boraginaceae Solenanthus nigricans Schrenk var. pterocarpus Rupr.,(Rupr.)
+wfo-1200135945,urn:lsid:ipni.org:names:77446938-1,Lindelofia olgae var. tschimganica,(Lipsky) Brand,"Pflanzenr. IV, 252(Heft 78): 88. 1921 ",Boraginaceae,,Boraginaceae Solenanthus olgae Regel & Smirn. var. tschimganicus Lipsky,(Lipsky)
+wfo-1200135946,urn:lsid:ipni.org:names:77446940-1,Lindelofia olgae var. intermedia,(Lipsky) Brand,"Pflanzenr. IV, 252(Heft 78): 88. 1921 ",Boraginaceae,,,(Lipsky)
+wfo-1200135951,urn:lsid:ipni.org:names:77447160-1,Lithospermum prostratum var. erectum,Coss.,Notes Pl. Crit. 2: 42. 1849 ,Boraginaceae,,,
+wfo-1200135952,urn:lsid:ipni.org:names:77447161-1,Lithospermum diffusum var. erectum,(Coss.) Rouy,Fl. France 10: 314. 1908 ,Boraginaceae,,,(Coss.)
+wfo-1200135953,urn:lsid:ipni.org:names:77447169-1,Lithospermum arvense var. caeruleum,Coss. & Germ.,Fl. Descr. Anal. Paris éd. 2: 329. 1861 ,Boraginaceae,,,
+wfo-1200135954,urn:lsid:ipni.org:names:77447170-1,Lithospermum arvense var. monstrosum,Parl.,Fl. Ital. 6: 920. 1886 ,Boraginaceae,,,
+wfo-1200135955,urn:lsid:ipni.org:names:77447172-1,Lithospermum fruticosum var. suave,(Pau & Font Quer) Jahand. & Maire,Cat. Pl. Maroc 3: 602. 1934 ,Boraginaceae,,,(Pau & Font Quer)
+wfo-1200135956,urn:lsid:ipni.org:names:77447179-1,Lithospermum fruticosum var. canum,Porta & Rigo ex Willk.,Suppl. Prodr. Fl. Hispan. 164. 1893 ,Boraginaceae,,,
+wfo-1200135957,urn:lsid:ipni.org:names:77447181-1,Lithospermum officinale var. japonicum,Miq.,Ann. Mus. Bot. Lugduno-Batavi 2: 94. 1865 ,Boraginaceae,,,
+wfo-1200135958,urn:lsid:ipni.org:names:77447182-1,Lithospermum fruticosum var. grandiflorum,Sennen,"Exsicc. (Pl. Espagne) 1907: n.° 323. 1908 , nom. nud.",Boraginaceae,,,
+wfo-1200135959,urn:lsid:ipni.org:names:77447184-1,Lithospermum hispidulum var. grandiflorum,Sennen,"Exsicc. (Pl. Espagne) 1918: n.° 3478. 1919 , nom. nud.",Boraginaceae,,,
+wfo-1200135960,urn:lsid:ipni.org:names:77447203-1,Lithospermum arvense var. permixtum,(Jord.) P.Fourn.,Quatre Fl. France 736. 1937 ,Boraginaceae,,Boraginaceae Lithospermum permixtum Jord.,(Jord.)
+wfo-1200135961,urn:lsid:ipni.org:names:77447212-1,Lithospermum fruticosum var. erectum,(Coss.) Maire,Cat. Pl. Maroc 3: 602. 1932 ,Boraginaceae,,,(Coss.)
+wfo-1200135962,urn:lsid:ipni.org:names:77447220-1,Lithospermum arvense var. punctatum,Batt.,Fl. Algérie Dicot.: 605. 1890 ,Boraginaceae,,,
+wfo-1200143068,urn:lsid:ipni.org:names:77447224-1,Lithospermum arvense var. glandulosum,(Velen.) Stoj. & Stef.,Ann. Arch. Agric. Bulg. 5: 913. 1925 ,Boraginaceae,,Boraginaceae Lithospermum glandulosum Velen.,(Velen.)
+wfo-1200135963,urn:lsid:ipni.org:names:77447233-1,Lithospermum arvense var. multicaule,DC.,"Fl. Franç., éd. 3. 5: 419. 1815 ",Boraginaceae,,,
+wfo-1200135964,urn:lsid:ipni.org:names:77447237-1,Lithospermum fruticosum var. consobrinum,(Pomel) Maire,Cat. Pl. Maroc 3: 602. 1934 ,Boraginaceae,,Boraginaceae Lithospermum consobrinum Pomel,(Pomel)
+wfo-1200135965,urn:lsid:ipni.org:names:77447238-1,Lithospermum prostratum var. flaccidum,Lange,Suppl. Prodr. Fl. Hispan. 165. 1893 ,Boraginaceae,,,
+wfo-1200135966,urn:lsid:ipni.org:names:77447239-1,Lithospermum diffusum var. suave,Pau & Font Quer,Exsicc. (Iter Marocc.) 1928: n.° 325. 1929 ,Boraginaceae,,,
+wfo-1200135967,urn:lsid:ipni.org:names:77447243-1,Lithospermum fruticosum var. prostratum,(Loisel.) Maire,Cat. Pl. Maroc 3: 602. 1934 ,Boraginaceae,,Boraginaceae Lithospermum prostratum Loisel.,(Loisel.)
+wfo-1200135969,urn:lsid:ipni.org:names:77447250-1,Lithospermum fruticosum var. micranthum,(Faure & Maire) Jahand. & Maire,Cat. Pl. Maroc 3: 602. 1934 ,Boraginaceae,,,(Faure & Maire)
+wfo-1200135970,urn:lsid:ipni.org:names:77447251-1,Lithospermum arvense var. coerulescens,DC.,"Fl. Franç., éd. 3. 5: 419. 1815 ",Boraginaceae,,,
+wfo-1200135971,urn:lsid:ipni.org:names:77447252-1,Lithospermum diffusum var. micranthum,Faure & Maire,Bull. Soc. Hist. Nat. Afrique N. 22: 56. 1931 ,Boraginaceae,,,
+wfo-1200136100,urn:lsid:ipni.org:names:77448219-1,Lycopsis pulla var. prostrata,Roth,Enum. Pl. Phaen. Germ. 1(1): 583. 1827 ,Boraginaceae,,,
+wfo-1200136101,urn:lsid:ipni.org:names:77448226-1,Lycopsis variegata var. albiflora,(Trotter) Trotter,Bull. Soc. Bot. Ital. 1917: 73. ,Boraginaceae,,,(Trotter)
+wfo-1200136230,urn:lsid:ipni.org:names:77448858-1,Mattia lanata var. euryptera,Bornm.,"Beih. Bot. Centralbl., Abt. 2. 20: 194. 1906 ",Boraginaceae,,,
+wfo-1200136232,urn:lsid:ipni.org:names:77448867-1,Mattia lanata var. cyanoptera,Bornm.,"Beih. Bot. Centralbl., Abt. 2. 20: 194. 1906 ",Boraginaceae,,,
+wfo-1200136233,urn:lsid:ipni.org:names:77448870-1,Mattia lanata var. detonsa,Bornm.,"Beih. Bot. Centralbl., Abt. 2. 20: 194. 1906 ",Boraginaceae,,,
+wfo-1200136236,urn:lsid:ipni.org:names:77448879-1,Mattiastrum tibeticum var. schlagintweitii,Brand,"Pflanzenr. IV, 252(Heft 78): 66. 1921 ",Boraginaceae,,,
+wfo-1200136237,urn:lsid:ipni.org:names:77448885-1,Mattia lanata var. macrophylla,Bornm.,"Beih. Bot. Centralbl., Abt. 2. 20: 194. 1906 ",Boraginaceae,,,
+wfo-1200136243,urn:lsid:ipni.org:names:77448896-1,Mattia lanata var. stenophylla,Bornm.,"Beih. Bot. Centralbl., Abt. 2. 20: 194. 1906 ",Boraginaceae,,,
+wfo-1200136245,urn:lsid:ipni.org:names:77448900-1,Mattia lanata var. punctata,(A.DC.) Bornm.,"Beih. Bot. Centralbl., Abt. 2. 20: 194. 1906 ",Boraginaceae,,Boraginaceae Mattia punctata A.DC.,(A.DC.)
+wfo-1200136247,urn:lsid:ipni.org:names:77448903-1,Mattiastrum lamprocarpum var. warburgianum,Evenari,"Bull. Soc. Bot. Genève sér. 2, 31: 359. 1940 ",Boraginaceae,,,
+wfo-1200136251,urn:lsid:ipni.org:names:77448913-1,Mattia lanata var. canescens,(A.DC.) Kusn. ex Bornm.,Repert. Spec. Nov. Regni Veg. 41: 327. 1937 ,Boraginaceae,,Boraginaceae Mattia canescens A.DC.,(A.DC.)
+wfo-1200136255,urn:lsid:ipni.org:names:77448929-1,Mattiastrum cristatum var. paropamisi,Brand,"Pflanzenr. IV, 252(Heft 78): 62. 1921 ",Boraginaceae,,,
+wfo-1200136258,urn:lsid:ipni.org:names:77448944-1,Mattia lanata var. brachyantha,(Boiss.) Bornm.,"Beih. Bot. Centralbl., Abt. 2. 20: 194. 1906 ",Boraginaceae,,Boraginaceae Mattia brachyantha Boiss.,(Boiss.)
+wfo-1200136260,urn:lsid:ipni.org:names:77448948-1,Mattia corymbiformis var. polystachya,DC.,Prodr. 10: 169. 1846 ,Boraginaceae,,,
+wfo-1200136261,urn:lsid:ipni.org:names:77448952-1,Mattia lanata var. glabrata,Kusn.,Trudy Bot. Muz. Imp. Akad. Nauk 7: 45. 1910 ,Boraginaceae,,,
+wfo-1200136348,urn:lsid:ipni.org:names:77449786-1,Mertensia paniculata var. brachycalyx,(Piper) J.F.Macbr.,Contr. Gray Herb. 48: 10. 1916 ,Boraginaceae,,Boraginaceae Mertensia brachycalyx Piper,(Piper)
+wfo-1200136350,urn:lsid:ipni.org:names:77449804-1,Mertensia moltkioides var. thomsonii,C.B.Clarke,Fl. Brit. India 4: 170. 1883 ,Boraginaceae,,,
+wfo-1200136354,urn:lsid:ipni.org:names:77449830-1,Mertensia pterocarpa var. yezoensis,Tatew. & Ohwi,Acta Phytotax. Geobot. 2: 106. 1933 ,Boraginaceae,,,
+wfo-1200136524,urn:lsid:ipni.org:names:77450374-1,Myosotis arvensis var. multicaulis,Boenn.,Prodr. Fl. Monast. Westphal. 56. 1824 ,Boraginaceae,,,
+wfo-1200143111,urn:lsid:ipni.org:names:77450382-1,Myosotis arvensis var. umbrosa,Bab.,Man. Brit. Bot. ed. 4: 231. 1856 ,Boraginaceae,,,
+wfo-1200136530,urn:lsid:ipni.org:names:77450390-1,Myosotis arvensis var. maritima,Fr.,Fl. Hallandica 39. 1817 ,Boraginaceae,,,
+wfo-1200136532,urn:lsid:ipni.org:names:77450397-1,Myosotis arvensis var. collina,Wahlenb.,Fl. Suecica 2: 1049. 1826 ,Boraginaceae,,,
+wfo-1200136534,urn:lsid:ipni.org:names:77450400-1,Myosotis alpestris var. macrocalycina,(Coss. ex Batt. & Trab.) Maire,Bull. Soc. Hist. Nat. Afrique N. 20: 190. 1929 ,Boraginaceae,,Boraginaceae Myosotis macrocalycina Coss. ex Batt. & Trab.,(Coss. ex Batt. & Trab.)
+wfo-1200136535,urn:lsid:ipni.org:names:77450404-1,Myosotis annua var. versicolor,Mérat,Nouv. Fl. Env. Paris 72. 1812 ,Boraginaceae,,,
+wfo-1200136537,urn:lsid:ipni.org:names:77450406-1,Myosotis australis var. conspicua,Cheeseman,Man. New Zealand Fl. 462. 1906 ,Boraginaceae,,,
+wfo-1200136538,urn:lsid:ipni.org:names:77450407-1,Myosotis annua var. collina,Lej.,Fl. Spa 1: 95. 1811 ,Boraginaceae,,,
+wfo-1200136539,urn:lsid:ipni.org:names:77450409-1,Myosotis alpestris var. elatior,Gaudin,Fl. Helv. 2: 50. 1828 ,Boraginaceae,,,
+wfo-1200136540,urn:lsid:ipni.org:names:77450413-1,Myosotis alpestris var. speciosa,(Pomel) Maire,Bull. Soc. Hist. Nat. Afrique N. 20: 190. 1929 ,Boraginaceae,,Boraginaceae Myosotis speciosa Pomel,(Pomel)
+wfo-1200136542,urn:lsid:ipni.org:names:77450418-1,Myosotis arvensis var. minima,Gaudin,Fl. Helv. 2: 54. 1828 ,Boraginaceae,,,
+wfo-1200136543,urn:lsid:ipni.org:names:77450419-1,Myosotis arvensis var. gymnosperma,Beck,Fl. Nieder-Österreich 971. 1893 ,Boraginaceae,,,
+wfo-1200136551,urn:lsid:ipni.org:names:77450436-1,Myosotis arvensis var. atlantica,Maire,Mém. Soc. Sci. Nat. Maroc 7: 191. 1924 ,Boraginaceae,,,
+wfo-1200136552,urn:lsid:ipni.org:names:77450437-1,Myosotis arvensis var. alpicola,Hartm.,Kongl. Vetensk. Acad. Handl. 1818: 160. ,Boraginaceae,,,
+wfo-1200136554,urn:lsid:ipni.org:names:77450442-1,Myosotis azorica var. coelestina,Dreer,Gard. Monthly & Hort. 10: 64. 1868 ,Boraginaceae,,,
+wfo-1200136558,urn:lsid:ipni.org:names:77450447-1,Myosotis arvensis var. simplex,Boenn.,Prodr. Fl. Monast. Westphal. 56. 1824 ,Boraginaceae,,,
+wfo-1200136560,urn:lsid:ipni.org:names:77450451-1,Myosotis arvensis var. parviflora,Wahlenb.,Fl. Suecica 1: 120. 1824 ,Boraginaceae,,,
+wfo-1200143115,urn:lsid:ipni.org:names:77450452-1,Myosotis arvensis var. sylvatica,Schultz,Prodr. Fl. Starg. Suppl. 11. 1819 ,Boraginaceae,,,
+wfo-1200136564,urn:lsid:ipni.org:names:77450458-1,Myosotis alpestris var. rosea,B.K.Bliss,Hort. & J. Rural Art Rural Taste 17: 6. 1862 ,Boraginaceae,,,
+wfo-1200136566,urn:lsid:ipni.org:names:77450461-1,Myosotis cespitosa var. grandiflora,Gaudin,Fl. Helv. 2: 49. 1828 ,Boraginaceae,,,
+wfo-1200136567,urn:lsid:ipni.org:names:77450462-1,Myosotis cespitosa var. nana,Stadlm.,Repert. Spec. Nov. Regni Veg. 2: 165. 1906 ,Boraginaceae,,,
+wfo-1200136568,urn:lsid:ipni.org:names:77450463-1,Myosotis speluncicola var. schottii,Rouy,Fl. France 10: 329. 1908 ,Boraginaceae,,,
+wfo-1200136569,urn:lsid:ipni.org:names:77450464-1,Myosotis palustris var. dumortieri,(Thielens) Rouy,Fl. France 10: 322. 1908 ,Boraginaceae,,Boraginaceae Myosotis dumortieri Thielens,(Thielens)
+wfo-1200136570,urn:lsid:ipni.org:names:77450465-1,Myosotis versicolor var. fallacina,(Jord.) St.-Lag.,"Étude Fl. éd. 8, 2: 609. 1889 ",Boraginaceae,,Boraginaceae Myosotis fallacina Jord.,(Jord.)
+wfo-1200136571,urn:lsid:ipni.org:names:77450466-1,Myosotis sylvatica var. macrophylla-grandiflora,Schur,Enum. Pl. Transsilv. 475. 1866 ,Boraginaceae,,,
+wfo-1200136572,urn:lsid:ipni.org:names:77450467-1,Myosotis sylvatica var. petraea,Dumort.,Fl. Belg. 40. 1827 ,Boraginaceae,,,
+wfo-1200136573,urn:lsid:ipni.org:names:77450468-1,Myosotis cespitosa var. strigulosa,(Rchb.) Boenn.,Prodr. Fl. Monast. Westphal. 55. 1824 ,Boraginaceae,,Boraginaceae Myosotis strigulosa Rchb.,(Rchb.)
+wfo-1200136574,urn:lsid:ipni.org:names:77450469-1,Myosotis lutea var. tubuliflora,(Murb.) Maire,Cat. Pl. Maroc 3: 600. 1934 ,Boraginaceae,,Boraginaceae Myosotis tubuliflora Murb.,(Murb.)
+wfo-1200136575,urn:lsid:ipni.org:names:77450470-1,Myosotis macrantha var. westlandica,Petrie,Trans. & Proc. New Zealand Inst. 50: 210. 1918 ,Boraginaceae,,,
+wfo-1200136576,urn:lsid:ipni.org:names:77450471-1,Myosotis palustris var. gracilis,Boenn.,Prodr. Fl. Monast. Westphal. 54. 1824 ,Boraginaceae,,,
+wfo-1200143116,urn:lsid:ipni.org:names:77450472-1,Myosotis palustris var. laxiflora,(Rchb.) Roth,Enum. Pl. Phaen. Germ. 1(1): 599. 1827 ,Boraginaceae,,Boraginaceae Myosotis laxiflora Rchb.,(Rchb.)
+wfo-1200143117,urn:lsid:ipni.org:names:77450474-1,Myosotis palustris var. radicans,(Opiz) Rouy,Fl. France 10: 320. 1908 ,Boraginaceae,,Boraginaceae Myosotis radicans Opiz,(Opiz)
+wfo-1200136577,urn:lsid:ipni.org:names:77450475-1,Myosotis collina var. simplex,Wallr.,Sched. Crit. 73. 1822 ,Boraginaceae,,,
+wfo-1200136578,urn:lsid:ipni.org:names:77450476-1,Myosotis pygmaea var. traillii,(Kirk) Cockayne,"Veg. New Zealand 69, 72. 1921 ",Boraginaceae,,Boraginaceae Myosotis antarctica Hook.f. subsp. traillii Kirk,(Kirk)
+wfo-1200143118,urn:lsid:ipni.org:names:77450477-1,Myosotis palustris var. repens,Hartm.,Handb. Skand. Fl. ed. 2: 58. 1852 ,Boraginaceae,,,
+wfo-1200136579,urn:lsid:ipni.org:names:77450478-1,Myosotis lingulata var. parviflora,Merino,"Brotéria, Sér. Bot. 12: 48. 1914 ",Boraginaceae,,,
+wfo-1200136580,urn:lsid:ipni.org:names:77450480-1,Myosotis palustris var. caespititia,DC.,Prodr. 10: 105. 1846 ,Boraginaceae,,,
+wfo-1200136581,urn:lsid:ipni.org:names:77450481-1,Myosotis cespitosa var. sicula,Cout.,Bol. Soc. Brot. 21: 137. 1906 ,Boraginaceae,,,
+wfo-1200136582,urn:lsid:ipni.org:names:77450482-1,Myosotis versicolor var. lutea,St.-Lag.,"Étude Fl. éd. 8, 2: 609. 1889 ",Boraginaceae,,,
+wfo-1200143119,urn:lsid:ipni.org:names:77450484-1,Myosotis scorpioides var. laxa,P.Fourn.,Quatre Fl. France 738. 1937 ,Boraginaceae,,,
+wfo-1200136583,urn:lsid:ipni.org:names:77450485-1,Myosotis cespitosa var. macrocalyx,"Fisch., C.A.Mey. & Avé-Lall.","Index Seminum (LE, Petropolitanus) 3: 40. 1837 ",Boraginaceae,,,
+wfo-1200136584,urn:lsid:ipni.org:names:77450486-1,Myosotis cespitosa var. multiflora,Cout.,Fl. Portugal 497. 1913 ,Boraginaceae,,,
+wfo-1200136585,urn:lsid:ipni.org:names:77450487-1,Myosotis perennis var. sylvatica,(Hoffm.) DC.,"Fl. Franç., éd. 3. 3: 629. 1805 ",Boraginaceae,,Boraginaceae Myosotis sylvatica Hoffm.,(Hoffm.)
+wfo-1200136586,urn:lsid:ipni.org:names:77450488-1,Myosotis maritima var. welwitschii,(Boiss. & Reut.) Merino & Pau,Contr. Fl. Galicia 2: 167. 1897 ,Boraginaceae,,Boraginaceae Myosotis welwitschii Boiss. & Reut.,(Boiss. & Reut.)
+wfo-1200136587,urn:lsid:ipni.org:names:77450490-1,Myosotis lyallii var. townsonii,(Cheeseman) L.B.Moore,Fl. New Zealand 1: 831. 1961 ,Boraginaceae,,Boraginaceae Myosotis townsonii Cheeseman,(Cheeseman)
+wfo-1200136588,urn:lsid:ipni.org:names:77450491-1,Myosotis collina var. senneniana,(Maire) Maire,Cat. Pl. Maroc 3: 600. 1934 ,Boraginaceae,,Boraginaceae Myosotis senneniana Maire,(Maire)
+wfo-1200136589,urn:lsid:ipni.org:names:77450492-1,Myosotis olympica var. laxa,Boiss.,Fl. Orient. 4: 237. 1875 ,Boraginaceae,,,
+wfo-1200136590,urn:lsid:ipni.org:names:77450493-1,Myosotis stricta var. versicolor,(Pers.) Wahlenb.,Fl. Suecica 1: 120. 1824 ,Boraginaceae,,Boraginaceae Myosotis arvensis  var. versicolor Pers.,(Pers.)
+wfo-1200136591,urn:lsid:ipni.org:names:77450495-1,Myosotis cespitosa var. neglecta,R.Schust.,Feddes Repert. 74: 83. 1967 ,Boraginaceae,,,
+wfo-1200136592,urn:lsid:ipni.org:names:77450496-1,Myosotis palustris var. glabrescens,Rouy,Fl. France 10: 320. 1908 ,Boraginaceae,,,
+wfo-1200136593,urn:lsid:ipni.org:names:77450497-1,Myosotis capitata var. albiflora,Armstr.,Trans. & Proc. New Zealand Inst. 13: 340. 1881 ,Boraginaceae,,,
+wfo-1200136594,urn:lsid:ipni.org:names:77450498-1,Myosotis lingulata var. parvula,Merino,"Brotéria, Sér. Bot. 12: 48. 1914 ",Boraginaceae,,,
+wfo-1200136595,urn:lsid:ipni.org:names:77450499-1,Myosotis scorpioides var. uliginosa,Wallr.,Sched. Crit. 71. 1822 ,Boraginaceae,,,
+wfo-1200136596,urn:lsid:ipni.org:names:77450500-1,Myosotis palustris var. montana,Lecoq & Lamotte,Cat. Pl. Plateau Central 277. 1847 ,Boraginaceae,,,
+wfo-1200136597,urn:lsid:ipni.org:names:77450501-1,Myosotis pusilla var. heterodoxa,(Pomel) Batt.,Fl. Algérie Dicot.: 603. 1890 ,Boraginaceae,,Boraginaceae Myosotis heterodoxa Pomel,(Pomel)
+wfo-1200136598,urn:lsid:ipni.org:names:77450503-1,Myosotis palustris var. oraria,(Dumort.) Rouy,Fl. France 10: 321. 1908 ,Boraginaceae,,Boraginaceae Myosotis oraria Dumort.,(Dumort.)
+wfo-1200136599,urn:lsid:ipni.org:names:77450504-1,Myosotis lingulata var. stolonifera,(DC.) Willk.,Prodr. Fl. Hispan. 2: 503. 1870 ,Boraginaceae,,Boraginaceae Myosotis cespitosa Schultz var. stolonifera DC.,(DC.)
+wfo-1200136600,urn:lsid:ipni.org:names:77450505-1,Myosotis cespitosa var. confusa,Rouy,Fl. France 10: 322. 1900 ,Boraginaceae,,,
+wfo-1200136601,urn:lsid:ipni.org:names:77450506-1,Myosotis versicolor var. balbisiana,(Jord.) Corb.,Nouv. Fl. Normandie 408. 1894 ,Boraginaceae,,Boraginaceae Myosotis balbisiana Jord.,(Jord.)
+wfo-1200136602,urn:lsid:ipni.org:names:77450508-1,Myosotis palustris var. scorpioides,(L.) Hartm.,Handb. Skand. Fl. ed. 2: 58. 1832 ,Boraginaceae,,Boraginaceae Myosotis scorpioides L.,(L.)
+wfo-1200136603,urn:lsid:ipni.org:names:77450509-1,Myosotis collina var. lebelii,(Godr. & Gren.) Corb.,Nouv. Fl. Normandie 407. 1894 ,Boraginaceae,,Boraginaceae Myosotis lebelii Godr. & Gren.,(Godr. & Gren.)
+wfo-1200136604,urn:lsid:ipni.org:names:77450510-1,Myosotis palustris var. glabriuscula,Rouy,Fl. France 10: 321. 1908 ,Boraginaceae,,,
+wfo-1200143120,urn:lsid:ipni.org:names:77450511-1,Myosotis collina var. gracillima,(Loscos & J.Prado) Halácsy,Consp. Fl. Graec. 2: 356. 1902 ,Boraginaceae,,Boraginaceae Myosotis gracillima Loscos & J.Prado,(Loscos & J.Prado)
+wfo-1200136605,urn:lsid:ipni.org:names:77450512-1,Myosotis lingulata var. foliosa,Ball,"J. Linn. Soc., Bot. 16: 572. 1878 ",Boraginaceae,,,
+wfo-1200136606,urn:lsid:ipni.org:names:77450513-1,Myosotis intermedia var. brevipedunculata,Kusn.,Fl. Caucas. Crit. 4(2): 372. 1913 ,Boraginaceae,,,
+wfo-1200136607,urn:lsid:ipni.org:names:77450514-1,Myosotis palustris var. foliiflora,Merino,Anales Soc. Esp. Hist. Nat. 9: 488. 1880 ,Boraginaceae,,,
+wfo-1200136608,urn:lsid:ipni.org:names:77450515-1,Myosotis pusilla var. perpusilla,(Pomel) Batt.,Fl. Algérie Dicot.: 603. 1890 ,Boraginaceae,,Boraginaceae Myosotis perpusilla Pomel,(Pomel)
+wfo-1200136609,urn:lsid:ipni.org:names:77450516-1,Myosotis palustris var. stolonifera,(DC.) Samp.,Lista Esp. Herb. Port. 123. 1913 ,Boraginaceae,,Boraginaceae Myosotis cespitosa Schultz var. stolonifera DC.,(DC.)
+wfo-1200143121,urn:lsid:ipni.org:names:77450517-1,Myosotis sylvatica var. lactea,Boenn.,Prodr. Fl. Monast. Westphal. 55. 1824 ,Boraginaceae,,,
+wfo-1200136610,urn:lsid:ipni.org:names:77450518-1,Myosotis scorpioides var. pratensis,Wallr.,Sched. Crit. 71. 1822 ,Boraginaceae,,,
+wfo-1200136611,urn:lsid:ipni.org:names:77450520-1,Myosotis lingulata var. multiflora,(Cout.) Samp.,Fl. Port. ed. 2: 529. 1947 ,Boraginaceae,,,(Cout.)
+wfo-1200136612,urn:lsid:ipni.org:names:77450521-1,Myosotis versicolor var. dubia,(Arrond.) Corb.,Nouv. Fl. Normandie 408. 1894 ,Boraginaceae,,Boraginaceae Myosotis dubia Arrond.,(Arrond.)
+wfo-1200136613,urn:lsid:ipni.org:names:77450522-1,Myosotis welwitschii var. stolonifera,(DC.) Cout.,Fl. Portugal 497. 1913 ,Boraginaceae,,Boraginaceae Myosotis cespitosa Schultz var. stolonifera DC.,(DC.)
+wfo-1200136614,urn:lsid:ipni.org:names:77450523-1,Myosotis traversii var. cockayneana,(Petrie) Cheeseman,"Man. New Zealand Fl., ed. 2. 752. 1925 ",Boraginaceae,,Boraginaceae Myosotis cockayniana Petrie,(Petrie)
+wfo-1200136615,urn:lsid:ipni.org:names:77450524-1,Myosotis idaea var. cadmea,(Boiss.) Boiss.,Fl. Orient. 4: 236. 1879 ,Boraginaceae,,Boraginaceae Myosotis cadmea Boiss.,(Boiss.)
+wfo-1200143122,urn:lsid:ipni.org:names:77450525-1,Myosotis hispida var. lebelii,(Nyman) Corb.,Nouv. Fl. Normandie 407. 1894 ,Boraginaceae,,Boraginaceae Myosotis intermedia Link subsp. lebelii Nyman,(Nyman)
+wfo-1200136616,urn:lsid:ipni.org:names:77450526-1,Myosotis strigulosa var. rhiphaea,Pau & Font Quer,Exsicc. (Iter Marocc.) 1927: n.° 496. 1928 ,Boraginaceae,,,
+wfo-1200136617,urn:lsid:ipni.org:names:77450527-1,Myosotis sylvatica var. alpina,Gams,Ill. Fl. Mitt.-Eur. 5: 2168. 1927 ,Boraginaceae,,,
+wfo-1200136618,urn:lsid:ipni.org:names:77450528-1,Myosotis macrantha var. pulchra,Cheeseman,"Man. New Zealand Fl., ed. 2. 471. 1925 ",Boraginaceae,,,
+wfo-1200136619,urn:lsid:ipni.org:names:77450529-1,Myosotis versicolor var. canariensis,Pit.,Iles Canaries 273. 1909 ,Boraginaceae,,,
+wfo-1200136620,urn:lsid:ipni.org:names:77450530-1,Myosotis macrantha var. diversa,G.Simpson & J.S.Thomson,Trans. & Proc. Roy. Soc. New Zealand 73: 162. 1943 ,Boraginaceae,,,
+wfo-1200136621,urn:lsid:ipni.org:names:77450531-1,Myosotis intermedia var. sylvestris,Schltdl.,Fl. Berol. 120. 1823 ,Boraginaceae,,,
+wfo-1200136622,urn:lsid:ipni.org:names:77450532-1,Myosotis sylvatica var. humilis,Gaudin,Fl. Helv. 2: 52. 1828 ,Boraginaceae,,,
+wfo-1200136623,urn:lsid:ipni.org:names:77450533-1,Myosotis sylvatica var. montana,Rouy,Fl. France 10: 333. 1908 ,Boraginaceae,,,
+wfo-1200136624,urn:lsid:ipni.org:names:77450535-1,Myosotis hispida var. grandiflora,Boiss.,Diagn. Pl. Orient. 11: 12. 1849 ,Boraginaceae,,,
+wfo-1200136625,urn:lsid:ipni.org:names:77450536-1,Myosotis micrantha var. rigida,(Pomel) Maire,Bull. Soc. Hist. Nat. Afrique N. 31: 109. 1940 ,Boraginaceae,,Boraginaceae Myosotis rigida Pomel,(Pomel)
+wfo-1200136626,urn:lsid:ipni.org:names:77450537-1,Myosotis welwitschii var. foliosa,(Ball) Pau,Exsicc. (Iter Marocc.) 1930: n.° 532. 1932 ,Boraginaceae,,,(Ball)
+wfo-1200136627,urn:lsid:ipni.org:names:77450538-1,Myosotis hispida var. bracteata,A.Rich.,Tent. Fl. Abyss. 2: 88. 1850 ,Boraginaceae,,,
+wfo-1200136628,urn:lsid:ipni.org:names:77450539-1,Myosotis sylvatica var. radicans,Dumort.,Fl. Belg. 40. 1827 ,Boraginaceae,,,
+wfo-1200136629,urn:lsid:ipni.org:names:77450540-1,Myosotis intermedia var. aperta,Rouy,"Fl. France 10: 331. 1908 , nom. illeg. homonym. post.",Boraginaceae,,,
+wfo-1200136630,urn:lsid:ipni.org:names:77450541-1,Myosotis palustris var. succulenta,Wimm. & Grab.,Fl. Siles. 1: 152. 1827 ,Boraginaceae,,,
+wfo-1200136631,urn:lsid:ipni.org:names:77450543-1,Myosotis palustris var. procurrens,Dumort.,Fl. Belg. 40. 1827 ,Boraginaceae,,,
+wfo-1200136632,urn:lsid:ipni.org:names:77450544-1,Myosotis stricta var. congesta,(Shuttlew.) Rouy,Fl. France 10: 329. 1908 ,Boraginaceae,,Boraginaceae Myosotis congesta Shuttlew.,(Shuttlew.)
+wfo-1200136633,urn:lsid:ipni.org:names:77450545-1,Myosotis palustris var. sylvatica,(Hoffm.) Fr.,Fl. Hallandica 39. 1817 ,Boraginaceae,,Boraginaceae Myosotis sylvatica Hoffm.,(Hoffm.)
+wfo-1200136634,urn:lsid:ipni.org:names:77450546-1,Myosotis stolonifera var. welwitschii,(Boiss. & Reut.) Franco & Vasc.,Anais Inst. Super. Agron. 22: 66. 1958 ,Boraginaceae,,Boraginaceae Myosotis welwitschii Boiss. & Reut.,(Boiss. & Reut.)
+wfo-1200136635,urn:lsid:ipni.org:names:77450547-1,Myosotis speluncicola var. marsillyana,Rouy,Fl. France 10: 329. 1908 ,Boraginaceae,,,
+wfo-1200136636,urn:lsid:ipni.org:names:77450548-1,Myosotis palustris var. minor,Wimm. & Grab.,Fl. Siles. 1: 152. 1827 ,Boraginaceae,,,
+wfo-1200136637,urn:lsid:ipni.org:names:77450550-1,Myosotis palustris var. confusa,Rouy,Fl. France 10: 322. 1908 ,Boraginaceae,,,
+wfo-1200136638,urn:lsid:ipni.org:names:77450551-1,Myosotis hispida var. pygmaea,Halácsy,Beitr. Fl. Achaia 27. 1894 ,Boraginaceae,,,
+wfo-1200136639,urn:lsid:ipni.org:names:77450552-1,Myosotis intermedia var. elatior,Boenn.,Prodr. Fl. Monast. Westphal. 56. 1824 ,Boraginaceae,,,
+wfo-1200143123,urn:lsid:ipni.org:names:77450553-1,Myosotis sicula var. virgata,Bég.,Ann. Bot. (Rome) 1: 278. 1904 ,Boraginaceae,,,
+wfo-1200136640,urn:lsid:ipni.org:names:77450554-1,Myosotis collina var. stricta,Gaudin,Fl. Helv. 2: 55. 1828 ,Boraginaceae,,,
+wfo-1200136641,urn:lsid:ipni.org:names:77450555-1,Myosotis intermedia var. agrestis,Schltdl.,Fl. Berol. 120. 1823 ,Boraginaceae,,,
+wfo-1200136642,urn:lsid:ipni.org:names:77450556-1,Myosotis sylvatica var. carnea,Boenn.,Prodr. Fl. Monast. Westphal. 55. 1824 ,Boraginaceae,,,
+wfo-1200136643,urn:lsid:ipni.org:names:77450557-1,Myosotis scorpioides var. parviflora,Wahlenb.,Fl. Upsal. 68. 1820 ,Boraginaceae,,,
+wfo-1200136644,urn:lsid:ipni.org:names:77450558-1,Myosotis collina var. mittenii,Baker,J. Bot. 1870: t. 8. ,Boraginaceae,,,
+wfo-1200136645,urn:lsid:ipni.org:names:77450559-1,Myosotis sylvatica var. parviflora,Schur,Enum. Pl. Transsilv. 475. 1866 ,Boraginaceae,,,
+wfo-1200136646,urn:lsid:ipni.org:names:77450560-1,Myosotis versicolor var. minor,Gaudin,Fl. Helv. 2: 56. 1828 ,Boraginaceae,,,
+wfo-1200136658,urn:lsid:ipni.org:names:77450682-1,Nama sandwicensis var. laysanica,Brand,"Pflanzenr. IV, 251(Heft 59): 152. 1913 ",Hydrophyllaceae,,,
+wfo-1200136666,urn:lsid:ipni.org:names:77450724-1,Nama jamaicensis var. longipedicellata,Loes. ex Brand,"Pflanzenr. IV, 251(Heft 59): 146. 1913 ",Hydrophyllaceae,,,
+wfo-1200136673,urn:lsid:ipni.org:names:77450761-1,Nemophila discoidalis var. argentea,Dreer,Gard. Monthly & Hort. 10: 64. 1868 ,Hydrophyllaceae,,,
+wfo-1200136683,urn:lsid:ipni.org:names:77450784-1,Nemophila atomaria var. rosea,B.K.Bliss,Hort. & J. Rural Art Rural Taste 17: 7. 1862 ,Hydrophyllaceae,,,
+wfo-1200136693,urn:lsid:ipni.org:names:77450812-1,Nemophila atomaria var. oculata,W.Thomps. ex J.Dix,Proc. Roy. Hort. Soc. London 1: 271. 1860 ,Hydrophyllaceae,,,
+wfo-1200136707,urn:lsid:ipni.org:names:77450846-1,Nemophila discoidalis var. elegans,J.Dix,Proc. Roy. Hort. Soc. London 1: 630. 1861 ,Hydrophyllaceae,,,
+wfo-1200136711,urn:lsid:ipni.org:names:77450853-1,Nemophila discoidalis var. nigra,Dreer,Gard. Monthly & Hort. 10: 64. 1868 ,Hydrophyllaceae,,,
+wfo-1200136758,urn:lsid:ipni.org:names:77451064-1,Nonea vesicaria var. luteola,Sauvage & Vindt,"Trav. Inst. Sci. Chérifien, Sér. Bot. 3: 100. 1954 , not validly publ.",Boraginaceae,,,
+wfo-1200136761,urn:lsid:ipni.org:names:77451073-1,Nonea pulla var. armena,Boiss. & A.Huet,"Diagn. Pl. Orient. ser. 2, 3: 133. 1856 ",Boraginaceae,,,
+wfo-1200136763,urn:lsid:ipni.org:names:77451107-1,Nonea micrantha var. ochroleuca,Lange,"Index Seminum (C, Hauniensi) 1854: 25. 1855 ",Boraginaceae,,,
+wfo-1200136769,urn:lsid:ipni.org:names:77451127-1,Nonea lutea var. flavescens,(C.A.Mey.) Boiss.,Fl. Orient. 4: 163. 1875 ,Boraginaceae,,Boraginaceae Lycopsis flavescens C.A.Mey.,(C.A.Mey.)
+wfo-1200136770,urn:lsid:ipni.org:names:77451129-1,Nonea micrantha var. coerulea,Lange,"Index Seminum (C, Hauniensi) 1854: 25. 1855 ",Boraginaceae,,,
+wfo-1200143133,urn:lsid:ipni.org:names:77451142-1,Nonea alba var. ventricosa,(Sm.) Willk.,Prodr. Fl. Hispan. 2: 491. 1870 ,Boraginaceae,,Boraginaceae Anchusa ventricosa Sm.,(Sm.)
+wfo-1200143134,urn:lsid:ipni.org:names:77451147-1,Nonea micrantha var. bourgaei,(Coss.) Murb.,Acta Univ. Lund. 34(2; 7): 11. 1898 ,Boraginaceae,,Boraginaceae Nonea bourgaei Coss.,(Coss.)
+wfo-1200136773,urn:lsid:ipni.org:names:77451150-1,Nonea pulla var. lenkoranica,Kusn.,Fl. Caucas. Crit. 4(2): 322. 1913 ,Boraginaceae,,,
+wfo-1200136797,urn:lsid:ipni.org:names:77451366-1,Omphalodes krameri var. laevisperma,(Nakai) Ohwi,"Fl. Jap. (Tokyo), revis. ed. 757. 1965 ",Boraginaceae,,Boraginaceae Omphalodes laevisperma Nakai,(Nakai)
+wfo-1200136798,urn:lsid:ipni.org:names:77451374-1,Omphalodes linifolia var. coerulescens,(DC.) DC.,Prodr. 10: 161. 1846 ,Boraginaceae,,,(DC.)
+wfo-1200143135,urn:lsid:ipni.org:names:77451408-1,Omphalodes luciliae var. cilicica,Brand,"Pflanzenr. IV, 252(Heft 78): 107. 1921 ",Boraginaceae,,,
+wfo-1200136804,urn:lsid:ipni.org:names:77451868-1,Onosma echioides var. macrosepalum,Regel,Bull. Soc. Imp. Naturalistes Moscou 41(I): 78. 1868 ,Boraginaceae,,,
+wfo-1200136810,urn:lsid:ipni.org:names:77451891-1,Onosma echioides var. olympica,Stoj. & Jordanov,God. Sofiisk. Univ. Fiz.-Mat. Fak. 34: 203. 1938 ,Boraginaceae,,,
+wfo-1200136811,urn:lsid:ipni.org:names:77451895-1,Onosma microcarpa var. stapfii,(Wettst. ex Stapf) Bornm.,"Beih. Bot. Centralbl., Abt. 2. 28: 468. 1911 ",Boraginaceae,,Boraginaceae Onosma stapfii Wettst. ex Stapf,(Wettst. ex Stapf)
+wfo-1200136812,urn:lsid:ipni.org:names:77451899-1,Onosma microcarpa var. spathulata,(Wettst. ex Stapf) Bornm.,"Bull. Herb. Boissier sér. 2, 7: 783. 1907 ",Boraginaceae,,Boraginaceae Onosma spathulata Wettst. ex Stapf,(Wettst. ex Stapf)
+wfo-1200143137,urn:lsid:ipni.org:names:77451918-1,Onosma viridis var. baumgartenii,Heuff. ex Jáv.,Ann. Hist.-Nat. Mus. Natl. Hung. 4: 436. 1906 ,Boraginaceae,,,
+wfo-1200137062,urn:lsid:ipni.org:names:77453328-1,Paracaryum persicum var. cyclhymenium,(Boiss.) Brand,"Pflanzenr. IV, 252(Heft 78): 49. 1921 ",Boraginaceae,,Boraginaceae Paracaryum rugulosum Boiss. var. cyclhymenium Boiss.,(Boiss.)
+wfo-1200137063,urn:lsid:ipni.org:names:77453333-1,Paracaryum corymbiforme var. polystachyum,(DC.) Tchich.,"Asie Min., Bot. 2: 115. 1860 ",Boraginaceae,,,(DC.)
+wfo-1200143175,urn:lsid:ipni.org:names:77453341-1,Paracaryum lithospermifolium var. cariense,(Boiss.) R.Mill,Notes Roy. Bot. Gard. Edinburgh 35: 307. 1977 ,Boraginaceae,,Boraginaceae Omphalodes cariensis Boiss.,(Boiss.)
+wfo-1200137068,urn:lsid:ipni.org:names:77453352-1,Paracaryum rugulosum var. brevistylum,Bornm.,"Beih. Bot. Centralbl., Abt. 2. 20: 191. 1906 ",Boraginaceae,,,
+wfo-1200137072,urn:lsid:ipni.org:names:77453375-1,Paracaryum rugulosum var. longistylum,Bornm.,"Beih. Bot. Centralbl., Abt. 2. 20: 191. 1906 ",Boraginaceae,,,
+wfo-1200137075,urn:lsid:ipni.org:names:77453402-1,Paracaryum reuteri var. leiocarpum,Post,"J. Linn. Soc., Bot. 24: 436. 1888 ",Boraginaceae,,,
+wfo-1200137077,urn:lsid:ipni.org:names:77453408-1,Paracaryum micranthum var. urceolatum,Boiss.,Diagn. Pl. Orient. 11: 129. 1849 ,Boraginaceae,,,
+wfo-1200137259,urn:lsid:ipni.org:names:77454472-1,Phacelia glandulosa var. patagonica,Ball,"J. Linn. Soc., Bot. 21: 227. 1886 ",Hydrophyllaceae,,,
+wfo-1200137262,urn:lsid:ipni.org:names:77454509-1,Phacelia bipinnatifida var. plummeri,Alph.Wood,Class-book Bot. ed. 2a: 438. 1847 ,Hydrophyllaceae,,,
+wfo-1200137946,urn:lsid:ipni.org:names:77459830-1,Pseudomertensia moltkioides var. leichtlinii,Kazmi,J. Arnold Arbor. 51: 383. 1970 ,Boraginaceae,,,
+wfo-1200137950,urn:lsid:ipni.org:names:77459851-1,Pseudomertensia moltkioides var. primuloides,(Decne.) Kazmi,J. Arnold Arbor. 51: 382. 1970 ,Boraginaceae,,Boraginaceae Eritrichium primuloides Decne.,(Decne.)
+wfo-1200137952,urn:lsid:ipni.org:names:77459858-1,Pseudomertensia echioides var. lahulensis,(Brand) Kazmi,J. Arnold Arbor. 51: 374. 1970 ,Boraginaceae,,Boraginaceae Lindelofia lahulensis Brand,(Brand)
+wfo-1200137961,urn:lsid:ipni.org:names:77459896-1,Pseudomertensia trollii var. harrissii,Kazmi,J. Arnold Arbor. 51: 370. 1970 ,Boraginaceae,,,
+wfo-1200137975,urn:lsid:ipni.org:names:77460006-1,Pulmonaria angustifolia var. lanceolata,Gaudin,Fl. Helv. 2: 34. 1828 ,Boraginaceae,,,
+wfo-1200137976,urn:lsid:ipni.org:names:77460014-1,Pulmonaria angustifolia var. confusa,(Rouy) P.Fourn.,Quatre Fl. France 746. 1937 ,Boraginaceae,,Boraginaceae Pulmonaria confusa Rouy,(Rouy)
+wfo-1200137978,urn:lsid:ipni.org:names:77460018-1,Pulmonaria officinalis var. atenuata,Vayr.,"Anales Soc. Esp. Hist. Nat. ser. 2, 10: 549. 1902 ",Boraginaceae,,,
+wfo-1200137983,urn:lsid:ipni.org:names:77460026-1,Pulmonaria angustifolia var. maculata,Gaudin,Fl. Helv. 2: 35. 1828 ,Boraginaceae,,,
+wfo-1200137987,urn:lsid:ipni.org:names:77460037-1,Pulmonaria angustifolia var. oblongata,(Schrad. ex Roem. & Schult.) Hartm.,Handb. Skand. Fl. ed. 2: 57. 1832 ,Boraginaceae,,Boraginaceae Pulmonaria oblongata Schrad. ex Roem. & Schult.,(Schrad. ex Roem. & Schult.)
+wfo-1200137995,urn:lsid:ipni.org:names:77460069-1,Pulmonaria officinalis var. stricta,Boenn.,Prodr. Fl. Monast. Westphal. 53. 1824 ,Boraginaceae,,,
+wfo-1200143273,urn:lsid:ipni.org:names:77460072-1,Pulmonaria angustifolia var. oblongata,(Schrad. ex Roem. & Schult.) Gray,Nat. Arr. Brit. Pl. 2: 353. 1822 ,Boraginaceae,,Boraginaceae Pulmonaria oblongata Schrad. ex Roem. & Schult.,(Schrad. ex Roem. & Schult.)
+wfo-1200137999,urn:lsid:ipni.org:names:77460077-1,Pulmonaria officinalis var. ovalis,Bastard,Essai Fl. Maine et Loire Suppl.: 44. 1812 ,Boraginaceae,,,
+wfo-1200138000,urn:lsid:ipni.org:names:77460078-1,Pulmonaria angustifolia var. grandifolia,Merino,Fl. Galicia 2: 161. 1906 ,Boraginaceae,,,
+wfo-1200138001,urn:lsid:ipni.org:names:77460079-1,Pulmonaria angustifolia var. minima,Gaudin,Fl. Helv. 2: 34. 1828 ,Boraginaceae,,,
+wfo-1200138002,urn:lsid:ipni.org:names:77460080-1,Pulmonaria angustifolia var. australis,Murr,Exsicc. (Herb. Norm.) 45: 138. 1903 ,Boraginaceae,,,
+wfo-1200138003,urn:lsid:ipni.org:names:77460088-1,Pulmonaria angustifolia var. parvifolia,Merino,Fl. Galicia 2: 161. 1906 ,Boraginaceae,,,
+wfo-1000095784,urn:lsid:ipni.org:names:77461688-1,Symphytum caeruleum,Petitm.,"Bull. Séances Soc. Sci. Nancy sér. 3, 9: 488. 1908 ",Boraginaceae,,,
+wfo-1200138556,urn:lsid:ipni.org:names:77462603-1,Rindera lanata var. pubescens,(K.Koch) Kusn.,Trudy Bot. Muz. Imp. Akad. Nauk 7: 49. 1910 ,Boraginaceae,,Boraginaceae Rindera pubescens K.Koch,(K.Koch)
+wfo-1200138558,urn:lsid:ipni.org:names:77462607-1,Rindera lanata var. canescens,(A.DC.) Kusn.,Trudy Bot. Muz. Imp. Akad. Nauk 7: 48. 1910 ,Boraginaceae,,Boraginaceae Mattia canescens A.DC.,(A.DC.)
+wfo-1200138560,urn:lsid:ipni.org:names:77462614-1,Rindera caespitosa var. longifolia,Brand,"Pflanzenr. IV, 252(Heft 78): 70. 1921 ",Boraginaceae,,,
+wfo-1200138561,urn:lsid:ipni.org:names:77462615-1,Rindera lanata var. ramosissima,Kusn.,Trudy Bot. Muz. Imp. Akad. Nauk 7: 48. 1910 ,Boraginaceae,,,
+wfo-1200138563,urn:lsid:ipni.org:names:77462621-1,Rindera lanata var. robusta,Kusn.,Trudy Bot. Muz. Imp. Akad. Nauk 7: 48. 1910 ,Boraginaceae,,,
+wfo-1200138564,urn:lsid:ipni.org:names:77462622-1,Rindera graeca var. incana,Brand,"Pflanzenr. IV, 252(Heft 78): 70. 1921 ",Boraginaceae,,,
+wfo-1200138567,urn:lsid:ipni.org:names:77462638-1,Rindera lanata var. pumila,Kusn.,Trudy Bot. Muz. Imp. Akad. Nauk 7: 46. 1910 ,Boraginaceae,,,
+wfo-1200138568,urn:lsid:ipni.org:names:77462640-1,Rindera graeca var. bracteata,Boiss. & Orph. ex Kusn.,Trudy Bot. Muz. Imp. Akad. Nauk 7: 34. 1910 ,Boraginaceae,,,
+wfo-1200138571,urn:lsid:ipni.org:names:77462658-1,Rindera tetraspis var. cordifolia,Brand,"Pflanzenr. IV, 252(Heft 78): 75. 1921 ",Boraginaceae,,,
+wfo-1200138572,urn:lsid:ipni.org:names:77462659-1,Rindera lanata var. punctata,(A.DC.) Kusn.,Trudy Bot. Muz. Imp. Akad. Nauk 7: 45. 1910 ,Boraginaceae,,Boraginaceae Mattia punctata A.DC.,(A.DC.)
+wfo-1200138574,urn:lsid:ipni.org:names:77462670-1,Rindera tschotkalensis var. aculeata,Popov,Bot. Mater. Gerb. Bot. Inst. Komarova Akad. Nauk S.S.S.R. 13: 218. 1950 ,Boraginaceae,,,
+wfo-1200138575,urn:lsid:ipni.org:names:77462674-1,Rindera tetraspis var. subdenticulata,Kusn.,Trudy Bot. Muz. Imp. Akad. Nauk 7: 39. 1910 ,Boraginaceae,,,
+wfo-1200138577,urn:lsid:ipni.org:names:77462678-1,Rindera tetraspis var. angustifolia,Kusn.,Trudy Bot. Muz. Imp. Akad. Nauk 7: 39. 1910 ,Boraginaceae,,,
+wfo-1200138578,urn:lsid:ipni.org:names:77462679-1,Rindera lanata var. eriantha,Kusn.,Trudy Bot. Muz. Imp. Akad. Nauk 7: 47. 1910 ,Boraginaceae,,,
+wfo-1200138579,urn:lsid:ipni.org:names:77462683-1,Rindera lanata var. stenophylla,(Bornm.) Bornm.,"Beih. Bot. Centralbl., Abt. 2. 28: 473. 1911 ",Boraginaceae,,,(Bornm.)
+wfo-1200138581,urn:lsid:ipni.org:names:77462693-1,Rindera lanata var. detonsa,(Bornm.) Bornm.,"Beih. Bot. Centralbl., Abt. 2. 28: 473. 1911 ",Boraginaceae,,,(Bornm.)
+wfo-1200139236,urn:lsid:ipni.org:names:77472345-1,Schleidenia polyphylla var. blanchetii,(DC.) Fresen.,Fl. Bras. 8(1): 36. 1857 ,Boraginaceae,,Boraginaceae Heliotropium polyphyllum  var. blanchetii DC.,(DC.)
+wfo-1200140325,urn:lsid:ipni.org:names:77474820-1,Solenanthus lanatus var. glabrescens,Batt.,Fl. Algérie Dicot.: 615. 1890 ,Boraginaceae,,,
+wfo-1200140327,urn:lsid:ipni.org:names:77474832-1,Solenanthus nigricans var. hispidus,Regel,Bull. Soc. Imp. Naturalistes Moscou 41(I): 92. 1868 ,Boraginaceae,,,
+wfo-1200140329,urn:lsid:ipni.org:names:77474844-1,Solenanthus petiolaris var. coronatus,(Regel) Lipsky,Trudy Imp. S.-Peterburgsk. Bot. Sada 26: 460. 1910 ,Boraginaceae,,Boraginaceae Solenanthus coronatus Regel,(Regel)
+wfo-1200140330,urn:lsid:ipni.org:names:77474850-1,Solenanthus stamineus var. cuneatifolius,Bornm.,"Beih. Bot. Centralbl., Abt. 2. 20: 193. 1906 ",Boraginaceae,,,
+wfo-1200140339,urn:lsid:ipni.org:names:77474873-1,Solenanthus olgae var. intermedius,Lipsky,Trudy Imp. S.-Peterburgsk. Bot. Sada 23: 192. 1904 ,Boraginaceae,,,
+wfo-1200140344,urn:lsid:ipni.org:names:77474881-1,Solenanthus stamineus var. ovatifolius,Bornm.,"Beih. Bot. Centralbl., Abt. 2. 20: 193. 1906 ",Boraginaceae,,,
+wfo-1200140345,urn:lsid:ipni.org:names:77474884-1,Solenanthus tubiflorus var. glabrescens,(Batt.) Maire,Bull. Soc. Hist. Nat. Afrique N. 12: 48. 1921 ,Boraginaceae,,,(Batt.)
+wfo-1200140348,urn:lsid:ipni.org:names:77474888-1,Solenanthus stamineus var. luteus,Bornm.,"Bull. Herb. Boissier sér. 2, 7: 788. 1907 ",Boraginaceae,,,
+wfo-1200140687,urn:lsid:ipni.org:names:77476500-1,Symphytum tuberosum var. variegatum-superbum,J.Dix,Proc. Roy. Hort. Soc. London 1: 564. 1861 ,Boraginaceae,,,
+wfo-1200140688,urn:lsid:ipni.org:names:77476513-1,Symphytum officinale var. ochroleucum,DC.,Prodr. 10: 37. 1846 ,Boraginaceae,,,
+wfo-1200140690,urn:lsid:ipni.org:names:77476525-1,Symphytum tuberosum var. grandiflorum,Sennen,Bol. Soc. Iber. Ci. Nat. 29: 43. 1930 ,Boraginaceae,,,
+wfo-1200140692,urn:lsid:ipni.org:names:77476534-1,Symphytum orientale var. angustior,DC.,Prodr. 10: 39. 1846 ,Boraginaceae,,,
+wfo-1200140694,urn:lsid:ipni.org:names:77476544-1,Symphytum officinale var. calycinum,Hartm.,Handb. Skand. Fl. 97. 1820 ,Boraginaceae,,,
+wfo-1200140696,urn:lsid:ipni.org:names:77476567-1,Symphytum officinale var. rectiflorum,Touss. & Hoschedé,Fl. Vernon 217. 1898 ,Boraginaceae,,,
+wfo-1200140697,urn:lsid:ipni.org:names:77476569-1,Symphytum officinale var. patens,(Sibth.) Lej.,"Fl. Spa 1: 99. 1811 , nom. superfl.",Boraginaceae,,Boraginaceae Symphytum patens Sibth.,(Sibth.)
+wfo-1200140699,urn:lsid:ipni.org:names:77476578-1,Symphytum palaestinum var. dentatum,Boiss.,Fl. Orient. 4: 174. 1875 ,Boraginaceae,,,
+wfo-1200140882,urn:lsid:ipni.org:names:77477793-1,Tournefortia tetrandra var. glabra,Hassk.,"Flora 25(2, Beibl.): 27. 1842 ",Boraginaceae,,,
+wfo-1200140886,urn:lsid:ipni.org:names:77477814-1,Tournefortia hookeri var. subtropica,C.B.Clarke,Fl. Brit. India 4: 147. 1883 ,Boraginaceae,,,
+wfo-1200140888,urn:lsid:ipni.org:names:77477817-1,Tournefortia tetrandra var. longiflora,Hassk.,Pl. Jav. Rar. 492. 1848 ,Boraginaceae,,,
+wfo-1200140901,urn:lsid:ipni.org:names:77477886-1,Tournefortia viridiflora var. griffithii,C.B.Clarke,Fl. Brit. India 4: 146. 1883 ,Boraginaceae,,,
+wfo-1200140902,urn:lsid:ipni.org:names:77477911-1,Trachelanthus cerinthoides var. kurdicus,(Kotschy ex Paine) Post,Fl. Syria 537. 1896 ,Boraginaceae,,Boraginaceae Cerinthopsis kurdica Kotschy ex Paine,(Kotschy ex Paine)
+wfo-1200140915,urn:lsid:ipni.org:names:77477974-1,Trachelanthus cerinthoides var. stenophyllus,Bornm.,"Bull. Herb. Boissier sér. 2, 7: 788. 1907 ",Boraginaceae,,,
+wfo-1200140919,urn:lsid:ipni.org:names:77477993-1,Trichodesma droogmansianum var. glabrescens,(Gürke) Brand,"Pflanzenr. IV, 252(Heft 78): 24. 1921 ",Boraginaceae,,Boraginaceae Trichodesma glabrescens Gürke,(Gürke)
+wfo-1200140922,urn:lsid:ipni.org:names:77478006-1,Trichodesma africanum var. subcalcaratum,Maire,Bull. Soc. Hist. Nat. Afrique N. 39: 136. 1949 ,Boraginaceae,,,
+wfo-1200140923,urn:lsid:ipni.org:names:77478010-1,Trichodesma africanum var. heterotrichum,Bornm. & Kneuck.,Allg. Bot. Z. Syst. 22: 3. 1916 ,Boraginaceae,,,
+wfo-1200140924,urn:lsid:ipni.org:names:77478012-1,Trichodesma africanum var. abyssinicum,Brand,"Pflanzenr. IV, 252(Heft 78): 30. 1921 ",Boraginaceae,,,
+wfo-1200140927,urn:lsid:ipni.org:names:77478018-1,Trichodesma molle var. virescens,Bornm.,"Beih. Bot. Centralbl., Abt. 2. 20B: 195. 1906 ",Boraginaceae,,,
+wfo-1200140930,urn:lsid:ipni.org:names:77478030-1,Trichodesma calathiforme var. schimperi,(Baker) Brand,"Pflanzenr. IV, 252(Heft 78): 35. 1921 ",Boraginaceae,,Boraginaceae Trichodesma schimperi Baker,(Baker)
+wfo-1200140933,urn:lsid:ipni.org:names:77478046-1,Trichodesma molle var. griffithii,(Brand) Kitam.,Fl. Afgh. 327. 1960 ,Boraginaceae,,,(Brand)
+wfo-1200140935,urn:lsid:ipni.org:names:77478050-1,Trichodesma africanum var. homotrichum,Bornm. & Kneuck.,Allg. Bot. Z. Syst. 22: 2. 1916 ,Boraginaceae,,,
+wfo-1200140938,urn:lsid:ipni.org:names:77478080-1,Trichodesma africanum var. ehrenbergii,(Schweinf. ex Boiss.) Post,Fl. Syria 535. 1896 ,Boraginaceae,,Boraginaceae Trichodesma ehrenbergii Schweinf. ex Boiss.,(Schweinf. ex Boiss.)
+wfo-1200140939,urn:lsid:ipni.org:names:77478086-1,Trichodesma calcaratum var. homotrichum,P.Guinet & Sauvage,"Trav. Inst. Sci. Chérifien, Sér. Gén. 2: 120. 1954 ",Boraginaceae,,,
+wfo-1200140940,urn:lsid:ipni.org:names:77478087-1,Trichodesma incanum var. griffithii,Brand,"Pflanzenr. IV, 252(Heft 78): 37. 1921 ",Boraginaceae,,,
+wfo-1200140972,urn:lsid:ipni.org:names:77478639-1,Trigonotis peduncularis var. vestita,Hemsl.,"J. Linn. Soc., Bot. 26: 154. 1890 ",Boraginaceae,,,
+wfo-1200140975,urn:lsid:ipni.org:names:77478648-1,Trigonotis tibetica var. minor,I.M.Johnst.,Contr. Gray Herb. 75: 48. 1925 ,Boraginaceae,,,

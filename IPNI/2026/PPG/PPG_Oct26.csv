@@ -1,0 +1,237 @@
+WFOID,IPNID,scientificName,authorship,namePublishedin,Family,nomenclaturalStatus,originalName,originalNameAuthor
+wfo-1200127877,urn:lsid:ipni.org:names:77400207-1,Asplenium trichomanes subsp. bivalens,D.E.Mey.,Ber. Deutsch. Bot. Ges. 74: 456. 1962 ,Aspleniaceae,,,
+wfo-1200127907,urn:lsid:ipni.org:names:77400377-1,Asplenium trichomanes subsp. inexpectatum,Janch.,"Cat. Fl. Austr., I. Pteridophyt. & Anthophyt. Ergänz. 3: 11. 1966 , orth. var.",Aspleniaceae,,,
+wfo-1200142166,urn:lsid:ipni.org:names:77400511-1,Asplenium adiantum-nigrum subsp. serpentini,(Tausch) Heufl.,Verh. Zool.-Bot. Vereins Wien 6: 315. 1856 ,Aspleniaceae,,Aspleniaceae Asplenium serpentini Tausch,(Tausch)
+wfo-1200128124,urn:lsid:ipni.org:names:77401566-1,Botrychium matricariifolium subsp. rutifolium,(A.Br.in Doll) Bonnier & Layens,Tabl. Syn. Pl. Vasc. France 381. 1894 ,Ophioglossaceae,,Ophioglossaceae Botrychium rutifolium A.Br.in Doll,(A.Br.in Doll)
+wfo-1200128910,urn:lsid:ipni.org:names:77406251-1,Leptogramma gymnocarpa subsp. amabilis,(Tagawa) Nakaike,Enum. Pterid. Jap.: Filic. 282. 1975 ,Thelypteridaceae,,Thelypteridaceae Leptogramma amabilis Tagawa,(Tagawa)
+wfo-1000095575,urn:lsid:ipni.org:names:77407418-1,Dryopteris calciphila,"N.T.Lu, Li Bing Zhang & Liang Zhang",Phytotaxa 777(2): 168. 2026 [30 Sep 2026] ,Dryopteridaceae,,,
+wfo-1000095600,urn:lsid:ipni.org:names:77407445-1,Selaginella pseudobisulcata,(X.M.Zhou & Liang Zhang) J.K.Huang & S.Y.Dong,Phytotaxa 777(3): 299. 2026 [2 Oct 2026] ,Selaginellaceae,,Selaginellaceae Didiclis pseudobisulcata X.M.Zhou & Liang Zhang,(X.M.Zhou & Liang Zhang)
+wfo-1200142296,urn:lsid:ipni.org:names:77407692-1,Polypodium dryopteris subsp. robertianum,Corb.,Nouv. Fl. Normandie 678. 1894 ,Polypodiaceae,,,
+wfo-1200142302,urn:lsid:ipni.org:names:77407923-1,Polypodium lineare subsp. ussuriense,(Regel & Maack.) C.Chr.,"Index Filic., Suppl. (1906-1912) 2: 54. 1917 ",Polypodiaceae,,Polypodiaceae Pleopeltis ussuriensis Regel & Maack.,(Regel & Maack.)
+wfo-1200129250,urn:lsid:ipni.org:names:77408348-1,Polystichum vestitum subsp. silvaticum,(Diels) C.Chr.,Index Filic. 588. 1906 ,Dryopteridaceae,,Dryopteridaceae Polystichum silvaticum Diels,(Diels)
+wfo-1000095726,urn:lsid:ipni.org:names:77412435-1,Leptochilus plantagineus,(Spreng.) Kovalchuk & Fraser-Jenk.,Phytotaxa 780(2): 199. 2026 [15 Oct 2026] ,Polypodiaceae,,Adiantaceae Gymnogramma plantaginea Spreng.,(Spreng.)
+wfo-1200129858,urn:lsid:ipni.org:names:77412436-1,Leptochilus plantagineus subsp. decurrens,(Blume) Fraser-Jenk.,Phytotaxa 780(2): 200. 2026 [15 Oct 2026] ,Polypodiaceae,,Polypodiaceae Leptochilus decurrens Blume,(Blume)
+wfo-1200129868,urn:lsid:ipni.org:names:77412956-1,Lycopodium selago var. acuminatum,Sugim.,Keys Herb. Pl. Jap. 3: 409. 1966 ,Lycopodiaceae,,,
+wfo-1200129869,urn:lsid:ipni.org:names:77412957-1,Lycopodium serratum f. paucidentatum,Sugim.,"Keys Herb. Pl. Jap. 3: 88, 409. 1966 ",Lycopodiaceae,,,
+wfo-1200129870,urn:lsid:ipni.org:names:77412958-1,Diplazium wichurae f. shimurae,Sugim.,J. Geobot. 11: 86. 1962 ,Woodsiaceae,,,
+wfo-1200130054,urn:lsid:ipni.org:names:77414405-1,Acrostichum spicatum var. brachystachys,Hook.,Gard. Ferns t. 3. 1862 ,Pteridaceae,,,
+wfo-1200142437,urn:lsid:ipni.org:names:77414645-1,Adiantum lunulatum var. mettenii,(Kuhn) Bedd.,Suppl. Ferns S. Ind. 6. 1876 ,Adiantaceae,,Adiantaceae Adiantum mettenii Kuhn,(Kuhn)
+wfo-1200130075,urn:lsid:ipni.org:names:77414662-1,Adiantum caudatum var. laciniatum,Bonap.,Notes Pteridol. 4: 78. 1917 ,Adiantaceae,,,
+wfo-1200130297,urn:lsid:ipni.org:names:77416105-1,Alsophila infesta var. vangeertii,G.Schneid.,Choice Ferns 1: 357. 1892 ,Cyatheaceae,,,
+wfo-1200130725,urn:lsid:ipni.org:names:77418317-1,Arachniodes rhomboidea var. yakusimensis,(H.Ito) W.C.Shieh,Fl. Taiwan 1: 365. 1975 ,Dryopteridaceae,,,(H.Ito)
+wfo-1200142553,urn:lsid:ipni.org:names:77419678-1,Aspidium aculeatum var. angulare,(Kit.; Willd.) H.C.Watson,London Cat. Brit. Pl. 14. 1844 ,Dryopteridaceae,,Dryopteridaceae Aspidium angulare Kit.; Willd.,(Kit.; Willd.)
+wfo-1200131203,urn:lsid:ipni.org:names:77419690-1,Aspidium aculeatum var. silvaticum,(Diels) Cheeseman,Man. New Zealand Fl. 998. 1906 ,Dryopteridaceae,,Dryopteridaceae Polystichum silvaticum Diels,(Diels)
+wfo-1200131204,urn:lsid:ipni.org:names:77419694-1,Aspidium dilatatum var. minor,Gray,Nat. Arr. Brit. Pl. 2: 8. 1822 ,Dryopteridaceae,,,
+wfo-1200131205,urn:lsid:ipni.org:names:77419697-1,Aspidium filix-mas var. glandulosum,Milde,Fil. Eur. 123. 1867 ,Dryopteridaceae,,,
+wfo-1200131206,urn:lsid:ipni.org:names:77419698-1,Aspidium montanum var. plumosum,T.Moore ex Milde,Fil. Eur. 115. 1867 ,Dryopteridaceae,,,
+wfo-1200131207,urn:lsid:ipni.org:names:77419701-1,Aspidium dilatatum var. major,Gray,Nat. Arr. Brit. Pl. 2: 8. 1822 ,Dryopteridaceae,,,
+wfo-1200131208,urn:lsid:ipni.org:names:77419702-1,Aspidium montanum var. crenatum,Milde,Fil. Eur. 115. 1867 ,Dryopteridaceae,,,
+wfo-1200131209,urn:lsid:ipni.org:names:77419706-1,Aspidium aculeatum var. proliferum,(R.Br.) Luerss.,Fil. Graeff. 174. 1971 ,Dryopteridaceae,,Dryopteridaceae Aspidium proliferum R.Br.,(R.Br.)
+wfo-1200142554,urn:lsid:ipni.org:names:77419710-1,Aspidium auriculatum var. caespitosum,(Wall.) C.B.Clarke,"Trans. Linn. Soc. London, Bot. 1: 507. 1880 ",Dryopteridaceae,,Dryopteridaceae Aspidium caespitosum Wall.,(Wall.)
+wfo-1200131210,urn:lsid:ipni.org:names:77419716-1,Aspidium filix-mas var. subintegra,Döll,Fl. Bad. 1: 27. 1857 ,Dryopteridaceae,,,
+wfo-1200131211,urn:lsid:ipni.org:names:77419721-1,Aspidium angulare var. angustatum,T.Moore,Ferns Gr. Brit. 34. 1855 ,Dryopteridaceae,,,
+wfo-1200131212,urn:lsid:ipni.org:names:77419730-1,Aspidium filix-mas var. undulatum,Waisb.,Oesterr. Bot. Z. 51: 125. 1901 ,Dryopteridaceae,,,
+wfo-1200131213,urn:lsid:ipni.org:names:77419731-1,Aspidium craspedocarpum var. mandshuricum,Maxim.,"Bull. Acad. Imp. Sci. Saint-Pétersbourg sér. 3, 15: 232. 1870 ",Dryopteridaceae,,,
+wfo-1200131214,urn:lsid:ipni.org:names:77419732-1,Aspidium filix-mas var. bollandiae,Milde,Fil. Eur. 120. 1867 ,Dryopteridaceae,,,
+wfo-1200131215,urn:lsid:ipni.org:names:77419734-1,Aspidium filix-mas var. barnetii,T.Moore ex Milde,Fil. Eur. 120. 1867 ,Dryopteridaceae,,,
+wfo-1200131216,urn:lsid:ipni.org:names:77419739-1,Aspidium decurrens var. mamillosa,(T.Moore) Alderw.,Malayan Ferns 247. 1909 ,Dryopteridaceae,,Dryopteridaceae Sagenia mamillosa T.Moore,(T.Moore)
+wfo-1200131217,urn:lsid:ipni.org:names:77419754-1,Aspidium filix-mas var. duriaei,Milde,Fil. Eur. 123. 1867 ,Dryopteridaceae,,,
+wfo-1200131218,urn:lsid:ipni.org:names:77419757-1,Aspidium angulare var. subtripinnatum,(W.D.J.Koch) T.Moore,Ferns Gr. Brit. 34. 1855 ,Dryopteridaceae,,,(W.D.J.Koch)
+wfo-1200131219,urn:lsid:ipni.org:names:77419758-1,Aspidium nemorale var. cristatum,Gray,Nat. Arr. Brit. Pl. 2: 7. 1822 ,Dryopteridaceae,,,
+wfo-1200131220,urn:lsid:ipni.org:names:77419759-1,Aspidium odoriferum var. minor,Gray,Nat. Arr. Brit. Pl. 2: 7. 1822 ,Dryopteridaceae,,,
+wfo-1200131221,urn:lsid:ipni.org:names:77419766-1,Aspidium filix-mas var. deorsolobatum,Milde,Fil. Eur. 120. 1867 ,Dryopteridaceae,,,
+wfo-1200131222,urn:lsid:ipni.org:names:77419768-1,Aspidium rigidum var. alpinum,Ten.,Syll. Pl. Fl. Neapol. 139. 1831 ,Dryopteridaceae,,,
+wfo-1200131223,urn:lsid:ipni.org:names:77419769-1,Aspidium auriculatum var. subpinnatum,Hook.,Sp. Fil. 4: 11. 1862 ,Dryopteridaceae,,,
+wfo-1200131224,urn:lsid:ipni.org:names:77419781-1,Aspidium aristatum var. affinis,C.B.Clarke,"Trans. Linn. Soc. London, Bot. 1: 511. 1880 ",Dryopteridaceae,,,
+wfo-1200131225,urn:lsid:ipni.org:names:77419783-1,Asplenium lunulatum var. sphenolobium,Kunze,Linnaea 24: 262. 1851 ,Aspleniaceae,,,
+wfo-1200131226,urn:lsid:ipni.org:names:77419789-1,Asplenium hookerianum var. ornatum,(Colenso) Domin,Biblioth. Bot. 20: 101. 1914 ,Aspleniaceae,,Aspleniaceae Asplenium ornatum Colenso,(Colenso)
+wfo-1200131227,urn:lsid:ipni.org:names:77419791-1,Asplenium hookerianum var. minus,(Hook.f.) Domin,Biblioth. Bot. 20: 101. 1914 ,Aspleniaceae,,,(Hook.f.)
+wfo-1200131228,urn:lsid:ipni.org:names:77419792-1,Asplenium falcatum var. subcaudatum,Skottsb.,Acta Horti Gothob. 15: 100. 1942 ,Aspleniaceae,,,
+wfo-1200131229,urn:lsid:ipni.org:names:77419793-1,Asplenium marinum var. minor,Link,Fil. Spec. 93. 1867 ,Aspleniaceae,,,
+wfo-1200131230,urn:lsid:ipni.org:names:77419795-1,Asplenium falcatum var. sectum,(Hillebr.) Skottsb.,Acta Horti Gothob. 15: 101. 1942 ,Aspleniaceae,,Aspleniaceae Asplenium caudatum Bedd. var. sectum Hillebr.,(Hillebr.)
+wfo-1200131231,urn:lsid:ipni.org:names:77419805-1,Asplenium moritzianum var. depauperatum,(E.Fourn.) Hemsl.,"Biol. Centr.-Amer., Bot. 3: 636. 1885 , not validly publ.",Aspleniaceae,,,(E.Fourn.)
+wfo-1200131232,urn:lsid:ipni.org:names:77419824-1,Asplenium marinum var. major,Milde,Fil. Eur. 69. 1867 ,Aspleniaceae,,,
+wfo-1200131234,urn:lsid:ipni.org:names:77419831-1,Asplenium falcatum var. nitidulum,Skottsb.,Acta Horti Gothob. 15: 101. 1942 ,Aspleniaceae,,,
+wfo-1200131235,urn:lsid:ipni.org:names:77419839-1,Asplenium macraei var. sphenolobium,(Kunze) Skottsb.,Acta Horti Gothob. 15: 67. 1942 ,Aspleniaceae,,,(Kunze)
+wfo-1200131236,urn:lsid:ipni.org:names:77419841-1,Asplenium erectum var. sphenolobium,(Kunze) Pic.Serm.,Webbia 28: 468. 1973 ,Aspleniaceae,,,(Kunze)
+wfo-1200131237,urn:lsid:ipni.org:names:77419842-1,Asplenium adiantoides var. minus,Hook.f.,Icon. Pl. 10: t. 983. 1854 ,Aspleniaceae,,,
+wfo-1200131238,urn:lsid:ipni.org:names:77419846-1,Asplenium insiticium var. grandipinna,Hillebr.,Fl. Hawaiian Isl. 599. 1888 ,Aspleniaceae,,,
+wfo-1200131239,urn:lsid:ipni.org:names:77419855-1,Asplenium macrocarpum var. atkinsonii,C.B.Clarke ex Baker,"Syn. Fil., ed. 2. 489. 1874 ",Aspleniaceae,,,
+wfo-1200131240,urn:lsid:ipni.org:names:77419857-1,Asplenium insiticium var. pseudonitidum,Hillebr.,Fl. Hawaiian Isl. 599. 1888 ,Aspleniaceae,,,
+wfo-1200131241,urn:lsid:ipni.org:names:77419864-1,Asplenium goetzei var. majus,Hieron.,"Wiss. Ergebn. Deut. Zentr.-Afr. Exped., Bot. 2: 19. 1910 ",Aspleniaceae,,,
+wfo-1200131242,urn:lsid:ipni.org:names:77419879-1,Asplenium filix-femina var. retusa,(Decne.) C.B.Clarke,"Trans. Linn. Soc. London, Bot. 1: 492. 1880 ",Aspleniaceae,,Woodsiaceae Cystopteris retusa Decne.,(Decne.)
+wfo-1200131244,urn:lsid:ipni.org:names:77419887-1,Asplenium polyodon var. knudsenii,(Hillebr.) C.V.Morton,Contr. U.S. Natl. Herb. 38: 224. 1973 ,Aspleniaceae,,Aspleniaceae Asplenium knudsenii Hillebr.,(Hillebr.)
+wfo-1200131246,urn:lsid:ipni.org:names:77419892-1,Asplenium richardii var. colensoi,(Colenso) Hook.,Sp. Fil. 3: 197. 1860 ,Aspleniaceae,,Aspleniaceae Asplenium colensoi Colenso,(Colenso)
+wfo-1200131247,urn:lsid:ipni.org:names:77419894-1,Asplenium polyodon var. subcaudatum,(Skottsb.) C.V.Morton,Contr. U.S. Natl. Herb. 38: 221. 1973 ,Aspleniaceae,,,(Skottsb.)
+wfo-1200131248,urn:lsid:ipni.org:names:77419900-1,Asplenium raouli var. colensoi,(Colenso) Mett.,Abh. Senckenberg. Naturf. Ges. 3: 162. 1859 ,Aspleniaceae,,Aspleniaceae Asplenium colensoi Colenso,(Colenso)
+wfo-1200131249,urn:lsid:ipni.org:names:77419913-1,Asplenium umbrosum var. multicaudatum,Baker,"Syn. Fil., ed. 2. 489. 1874 ",Aspleniaceae,,,
+wfo-1200131251,urn:lsid:ipni.org:names:77419922-1,Asplenium polyodon var. nitidulum,(Skottsb.) C.V.Morton,Contr. U.S. Natl. Herb. 38: 226. 1973 ,Aspleniaceae,,,(Skottsb.)
+wfo-1200131252,urn:lsid:ipni.org:names:77419935-1,Asplenium ruta-muraria var. parva,Bory ex Lej.,Rev. Fl. Spa 209. 1825 ,Aspleniaceae,,,
+wfo-1200131253,urn:lsid:ipni.org:names:77419937-1,Asplenium ruta-muraria var. magna,Bory ex Lej.,Rev. Fl. Spa 209. 1825 ,Aspleniaceae,,,
+wfo-1200131254,urn:lsid:ipni.org:names:77419941-1,Asplenium varians var. squamuligerum,Rosenst.,Repert. Spec. Nov. Regni Veg. 12: 528. 1913 ,Aspleniaceae,,,
+wfo-1200131255,urn:lsid:ipni.org:names:77419942-1,Asplenium umbrosum var. multifidum,Dobbie,New Zealand Ferns ed. 3: 317. 1931 ,Aspleniaceae,,,
+wfo-1200131256,urn:lsid:ipni.org:names:77419944-1,Asplenium raouli var. minus,(Hook.f.) Mett.,Abh. Senckenberg. Naturf. Ges. 3: 162. 1859 ,Aspleniaceae,,,(Hook.f.)
+wfo-1200131257,urn:lsid:ipni.org:names:77419958-1,Asplenium viride var. alpinum,Bernoulli,Gefässkrypt. Schweiz 16. 1857 ,Aspleniaceae,,,
+wfo-1200131259,urn:lsid:ipni.org:names:77419968-1,Asplenium serra var. natalense,Baker,"Syn. Fil., ed. 2. 485. 1874 ",Aspleniaceae,,,
+wfo-1200131261,urn:lsid:ipni.org:names:77419977-1,Asplenium umbrosum var. leumfolium,Dobbie,New Zealand Ferns ed. 3: 314. 1931 ,Aspleniaceae,,,
+wfo-1200131262,urn:lsid:ipni.org:names:77419978-1,Asplenium polyodon var. sectum,(Hillebr.) C.V.Morton,Contr. U.S. Natl. Herb. 38: 220. 1973 ,Aspleniaceae,,Aspleniaceae Asplenium caudatum Bedd. var. sectum Hillebr.,(Hillebr.)
+wfo-1200131309,urn:lsid:ipni.org:names:77420985-1,Athyrium praetermissum var. erythrorhachis,(Bedd.) Sledge,Ann. Mag. Nat. Hist. 12: 459. 1956 ,Woodsiaceae,,,(Bedd.)
+wfo-1200131310,urn:lsid:ipni.org:names:77420989-1,Athyrium goringianum var. pictum,Maxwell,Gard. Chron. 1867: 25. ,Woodsiaceae,,,
+wfo-1200131311,urn:lsid:ipni.org:names:77420990-1,Athyrium filix-femina var. minor,Payot,Fl. Mont-Blanc 2: 10. 1882 ,Woodsiaceae,,,
+wfo-1200131313,urn:lsid:ipni.org:names:77420994-1,Athyrium tenuifrons var. tenellum,T.Moore ex R.Sim,"Nursery Cat. (Sim, Ferns) 6: 22. 1859 ",Woodsiaceae,,,
+wfo-1200131314,urn:lsid:ipni.org:names:77420995-1,Athyrium cystopteroides var. elatior,D.C.Eaton,Proc. Amer. Acad. Arts 4: 110. 1858 ,Woodsiaceae,,,
+wfo-1200131320,urn:lsid:ipni.org:names:77421021-1,Athyrium silvicola var. kinokuniense,(Sa.Kurata) Sa.Kurata,"Enum. Jap. Pterid. 280,338. 1961 ",Woodsiaceae,,,(Sa.Kurata)
+wfo-1200142559,urn:lsid:ipni.org:names:77421032-1,Athyrium nigripes var. tenuifrons,(Wall.) Bedd.,Suppl. Ferns Brit. Ind. 33. 1892 ,Woodsiaceae,,Aspleniaceae Asplenium tenuifrons Wall.,(Wall.)
+wfo-1200131327,urn:lsid:ipni.org:names:77421059-1,Athyrium decurrenti-alatum var. pilosella,(H.Ito) Ohwi,Fl. Jap. Pterid. 110. 1957 ,Woodsiaceae,,Woodsiaceae Cornopteris decurrenti-alata Nakai var. pilosella H.Ito,(H.Ito)
+wfo-1200131328,urn:lsid:ipni.org:names:77421069-1,Athyrium moritzianum var. depauperatum,E.Fourn.,"Mexic. Pl. 1: 102. 1872 , not validly publ.",Woodsiaceae,,,
+wfo-0001220750,urn:lsid:ipni.org:names:77422190-1,Blechnum penna marina var. bolivianum,Rosenst. ex Looser,Revista Univ. (Santiago) 32: 77. 1947 ,Blechnaceae,,,
+wfo-1200131579,urn:lsid:ipni.org:names:77422206-1,Blechnum orientale var. cristatum,J.Sm.,Bot. Beechey Voy. 1: 427. 1857 ,Blechnaceae,,,
+wfo-1200131581,urn:lsid:ipni.org:names:77422226-1,Blechnum spicant var. undulatipinnula,Masam.,J. Soc. Trop. Agric. 4: 303. 1932 ,Blechnaceae,,,
+wfo-1200131584,urn:lsid:ipni.org:names:77422237-1,Blechnum spicant var. reflexipinnula,Masam.,J. Soc. Trop. Agric. 4: 303. 1932 ,Blechnaceae,,,
+wfo-1200131614,urn:lsid:ipni.org:names:77422418-1,Botrychium lunaria var. rutacea,(Lilj.) Lilj.,Utkast Sv. Fl. ed. 3: 516. 1816 ,Ophioglossaceae,,Osmundaceae Osmunda rutacea Lilj.,(Lilj.)
+wfo-1200131615,urn:lsid:ipni.org:names:77422419-1,Botrychium lunaria var. vulgare,Wallr.,Fl. Crypt. Germ. 1: 30. 1831 ,Ophioglossaceae,,,
+wfo-1200131616,urn:lsid:ipni.org:names:77422423-1,Botrychium ternatum var. millefolium,Milde,Verh. K. K. Zool.-Bot. Ges. Wien 19: 158. 1869 ,Ophioglossaceae,,,
+wfo-1200131618,urn:lsid:ipni.org:names:77422443-1,Botrychium ternatum var. nipponicum,(Makino) Nameg.,"Enum. Jap. Pterid. 255, 339. 1961 ",Ophioglossaceae,,Ophioglossaceae Botrychium nipponicum Makino,(Makino)
+wfo-1000095759,urn:lsid:ipni.org:names:77422902-1,Anogramma pubescens,Qian Wang,Illustr. Guide Vasc. Pl. Shimian Area 1: 41. 2025 [Nov 2025] ,Adiantaceae,,,
+wfo-1200132878,urn:lsid:ipni.org:names:77429343-1,Cornopteris decurrenti-alata var. glabra,H.Ito,Nov. Fl. Jap. 4: 97. 1939 ,Woodsiaceae,,,
+wfo-1200133284,urn:lsid:ipni.org:names:77431014-1,Cyathea paleolata var. villosa,Rosenst.,Unknown Publ. 90. 1924 ,Cyatheaceae,,,
+wfo-1200133286,urn:lsid:ipni.org:names:77431048-1,Cyathea aurea var. squamosa,H.Karst.,Linnaea 28: 459. 1857 ,Cyatheaceae,,,
+wfo-1200133289,urn:lsid:ipni.org:names:77431105-1,Cyclosorus heterocarpos var. glaucostipes,(Bedd.) Holttum,Rev. Fl. Malaya 2: 271. 1955 ,Thelypteridaceae,,Dryopteridaceae Nephrodium glaucostipes Bedd.,(Bedd.)
+wfo-1200133290,urn:lsid:ipni.org:names:77431185-1,Cyclosorus acuminatus var. ogatanus,(Koidz.) Tagawa,"Col. Ill. Jap. Pterid. 115, 195. 1959 ",Thelypteridaceae,,Dryopteridaceae Dryopteris ogatana Koidz.,(Koidz.)
+wfo-1200142810,urn:lsid:ipni.org:names:77431567-1,Cystopteris fragilis var. cynapifolia,(Hoffm.) Godet,Fl. Jura 856. 1852 ,Woodsiaceae,,Polypodiaceae Polypodium cynapifolium Hoffm.,(Hoffm.)
+wfo-1200133393,urn:lsid:ipni.org:names:77432112-1,Davallia botrychioides var. multifida,Christ,Index Filic. 354. 1906 ,Davalliaceae,,,
+wfo-1200133411,urn:lsid:ipni.org:names:77432291-1,Davallia speluncae var. pubera,(C.B.Clarke) Sledge,Kew Bull. 11: 525. 1957 ,Davalliaceae,,,(C.B.Clarke)
+wfo-1200133420,urn:lsid:ipni.org:names:77432533-1,Dennstaedtia hirsuta var. bipinnata,(H.Ito) Tagawa,J. Jap. Bot. 25: 113. 1950 ,Dennstaedtiaceae,,,(H.Ito)
+wfo-1200133610,urn:lsid:ipni.org:names:77433400-1,Diplazium petiolare var. manipurense,Rosenst.,Repert. Spec. Nov. Regni Veg. 12: 245. 1913 ,Woodsiaceae,,,
+wfo-1200133693,urn:lsid:ipni.org:names:77433700-1,Doodia media var. kunthiana,(Gaudich.) Baker,"Syn. Fil., ed. 2. 482. 1874 ",Blechnaceae,,Blechnaceae Doodia kunthiana Gaudich.,(Gaudich.)
+wfo-1200133696,urn:lsid:ipni.org:names:77433730-1,Doodia media var. duriuscula,(T.Moore) Baker,"Syn. Fil., ed. 2. 482. 1874 ",Blechnaceae,,Blechnaceae Doodia duriuscula T.Moore,(T.Moore)
+wfo-1200133697,urn:lsid:ipni.org:names:77433743-1,Doodia media var. brackenridgei,(Carruth.) Baker,"Syn. Fil., ed. 2. 482. 1874 ",Blechnaceae,,Blechnaceae Doodia brackenridgei Carruth.,(Carruth.)
+wfo-1200133888,urn:lsid:ipni.org:names:77434194-1,Dryopteris borreri var. punctata,Oberh. & Tavel ex Bech.,"Ber. Schweiz. Bot. Ges. 54: 479. 1942 , not validly publ.",Dryopteridaceae,,,
+wfo-1200133890,urn:lsid:ipni.org:names:77434213-1,Dryopteris acuminata var. ogatana,(Koidz.) Tagawa,Acta Phytotax. Geobot. 2: 190. 1933 ,Dryopteridaceae,,Dryopteridaceae Dryopteris ogatana Koidz.,(Koidz.)
+wfo-1200133895,urn:lsid:ipni.org:names:77434234-1,Dryopteris cystolepidota var. dilatata,(Koidz.) H.Ito,Bot. Mag. (Tokyo) 50: 39. 1936 ,Dryopteridaceae,,,(Koidz.)
+wfo-1200133897,urn:lsid:ipni.org:names:77434264-1,Dryopteris dilatata var. deltoidea,(Milde) Takeda,Bot. Mag. (Tokyo) 24: 179. 1910 ,Dryopteridaceae,,,(Milde)
+wfo-1200133898,urn:lsid:ipni.org:names:77434281-1,Dryopteris sophoroides var. ogatana,(Koidz.) C.Chr.,"Index Filic., Suppl. Tert. 93. 1934 ",Dryopteridaceae,,Dryopteridaceae Dryopteris ogatana Koidz.,(Koidz.)
+wfo-1200133900,urn:lsid:ipni.org:names:77434291-1,Dryopteris melanocarpa var. elegans,Seriz.,Icon. Pl. Formosan. 4: 163. 1914 ,Dryopteridaceae,,,
+wfo-1200133901,urn:lsid:ipni.org:names:77434304-1,Dryopteris lacera var. dentata,Koidz.,Fl. Symb. Orient.-Asiat. 40. 1930 ,Dryopteridaceae,,,
+wfo-1200133902,urn:lsid:ipni.org:names:77434306-1,Dryopteris scottii var. commixta,(Tagawa) Tagawa,Acta Phytotax. Geobot. 15: 14. 1953 ,Dryopteridaceae,,Dryopteridaceae Dryopteris commixta Tagawa,(Tagawa)
+wfo-1200133904,urn:lsid:ipni.org:names:77434346-1,Dryopteris fuscipes var. inuyamensis,(H.Ito) H.Ito,Nov. Fl. Jap. 4: 50. 1939 ,Dryopteridaceae,,Dryopteridaceae Dryopteris inuyamensis H.Ito,(H.Ito)
+wfo-1200133906,urn:lsid:ipni.org:names:77434358-1,Dryopteris sieboldii var. toyamae,(Tagawa) Sa.Kurata,"Enum. Jap. Pterid. 303, 341. 1961 ",Dryopteridaceae,,Dryopteridaceae Dryopteris toyamae Tagawa,(Tagawa)
+wfo-1200133907,urn:lsid:ipni.org:names:77434362-1,Dryopteris nipponensis var. dilatata,Koidz.,Acta Phytotax. Geobot. 1: 29. 1932 ,Dryopteridaceae,,,
+wfo-1200133908,urn:lsid:ipni.org:names:77434365-1,Dryopteris mauritiana var. gardneri,C.Chr.,"Trans. Linn. Soc. London, Bot. 7: 413. 1912 ",Dryopteridaceae,,,
+wfo-1200133909,urn:lsid:ipni.org:names:77434370-1,Dryopteris uniformis var. crispata,Ogata,Icon. Filic. Jap. 5: t. 231. 1933 ,Dryopteridaceae,,,
+wfo-1200134061,urn:lsid:ipni.org:names:77435396-1,Equisetum elongatum var. subverticillata,A.Braun ex Milde,Ann. Mus. Bot. Lugduno-Batavi 1: 533. 1864 ,Equisetaceae,,,
+wfo-1200142864,urn:lsid:ipni.org:names:77435478-1,Equisetum heleocharis var. vulgare,Brause,Krypt.-Fl. Anf. 6: 87. 1914 ,Equisetaceae,,,
+wfo-1200134062,urn:lsid:ipni.org:names:77435506-1,Equisetum ramosissimum var. arcuateum,Milde,Monogr. Equiset. 448. 1867 ,Equisetaceae,,,
+wfo-1200134063,urn:lsid:ipni.org:names:77435658-1,Equisetum ramosissimum var. subverticillata,(A.Braun ex Milde) Milde,Höh. Sporenpfl. Deutschl. 117. 1865 ,Equisetaceae,,,(A.Braun ex Milde)
+wfo-1200134064,urn:lsid:ipni.org:names:77435669-1,Equisetum variegatum var. compositum,Johanss.,Bot. Not. 1910: 256. ,Equisetaceae,,,
+wfo-1200134676,urn:lsid:ipni.org:names:77440379-1,Gleichenia cunninghamii var. montanum,Dobbie,New Zealand Ferns ed. 3: 398. 1931 ,Gleicheniaceae,,,
+wfo-1200134677,urn:lsid:ipni.org:names:77440384-1,Gleichenia hirta var. paleaceus,(Baker) Holttum,Reinwardtia 4: 269. 1957 ,Gleicheniaceae,,,(Baker)
+wfo-1200134680,urn:lsid:ipni.org:names:77440411-1,Gleichenia loheri var. major,Holttum,Reinwardtia 4: 272. 1957 ,Gleicheniaceae,,,
+wfo-1200134683,urn:lsid:ipni.org:names:77440425-1,Gleichenia linearis var. tomentosa,(Luerss.) Fosberg,Occas. Pap. Bernice Pauahi Bishop Mus. 24: 10. 1969 ,Gleicheniaceae,,,(Luerss.)
+wfo-1200134745,urn:lsid:ipni.org:names:77440992-1,Gymnogramma pinnata var. polypodioides,Baker,J. Bot. 17: 299. 1879 ,Adiantaceae,,,
+wfo-1200134747,urn:lsid:ipni.org:names:77441012-1,Gymnogramma laucheana var. gigantea,Stelzner ex Lem.,Ill. Hort. 15: t. 576. 1868 ,Adiantaceae,,,
+wfo-1200134754,urn:lsid:ipni.org:names:77441048-1,Gymnocarpium dryopteris var. aokigaharaense,Nakaike,J. Geobot. 17: 96. 1969 ,Woodsiaceae,,,
+wfo-1200134900,urn:lsid:ipni.org:names:77442218-1,Hemionitis griffithii var. pinnatifida,Hook.,Sp. Fil. 5: 193. 1864 ,Adiantaceae,,,
+wfo-1200135325,urn:lsid:ipni.org:names:77443700-1,Hymenophyllum geluense var. apiciflorum,Rosenst.,Repert. Spec. Nov. Regni Veg. 12: 526. 1913 ,Hymenophyllaceae,,,
+wfo-1200135326,urn:lsid:ipni.org:names:77443703-1,Hymenophyllum sabinifolium var. irregulare,Brause,Bot. Jahrb. Syst. 56: 45. 1920 ,Hymenophyllaceae,,,
+wfo-1200135330,urn:lsid:ipni.org:names:77443720-1,Hymenophyllum sabinifolium var. imbricatum,Brause,Bot. Jahrb. Syst. 56: 45. 1920 ,Hymenophyllaceae,,,
+wfo-1200135331,urn:lsid:ipni.org:names:77443734-1,Hymenophyllum crispatum var. majus,Hook.,Sp. Fil. 1: 105. 1846 ,Hymenophyllaceae,,,
+wfo-1200135335,urn:lsid:ipni.org:names:77443762-1,Hymenophyllum crispum var. amoenum,Klotzsch,Linnaea 18: 537. 1847 ,Hymenophyllaceae,,,
+wfo-1200135336,urn:lsid:ipni.org:names:77443763-1,Hymenophyllum boschii var. euryglossum,Rosenst.,"Bull. Jard. Bot. Buitenzorg sér. 2, 2: 24. 1911 ",Hymenophyllaceae,,,
+wfo-1200103583,urn:lsid:ipni.org:names:77445581-1,Lastrea filix foemina var. bollandiae,W.Bull ex J.Dix,Proc. Roy. Hort. Soc. London 2: 458. 1862 ,Thelypteridaceae,,,
+wfo-1200135760,urn:lsid:ipni.org:names:77445618-1,Lastrea glanduligera var. koreana,(Nakai) Nakai,Bull. Natl. Sci. Mus. Tokyo 31: 17. 1952 ,Thelypteridaceae,,Dryopteridaceae Dryopteris thelypteris  var. koreana Nakai,(Nakai)
+wfo-1200135886,urn:lsid:ipni.org:names:77446242-1,Leptochilus laciniatus var. simplex,Ching,Bull. Fan Mem. Inst. Biol. 4: 344. 1933 ,Polypodiaceae,,,
+wfo-1200135949,urn:lsid:ipni.org:names:77447030-1,Lindsaea orbiculata var. integra,Mett. ex Kuhn,Ann. Mus. Bot. Lugduno-Batavi 4: 279. 1869 ,Dennstaedtiaceae,,,
+wfo-1200135996,urn:lsid:ipni.org:names:77447405-1,Lomaria spicant var. japonica,Hook.,Sp. Fil. 3: 15. 1860 ,Blechnaceae,,,
+wfo-1200135999,urn:lsid:ipni.org:names:77447422-1,Lomaria fraseri var. philippense,Christ,Bull. Herb. Boissier 6: 149. 1898 ,Blechnaceae,,,
+wfo-1200136000,urn:lsid:ipni.org:names:77447427-1,Lomaria fluviatilis var. ramosa,Colenso,Trans. & Proc. New Zealand Inst. 20: 225. 1888 ,Blechnaceae,,,
+wfo-1200136038,urn:lsid:ipni.org:names:77448053-1,Lunathyrium conilii var. yakusimensis,(H.Ito) Sa.Kurata,"Enum. Jap. Pterid. 307, 342. 1961 ",Woodsiaceae,,,(H.Ito)
+wfo-1200142133,urn:lsid:ipni.org:names:77448169-1,Lycopodium selago var. acuminatum,Sugim.,Keys Herb. Pl. Jap. Pterid. 409. 1966 ,Lycopodiaceae,,,
+wfo-1200136097,urn:lsid:ipni.org:names:77448182-1,Lycopodium cernuum var. laxum,Blume,Enum. Pl. Javae 2: 266. 1828 ,Lycopodiaceae,,,
+wfo-1200136098,urn:lsid:ipni.org:names:77448192-1,Lycopodium complanatum var. intermedium,Lindq.,Bot. Not. 1929: 98. ,Lycopodiaceae,,,
+wfo-1200143077,urn:lsid:ipni.org:names:77448205-1,Lycopodium complanatum var. anceps,Asch.,Fl. Brandenburg 1: 894. 1864 ,Lycopodiaceae,,,
+wfo-1200136099,urn:lsid:ipni.org:names:77448208-1,Lycopodium serratum var. minor,D.D.Pant & P.S.Pandey,Phyta Monogr. 3: 19. 1985 ,Lycopodiaceae,,,
+wfo-1200136102,urn:lsid:ipni.org:names:77448230-1,Lycopodium canaliculatum var. pallidium,Hook. & Arn.,Bot. Beechey Voy. 253. 1840 ,Lycopodiaceae,,,
+wfo-1200136103,urn:lsid:ipni.org:names:77448247-1,Lycopodium phlegmaria var. feejeense,Luerss.,Fil. Graeff. 1: 270. 1871 ,Lycopodiaceae,,,
+wfo-1200136104,urn:lsid:ipni.org:names:77448249-1,Lycopodium complanatum var. dilatatum,Nakai ex H.Hara,Bot. Mag. (Tokyo) 48: 705. 1934 ,Lycopodiaceae,,,
+wfo-1200136166,urn:lsid:ipni.org:names:77448746-1,Marsilea diffusa var. normalis,A.Braun,Monatsber. Königl. Preuss. Akad. Wiss. Berlin 1872: 661. 1873 ,Marsileaceae,,,
+wfo-1200136363,urn:lsid:ipni.org:names:77449928-1,Microlepia trichosticha var. glabriuscula,Mett.,Ann. Mus. Bot. Lugduno-Batavi 4: 290. 1870 ,Dennstaedtiaceae,,,
+wfo-1200136364,urn:lsid:ipni.org:names:77449930-1,Microlepia pilosella var. bipinnata,H.Ito,J. Jap. Bot. 9: 59. 1933 ,Dennstaedtiaceae,,,
+wfo-1200136365,urn:lsid:ipni.org:names:77449936-1,Microlepia pilosella var. laciniata,Nakai,Bot. Mag. (Tokyo) 44: 508. 1930 ,Dennstaedtiaceae,,,
+wfo-1200136735,urn:lsid:ipni.org:names:77450991-1,Nephrodium catopteron var. glabrum,Hook.,Sp. Fil. 4: 137. 1862 ,Dryopteridaceae,,,
+wfo-1200136737,urn:lsid:ipni.org:names:77450995-1,Nephrodium urophyllum var. pinwillii,(Baker) Bedd.,Suppl. Ferns Brit. Ind. 72. 1892 ,Dryopteridaceae,,Polypodiaceae Polypodium pinwillii Baker,(Baker)
+wfo-1200136752,urn:lsid:ipni.org:names:77451047-1,Nephrodium molle var. major,Bedd.,Suppl. Ferns Brit. Ind. 76. 1892 ,Dryopteridaceae,,,
+wfo-1200136753,urn:lsid:ipni.org:names:77451049-1,Nephrodium eatonii var. formosanum,Harr.,"J. Linn. Soc., Bot. 16: 27. 1877 ",Dryopteridaceae,,,
+wfo-1200143131,urn:lsid:ipni.org:names:77451056-1,Nephrolepis tuberosa var. undulata,(Afzel. ex Sw.) Mett.,Filic. Afr. 156. 1868 ,Oleandraceae,,Dryopteridaceae Aspidium undulatum Afzel. ex Sw.,(Afzel. ex Sw.)
+wfo-1200136830,urn:lsid:ipni.org:names:77451996-1,Ophioglossum vulgatum var. aitchisonii,C.B.Clarke,"Trans. Linn. Soc. London, Bot. 1: 586. 1880 ",Ophioglossaceae,,,
+wfo-1200136870,urn:lsid:ipni.org:names:77452641-1,Osmunda regalis var. pumila,Milde,Monogr. Osmund. 61. 1868 ,Osmundaceae,,,
+wfo-1200137192,urn:lsid:ipni.org:names:77453996-1,Pellaea lomariacea var. septemloba,Hook.,"Sp. Fil. 2: 133. 1858 , not validly publ.",Adiantaceae,,,
+wfo-1200137194,urn:lsid:ipni.org:names:77454056-1,Pentarhizidium orientale var. incisum,Tagawa,J. Jap. Bot. 27: 320. 1952 ,Woodsiaceae,,,
+wfo-1200137251,urn:lsid:ipni.org:names:77454419-1,Phanerophlebia caryotidea var. microptera,(Kunze) Tardieu,Fl. Madagasc. 5(1): 326. 1958 ,Dryopteridaceae,,Dryopteridaceae Aspidium anomophyllum Zenker f. micropterum Kunze,(Kunze)
+wfo-1200137269,urn:lsid:ipni.org:names:77454735-1,Phegopteris polycarpa var. depauperata,Hillebr.,Fl. Hawaiian Isl. 561. 1888 ,Thelypteridaceae,,,
+wfo-1200137270,urn:lsid:ipni.org:names:77454755-1,Phegopteris polycarpa var. kauaiensis,Hillebr.,Fl. Hawaiian Isl. 561. 1888 ,Thelypteridaceae,,,
+wfo-1200137272,urn:lsid:ipni.org:names:77454772-1,Phegopteris keraudreniana var. procera,Hillebr.,Fl. Hawaiian Isl. 562. 1888 ,Thelypteridaceae,,,
+wfo-1200137273,urn:lsid:ipni.org:names:77454792-1,Phegopteris keraudreniana var. tripinnata,Hillebr.,Fl. Hawaiian Isl. 562. 1888 ,Thelypteridaceae,,,
+wfo-1200137274,urn:lsid:ipni.org:names:77454795-1,Phegopteris crinalis var. tripinnata,Hillebr.,Fl. Hawaiian Isl. 564. 1888 ,Thelypteridaceae,,,
+wfo-1200137810,urn:lsid:ipni.org:names:77457043-1,Polypodium aculeatum var. minor,Lej.,Rev. Fl. Spa 211. 1825 ,Polypodiaceae,,,
+wfo-1200137850,urn:lsid:ipni.org:names:77457131-1,Polypodium serrato-dentatum var. major,Alderw.,"Bull. Jard. Bot. Buitenzorg sér. 2, 16: 59. 1914 ",Polypodiaceae,,,
+wfo-1200137851,urn:lsid:ipni.org:names:77457167-1,Polypodium superficiale var. semilinearis,C.B.Clarke,"Trans. Linn. Soc. London, Bot. 1: 558. 1880 ",Polypodiaceae,,,
+wfo-1200137852,urn:lsid:ipni.org:names:77457172-1,Polypodium distans var. minor,C.B.Clarke,"Trans. Linn. Soc. London, Bot. 1: 545. 1880 ",Polypodiaceae,,,
+wfo-1200137853,urn:lsid:ipni.org:names:77457193-1,Polypodium lineare var. gueintzii,(Mett.) C.Chr.,Index Filic. 540. 1906 ,Polypodiaceae,,Polypodiaceae Polypodium gueintzii Mett.,(Mett.)
+wfo-1200137854,urn:lsid:ipni.org:names:77457194-1,Polypodium filix-femina var. spinosum,Weiss,Pl. Crypt. Fl. Gott. 316. 1770 ,Polypodiaceae,,,
+wfo-1200137855,urn:lsid:ipni.org:names:77457207-1,Polystichum aculeatum var. silvaticum,(Diels) Domin,Biblioth. Bot. 20: 56. 1914 ,Dryopteridaceae,,Dryopteridaceae Polystichum silvaticum Diels,(Diels)
+wfo-1200137856,urn:lsid:ipni.org:names:77457219-1,Polystichum craspedosorum var. giraldii,Christ,"Nuovo Giorn. Bot. Ital. n.s., 4: 93. 1897 ",Dryopteridaceae,,,
+wfo-1200137857,urn:lsid:ipni.org:names:77457223-1,Polystichum filix-mas var. crenatum,(Milde) Trevis.,Atti Soc. Ital. Sci. Nat. 17: 226. 1875 ,Dryopteridaceae,,Dryopteridaceae Aspidium filix-mas (L.) Sw. var. crenatum Milde,(Milde)
+wfo-1200137858,urn:lsid:ipni.org:names:77457224-1,Polystichum filix-mas var. rostanii,Trevis.,Atti Soc. Ital. Sci. Nat. 17: 226. 1875 ,Dryopteridaceae,,,
+wfo-1200137859,urn:lsid:ipni.org:names:77457237-1,Polystichum hancockii var. laciniatum,Tagawa,Acta Phytotax. Geobot. 8: 232. 1939 ,Dryopteridaceae,,,
+wfo-1200137860,urn:lsid:ipni.org:names:77457254-1,Polystichum anomophyllum var. miyasimense,(Kodama) Nakai,Bot. Mag. (Tokyo) 39: 115. 1925 ,Dryopteridaceae,,Dryopteridaceae Polystichum miyasimense Kodama,(Kodama)
+wfo-1200137861,urn:lsid:ipni.org:names:77457265-1,Polystichum aculeatum var. zerophyllum,(Colenso) Domin,Biblioth. Bot. 20: 56. 1914 ,Dryopteridaceae,,Dryopteridaceae Aspidium zerophyllum Colenso,(Colenso)
+wfo-1200137862,urn:lsid:ipni.org:names:77457268-1,Polystichum polyblepharon var. intermedium,(Tagawa) Sa.Kurata,Hokuriku J. Bot. 4: 16. 1955 ,Dryopteridaceae,,,(Tagawa)
+wfo-1200137863,urn:lsid:ipni.org:names:77457274-1,Polystichum auriculatum var. subpinnatum,(Hook.) Bedd.,Ferns Brit. India t. 136. 1866 ,Dryopteridaceae,,,(Hook.)
+wfo-1200137864,urn:lsid:ipni.org:names:77457281-1,Polystichum filix-mas var. borreri,(Newman) Trevis.,Atti Soc. Ital. Sci. Nat. 17: 226. 1875 ,Dryopteridaceae,,,(Newman)
+wfo-1200137866,urn:lsid:ipni.org:names:77457287-1,Polystichum retroso-paleaceum var. coraiense,(Christ) Tagawa,J. Jap. Bot. 13: 187. 1937 ,Dryopteridaceae,,,(Christ)
+wfo-1200137867,urn:lsid:ipni.org:names:77457288-1,Polystichum retroso-paleaceum var. ovatopaleaceum,(Kodama) Tagawa,J. Jap. Bot. 13: 187. 1937 ,Dryopteridaceae,,Dryopteridaceae Polystichum aculeatum (L.) Roth var. ovatopaleaceum Kodama,(Kodama)
+wfo-1200143268,urn:lsid:ipni.org:names:77457292-1,Polystichum falcatum var. caryotideum,(Wall.) Makino ex Matsum.,Index Pl. Jap. 1: 342. 1904 ,Dryopteridaceae,,Dryopteridaceae Aspidium caryotideum Wall.,(Wall.)
+wfo-1200137868,urn:lsid:ipni.org:names:77457293-1,Polystichum filix-mas var. glandulosum,(Milde) Trevis.,Atti Soc. Ital. Sci. Nat. 17: 226. 1875 ,Dryopteridaceae,,,(Milde)
+wfo-1200137869,urn:lsid:ipni.org:names:77457297-1,Polystichum hololepis var. hikonensis,H.Ito,J. Jap. Bot. 10: 451. 1934 ,Dryopteridaceae,,,
+wfo-1200137870,urn:lsid:ipni.org:names:77457303-1,Polystichum filix-mas var. heterolobum,Trevis.,Atti Soc. Ital. Sci. Nat. 17: 227. 1875 ,Dryopteridaceae,,,
+wfo-1200137871,urn:lsid:ipni.org:names:77457304-1,Polystichum aculeatum var. perelegans,(Colenso) Domin,Biblioth. Bot. 20: 56. 1914 ,Dryopteridaceae,,Dryopteridaceae Aspidium perelegans Colenso,(Colenso)
+wfo-1200137872,urn:lsid:ipni.org:names:77457305-1,Polystichum craspedosorum var. dissectum,Makino,Bot. Mag. (Tokyo) 26: 385. 1912 ,Dryopteridaceae,,,
+wfo-1200137943,urn:lsid:ipni.org:names:77459823-1,Pseudophegopteris pyrrhorhachis var. hirtirachis,Ching,Icon. Cormophyt. Sin. 1: 207. 1972 ,Thelypteridaceae,,,
+wfo-1200137967,urn:lsid:ipni.org:names:77459925-1,Pteris aquilina var. vera,T.Moore,"Handb. Brit. Ferns 134. 1848 , not validly publ.",Pteridaceae,,,
+wfo-1200143271,urn:lsid:ipni.org:names:77459942-1,Pteris biaurita var. geminata,(Wall.) C.B.Clarke,"Trans. Linn. Soc. London, Bot. 1: 469. 1880 ",Pteridaceae,,Pteridaceae Pteris geminata Wall.,(Wall.)
+wfo-1200137970,urn:lsid:ipni.org:names:77459957-1,Pteris dentata var. oligodyctyon,(Baker) Tardieu,Fl. Madagasc. 5(1): 92. 1958 ,Pteridaceae,,Pteridaceae Pteris oligodictyon Baker,(Baker)
+wfo-1200137992,urn:lsid:ipni.org:names:77460059-1,Ptilopteris triptera var. subpinnata,(H.Ito) Nakai,Bull. Natl. Sci. Mus. Tokyo 31: 4. 1952 ,Adiantaceae,,,(H.Ito)
+wfo-1200138849,urn:lsid:ipni.org:names:77470291-1,Saccoloma moluccanum var. intermedia,Mett. ex Kuhn,Ann. Mus. Bot. Lugduno-Batavi 4: 291. 1870 ,Dennstaedtiaceae,,,
+wfo-1200139223,urn:lsid:ipni.org:names:77472292-1,Sceptridium ternatum var. nipponicum,(Makino) M.Nishida,Bot. Gaz. 40: 458. 1905 ,Ophioglossaceae,,Ophioglossaceae Botrychium nipponicum Makino,(Makino)
+wfo-1200143457,urn:lsid:ipni.org:names:77473035-1,Selaginella martensii var. albolineata,T.Moore,Gard. Chron. 1871: 1536. ,Selaginellaceae,,,
+wfo-1200139477,urn:lsid:ipni.org:names:77473075-1,Selaginella durvillei var. aspericaulis,Kuhn,Forschungsr. Gazelle 4: 18. 1889 ,Selaginellaceae,,,
+wfo-1200139478,urn:lsid:ipni.org:names:77473086-1,Selaginella cuspidata var. emmeliana,(Van Geert) Van Houtte ex G.Nicholson,Ill. Dict. Gard. 3: 409. 1887 ,Selaginellaceae,,Selaginellaceae Selaginella emmeliana Van Geert,(Van Geert)
+wfo-1200139479,urn:lsid:ipni.org:names:77473097-1,Selaginella canaliculata var. durvillei,Warb.,"Monsunia 1: 107, 122. 1900 ",Selaginellaceae,,,
+wfo-1200139488,urn:lsid:ipni.org:names:77473152-1,Selaginella philippina var. longiciliata,Hieron.,Leafl. Philipp. Bot. 6: 2032. 1913 ,Selaginellaceae,,,
+wfo-1200139489,urn:lsid:ipni.org:names:77473153-1,Selaginella philippina var. khasiensis,Baker,J. Bot. 22: 298. 1884 ,Selaginellaceae,,,
+wfo-1200143464,urn:lsid:ipni.org:names:77473194-1,Selaginella rupestris var. sibirica,(Milde) Gilbert,Cat. N. Amer. Pterid. 22. 1901 ,Selaginellaceae,,Selaginellaceae Selaginella rupestris (L.) Spring f. sibirica Milde,(Milde)
+wfo-1200140501,urn:lsid:ipni.org:names:77475434-1,Spicantopsis niponica var. reflexipinnula,(Masam.) Nemoto,"Fl. Japan, Suppl. 75. 1936 ",Blechnaceae,,,(Masam.)
+wfo-1200140502,urn:lsid:ipni.org:names:77475443-1,Spicantopsis niponica var. japonica,(Hook.) Nakai,Bot. Mag. (Tokyo) 47: 181. 1933 ,Blechnaceae,,,(Hook.)
+wfo-1200140508,urn:lsid:ipni.org:names:77475487-1,Sphenomeris chinensis var. kenzoana,Nakaike,Ill. Pterid. Japan 8: 439. 1997 ,Dennstaedtiaceae,,,
+wfo-1200140634,urn:lsid:ipni.org:names:77476174-1,Stenoloma chinensis var. divaricatum,(Christ) Alston ex Exell,Cat. Vasc. Pl. S. Tomé 73. 1944 ,Dennstaedtiaceae,,Dennstaedtiaceae Odontosoria chinensis (L.) J.Sm. var. divaricata Christ,(Christ)
+wfo-1200140662,urn:lsid:ipni.org:names:77476329-1,Struthiopteris nipponica var. minima,(Tagawa) Masam.,"Sci. Rep. Kanazawa Univ., Biol. 1: 198. 1951 ",Blechnaceae,,Blechnaceae Spicantopsis niponica (Kunze) Nakai var. minima Tagawa,(Tagawa)
+wfo-1200140663,urn:lsid:ipni.org:names:77476345-1,Struthiopteris orientalis var. incisa,Christ,Mém. Soc. Bot. France 1: 44. 1905 ,Woodsiaceae,,,
+wfo-1200140665,urn:lsid:ipni.org:names:77476379-1,Struthiopteris nipponica var. reflexipinnula,(Masam.) Masam.,"Sci. Rep. Kanazawa Univ., Biol. 1: 198. 1951 ",Blechnaceae,,,(Masam.)
+wfo-1200140824,urn:lsid:ipni.org:names:77477318-1,Thelypteris heterocarpos var. glaucostipes,(Bedd.) C.F.Reed,Phytologia 17: 282. 1968 ,Thelypteridaceae,,Dryopteridaceae Nephrodium glaucostipes Bedd.,(Bedd.)
+wfo-1200140827,urn:lsid:ipni.org:names:77477345-1,Thelypteris esquirolii var. glabrata,(Christ) K.Iwats.,"Mem. Coll. Sci. Kyoto Imp. Univ., Ser. B, Biol. 31: 182. 1965 ",Thelypteridaceae,,,(Christ)
+wfo-1200140828,urn:lsid:ipni.org:names:77477352-1,Thelypteris glanduligera var. koreana,(Nakai) H.Ito,Nov. Fl. Jap. 4: 130. 1939 ,Thelypteridaceae,,Dryopteridaceae Dryopteris thelypteris  var. koreana Nakai,(Nakai)
+wfo-1200140829,urn:lsid:ipni.org:names:77477383-1,Thelypteris hattorii var. nemoralis,(Ching) Sa.Kurata,"Enum. Jap. Pterid. 317, 343. 1961 ",Thelypteridaceae,,Thelypteridaceae Thelypteris nemoralis Ching,(Ching)
+wfo-1200140830,urn:lsid:ipni.org:names:77477384-1,Thelypteris acuminata var. ogatana,(Koidz.) K.Iwats.,Acta Phytotax. Geobot. 21: 40. 1964 ,Thelypteridaceae,,Dryopteridaceae Dryopteris ogatana Koidz.,(Koidz.)
+wfo-1200140841,urn:lsid:ipni.org:names:77477408-1,Thelypteris parasitica var. formosanus,(Ching) C.F.Reed,Phytologia 17: 302. 1968 ,Thelypteridaceae,,,(Ching)
+wfo-1200140921,urn:lsid:ipni.org:names:77477997-1,Trichomanes digitatum var. palmatifidum,(Müll.Berol.) Baker,Syn. Fil. 76. 1865 ,Hymenophyllaceae,,Hymenophyllaceae Trichomanes palmatifidum Müll.Berol.,(Müll.Berol.)
+wfo-1200140932,urn:lsid:ipni.org:names:77478038-1,Trichomanes javanicum var. alatum,C.Chr.,Index Filic. 168. 1905 ,Hymenophyllaceae,,,
+wfo-1200140941,urn:lsid:ipni.org:names:77478096-1,Trichomanes orientalis var. abbreviatum,Miyabe & Kudô,Trans. Sapporo Nat. Hist. Soc. 9: 61. 1930 ,Hymenophyllaceae,,,
+wfo-1200140942,urn:lsid:ipni.org:names:77478100-1,Trichomanes rigidum var. ferrugineum,(Fourn.) Jeanp.,Bull. Mus. Natl. Hist. Nat. 17: 572. 1911 ,Hymenophyllaceae,,Hymenophyllaceae Trichomanes ferrugineum Fourn.,(Fourn.)
+wfo-1200140943,urn:lsid:ipni.org:names:77478111-1,Trichomanes rigidum var. longicollum,(Bosch) Jeanp.,Bull. Mus. Natl. Hist. Nat. 17: 572. 1911 ,Hymenophyllaceae,,Hymenophyllaceae Trichomanes longicollum Bosch,(Bosch)
+wfo-1200141674,urn:lsid:ipni.org:names:77481712-1,Woodsia macrochlaena var. glabrata,(Nakai) Nemoto,"Fl. Japan, Suppl. 77. 1936 ",Woodsiaceae,,,(Nakai)
+wfo-1200141681,urn:lsid:ipni.org:names:77481738-1,Woodsia sinuata var. glabrata,Nakai,Bot. Mag. (Tokyo) 47: 178. 1933 ,Woodsiaceae,,,
+wfo-1200141685,urn:lsid:ipni.org:names:77481746-1,Woodwardia japonica var. latisecta,Tagawa,Acta Phytotax. Geobot. 5: 176. 1936 ,Blechnaceae,,,
+wfo-1000095796,urn:lsid:ipni.org:names:77481979-1,Drynaria lineatisora,Li J.Jiang & X.M.Zhou,Phytotaxa 782(2): 180. 2026 [29 Oct 2026] ,Polypodiaceae,,,
+wfo-1200141971,urn:lsid:ipni.org:names:77482545-1,Equisetum trachyodon var. concolor,Milde,Ann. Mus. Bot. Lugduno-Batavi 1: 70. 1864 ,Equisetaceae,,,
+wfo-1200143753,urn:lsid:ipni.org:names:77484215-1,Osmunda regalis var. obtusifolia,(Willd.; Klf.) Milde,Fil. Eur. ,Osmundaceae,,Osmundaceae Osmunda obtusifolia Willd.; Klf.,(Willd.; Klf.)
